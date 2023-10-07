@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "KandepKDP",
+        "code": "KDP"
+    },
+    {
+        "flight": "destination",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    },
+    {
+        "flight": "destination",
+        "country": "KaseseKSE",
+        "code": "KSE"
+    },
+    {
+        "flight": "destination",
+        "country": "KihihiKHX",
+        "code": "KHX"
+    },
+    {
+        "flight": "destination",
+        "country": "KisoroKXO",
+        "code": "KXO"
+    },
+    {
+        "flight": "destination",
+        "country": "MbararaMBQ",
+        "code": "MBQ"
+    },
+    {
+        "flight": "destination",
+        "country": "PakubaPAF",
+        "code": "PAF"
+    },
+    {
+        "flight": "departure",
+        "country": "KandepKDP",
+        "code": "KDP"
+    },
+    {
+        "flight": "departure",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    },
+    {
+        "flight": "departure",
+        "country": "KaseseKSE",
+        "code": "KSE"
+    },
+    {
+        "flight": "departure",
+        "country": "KihihiKHX",
+        "code": "KHX"
+    },
+    {
+        "flight": "departure",
+        "country": "KisoroKXO",
+        "code": "KXO"
+    },
+    {
+        "flight": "departure",
+        "country": "MbararaMBQ",
+        "code": "MBQ"
+    },
+    {
+        "flight": "departure",
+        "country": "PakubaPAF",
+        "code": "PAF"
+    }
+]

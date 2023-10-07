@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "destination",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "destination",
+        "country": "KiritimatiCXI",
+        "code": "CXI"
+    },
+    {
+        "flight": "destination",
+        "country": "TarawaTRW",
+        "code": "TRW"
+    },
+    {
+        "flight": "destination",
+        "country": "MajuroMAJ",
+        "code": "MAJ"
+    },
+    {
+        "flight": "destination",
+        "country": "PohnpeiPNI",
+        "code": "PNI"
+    },
+    {
+        "flight": "destination",
+        "country": "YarenINU",
+        "code": "INU"
+    },
+    {
+        "flight": "departure",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "departure",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "departure",
+        "country": "KiritimatiCXI",
+        "code": "CXI"
+    },
+    {
+        "flight": "departure",
+        "country": "TarawaTRW",
+        "code": "TRW"
+    },
+    {
+        "flight": "departure",
+        "country": "MajuroMAJ",
+        "code": "MAJ"
+    },
+    {
+        "flight": "departure",
+        "country": "PohnpeiPNI",
+        "code": "PNI"
+    },
+    {
+        "flight": "departure",
+        "country": "YarenINU",
+        "code": "INU"
+    }
+]

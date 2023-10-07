@@ -1,0 +1,242 @@
+[
+    {
+        "flight": "destination",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "destination",
+        "country": "AhmedabadAMD",
+        "code": "AMD"
+    },
+    {
+        "flight": "destination",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "destination",
+        "country": "MashhadMHD",
+        "code": "MHD"
+    },
+    {
+        "flight": "destination",
+        "country": "TehranIKA",
+        "code": "IKA"
+    },
+    {
+        "flight": "destination",
+        "country": "Al AsadIQA",
+        "code": "IQA"
+    },
+    {
+        "flight": "destination",
+        "country": "Al NajafNJF",
+        "code": "NJF"
+    },
+    {
+        "flight": "destination",
+        "country": "BaghdadBGW",
+        "code": "BGW"
+    },
+    {
+        "flight": "destination",
+        "country": "BasraBSR",
+        "code": "BSR"
+    },
+    {
+        "flight": "destination",
+        "country": "ErbilEBL",
+        "code": "EBL"
+    },
+    {
+        "flight": "destination",
+        "country": "KirkukKIK",
+        "code": "KIK"
+    },
+    {
+        "flight": "destination",
+        "country": "SulaymaniyahISU",
+        "code": "ISU"
+    },
+    {
+        "flight": "destination",
+        "country": "BeirutBEY",
+        "code": "BEY"
+    },
+    {
+        "flight": "destination",
+        "country": "KarachiKHI",
+        "code": "KHI"
+    },
+    {
+        "flight": "destination",
+        "country": "LahoreLHE",
+        "code": "LHE"
+    },
+    {
+        "flight": "destination",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "destination",
+        "country": "DammamDMM",
+        "code": "DMM"
+    },
+    {
+        "flight": "destination",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "destination",
+        "country": "AleppoALP",
+        "code": "ALP"
+    },
+    {
+        "flight": "destination",
+        "country": "DamascusDAM",
+        "code": "DAM"
+    },
+    {
+        "flight": "destination",
+        "country": "AntalyaAYT",
+        "code": "AYT"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "destination",
+        "country": "Istanbul (Sabiha)SAW",
+        "code": "SAW"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "departure",
+        "country": "AhmedabadAMD",
+        "code": "AMD"
+    },
+    {
+        "flight": "departure",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "departure",
+        "country": "MashhadMHD",
+        "code": "MHD"
+    },
+    {
+        "flight": "departure",
+        "country": "TehranIKA",
+        "code": "IKA"
+    },
+    {
+        "flight": "departure",
+        "country": "Al AsadIQA",
+        "code": "IQA"
+    },
+    {
+        "flight": "departure",
+        "country": "Al NajafNJF",
+        "code": "NJF"
+    },
+    {
+        "flight": "departure",
+        "country": "BaghdadBGW",
+        "code": "BGW"
+    },
+    {
+        "flight": "departure",
+        "country": "BasraBSR",
+        "code": "BSR"
+    },
+    {
+        "flight": "departure",
+        "country": "ErbilEBL",
+        "code": "EBL"
+    },
+    {
+        "flight": "departure",
+        "country": "KirkukKIK",
+        "code": "KIK"
+    },
+    {
+        "flight": "departure",
+        "country": "SulaymaniyahISU",
+        "code": "ISU"
+    },
+    {
+        "flight": "departure",
+        "country": "BeirutBEY",
+        "code": "BEY"
+    },
+    {
+        "flight": "departure",
+        "country": "KarachiKHI",
+        "code": "KHI"
+    },
+    {
+        "flight": "departure",
+        "country": "LahoreLHE",
+        "code": "LHE"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "departure",
+        "country": "DammamDMM",
+        "code": "DMM"
+    },
+    {
+        "flight": "departure",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "departure",
+        "country": "AleppoALP",
+        "code": "ALP"
+    },
+    {
+        "flight": "departure",
+        "country": "DamascusDAM",
+        "code": "DAM"
+    },
+    {
+        "flight": "departure",
+        "country": "AntalyaAYT",
+        "code": "AYT"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "Istanbul (Sabiha)SAW",
+        "code": "SAW"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    }
+]

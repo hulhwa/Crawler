@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "St. John's, AntiguaANU",
+        "code": "ANU"
+    },
+    {
+        "flight": "destination",
+        "country": "MontserratMNI",
+        "code": "MNI"
+    },
+    {
+        "flight": "departure",
+        "country": "St. John's, AntiguaANU",
+        "code": "ANU"
+    },
+    {
+        "flight": "departure",
+        "country": "MontserratMNI",
+        "code": "MNI"
+    }
+]

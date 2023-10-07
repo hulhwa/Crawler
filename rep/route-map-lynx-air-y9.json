@@ -1,0 +1,172 @@
+[
+    {
+        "flight": "destination",
+        "country": "CalgaryYYC",
+        "code": "YYC"
+    },
+    {
+        "flight": "destination",
+        "country": "EdmontonYEG",
+        "code": "YEG"
+    },
+    {
+        "flight": "destination",
+        "country": "FrederictonYFC",
+        "code": "YFC"
+    },
+    {
+        "flight": "destination",
+        "country": "HalifaxYHZ",
+        "code": "YHZ"
+    },
+    {
+        "flight": "destination",
+        "country": "HamiltonYHM",
+        "code": "YHM"
+    },
+    {
+        "flight": "destination",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "destination",
+        "country": "St. John'sYYT",
+        "code": "YYT"
+    },
+    {
+        "flight": "destination",
+        "country": "TorontoYYZ",
+        "code": "YYZ"
+    },
+    {
+        "flight": "destination",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "destination",
+        "country": "VictoriaYYJ",
+        "code": "YYJ"
+    },
+    {
+        "flight": "destination",
+        "country": "WinnipegYWG",
+        "code": "YWG"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort MyersRSW",
+        "code": "RSW"
+    },
+    {
+        "flight": "destination",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "destination",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "destination",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "destination",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "destination",
+        "country": "TampaTPA",
+        "code": "TPA"
+    },
+    {
+        "flight": "departure",
+        "country": "CalgaryYYC",
+        "code": "YYC"
+    },
+    {
+        "flight": "departure",
+        "country": "EdmontonYEG",
+        "code": "YEG"
+    },
+    {
+        "flight": "departure",
+        "country": "FrederictonYFC",
+        "code": "YFC"
+    },
+    {
+        "flight": "departure",
+        "country": "HalifaxYHZ",
+        "code": "YHZ"
+    },
+    {
+        "flight": "departure",
+        "country": "HamiltonYHM",
+        "code": "YHM"
+    },
+    {
+        "flight": "departure",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "departure",
+        "country": "St. John'sYYT",
+        "code": "YYT"
+    },
+    {
+        "flight": "departure",
+        "country": "TorontoYYZ",
+        "code": "YYZ"
+    },
+    {
+        "flight": "departure",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "departure",
+        "country": "VictoriaYYJ",
+        "code": "YYJ"
+    },
+    {
+        "flight": "departure",
+        "country": "WinnipegYWG",
+        "code": "YWG"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort MyersRSW",
+        "code": "RSW"
+    },
+    {
+        "flight": "departure",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "departure",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "departure",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "departure",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "departure",
+        "country": "TampaTPA",
+        "code": "TPA"
+    }
+]

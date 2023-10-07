@@ -1,0 +1,112 @@
+[
+    {
+        "flight": "destination",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "destination",
+        "country": "Ishigaki / OkinawaISG",
+        "code": "ISG"
+    },
+    {
+        "flight": "destination",
+        "country": "KagoshimaKOJ",
+        "code": "KOJ"
+    },
+    {
+        "flight": "destination",
+        "country": "KobeUKB",
+        "code": "UKB"
+    },
+    {
+        "flight": "destination",
+        "country": "KumamotoKMJ",
+        "code": "KMJ"
+    },
+    {
+        "flight": "destination",
+        "country": "MiyazakiKMI",
+        "code": "KMI"
+    },
+    {
+        "flight": "destination",
+        "country": "NagasakiNGS",
+        "code": "NGS"
+    },
+    {
+        "flight": "destination",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "destination",
+        "country": "OitaOIT",
+        "code": "OIT"
+    },
+    {
+        "flight": "destination",
+        "country": "OkinawaOKA",
+        "code": "OKA"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoHND",
+        "code": "HND"
+    },
+    {
+        "flight": "departure",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "departure",
+        "country": "Ishigaki / OkinawaISG",
+        "code": "ISG"
+    },
+    {
+        "flight": "departure",
+        "country": "KagoshimaKOJ",
+        "code": "KOJ"
+    },
+    {
+        "flight": "departure",
+        "country": "KobeUKB",
+        "code": "UKB"
+    },
+    {
+        "flight": "departure",
+        "country": "KumamotoKMJ",
+        "code": "KMJ"
+    },
+    {
+        "flight": "departure",
+        "country": "MiyazakiKMI",
+        "code": "KMI"
+    },
+    {
+        "flight": "departure",
+        "country": "NagasakiNGS",
+        "code": "NGS"
+    },
+    {
+        "flight": "departure",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "departure",
+        "country": "OitaOIT",
+        "code": "OIT"
+    },
+    {
+        "flight": "departure",
+        "country": "OkinawaOKA",
+        "code": "OKA"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoHND",
+        "code": "HND"
+    }
+]

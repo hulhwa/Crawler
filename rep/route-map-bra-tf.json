@@ -1,0 +1,172 @@
+[
+    {
+        "flight": "destination",
+        "country": "AarhusAAR",
+        "code": "AAR"
+    },
+    {
+        "flight": "destination",
+        "country": "HelsinkiHEL",
+        "code": "HEL"
+    },
+    {
+        "flight": "destination",
+        "country": "LyonLYS",
+        "code": "LYS"
+    },
+    {
+        "flight": "destination",
+        "country": "ÄngelholmAGH",
+        "code": "AGH"
+    },
+    {
+        "flight": "destination",
+        "country": "GothenburgGOT",
+        "code": "GOT"
+    },
+    {
+        "flight": "destination",
+        "country": "HalmstadHAD",
+        "code": "HAD"
+    },
+    {
+        "flight": "destination",
+        "country": "KalmarKLR",
+        "code": "KLR"
+    },
+    {
+        "flight": "destination",
+        "country": "KristianstadKID",
+        "code": "KID"
+    },
+    {
+        "flight": "destination",
+        "country": "MalmöMMX",
+        "code": "MMX"
+    },
+    {
+        "flight": "destination",
+        "country": "ÖstersundOSD",
+        "code": "OSD"
+    },
+    {
+        "flight": "destination",
+        "country": "RonnebyRNB",
+        "code": "RNB"
+    },
+    {
+        "flight": "destination",
+        "country": "Sälen - TrysilSCR",
+        "code": "SCR"
+    },
+    {
+        "flight": "destination",
+        "country": "SkellefteåSFT",
+        "code": "SFT"
+    },
+    {
+        "flight": "destination",
+        "country": "Stockholm (Bromma)BMA",
+        "code": "BMA"
+    },
+    {
+        "flight": "destination",
+        "country": "UmeåUME",
+        "code": "UME"
+    },
+    {
+        "flight": "destination",
+        "country": "VäxjöVXO",
+        "code": "VXO"
+    },
+    {
+        "flight": "destination",
+        "country": "VisbyVBY",
+        "code": "VBY"
+    },
+    {
+        "flight": "departure",
+        "country": "AarhusAAR",
+        "code": "AAR"
+    },
+    {
+        "flight": "departure",
+        "country": "HelsinkiHEL",
+        "code": "HEL"
+    },
+    {
+        "flight": "departure",
+        "country": "LyonLYS",
+        "code": "LYS"
+    },
+    {
+        "flight": "departure",
+        "country": "ÄngelholmAGH",
+        "code": "AGH"
+    },
+    {
+        "flight": "departure",
+        "country": "GothenburgGOT",
+        "code": "GOT"
+    },
+    {
+        "flight": "departure",
+        "country": "HalmstadHAD",
+        "code": "HAD"
+    },
+    {
+        "flight": "departure",
+        "country": "KalmarKLR",
+        "code": "KLR"
+    },
+    {
+        "flight": "departure",
+        "country": "KristianstadKID",
+        "code": "KID"
+    },
+    {
+        "flight": "departure",
+        "country": "MalmöMMX",
+        "code": "MMX"
+    },
+    {
+        "flight": "departure",
+        "country": "ÖstersundOSD",
+        "code": "OSD"
+    },
+    {
+        "flight": "departure",
+        "country": "RonnebyRNB",
+        "code": "RNB"
+    },
+    {
+        "flight": "departure",
+        "country": "Sälen - TrysilSCR",
+        "code": "SCR"
+    },
+    {
+        "flight": "departure",
+        "country": "SkellefteåSFT",
+        "code": "SFT"
+    },
+    {
+        "flight": "departure",
+        "country": "Stockholm (Bromma)BMA",
+        "code": "BMA"
+    },
+    {
+        "flight": "departure",
+        "country": "UmeåUME",
+        "code": "UME"
+    },
+    {
+        "flight": "departure",
+        "country": "VäxjöVXO",
+        "code": "VXO"
+    },
+    {
+        "flight": "departure",
+        "country": "VisbyVBY",
+        "code": "VBY"
+    }
+]

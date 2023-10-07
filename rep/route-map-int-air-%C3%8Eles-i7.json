@@ -1,0 +1,62 @@
+[
+    {
+        "flight": "destination",
+        "country": "BhubaneswarBBI",
+        "code": "BBI"
+    },
+    {
+        "flight": "destination",
+        "country": "Cooch BeharCOH",
+        "code": "COH"
+    },
+    {
+        "flight": "destination",
+        "country": "JamshedpurIXW",
+        "code": "IXW"
+    },
+    {
+        "flight": "destination",
+        "country": "JeyporePYB",
+        "code": "PYB"
+    },
+    {
+        "flight": "destination",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "destination",
+        "country": "VisakhapatnamVTZ",
+        "code": "VTZ"
+    },
+    {
+        "flight": "departure",
+        "country": "BhubaneswarBBI",
+        "code": "BBI"
+    },
+    {
+        "flight": "departure",
+        "country": "Cooch BeharCOH",
+        "code": "COH"
+    },
+    {
+        "flight": "departure",
+        "country": "JamshedpurIXW",
+        "code": "IXW"
+    },
+    {
+        "flight": "departure",
+        "country": "JeyporePYB",
+        "code": "PYB"
+    },
+    {
+        "flight": "departure",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "departure",
+        "country": "VisakhapatnamVTZ",
+        "code": "VTZ"
+    }
+]

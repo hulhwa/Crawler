@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "PraiaRAI",
+        "code": "RAI"
+    },
+    {
+        "flight": "destination",
+        "country": "Sal, Cape VerdeSID",
+        "code": "SID"
+    },
+    {
+        "flight": "destination",
+        "country": "São VicenteVXE",
+        "code": "VXE"
+    },
+    {
+        "flight": "destination",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "destination",
+        "country": "LisbonLIS",
+        "code": "LIS"
+    },
+    {
+        "flight": "departure",
+        "country": "PraiaRAI",
+        "code": "RAI"
+    },
+    {
+        "flight": "departure",
+        "country": "Sal, Cape VerdeSID",
+        "code": "SID"
+    },
+    {
+        "flight": "departure",
+        "country": "São VicenteVXE",
+        "code": "VXE"
+    },
+    {
+        "flight": "departure",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "departure",
+        "country": "LisbonLIS",
+        "code": "LIS"
+    }
+]

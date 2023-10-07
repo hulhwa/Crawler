@@ -1,0 +1,322 @@
+[
+    {
+        "flight": "destination",
+        "country": "YerevanEVN",
+        "code": "EVN"
+    },
+    {
+        "flight": "destination",
+        "country": "BrusselsBRU",
+        "code": "BRU"
+    },
+    {
+        "flight": "destination",
+        "country": "AbidjanABJ",
+        "code": "ABJ"
+    },
+    {
+        "flight": "destination",
+        "country": "LarnacaLCA",
+        "code": "LCA"
+    },
+    {
+        "flight": "destination",
+        "country": "CopenhagenCPH",
+        "code": "CPH"
+    },
+    {
+        "flight": "destination",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "destination",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "destination",
+        "country": "DüsseldorfDUS",
+        "code": "DUS"
+    },
+    {
+        "flight": "destination",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "destination",
+        "country": "AccraACC",
+        "code": "ACC"
+    },
+    {
+        "flight": "destination",
+        "country": "AthensATH",
+        "code": "ATH"
+    },
+    {
+        "flight": "destination",
+        "country": "Al NajafNJF",
+        "code": "NJF"
+    },
+    {
+        "flight": "destination",
+        "country": "BaghdadBGW",
+        "code": "BGW"
+    },
+    {
+        "flight": "destination",
+        "country": "BasraBSR",
+        "code": "BSR"
+    },
+    {
+        "flight": "destination",
+        "country": "ErbilEBL",
+        "code": "EBL"
+    },
+    {
+        "flight": "destination",
+        "country": "Milan (Malpensa)MXP",
+        "code": "MXP"
+    },
+    {
+        "flight": "destination",
+        "country": "Rome (Fiumicino)FCO",
+        "code": "FCO"
+    },
+    {
+        "flight": "destination",
+        "country": "AmmanAMM",
+        "code": "AMM"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuwait CityKWI",
+        "code": "KWI"
+    },
+    {
+        "flight": "destination",
+        "country": "BeirutBEY",
+        "code": "BEY"
+    },
+    {
+        "flight": "destination",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "destination",
+        "country": "DohaDOH",
+        "code": "DOH"
+    },
+    {
+        "flight": "destination",
+        "country": "DammamDMM",
+        "code": "DMM"
+    },
+    {
+        "flight": "destination",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "destination",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "destination",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "destination",
+        "country": "MadridMAD",
+        "code": "MAD"
+    },
+    {
+        "flight": "destination",
+        "country": "GenevaGVA",
+        "code": "GVA"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "destination",
+        "country": "Abu DhabiAUH",
+        "code": "AUH"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "destination",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "departure",
+        "country": "YerevanEVN",
+        "code": "EVN"
+    },
+    {
+        "flight": "departure",
+        "country": "BrusselsBRU",
+        "code": "BRU"
+    },
+    {
+        "flight": "departure",
+        "country": "AbidjanABJ",
+        "code": "ABJ"
+    },
+    {
+        "flight": "departure",
+        "country": "LarnacaLCA",
+        "code": "LCA"
+    },
+    {
+        "flight": "departure",
+        "country": "CopenhagenCPH",
+        "code": "CPH"
+    },
+    {
+        "flight": "departure",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "departure",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "departure",
+        "country": "DüsseldorfDUS",
+        "code": "DUS"
+    },
+    {
+        "flight": "departure",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "departure",
+        "country": "AccraACC",
+        "code": "ACC"
+    },
+    {
+        "flight": "departure",
+        "country": "AthensATH",
+        "code": "ATH"
+    },
+    {
+        "flight": "departure",
+        "country": "Al NajafNJF",
+        "code": "NJF"
+    },
+    {
+        "flight": "departure",
+        "country": "BaghdadBGW",
+        "code": "BGW"
+    },
+    {
+        "flight": "departure",
+        "country": "BasraBSR",
+        "code": "BSR"
+    },
+    {
+        "flight": "departure",
+        "country": "ErbilEBL",
+        "code": "EBL"
+    },
+    {
+        "flight": "departure",
+        "country": "Milan (Malpensa)MXP",
+        "code": "MXP"
+    },
+    {
+        "flight": "departure",
+        "country": "Rome (Fiumicino)FCO",
+        "code": "FCO"
+    },
+    {
+        "flight": "departure",
+        "country": "AmmanAMM",
+        "code": "AMM"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuwait CityKWI",
+        "code": "KWI"
+    },
+    {
+        "flight": "departure",
+        "country": "BeirutBEY",
+        "code": "BEY"
+    },
+    {
+        "flight": "departure",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "departure",
+        "country": "DohaDOH",
+        "code": "DOH"
+    },
+    {
+        "flight": "departure",
+        "country": "DammamDMM",
+        "code": "DMM"
+    },
+    {
+        "flight": "departure",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "departure",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "departure",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "departure",
+        "country": "MadridMAD",
+        "code": "MAD"
+    },
+    {
+        "flight": "departure",
+        "country": "GenevaGVA",
+        "code": "GVA"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "Abu DhabiAUH",
+        "code": "AUH"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    }
+]

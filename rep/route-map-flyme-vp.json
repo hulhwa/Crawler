@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "DharavandhooDRV",
+        "code": "DRV"
+    },
+    {
+        "flight": "destination",
+        "country": "MaamigiliVAM",
+        "code": "VAM"
+    },
+    {
+        "flight": "destination",
+        "country": "MaléMLE",
+        "code": "MLE"
+    },
+    {
+        "flight": "departure",
+        "country": "DharavandhooDRV",
+        "code": "DRV"
+    },
+    {
+        "flight": "departure",
+        "country": "MaamigiliVAM",
+        "code": "VAM"
+    },
+    {
+        "flight": "departure",
+        "country": "MaléMLE",
+        "code": "MLE"
+    }
+]

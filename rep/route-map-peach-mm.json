@@ -1,0 +1,232 @@
+[
+    {
+        "flight": "destination",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "destination",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "destination",
+        "country": "Amami IslandASJ",
+        "code": "ASJ"
+    },
+    {
+        "flight": "destination",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "destination",
+        "country": "Ishigaki / OkinawaISG",
+        "code": "ISG"
+    },
+    {
+        "flight": "destination",
+        "country": "KagoshimaKOJ",
+        "code": "KOJ"
+    },
+    {
+        "flight": "destination",
+        "country": "KushiroKUH",
+        "code": "KUH"
+    },
+    {
+        "flight": "destination",
+        "country": "MemanbetsuMMB",
+        "code": "MMB"
+    },
+    {
+        "flight": "destination",
+        "country": "MiyazakiKMI",
+        "code": "KMI"
+    },
+    {
+        "flight": "destination",
+        "country": "NagasakiNGS",
+        "code": "NGS"
+    },
+    {
+        "flight": "destination",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "destination",
+        "country": "NiigataKIJ",
+        "code": "KIJ"
+    },
+    {
+        "flight": "destination",
+        "country": "OitaOIT",
+        "code": "OIT"
+    },
+    {
+        "flight": "destination",
+        "country": "OkinawaOKA",
+        "code": "OKA"
+    },
+    {
+        "flight": "destination",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "destination",
+        "country": "SapporoCTS",
+        "code": "CTS"
+    },
+    {
+        "flight": "destination",
+        "country": "SendaiSDJ",
+        "code": "SDJ"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoHND",
+        "code": "HND"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "destination",
+        "country": "KaohsiungKHH",
+        "code": "KHH"
+    },
+    {
+        "flight": "destination",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "departure",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "departure",
+        "country": "Amami IslandASJ",
+        "code": "ASJ"
+    },
+    {
+        "flight": "departure",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "departure",
+        "country": "Ishigaki / OkinawaISG",
+        "code": "ISG"
+    },
+    {
+        "flight": "departure",
+        "country": "KagoshimaKOJ",
+        "code": "KOJ"
+    },
+    {
+        "flight": "departure",
+        "country": "KushiroKUH",
+        "code": "KUH"
+    },
+    {
+        "flight": "departure",
+        "country": "MemanbetsuMMB",
+        "code": "MMB"
+    },
+    {
+        "flight": "departure",
+        "country": "MiyazakiKMI",
+        "code": "KMI"
+    },
+    {
+        "flight": "departure",
+        "country": "NagasakiNGS",
+        "code": "NGS"
+    },
+    {
+        "flight": "departure",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "departure",
+        "country": "NiigataKIJ",
+        "code": "KIJ"
+    },
+    {
+        "flight": "departure",
+        "country": "OitaOIT",
+        "code": "OIT"
+    },
+    {
+        "flight": "departure",
+        "country": "OkinawaOKA",
+        "code": "OKA"
+    },
+    {
+        "flight": "departure",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "departure",
+        "country": "SapporoCTS",
+        "code": "CTS"
+    },
+    {
+        "flight": "departure",
+        "country": "SendaiSDJ",
+        "code": "SDJ"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoHND",
+        "code": "HND"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "departure",
+        "country": "KaohsiungKHH",
+        "code": "KHH"
+    },
+    {
+        "flight": "departure",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    }
+]

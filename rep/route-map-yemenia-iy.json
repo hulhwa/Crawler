@@ -1,0 +1,142 @@
+[
+    {
+        "flight": "destination",
+        "country": "DjiboutiJIB",
+        "code": "JIB"
+    },
+    {
+        "flight": "destination",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "destination",
+        "country": "Addis AbabaADD",
+        "code": "ADD"
+    },
+    {
+        "flight": "destination",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "destination",
+        "country": "AmmanAMM",
+        "code": "AMM"
+    },
+    {
+        "flight": "destination",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "destination",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "destination",
+        "country": "KhartoumKRT",
+        "code": "KRT"
+    },
+    {
+        "flight": "destination",
+        "country": "AdenADE",
+        "code": "ADE"
+    },
+    {
+        "flight": "destination",
+        "country": "Al GhaydahAAY",
+        "code": "AAY"
+    },
+    {
+        "flight": "destination",
+        "country": "Al MukallaRIY",
+        "code": "RIY"
+    },
+    {
+        "flight": "destination",
+        "country": "Sana'aSAH",
+        "code": "SAH"
+    },
+    {
+        "flight": "destination",
+        "country": "SayunGXF",
+        "code": "GXF"
+    },
+    {
+        "flight": "destination",
+        "country": "SocotraSCT",
+        "code": "SCT"
+    },
+    {
+        "flight": "departure",
+        "country": "DjiboutiJIB",
+        "code": "JIB"
+    },
+    {
+        "flight": "departure",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "departure",
+        "country": "Addis AbabaADD",
+        "code": "ADD"
+    },
+    {
+        "flight": "departure",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "departure",
+        "country": "AmmanAMM",
+        "code": "AMM"
+    },
+    {
+        "flight": "departure",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "departure",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "departure",
+        "country": "KhartoumKRT",
+        "code": "KRT"
+    },
+    {
+        "flight": "departure",
+        "country": "AdenADE",
+        "code": "ADE"
+    },
+    {
+        "flight": "departure",
+        "country": "Al GhaydahAAY",
+        "code": "AAY"
+    },
+    {
+        "flight": "departure",
+        "country": "Al MukallaRIY",
+        "code": "RIY"
+    },
+    {
+        "flight": "departure",
+        "country": "Sana'aSAH",
+        "code": "SAH"
+    },
+    {
+        "flight": "departure",
+        "country": "SayunGXF",
+        "code": "GXF"
+    },
+    {
+        "flight": "departure",
+        "country": "SocotraSCT",
+        "code": "SCT"
+    }
+]

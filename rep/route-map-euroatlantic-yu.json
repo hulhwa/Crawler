@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "BissauOXB",
+        "code": "OXB"
+    },
+    {
+        "flight": "destination",
+        "country": "LisbonLIS",
+        "code": "LIS"
+    },
+    {
+        "flight": "departure",
+        "country": "BissauOXB",
+        "code": "OXB"
+    },
+    {
+        "flight": "departure",
+        "country": "LisbonLIS",
+        "code": "LIS"
+    }
+]

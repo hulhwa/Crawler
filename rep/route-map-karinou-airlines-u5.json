@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "VilniusVNO",
+        "code": "VNO"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "VilniusVNO",
+        "code": "VNO"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    }
+]

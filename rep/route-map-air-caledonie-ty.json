@@ -1,0 +1,62 @@
+[
+    {
+        "flight": "destination",
+        "country": "Ile des PinsILP",
+        "code": "ILP"
+    },
+    {
+        "flight": "destination",
+        "country": "KoneKNQ",
+        "code": "KNQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Lifou IslandLIF",
+        "code": "LIF"
+    },
+    {
+        "flight": "destination",
+        "country": "MareMEE",
+        "code": "MEE"
+    },
+    {
+        "flight": "destination",
+        "country": "NouméaGEA",
+        "code": "GEA"
+    },
+    {
+        "flight": "destination",
+        "country": "Ouvéa IslandUVE",
+        "code": "UVE"
+    },
+    {
+        "flight": "departure",
+        "country": "Ile des PinsILP",
+        "code": "ILP"
+    },
+    {
+        "flight": "departure",
+        "country": "KoneKNQ",
+        "code": "KNQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Lifou IslandLIF",
+        "code": "LIF"
+    },
+    {
+        "flight": "departure",
+        "country": "MareMEE",
+        "code": "MEE"
+    },
+    {
+        "flight": "departure",
+        "country": "NouméaGEA",
+        "code": "GEA"
+    },
+    {
+        "flight": "departure",
+        "country": "Ouvéa IslandUVE",
+        "code": "UVE"
+    }
+]

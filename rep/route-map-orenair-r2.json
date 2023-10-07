@@ -1,0 +1,82 @@
+[
+    {
+        "flight": "destination",
+        "country": "PraiaRAI",
+        "code": "RAI"
+    },
+    {
+        "flight": "destination",
+        "country": "AbidjanABJ",
+        "code": "ABJ"
+    },
+    {
+        "flight": "destination",
+        "country": "LibrevilleLBV",
+        "code": "LBV"
+    },
+    {
+        "flight": "destination",
+        "country": "ConakryCKY",
+        "code": "CKY"
+    },
+    {
+        "flight": "destination",
+        "country": "BamakoBKO",
+        "code": "BKO"
+    },
+    {
+        "flight": "destination",
+        "country": "BrazzavilleBZV",
+        "code": "BZV"
+    },
+    {
+        "flight": "destination",
+        "country": "Cap SkirringCSK",
+        "code": "CSK"
+    },
+    {
+        "flight": "destination",
+        "country": "DakarDSS",
+        "code": "DSS"
+    },
+    {
+        "flight": "departure",
+        "country": "PraiaRAI",
+        "code": "RAI"
+    },
+    {
+        "flight": "departure",
+        "country": "AbidjanABJ",
+        "code": "ABJ"
+    },
+    {
+        "flight": "departure",
+        "country": "LibrevilleLBV",
+        "code": "LBV"
+    },
+    {
+        "flight": "departure",
+        "country": "ConakryCKY",
+        "code": "CKY"
+    },
+    {
+        "flight": "departure",
+        "country": "BamakoBKO",
+        "code": "BKO"
+    },
+    {
+        "flight": "departure",
+        "country": "BrazzavilleBZV",
+        "code": "BZV"
+    },
+    {
+        "flight": "departure",
+        "country": "Cap SkirringCSK",
+        "code": "CSK"
+    },
+    {
+        "flight": "departure",
+        "country": "DakarDSS",
+        "code": "DSS"
+    }
+]

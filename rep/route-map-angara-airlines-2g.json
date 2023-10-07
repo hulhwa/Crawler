@@ -1,0 +1,82 @@
+[
+    {
+        "flight": "destination",
+        "country": "BodayboODO",
+        "code": "ODO"
+    },
+    {
+        "flight": "destination",
+        "country": "BratskBTK",
+        "code": "BTK"
+    },
+    {
+        "flight": "destination",
+        "country": "ChitaHTA",
+        "code": "HTA"
+    },
+    {
+        "flight": "destination",
+        "country": "ErbogachenERG",
+        "code": "ERG"
+    },
+    {
+        "flight": "destination",
+        "country": "IrkutskIKT",
+        "code": "IKT"
+    },
+    {
+        "flight": "destination",
+        "country": "KirenskKCK",
+        "code": "KCK"
+    },
+    {
+        "flight": "destination",
+        "country": "TyndaTYD",
+        "code": "TYD"
+    },
+    {
+        "flight": "destination",
+        "country": "Ust-KutUKX",
+        "code": "UKX"
+    },
+    {
+        "flight": "departure",
+        "country": "BodayboODO",
+        "code": "ODO"
+    },
+    {
+        "flight": "departure",
+        "country": "BratskBTK",
+        "code": "BTK"
+    },
+    {
+        "flight": "departure",
+        "country": "ChitaHTA",
+        "code": "HTA"
+    },
+    {
+        "flight": "departure",
+        "country": "ErbogachenERG",
+        "code": "ERG"
+    },
+    {
+        "flight": "departure",
+        "country": "IrkutskIKT",
+        "code": "IKT"
+    },
+    {
+        "flight": "departure",
+        "country": "KirenskKCK",
+        "code": "KCK"
+    },
+    {
+        "flight": "departure",
+        "country": "TyndaTYD",
+        "code": "TYD"
+    },
+    {
+        "flight": "departure",
+        "country": "Ust-KutUKX",
+        "code": "UKX"
+    }
+]

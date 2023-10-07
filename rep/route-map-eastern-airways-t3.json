@@ -1,0 +1,122 @@
+[
+    {
+        "flight": "destination",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "destination",
+        "country": "JerseyJER",
+        "code": "JER"
+    },
+    {
+        "flight": "destination",
+        "country": "AberdeenABZ",
+        "code": "ABZ"
+    },
+    {
+        "flight": "destination",
+        "country": "CardiffCWL",
+        "code": "CWL"
+    },
+    {
+        "flight": "destination",
+        "country": "Durham (Tees Valley)MME",
+        "code": "MME"
+    },
+    {
+        "flight": "destination",
+        "country": "HumbersideHUY",
+        "code": "HUY"
+    },
+    {
+        "flight": "destination",
+        "country": "London GatwickLGW",
+        "code": "LGW"
+    },
+    {
+        "flight": "destination",
+        "country": "NewcastleNCL",
+        "code": "NCL"
+    },
+    {
+        "flight": "destination",
+        "country": "NewquayNQY",
+        "code": "NQY"
+    },
+    {
+        "flight": "destination",
+        "country": "NottinghamEMA",
+        "code": "EMA"
+    },
+    {
+        "flight": "destination",
+        "country": "SouthamptonSOU",
+        "code": "SOU"
+    },
+    {
+        "flight": "destination",
+        "country": "WickWIC",
+        "code": "WIC"
+    },
+    {
+        "flight": "departure",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "departure",
+        "country": "JerseyJER",
+        "code": "JER"
+    },
+    {
+        "flight": "departure",
+        "country": "AberdeenABZ",
+        "code": "ABZ"
+    },
+    {
+        "flight": "departure",
+        "country": "CardiffCWL",
+        "code": "CWL"
+    },
+    {
+        "flight": "departure",
+        "country": "Durham (Tees Valley)MME",
+        "code": "MME"
+    },
+    {
+        "flight": "departure",
+        "country": "HumbersideHUY",
+        "code": "HUY"
+    },
+    {
+        "flight": "departure",
+        "country": "London GatwickLGW",
+        "code": "LGW"
+    },
+    {
+        "flight": "departure",
+        "country": "NewcastleNCL",
+        "code": "NCL"
+    },
+    {
+        "flight": "departure",
+        "country": "NewquayNQY",
+        "code": "NQY"
+    },
+    {
+        "flight": "departure",
+        "country": "NottinghamEMA",
+        "code": "EMA"
+    },
+    {
+        "flight": "departure",
+        "country": "SouthamptonSOU",
+        "code": "SOU"
+    },
+    {
+        "flight": "departure",
+        "country": "WickWIC",
+        "code": "WIC"
+    }
+]

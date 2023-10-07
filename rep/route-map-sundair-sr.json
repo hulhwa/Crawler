@@ -1,0 +1,252 @@
+[
+    {
+        "flight": "destination",
+        "country": "BurgasBOJ",
+        "code": "BOJ"
+    },
+    {
+        "flight": "destination",
+        "country": "VarnaVAR",
+        "code": "VAR"
+    },
+    {
+        "flight": "destination",
+        "country": "HurghadaHRG",
+        "code": "HRG"
+    },
+    {
+        "flight": "destination",
+        "country": "Marsa AlamRMF",
+        "code": "RMF"
+    },
+    {
+        "flight": "destination",
+        "country": "BerlinBER",
+        "code": "BER"
+    },
+    {
+        "flight": "destination",
+        "country": "BremenBRE",
+        "code": "BRE"
+    },
+    {
+        "flight": "destination",
+        "country": "Cologne-BonnCGN",
+        "code": "CGN"
+    },
+    {
+        "flight": "destination",
+        "country": "DresdenDRS",
+        "code": "DRS"
+    },
+    {
+        "flight": "destination",
+        "country": "DüsseldorfDUS",
+        "code": "DUS"
+    },
+    {
+        "flight": "destination",
+        "country": "HamburgHAM",
+        "code": "HAM"
+    },
+    {
+        "flight": "destination",
+        "country": "Hamburg (Lübeck)LBC",
+        "code": "LBC"
+    },
+    {
+        "flight": "destination",
+        "country": "KasselKSF",
+        "code": "KSF"
+    },
+    {
+        "flight": "destination",
+        "country": "Corfu (Kerkyra)CFU",
+        "code": "CFU"
+    },
+    {
+        "flight": "destination",
+        "country": "Heraklion (Crete)HER",
+        "code": "HER"
+    },
+    {
+        "flight": "destination",
+        "country": "KosKGS",
+        "code": "KGS"
+    },
+    {
+        "flight": "destination",
+        "country": "RhodesRHO",
+        "code": "RHO"
+    },
+    {
+        "flight": "destination",
+        "country": "Lamezia TermeSUF",
+        "code": "SUF"
+    },
+    {
+        "flight": "destination",
+        "country": "BeirutBEY",
+        "code": "BEY"
+    },
+    {
+        "flight": "destination",
+        "country": "Funchal (Madeira)FNC",
+        "code": "FNC"
+    },
+    {
+        "flight": "destination",
+        "country": "FuerteventuraFUE",
+        "code": "FUE"
+    },
+    {
+        "flight": "destination",
+        "country": "Gran Canaria (Las Palmas)LPA",
+        "code": "LPA"
+    },
+    {
+        "flight": "destination",
+        "country": "Palma de MallorcaPMI",
+        "code": "PMI"
+    },
+    {
+        "flight": "destination",
+        "country": "Tenerife (Reina Sofía)TFS",
+        "code": "TFS"
+    },
+    {
+        "flight": "destination",
+        "country": "MonastirMIR",
+        "code": "MIR"
+    },
+    {
+        "flight": "destination",
+        "country": "AntalyaAYT",
+        "code": "AYT"
+    },
+    {
+        "flight": "departure",
+        "country": "BurgasBOJ",
+        "code": "BOJ"
+    },
+    {
+        "flight": "departure",
+        "country": "VarnaVAR",
+        "code": "VAR"
+    },
+    {
+        "flight": "departure",
+        "country": "HurghadaHRG",
+        "code": "HRG"
+    },
+    {
+        "flight": "departure",
+        "country": "Marsa AlamRMF",
+        "code": "RMF"
+    },
+    {
+        "flight": "departure",
+        "country": "BerlinBER",
+        "code": "BER"
+    },
+    {
+        "flight": "departure",
+        "country": "BremenBRE",
+        "code": "BRE"
+    },
+    {
+        "flight": "departure",
+        "country": "Cologne-BonnCGN",
+        "code": "CGN"
+    },
+    {
+        "flight": "departure",
+        "country": "DresdenDRS",
+        "code": "DRS"
+    },
+    {
+        "flight": "departure",
+        "country": "DüsseldorfDUS",
+        "code": "DUS"
+    },
+    {
+        "flight": "departure",
+        "country": "HamburgHAM",
+        "code": "HAM"
+    },
+    {
+        "flight": "departure",
+        "country": "Hamburg (Lübeck)LBC",
+        "code": "LBC"
+    },
+    {
+        "flight": "departure",
+        "country": "KasselKSF",
+        "code": "KSF"
+    },
+    {
+        "flight": "departure",
+        "country": "Corfu (Kerkyra)CFU",
+        "code": "CFU"
+    },
+    {
+        "flight": "departure",
+        "country": "Heraklion (Crete)HER",
+        "code": "HER"
+    },
+    {
+        "flight": "departure",
+        "country": "KosKGS",
+        "code": "KGS"
+    },
+    {
+        "flight": "departure",
+        "country": "RhodesRHO",
+        "code": "RHO"
+    },
+    {
+        "flight": "departure",
+        "country": "Lamezia TermeSUF",
+        "code": "SUF"
+    },
+    {
+        "flight": "departure",
+        "country": "BeirutBEY",
+        "code": "BEY"
+    },
+    {
+        "flight": "departure",
+        "country": "Funchal (Madeira)FNC",
+        "code": "FNC"
+    },
+    {
+        "flight": "departure",
+        "country": "FuerteventuraFUE",
+        "code": "FUE"
+    },
+    {
+        "flight": "departure",
+        "country": "Gran Canaria (Las Palmas)LPA",
+        "code": "LPA"
+    },
+    {
+        "flight": "departure",
+        "country": "Palma de MallorcaPMI",
+        "code": "PMI"
+    },
+    {
+        "flight": "departure",
+        "country": "Tenerife (Reina Sofía)TFS",
+        "code": "TFS"
+    },
+    {
+        "flight": "departure",
+        "country": "MonastirMIR",
+        "code": "MIR"
+    },
+    {
+        "flight": "departure",
+        "country": "AntalyaAYT",
+        "code": "AYT"
+    }
+]

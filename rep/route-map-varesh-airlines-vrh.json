@@ -1,0 +1,122 @@
+[
+    {
+        "flight": "destination",
+        "country": "AbadanABD",
+        "code": "ABD"
+    },
+    {
+        "flight": "destination",
+        "country": "AhwazAWZ",
+        "code": "AWZ"
+    },
+    {
+        "flight": "destination",
+        "country": "BushehrBUZ",
+        "code": "BUZ"
+    },
+    {
+        "flight": "destination",
+        "country": "IsfahanIFN",
+        "code": "IFN"
+    },
+    {
+        "flight": "destination",
+        "country": "KermanshahKSH",
+        "code": "KSH"
+    },
+    {
+        "flight": "destination",
+        "country": "Kish IslandKIH",
+        "code": "KIH"
+    },
+    {
+        "flight": "destination",
+        "country": "MashhadMHD",
+        "code": "MHD"
+    },
+    {
+        "flight": "destination",
+        "country": "RashtRAS",
+        "code": "RAS"
+    },
+    {
+        "flight": "destination",
+        "country": "SariSRY",
+        "code": "SRY"
+    },
+    {
+        "flight": "destination",
+        "country": "ShirazSYZ",
+        "code": "SYZ"
+    },
+    {
+        "flight": "destination",
+        "country": "TehranTHR",
+        "code": "THR"
+    },
+    {
+        "flight": "destination",
+        "country": "DushanbeDYU",
+        "code": "DYU"
+    },
+    {
+        "flight": "departure",
+        "country": "AbadanABD",
+        "code": "ABD"
+    },
+    {
+        "flight": "departure",
+        "country": "AhwazAWZ",
+        "code": "AWZ"
+    },
+    {
+        "flight": "departure",
+        "country": "BushehrBUZ",
+        "code": "BUZ"
+    },
+    {
+        "flight": "departure",
+        "country": "IsfahanIFN",
+        "code": "IFN"
+    },
+    {
+        "flight": "departure",
+        "country": "KermanshahKSH",
+        "code": "KSH"
+    },
+    {
+        "flight": "departure",
+        "country": "Kish IslandKIH",
+        "code": "KIH"
+    },
+    {
+        "flight": "departure",
+        "country": "MashhadMHD",
+        "code": "MHD"
+    },
+    {
+        "flight": "departure",
+        "country": "RashtRAS",
+        "code": "RAS"
+    },
+    {
+        "flight": "departure",
+        "country": "SariSRY",
+        "code": "SRY"
+    },
+    {
+        "flight": "departure",
+        "country": "ShirazSYZ",
+        "code": "SYZ"
+    },
+    {
+        "flight": "departure",
+        "country": "TehranTHR",
+        "code": "THR"
+    },
+    {
+        "flight": "departure",
+        "country": "DushanbeDYU",
+        "code": "DYU"
+    }
+]

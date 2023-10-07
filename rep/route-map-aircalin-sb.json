@@ -1,0 +1,132 @@
+[
+    {
+        "flight": "destination",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "destination",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "destination",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "destination",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "destination",
+        "country": "TahitiPPT",
+        "code": "PPT"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "NoumeaNOU",
+        "code": "NOU"
+    },
+    {
+        "flight": "destination",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "HoniaraHIR",
+        "code": "HIR"
+    },
+    {
+        "flight": "destination",
+        "country": "Port VilaVLI",
+        "code": "VLI"
+    },
+    {
+        "flight": "destination",
+        "country": "Futuna IslandFUT",
+        "code": "FUT"
+    },
+    {
+        "flight": "destination",
+        "country": "Wallis and Futuna IslandsWLS",
+        "code": "WLS"
+    },
+    {
+        "flight": "departure",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "departure",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "departure",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "departure",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "departure",
+        "country": "TahitiPPT",
+        "code": "PPT"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "NoumeaNOU",
+        "code": "NOU"
+    },
+    {
+        "flight": "departure",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "HoniaraHIR",
+        "code": "HIR"
+    },
+    {
+        "flight": "departure",
+        "country": "Port VilaVLI",
+        "code": "VLI"
+    },
+    {
+        "flight": "departure",
+        "country": "Futuna IslandFUT",
+        "code": "FUT"
+    },
+    {
+        "flight": "departure",
+        "country": "Wallis and Futuna IslandsWLS",
+        "code": "WLS"
+    }
+]

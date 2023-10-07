@@ -1,0 +1,192 @@
+[
+    {
+        "flight": "destination",
+        "country": "AurukunAUU",
+        "code": "AUU"
+    },
+    {
+        "flight": "destination",
+        "country": "Badu IslandBDD",
+        "code": "BDD"
+    },
+    {
+        "flight": "destination",
+        "country": "BamagaABM",
+        "code": "ABM"
+    },
+    {
+        "flight": "destination",
+        "country": "Boigu IslandGIC",
+        "code": "GIC"
+    },
+    {
+        "flight": "destination",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "destination",
+        "country": "Coconut IslandCNC",
+        "code": "CNC"
+    },
+    {
+        "flight": "destination",
+        "country": "DarnleyNLF",
+        "code": "NLF"
+    },
+    {
+        "flight": "destination",
+        "country": "Horn IslandHID",
+        "code": "HID"
+    },
+    {
+        "flight": "destination",
+        "country": "KowanyamaKWM",
+        "code": "KWM"
+    },
+    {
+        "flight": "destination",
+        "country": "Kubin, Moa IslandKUG",
+        "code": "KUG"
+    },
+    {
+        "flight": "destination",
+        "country": "Lockhart RiverIRG",
+        "code": "IRG"
+    },
+    {
+        "flight": "destination",
+        "country": "MabuiagUBB",
+        "code": "UBB"
+    },
+    {
+        "flight": "destination",
+        "country": "Murray IslandMYI",
+        "code": "MYI"
+    },
+    {
+        "flight": "destination",
+        "country": "PormpuraawEDR",
+        "code": "EDR"
+    },
+    {
+        "flight": "destination",
+        "country": "ProserpinePPP",
+        "code": "PPP"
+    },
+    {
+        "flight": "destination",
+        "country": "Saibai IslandSBR",
+        "code": "SBR"
+    },
+    {
+        "flight": "destination",
+        "country": "WarraberSYU",
+        "code": "SYU"
+    },
+    {
+        "flight": "destination",
+        "country": "Yam IslandXMY",
+        "code": "XMY"
+    },
+    {
+        "flight": "destination",
+        "country": "YorkeOKR",
+        "code": "OKR"
+    },
+    {
+        "flight": "departure",
+        "country": "AurukunAUU",
+        "code": "AUU"
+    },
+    {
+        "flight": "departure",
+        "country": "Badu IslandBDD",
+        "code": "BDD"
+    },
+    {
+        "flight": "departure",
+        "country": "BamagaABM",
+        "code": "ABM"
+    },
+    {
+        "flight": "departure",
+        "country": "Boigu IslandGIC",
+        "code": "GIC"
+    },
+    {
+        "flight": "departure",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "departure",
+        "country": "Coconut IslandCNC",
+        "code": "CNC"
+    },
+    {
+        "flight": "departure",
+        "country": "DarnleyNLF",
+        "code": "NLF"
+    },
+    {
+        "flight": "departure",
+        "country": "Horn IslandHID",
+        "code": "HID"
+    },
+    {
+        "flight": "departure",
+        "country": "KowanyamaKWM",
+        "code": "KWM"
+    },
+    {
+        "flight": "departure",
+        "country": "Kubin, Moa IslandKUG",
+        "code": "KUG"
+    },
+    {
+        "flight": "departure",
+        "country": "Lockhart RiverIRG",
+        "code": "IRG"
+    },
+    {
+        "flight": "departure",
+        "country": "MabuiagUBB",
+        "code": "UBB"
+    },
+    {
+        "flight": "departure",
+        "country": "Murray IslandMYI",
+        "code": "MYI"
+    },
+    {
+        "flight": "departure",
+        "country": "PormpuraawEDR",
+        "code": "EDR"
+    },
+    {
+        "flight": "departure",
+        "country": "ProserpinePPP",
+        "code": "PPP"
+    },
+    {
+        "flight": "departure",
+        "country": "Saibai IslandSBR",
+        "code": "SBR"
+    },
+    {
+        "flight": "departure",
+        "country": "WarraberSYU",
+        "code": "SYU"
+    },
+    {
+        "flight": "departure",
+        "country": "Yam IslandXMY",
+        "code": "XMY"
+    },
+    {
+        "flight": "departure",
+        "country": "YorkeOKR",
+        "code": "OKR"
+    }
+]

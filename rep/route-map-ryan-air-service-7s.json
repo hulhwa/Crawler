@@ -1,0 +1,302 @@
+[
+    {
+        "flight": "destination",
+        "country": "AnchorageANC",
+        "code": "ANC"
+    },
+    {
+        "flight": "destination",
+        "country": "AniakANI",
+        "code": "ANI"
+    },
+    {
+        "flight": "destination",
+        "country": "AnvikANV",
+        "code": "ANV"
+    },
+    {
+        "flight": "destination",
+        "country": "AtmautluakATT",
+        "code": "ATT"
+    },
+    {
+        "flight": "destination",
+        "country": "BethelBET",
+        "code": "BET"
+    },
+    {
+        "flight": "destination",
+        "country": "ChevakVAK",
+        "code": "VAK"
+    },
+    {
+        "flight": "destination",
+        "country": "ChuathbalukCHU",
+        "code": "CHU"
+    },
+    {
+        "flight": "destination",
+        "country": "Crooked CreekCKD",
+        "code": "CKD"
+    },
+    {
+        "flight": "destination",
+        "country": "GraylingKGX",
+        "code": "KGX"
+    },
+    {
+        "flight": "destination",
+        "country": "Holy CrossHCR",
+        "code": "HCR"
+    },
+    {
+        "flight": "destination",
+        "country": "Hooper BayHPB",
+        "code": "HPB"
+    },
+    {
+        "flight": "destination",
+        "country": "KalskagKLG",
+        "code": "KLG"
+    },
+    {
+        "flight": "destination",
+        "country": "KoyukKKA",
+        "code": "KKA"
+    },
+    {
+        "flight": "destination",
+        "country": "MarshallMLL",
+        "code": "MLL"
+    },
+    {
+        "flight": "destination",
+        "country": "MekoryukMYU",
+        "code": "MYU"
+    },
+    {
+        "flight": "destination",
+        "country": "Mountain VillageMOU",
+        "code": "MOU"
+    },
+    {
+        "flight": "destination",
+        "country": "Pilot StationPQS",
+        "code": "PQS"
+    },
+    {
+        "flight": "destination",
+        "country": "Red DevilRDV",
+        "code": "RDV"
+    },
+    {
+        "flight": "destination",
+        "country": "Russian MissionRSH",
+        "code": "RSH"
+    },
+    {
+        "flight": "destination",
+        "country": "Scammon BaySCM",
+        "code": "SCM"
+    },
+    {
+        "flight": "destination",
+        "country": "ShagelukSHX",
+        "code": "SHX"
+    },
+    {
+        "flight": "destination",
+        "country": "ShaktoolikSKK",
+        "code": "SKK"
+    },
+    {
+        "flight": "destination",
+        "country": "SleetmuteSLQ",
+        "code": "SLQ"
+    },
+    {
+        "flight": "destination",
+        "country": "St. Mary'sKSM",
+        "code": "KSM"
+    },
+    {
+        "flight": "destination",
+        "country": "St. MichaelSMK",
+        "code": "SMK"
+    },
+    {
+        "flight": "destination",
+        "country": "StebbinsWBB",
+        "code": "WBB"
+    },
+    {
+        "flight": "destination",
+        "country": "Stony RiverSRV",
+        "code": "SRV"
+    },
+    {
+        "flight": "destination",
+        "country": "Toksook BayOOK",
+        "code": "OOK"
+    },
+    {
+        "flight": "destination",
+        "country": "TununakTNK",
+        "code": "TNK"
+    },
+    {
+        "flight": "destination",
+        "country": "UnalakleetUNK",
+        "code": "UNK"
+    },
+    {
+        "flight": "departure",
+        "country": "AnchorageANC",
+        "code": "ANC"
+    },
+    {
+        "flight": "departure",
+        "country": "AniakANI",
+        "code": "ANI"
+    },
+    {
+        "flight": "departure",
+        "country": "AnvikANV",
+        "code": "ANV"
+    },
+    {
+        "flight": "departure",
+        "country": "AtmautluakATT",
+        "code": "ATT"
+    },
+    {
+        "flight": "departure",
+        "country": "BethelBET",
+        "code": "BET"
+    },
+    {
+        "flight": "departure",
+        "country": "ChevakVAK",
+        "code": "VAK"
+    },
+    {
+        "flight": "departure",
+        "country": "ChuathbalukCHU",
+        "code": "CHU"
+    },
+    {
+        "flight": "departure",
+        "country": "Crooked CreekCKD",
+        "code": "CKD"
+    },
+    {
+        "flight": "departure",
+        "country": "GraylingKGX",
+        "code": "KGX"
+    },
+    {
+        "flight": "departure",
+        "country": "Holy CrossHCR",
+        "code": "HCR"
+    },
+    {
+        "flight": "departure",
+        "country": "Hooper BayHPB",
+        "code": "HPB"
+    },
+    {
+        "flight": "departure",
+        "country": "KalskagKLG",
+        "code": "KLG"
+    },
+    {
+        "flight": "departure",
+        "country": "KoyukKKA",
+        "code": "KKA"
+    },
+    {
+        "flight": "departure",
+        "country": "MarshallMLL",
+        "code": "MLL"
+    },
+    {
+        "flight": "departure",
+        "country": "MekoryukMYU",
+        "code": "MYU"
+    },
+    {
+        "flight": "departure",
+        "country": "Mountain VillageMOU",
+        "code": "MOU"
+    },
+    {
+        "flight": "departure",
+        "country": "Pilot StationPQS",
+        "code": "PQS"
+    },
+    {
+        "flight": "departure",
+        "country": "Red DevilRDV",
+        "code": "RDV"
+    },
+    {
+        "flight": "departure",
+        "country": "Russian MissionRSH",
+        "code": "RSH"
+    },
+    {
+        "flight": "departure",
+        "country": "Scammon BaySCM",
+        "code": "SCM"
+    },
+    {
+        "flight": "departure",
+        "country": "ShagelukSHX",
+        "code": "SHX"
+    },
+    {
+        "flight": "departure",
+        "country": "ShaktoolikSKK",
+        "code": "SKK"
+    },
+    {
+        "flight": "departure",
+        "country": "SleetmuteSLQ",
+        "code": "SLQ"
+    },
+    {
+        "flight": "departure",
+        "country": "St. Mary'sKSM",
+        "code": "KSM"
+    },
+    {
+        "flight": "departure",
+        "country": "St. MichaelSMK",
+        "code": "SMK"
+    },
+    {
+        "flight": "departure",
+        "country": "StebbinsWBB",
+        "code": "WBB"
+    },
+    {
+        "flight": "departure",
+        "country": "Stony RiverSRV",
+        "code": "SRV"
+    },
+    {
+        "flight": "departure",
+        "country": "Toksook BayOOK",
+        "code": "OOK"
+    },
+    {
+        "flight": "departure",
+        "country": "TununakTNK",
+        "code": "TNK"
+    },
+    {
+        "flight": "departure",
+        "country": "UnalakleetUNK",
+        "code": "UNK"
+    }
+]

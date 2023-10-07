@@ -1,0 +1,122 @@
+[
+    {
+        "flight": "destination",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "destination",
+        "country": "CamagüeyCMW",
+        "code": "CMW"
+    },
+    {
+        "flight": "destination",
+        "country": "Cayo CocoCCC",
+        "code": "CCC"
+    },
+    {
+        "flight": "destination",
+        "country": "Cayo Largo del SurCYO",
+        "code": "CYO"
+    },
+    {
+        "flight": "destination",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "destination",
+        "country": "HolguínHOG",
+        "code": "HOG"
+    },
+    {
+        "flight": "destination",
+        "country": "Nueva GeronaGER",
+        "code": "GER"
+    },
+    {
+        "flight": "destination",
+        "country": "Santiago de CubaSCU",
+        "code": "SCU"
+    },
+    {
+        "flight": "destination",
+        "country": "VaraderoVRA",
+        "code": "VRA"
+    },
+    {
+        "flight": "destination",
+        "country": "MadridMAD",
+        "code": "MAD"
+    },
+    {
+        "flight": "destination",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    },
+    {
+        "flight": "destination",
+        "country": "PorlamarPMV",
+        "code": "PMV"
+    },
+    {
+        "flight": "departure",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "departure",
+        "country": "CamagüeyCMW",
+        "code": "CMW"
+    },
+    {
+        "flight": "departure",
+        "country": "Cayo CocoCCC",
+        "code": "CCC"
+    },
+    {
+        "flight": "departure",
+        "country": "Cayo Largo del SurCYO",
+        "code": "CYO"
+    },
+    {
+        "flight": "departure",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "departure",
+        "country": "HolguínHOG",
+        "code": "HOG"
+    },
+    {
+        "flight": "departure",
+        "country": "Nueva GeronaGER",
+        "code": "GER"
+    },
+    {
+        "flight": "departure",
+        "country": "Santiago de CubaSCU",
+        "code": "SCU"
+    },
+    {
+        "flight": "departure",
+        "country": "VaraderoVRA",
+        "code": "VRA"
+    },
+    {
+        "flight": "departure",
+        "country": "MadridMAD",
+        "code": "MAD"
+    },
+    {
+        "flight": "departure",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    },
+    {
+        "flight": "departure",
+        "country": "PorlamarPMV",
+        "code": "PMV"
+    }
+]

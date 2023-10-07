@@ -1,0 +1,182 @@
+[
+    {
+        "flight": "destination",
+        "country": "Banda AcehBTJ",
+        "code": "BTJ"
+    },
+    {
+        "flight": "destination",
+        "country": "MedanKNO",
+        "code": "KNO"
+    },
+    {
+        "flight": "destination",
+        "country": "Alor Setar, KedahAOR",
+        "code": "AOR"
+    },
+    {
+        "flight": "destination",
+        "country": "Johor BahruJHB",
+        "code": "JHB"
+    },
+    {
+        "flight": "destination",
+        "country": "Kota BharuKBR",
+        "code": "KBR"
+    },
+    {
+        "flight": "destination",
+        "country": "Kota KinabaluBKI",
+        "code": "BKI"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuala LumpurSZB",
+        "code": "SZB"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuala TerengganuTGG",
+        "code": "TGG"
+    },
+    {
+        "flight": "destination",
+        "country": "KuantanKUA",
+        "code": "KUA"
+    },
+    {
+        "flight": "destination",
+        "country": "KuchingKCH",
+        "code": "KCH"
+    },
+    {
+        "flight": "destination",
+        "country": "LangkawiLGK",
+        "code": "LGK"
+    },
+    {
+        "flight": "destination",
+        "country": "MiriMYY",
+        "code": "MYY"
+    },
+    {
+        "flight": "destination",
+        "country": "PenangPEN",
+        "code": "PEN"
+    },
+    {
+        "flight": "destination",
+        "country": "SandakanSDK",
+        "code": "SDK"
+    },
+    {
+        "flight": "destination",
+        "country": "TawauTWU",
+        "code": "TWU"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "Singapore (Seletar)XSP",
+        "code": "XSP"
+    },
+    {
+        "flight": "destination",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "departure",
+        "country": "Banda AcehBTJ",
+        "code": "BTJ"
+    },
+    {
+        "flight": "departure",
+        "country": "MedanKNO",
+        "code": "KNO"
+    },
+    {
+        "flight": "departure",
+        "country": "Alor Setar, KedahAOR",
+        "code": "AOR"
+    },
+    {
+        "flight": "departure",
+        "country": "Johor BahruJHB",
+        "code": "JHB"
+    },
+    {
+        "flight": "departure",
+        "country": "Kota BharuKBR",
+        "code": "KBR"
+    },
+    {
+        "flight": "departure",
+        "country": "Kota KinabaluBKI",
+        "code": "BKI"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuala LumpurSZB",
+        "code": "SZB"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuala TerengganuTGG",
+        "code": "TGG"
+    },
+    {
+        "flight": "departure",
+        "country": "KuantanKUA",
+        "code": "KUA"
+    },
+    {
+        "flight": "departure",
+        "country": "KuchingKCH",
+        "code": "KCH"
+    },
+    {
+        "flight": "departure",
+        "country": "LangkawiLGK",
+        "code": "LGK"
+    },
+    {
+        "flight": "departure",
+        "country": "MiriMYY",
+        "code": "MYY"
+    },
+    {
+        "flight": "departure",
+        "country": "PenangPEN",
+        "code": "PEN"
+    },
+    {
+        "flight": "departure",
+        "country": "SandakanSDK",
+        "code": "SDK"
+    },
+    {
+        "flight": "departure",
+        "country": "TawauTWU",
+        "code": "TWU"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "Singapore (Seletar)XSP",
+        "code": "XSP"
+    },
+    {
+        "flight": "departure",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    }
+]

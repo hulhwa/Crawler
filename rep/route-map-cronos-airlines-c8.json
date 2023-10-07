@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "DoualaDLA",
+        "code": "DLA"
+    },
+    {
+        "flight": "destination",
+        "country": "BataBSG",
+        "code": "BSG"
+    },
+    {
+        "flight": "destination",
+        "country": "MalaboSSG",
+        "code": "SSG"
+    },
+    {
+        "flight": "destination",
+        "country": "Port HarcourtPHC",
+        "code": "PHC"
+    },
+    {
+        "flight": "departure",
+        "country": "DoualaDLA",
+        "code": "DLA"
+    },
+    {
+        "flight": "departure",
+        "country": "BataBSG",
+        "code": "BSG"
+    },
+    {
+        "flight": "departure",
+        "country": "MalaboSSG",
+        "code": "SSG"
+    },
+    {
+        "flight": "departure",
+        "country": "Port HarcourtPHC",
+        "code": "PHC"
+    }
+]

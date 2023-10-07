@@ -1,0 +1,62 @@
+[
+    {
+        "flight": "destination",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "destination",
+        "country": "TahitiPPT",
+        "code": "PPT"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "destination",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "destination",
+        "country": "Seattle / TacomaSEA",
+        "code": "SEA"
+    },
+    {
+        "flight": "departure",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "departure",
+        "country": "TahitiPPT",
+        "code": "PPT"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "departure",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "departure",
+        "country": "Seattle / TacomaSEA",
+        "code": "SEA"
+    }
+]

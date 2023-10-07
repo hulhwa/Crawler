@@ -1,0 +1,192 @@
+[
+    {
+        "flight": "destination",
+        "country": "BagdograIXB",
+        "code": "IXB"
+    },
+    {
+        "flight": "destination",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "destination",
+        "country": "BhubaneswarBBI",
+        "code": "BBI"
+    },
+    {
+        "flight": "destination",
+        "country": "ChennaiMAA",
+        "code": "MAA"
+    },
+    {
+        "flight": "destination",
+        "country": "GoaGOI",
+        "code": "GOI"
+    },
+    {
+        "flight": "destination",
+        "country": "GuwahatiGAU",
+        "code": "GAU"
+    },
+    {
+        "flight": "destination",
+        "country": "HyderabadHYD",
+        "code": "HYD"
+    },
+    {
+        "flight": "destination",
+        "country": "ImphalIMF",
+        "code": "IMF"
+    },
+    {
+        "flight": "destination",
+        "country": "JaipurJAI",
+        "code": "JAI"
+    },
+    {
+        "flight": "destination",
+        "country": "KochiCOK",
+        "code": "COK"
+    },
+    {
+        "flight": "destination",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "destination",
+        "country": "LucknowLKO",
+        "code": "LKO"
+    },
+    {
+        "flight": "destination",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "destination",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "destination",
+        "country": "PunePNQ",
+        "code": "PNQ"
+    },
+    {
+        "flight": "destination",
+        "country": "RanchiIXR",
+        "code": "IXR"
+    },
+    {
+        "flight": "destination",
+        "country": "SrinagarSXR",
+        "code": "SXR"
+    },
+    {
+        "flight": "destination",
+        "country": "SuratSTV",
+        "code": "STV"
+    },
+    {
+        "flight": "destination",
+        "country": "VisakhapatnamVTZ",
+        "code": "VTZ"
+    },
+    {
+        "flight": "departure",
+        "country": "BagdograIXB",
+        "code": "IXB"
+    },
+    {
+        "flight": "departure",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "departure",
+        "country": "BhubaneswarBBI",
+        "code": "BBI"
+    },
+    {
+        "flight": "departure",
+        "country": "ChennaiMAA",
+        "code": "MAA"
+    },
+    {
+        "flight": "departure",
+        "country": "GoaGOI",
+        "code": "GOI"
+    },
+    {
+        "flight": "departure",
+        "country": "GuwahatiGAU",
+        "code": "GAU"
+    },
+    {
+        "flight": "departure",
+        "country": "HyderabadHYD",
+        "code": "HYD"
+    },
+    {
+        "flight": "departure",
+        "country": "ImphalIMF",
+        "code": "IMF"
+    },
+    {
+        "flight": "departure",
+        "country": "JaipurJAI",
+        "code": "JAI"
+    },
+    {
+        "flight": "departure",
+        "country": "KochiCOK",
+        "code": "COK"
+    },
+    {
+        "flight": "departure",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "departure",
+        "country": "LucknowLKO",
+        "code": "LKO"
+    },
+    {
+        "flight": "departure",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "departure",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "departure",
+        "country": "PunePNQ",
+        "code": "PNQ"
+    },
+    {
+        "flight": "departure",
+        "country": "RanchiIXR",
+        "code": "IXR"
+    },
+    {
+        "flight": "departure",
+        "country": "SrinagarSXR",
+        "code": "SXR"
+    },
+    {
+        "flight": "departure",
+        "country": "SuratSTV",
+        "code": "STV"
+    },
+    {
+        "flight": "departure",
+        "country": "VisakhapatnamVTZ",
+        "code": "VTZ"
+    }
+]

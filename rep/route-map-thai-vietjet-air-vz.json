@@ -1,0 +1,182 @@
+[
+    {
+        "flight": "destination",
+        "country": "Phnom PenhPNH",
+        "code": "PNH"
+    },
+    {
+        "flight": "destination",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "destination",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "destination",
+        "country": "Chiang RaiCEI",
+        "code": "CEI"
+    },
+    {
+        "flight": "destination",
+        "country": "Hat YaiHDY",
+        "code": "HDY"
+    },
+    {
+        "flight": "destination",
+        "country": "Khon KaenKKC",
+        "code": "KKC"
+    },
+    {
+        "flight": "destination",
+        "country": "KrabiKBV",
+        "code": "KBV"
+    },
+    {
+        "flight": "destination",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "destination",
+        "country": "Surat ThaniURT",
+        "code": "URT"
+    },
+    {
+        "flight": "destination",
+        "country": "Ubon RatchathaniUBP",
+        "code": "UBP"
+    },
+    {
+        "flight": "destination",
+        "country": "Udon ThaniUTH",
+        "code": "UTH"
+    },
+    {
+        "flight": "destination",
+        "country": "Da NangDAD",
+        "code": "DAD"
+    },
+    {
+        "flight": "destination",
+        "country": "Ho Chi Minh CitySGN",
+        "code": "SGN"
+    },
+    {
+        "flight": "destination",
+        "country": "Phu QuocPQC",
+        "code": "PQC"
+    },
+    {
+        "flight": "departure",
+        "country": "Phnom PenhPNH",
+        "code": "PNH"
+    },
+    {
+        "flight": "departure",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "departure",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "departure",
+        "country": "Chiang RaiCEI",
+        "code": "CEI"
+    },
+    {
+        "flight": "departure",
+        "country": "Hat YaiHDY",
+        "code": "HDY"
+    },
+    {
+        "flight": "departure",
+        "country": "Khon KaenKKC",
+        "code": "KKC"
+    },
+    {
+        "flight": "departure",
+        "country": "KrabiKBV",
+        "code": "KBV"
+    },
+    {
+        "flight": "departure",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "departure",
+        "country": "Surat ThaniURT",
+        "code": "URT"
+    },
+    {
+        "flight": "departure",
+        "country": "Ubon RatchathaniUBP",
+        "code": "UBP"
+    },
+    {
+        "flight": "departure",
+        "country": "Udon ThaniUTH",
+        "code": "UTH"
+    },
+    {
+        "flight": "departure",
+        "country": "Da NangDAD",
+        "code": "DAD"
+    },
+    {
+        "flight": "departure",
+        "country": "Ho Chi Minh CitySGN",
+        "code": "SGN"
+    },
+    {
+        "flight": "departure",
+        "country": "Phu QuocPQC",
+        "code": "PQC"
+    }
+]

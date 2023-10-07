@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "DjiboutiJIB",
+        "code": "JIB"
+    },
+    {
+        "flight": "destination",
+        "country": "Addis AbabaADD",
+        "code": "ADD"
+    },
+    {
+        "flight": "destination",
+        "country": "BosasoBSA",
+        "code": "BSA"
+    },
+    {
+        "flight": "destination",
+        "country": "GaroweGGR",
+        "code": "GGR"
+    },
+    {
+        "flight": "destination",
+        "country": "HargeisaHGA",
+        "code": "HGA"
+    },
+    {
+        "flight": "destination",
+        "country": "MogadishuMGQ",
+        "code": "MGQ"
+    },
+    {
+        "flight": "destination",
+        "country": "AdenADE",
+        "code": "ADE"
+    },
+    {
+        "flight": "departure",
+        "country": "DjiboutiJIB",
+        "code": "JIB"
+    },
+    {
+        "flight": "departure",
+        "country": "Addis AbabaADD",
+        "code": "ADD"
+    },
+    {
+        "flight": "departure",
+        "country": "BosasoBSA",
+        "code": "BSA"
+    },
+    {
+        "flight": "departure",
+        "country": "GaroweGGR",
+        "code": "GGR"
+    },
+    {
+        "flight": "departure",
+        "country": "HargeisaHGA",
+        "code": "HGA"
+    },
+    {
+        "flight": "departure",
+        "country": "MogadishuMGQ",
+        "code": "MGQ"
+    },
+    {
+        "flight": "departure",
+        "country": "AdenADE",
+        "code": "ADE"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "CraigCGA",
+        "code": "CGA"
+    },
+    {
+        "flight": "destination",
+        "country": "KetchikanKTN",
+        "code": "KTN"
+    },
+    {
+        "flight": "destination",
+        "country": "KlawockKLW",
+        "code": "KLW"
+    },
+    {
+        "flight": "departure",
+        "country": "CraigCGA",
+        "code": "CGA"
+    },
+    {
+        "flight": "departure",
+        "country": "KetchikanKTN",
+        "code": "KTN"
+    },
+    {
+        "flight": "departure",
+        "country": "KlawockKLW",
+        "code": "KLW"
+    }
+]

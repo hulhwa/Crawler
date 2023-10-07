@@ -1,0 +1,452 @@
+[
+    {
+        "flight": "destination",
+        "country": "Buenos AiresAEP",
+        "code": "AEP"
+    },
+    {
+        "flight": "destination",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "destination",
+        "country": "MendozaMDZ",
+        "code": "MDZ"
+    },
+    {
+        "flight": "destination",
+        "country": "San Carlos de BarilocheBRC",
+        "code": "BRC"
+    },
+    {
+        "flight": "destination",
+        "country": "FlorianópolisFLN",
+        "code": "FLN"
+    },
+    {
+        "flight": "destination",
+        "country": "Porto AlegrePOA",
+        "code": "POA"
+    },
+    {
+        "flight": "destination",
+        "country": "Rio de JaneiroGIG",
+        "code": "GIG"
+    },
+    {
+        "flight": "destination",
+        "country": "Salvador da BahiaSSA",
+        "code": "SSA"
+    },
+    {
+        "flight": "destination",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "destination",
+        "country": "AntofagastaANF",
+        "code": "ANF"
+    },
+    {
+        "flight": "destination",
+        "country": "AricaARI",
+        "code": "ARI"
+    },
+    {
+        "flight": "destination",
+        "country": "BalmacedaBBA",
+        "code": "BBA"
+    },
+    {
+        "flight": "destination",
+        "country": "CalamaCJC",
+        "code": "CJC"
+    },
+    {
+        "flight": "destination",
+        "country": "CastroMHC",
+        "code": "MHC"
+    },
+    {
+        "flight": "destination",
+        "country": "ConcepciónCCP",
+        "code": "CCP"
+    },
+    {
+        "flight": "destination",
+        "country": "CopiapóCPO",
+        "code": "CPO"
+    },
+    {
+        "flight": "destination",
+        "country": "IquiqueIQQ",
+        "code": "IQQ"
+    },
+    {
+        "flight": "destination",
+        "country": "La SerenaLSC",
+        "code": "LSC"
+    },
+    {
+        "flight": "destination",
+        "country": "OsornoZOS",
+        "code": "ZOS"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto MonttPMC",
+        "code": "PMC"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto NatalesPNT",
+        "code": "PNT"
+    },
+    {
+        "flight": "destination",
+        "country": "Punta ArenasPUQ",
+        "code": "PUQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Santiago de ChileSCL",
+        "code": "SCL"
+    },
+    {
+        "flight": "destination",
+        "country": "TemucoZCO",
+        "code": "ZCO"
+    },
+    {
+        "flight": "destination",
+        "country": "ValdiviaZAL",
+        "code": "ZAL"
+    },
+    {
+        "flight": "destination",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "destination",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "destination",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "destination",
+        "country": "ArequipaAQP",
+        "code": "AQP"
+    },
+    {
+        "flight": "destination",
+        "country": "AyacuchoAYP",
+        "code": "AYP"
+    },
+    {
+        "flight": "destination",
+        "country": "CajamarcaCJA",
+        "code": "CJA"
+    },
+    {
+        "flight": "destination",
+        "country": "ChiclayoCIX",
+        "code": "CIX"
+    },
+    {
+        "flight": "destination",
+        "country": "CuscoCUZ",
+        "code": "CUZ"
+    },
+    {
+        "flight": "destination",
+        "country": "IquitosIQT",
+        "code": "IQT"
+    },
+    {
+        "flight": "destination",
+        "country": "JaujaJAU",
+        "code": "JAU"
+    },
+    {
+        "flight": "destination",
+        "country": "JuliacaJUL",
+        "code": "JUL"
+    },
+    {
+        "flight": "destination",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "destination",
+        "country": "PiuraPIU",
+        "code": "PIU"
+    },
+    {
+        "flight": "destination",
+        "country": "PucallpaPCL",
+        "code": "PCL"
+    },
+    {
+        "flight": "destination",
+        "country": "TacnaTCQ",
+        "code": "TCQ"
+    },
+    {
+        "flight": "destination",
+        "country": "TalaraTYL",
+        "code": "TYL"
+    },
+    {
+        "flight": "destination",
+        "country": "TarapotoTPP",
+        "code": "TPP"
+    },
+    {
+        "flight": "destination",
+        "country": "TrujilloTRU",
+        "code": "TRU"
+    },
+    {
+        "flight": "destination",
+        "country": "TumbesTBP",
+        "code": "TBP"
+    },
+    {
+        "flight": "destination",
+        "country": "MontevideoMVD",
+        "code": "MVD"
+    },
+    {
+        "flight": "departure",
+        "country": "Buenos AiresAEP",
+        "code": "AEP"
+    },
+    {
+        "flight": "departure",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "departure",
+        "country": "MendozaMDZ",
+        "code": "MDZ"
+    },
+    {
+        "flight": "departure",
+        "country": "San Carlos de BarilocheBRC",
+        "code": "BRC"
+    },
+    {
+        "flight": "departure",
+        "country": "FlorianópolisFLN",
+        "code": "FLN"
+    },
+    {
+        "flight": "departure",
+        "country": "Porto AlegrePOA",
+        "code": "POA"
+    },
+    {
+        "flight": "departure",
+        "country": "Rio de JaneiroGIG",
+        "code": "GIG"
+    },
+    {
+        "flight": "departure",
+        "country": "Salvador da BahiaSSA",
+        "code": "SSA"
+    },
+    {
+        "flight": "departure",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "departure",
+        "country": "AntofagastaANF",
+        "code": "ANF"
+    },
+    {
+        "flight": "departure",
+        "country": "AricaARI",
+        "code": "ARI"
+    },
+    {
+        "flight": "departure",
+        "country": "BalmacedaBBA",
+        "code": "BBA"
+    },
+    {
+        "flight": "departure",
+        "country": "CalamaCJC",
+        "code": "CJC"
+    },
+    {
+        "flight": "departure",
+        "country": "CastroMHC",
+        "code": "MHC"
+    },
+    {
+        "flight": "departure",
+        "country": "ConcepciónCCP",
+        "code": "CCP"
+    },
+    {
+        "flight": "departure",
+        "country": "CopiapóCPO",
+        "code": "CPO"
+    },
+    {
+        "flight": "departure",
+        "country": "IquiqueIQQ",
+        "code": "IQQ"
+    },
+    {
+        "flight": "departure",
+        "country": "La SerenaLSC",
+        "code": "LSC"
+    },
+    {
+        "flight": "departure",
+        "country": "OsornoZOS",
+        "code": "ZOS"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto MonttPMC",
+        "code": "PMC"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto NatalesPNT",
+        "code": "PNT"
+    },
+    {
+        "flight": "departure",
+        "country": "Punta ArenasPUQ",
+        "code": "PUQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Santiago de ChileSCL",
+        "code": "SCL"
+    },
+    {
+        "flight": "departure",
+        "country": "TemucoZCO",
+        "code": "ZCO"
+    },
+    {
+        "flight": "departure",
+        "country": "ValdiviaZAL",
+        "code": "ZAL"
+    },
+    {
+        "flight": "departure",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "departure",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "departure",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "departure",
+        "country": "ArequipaAQP",
+        "code": "AQP"
+    },
+    {
+        "flight": "departure",
+        "country": "AyacuchoAYP",
+        "code": "AYP"
+    },
+    {
+        "flight": "departure",
+        "country": "CajamarcaCJA",
+        "code": "CJA"
+    },
+    {
+        "flight": "departure",
+        "country": "ChiclayoCIX",
+        "code": "CIX"
+    },
+    {
+        "flight": "departure",
+        "country": "CuscoCUZ",
+        "code": "CUZ"
+    },
+    {
+        "flight": "departure",
+        "country": "IquitosIQT",
+        "code": "IQT"
+    },
+    {
+        "flight": "departure",
+        "country": "JaujaJAU",
+        "code": "JAU"
+    },
+    {
+        "flight": "departure",
+        "country": "JuliacaJUL",
+        "code": "JUL"
+    },
+    {
+        "flight": "departure",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "departure",
+        "country": "PiuraPIU",
+        "code": "PIU"
+    },
+    {
+        "flight": "departure",
+        "country": "PucallpaPCL",
+        "code": "PCL"
+    },
+    {
+        "flight": "departure",
+        "country": "TacnaTCQ",
+        "code": "TCQ"
+    },
+    {
+        "flight": "departure",
+        "country": "TalaraTYL",
+        "code": "TYL"
+    },
+    {
+        "flight": "departure",
+        "country": "TarapotoTPP",
+        "code": "TPP"
+    },
+    {
+        "flight": "departure",
+        "country": "TrujilloTRU",
+        "code": "TRU"
+    },
+    {
+        "flight": "departure",
+        "country": "TumbesTBP",
+        "code": "TBP"
+    },
+    {
+        "flight": "departure",
+        "country": "MontevideoMVD",
+        "code": "MVD"
+    }
+]

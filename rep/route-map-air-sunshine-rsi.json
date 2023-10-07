@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "The ValleyAXA",
+        "code": "AXA"
+    },
+    {
+        "flight": "destination",
+        "country": "TortolaEIS",
+        "code": "EIS"
+    },
+    {
+        "flight": "destination",
+        "country": "Virgin GordaVIJ",
+        "code": "VIJ"
+    },
+    {
+        "flight": "destination",
+        "country": "DominicaDOM",
+        "code": "DOM"
+    },
+    {
+        "flight": "destination",
+        "country": "San JuanSJU",
+        "code": "SJU"
+    },
+    {
+        "flight": "destination",
+        "country": "NevisNEV",
+        "code": "NEV"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint KittsSKB",
+        "code": "SKB"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint CroixSTX",
+        "code": "STX"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint ThomasSTT",
+        "code": "STT"
+    },
+    {
+        "flight": "departure",
+        "country": "The ValleyAXA",
+        "code": "AXA"
+    },
+    {
+        "flight": "departure",
+        "country": "TortolaEIS",
+        "code": "EIS"
+    },
+    {
+        "flight": "departure",
+        "country": "Virgin GordaVIJ",
+        "code": "VIJ"
+    },
+    {
+        "flight": "departure",
+        "country": "DominicaDOM",
+        "code": "DOM"
+    },
+    {
+        "flight": "departure",
+        "country": "San JuanSJU",
+        "code": "SJU"
+    },
+    {
+        "flight": "departure",
+        "country": "NevisNEV",
+        "code": "NEV"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint KittsSKB",
+        "code": "SKB"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint CroixSTX",
+        "code": "STX"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint ThomasSTT",
+        "code": "STT"
+    }
+]

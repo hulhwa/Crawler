@@ -1,0 +1,82 @@
+[
+    {
+        "flight": "destination",
+        "country": "FrancistownFRW",
+        "code": "FRW"
+    },
+    {
+        "flight": "destination",
+        "country": "GaboroneGBE",
+        "code": "GBE"
+    },
+    {
+        "flight": "destination",
+        "country": "KasaneBBK",
+        "code": "BBK"
+    },
+    {
+        "flight": "destination",
+        "country": "MaunMUB",
+        "code": "MUB"
+    },
+    {
+        "flight": "destination",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "destination",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "destination",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "destination",
+        "country": "HarareHRE",
+        "code": "HRE"
+    },
+    {
+        "flight": "departure",
+        "country": "FrancistownFRW",
+        "code": "FRW"
+    },
+    {
+        "flight": "departure",
+        "country": "GaboroneGBE",
+        "code": "GBE"
+    },
+    {
+        "flight": "departure",
+        "country": "KasaneBBK",
+        "code": "BBK"
+    },
+    {
+        "flight": "departure",
+        "country": "MaunMUB",
+        "code": "MUB"
+    },
+    {
+        "flight": "departure",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "departure",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "departure",
+        "country": "HarareHRE",
+        "code": "HRE"
+    }
+]

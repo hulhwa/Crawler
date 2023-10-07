@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "Willemstad, CuraçaoCUR",
+        "code": "CUR"
+    },
+    {
+        "flight": "destination",
+        "country": "BarcelonaBLA",
+        "code": "BLA"
+    },
+    {
+        "flight": "destination",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    },
+    {
+        "flight": "destination",
+        "country": "Las PiedrasLSP",
+        "code": "LSP"
+    },
+    {
+        "flight": "destination",
+        "country": "MaracayMYC",
+        "code": "MYC"
+    },
+    {
+        "flight": "destination",
+        "country": "PorlamarPMV",
+        "code": "PMV"
+    },
+    {
+        "flight": "destination",
+        "country": "ValenciaVLN",
+        "code": "VLN"
+    },
+    {
+        "flight": "departure",
+        "country": "Willemstad, CuraçaoCUR",
+        "code": "CUR"
+    },
+    {
+        "flight": "departure",
+        "country": "BarcelonaBLA",
+        "code": "BLA"
+    },
+    {
+        "flight": "departure",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    },
+    {
+        "flight": "departure",
+        "country": "Las PiedrasLSP",
+        "code": "LSP"
+    },
+    {
+        "flight": "departure",
+        "country": "MaracayMYC",
+        "code": "MYC"
+    },
+    {
+        "flight": "departure",
+        "country": "PorlamarPMV",
+        "code": "PMV"
+    },
+    {
+        "flight": "departure",
+        "country": "ValenciaVLN",
+        "code": "VLN"
+    }
+]

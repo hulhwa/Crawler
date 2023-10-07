@@ -1,0 +1,142 @@
+[
+    {
+        "flight": "destination",
+        "country": "MauritiusMRU",
+        "code": "MRU"
+    },
+    {
+        "flight": "destination",
+        "country": "MaputoMPM",
+        "code": "MPM"
+    },
+    {
+        "flight": "destination",
+        "country": "BloemfonteinBFN",
+        "code": "BFN"
+    },
+    {
+        "flight": "destination",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "destination",
+        "country": "DurbanDUR",
+        "code": "DUR"
+    },
+    {
+        "flight": "destination",
+        "country": "East LondonELS",
+        "code": "ELS"
+    },
+    {
+        "flight": "destination",
+        "country": "GeorgeGRJ",
+        "code": "GRJ"
+    },
+    {
+        "flight": "destination",
+        "country": "JohannesburgHLA",
+        "code": "HLA"
+    },
+    {
+        "flight": "destination",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "destination",
+        "country": "Port ElizabethPLZ",
+        "code": "PLZ"
+    },
+    {
+        "flight": "destination",
+        "country": "ZanzibarZNZ",
+        "code": "ZNZ"
+    },
+    {
+        "flight": "destination",
+        "country": "LivingstoneLVI",
+        "code": "LVI"
+    },
+    {
+        "flight": "destination",
+        "country": "HarareHRE",
+        "code": "HRE"
+    },
+    {
+        "flight": "destination",
+        "country": "Victoria FallsVFA",
+        "code": "VFA"
+    },
+    {
+        "flight": "departure",
+        "country": "MauritiusMRU",
+        "code": "MRU"
+    },
+    {
+        "flight": "departure",
+        "country": "MaputoMPM",
+        "code": "MPM"
+    },
+    {
+        "flight": "departure",
+        "country": "BloemfonteinBFN",
+        "code": "BFN"
+    },
+    {
+        "flight": "departure",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "departure",
+        "country": "DurbanDUR",
+        "code": "DUR"
+    },
+    {
+        "flight": "departure",
+        "country": "East LondonELS",
+        "code": "ELS"
+    },
+    {
+        "flight": "departure",
+        "country": "GeorgeGRJ",
+        "code": "GRJ"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgHLA",
+        "code": "HLA"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "departure",
+        "country": "Port ElizabethPLZ",
+        "code": "PLZ"
+    },
+    {
+        "flight": "departure",
+        "country": "ZanzibarZNZ",
+        "code": "ZNZ"
+    },
+    {
+        "flight": "departure",
+        "country": "LivingstoneLVI",
+        "code": "LVI"
+    },
+    {
+        "flight": "departure",
+        "country": "HarareHRE",
+        "code": "HRE"
+    },
+    {
+        "flight": "departure",
+        "country": "Victoria FallsVFA",
+        "code": "VFA"
+    }
+]

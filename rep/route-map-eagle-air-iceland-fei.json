@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "HöfnHFN",
+        "code": "HFN"
+    },
+    {
+        "flight": "destination",
+        "country": "HúsavíkHZK",
+        "code": "HZK"
+    },
+    {
+        "flight": "destination",
+        "country": "ReykjavikRKV",
+        "code": "RKV"
+    },
+    {
+        "flight": "departure",
+        "country": "HöfnHFN",
+        "code": "HFN"
+    },
+    {
+        "flight": "departure",
+        "country": "HúsavíkHZK",
+        "code": "HZK"
+    },
+    {
+        "flight": "departure",
+        "country": "ReykjavikRKV",
+        "code": "RKV"
+    }
+]

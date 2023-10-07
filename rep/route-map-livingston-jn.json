@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "AnchorageMRI",
+        "code": "MRI"
+    },
+    {
+        "flight": "destination",
+        "country": "ChenegaNCN",
+        "code": "NCN"
+    },
+    {
+        "flight": "destination",
+        "country": "McGrathMCG",
+        "code": "MCG"
+    },
+    {
+        "flight": "destination",
+        "country": "NikolaiNIB",
+        "code": "NIB"
+    },
+    {
+        "flight": "destination",
+        "country": "TakotnaTLJ",
+        "code": "TLJ"
+    },
+    {
+        "flight": "destination",
+        "country": "TakotnaTCT",
+        "code": "TCT"
+    },
+    {
+        "flight": "destination",
+        "country": "TatitlekTEK",
+        "code": "TEK"
+    },
+    {
+        "flight": "departure",
+        "country": "AnchorageMRI",
+        "code": "MRI"
+    },
+    {
+        "flight": "departure",
+        "country": "ChenegaNCN",
+        "code": "NCN"
+    },
+    {
+        "flight": "departure",
+        "country": "McGrathMCG",
+        "code": "MCG"
+    },
+    {
+        "flight": "departure",
+        "country": "NikolaiNIB",
+        "code": "NIB"
+    },
+    {
+        "flight": "departure",
+        "country": "TakotnaTLJ",
+        "code": "TLJ"
+    },
+    {
+        "flight": "departure",
+        "country": "TakotnaTCT",
+        "code": "TCT"
+    },
+    {
+        "flight": "departure",
+        "country": "TatitlekTEK",
+        "code": "TEK"
+    }
+]

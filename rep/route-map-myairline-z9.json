@@ -1,0 +1,112 @@
+[
+    {
+        "flight": "destination",
+        "country": "Kota BharuKBR",
+        "code": "KBR"
+    },
+    {
+        "flight": "destination",
+        "country": "Kota KinabaluBKI",
+        "code": "BKI"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "destination",
+        "country": "KuchingKCH",
+        "code": "KCH"
+    },
+    {
+        "flight": "destination",
+        "country": "LangkawiLGK",
+        "code": "LGK"
+    },
+    {
+        "flight": "destination",
+        "country": "MiriMYY",
+        "code": "MYY"
+    },
+    {
+        "flight": "destination",
+        "country": "PenangPEN",
+        "code": "PEN"
+    },
+    {
+        "flight": "destination",
+        "country": "SibuSBW",
+        "code": "SBW"
+    },
+    {
+        "flight": "destination",
+        "country": "TawauTWU",
+        "code": "TWU"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "departure",
+        "country": "Kota BharuKBR",
+        "code": "KBR"
+    },
+    {
+        "flight": "departure",
+        "country": "Kota KinabaluBKI",
+        "code": "BKI"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "departure",
+        "country": "KuchingKCH",
+        "code": "KCH"
+    },
+    {
+        "flight": "departure",
+        "country": "LangkawiLGK",
+        "code": "LGK"
+    },
+    {
+        "flight": "departure",
+        "country": "MiriMYY",
+        "code": "MYY"
+    },
+    {
+        "flight": "departure",
+        "country": "PenangPEN",
+        "code": "PEN"
+    },
+    {
+        "flight": "departure",
+        "country": "SibuSBW",
+        "code": "SBW"
+    },
+    {
+        "flight": "departure",
+        "country": "TawauTWU",
+        "code": "TWU"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    }
+]

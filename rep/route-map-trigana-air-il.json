@@ -1,0 +1,122 @@
+[
+    {
+        "flight": "destination",
+        "country": "Ambon, MalukuAMQ",
+        "code": "AMQ"
+    },
+    {
+        "flight": "destination",
+        "country": "BuruNRE",
+        "code": "NRE"
+    },
+    {
+        "flight": "destination",
+        "country": "JayapuraDJJ",
+        "code": "DJJ"
+    },
+    {
+        "flight": "destination",
+        "country": "MeraukeMKQ",
+        "code": "MKQ"
+    },
+    {
+        "flight": "destination",
+        "country": "OksibilOKL",
+        "code": "OKL"
+    },
+    {
+        "flight": "destination",
+        "country": "SananaSQN",
+        "code": "SQN"
+    },
+    {
+        "flight": "destination",
+        "country": "SeruiZRI",
+        "code": "ZRI"
+    },
+    {
+        "flight": "destination",
+        "country": "TanahmerahTMH",
+        "code": "TMH"
+    },
+    {
+        "flight": "destination",
+        "country": "TernateTTE",
+        "code": "TTE"
+    },
+    {
+        "flight": "destination",
+        "country": "TiakurJIO",
+        "code": "JIO"
+    },
+    {
+        "flight": "destination",
+        "country": "WamenaWMX",
+        "code": "WMX"
+    },
+    {
+        "flight": "destination",
+        "country": "YahukimoDEX",
+        "code": "DEX"
+    },
+    {
+        "flight": "departure",
+        "country": "Ambon, MalukuAMQ",
+        "code": "AMQ"
+    },
+    {
+        "flight": "departure",
+        "country": "BuruNRE",
+        "code": "NRE"
+    },
+    {
+        "flight": "departure",
+        "country": "JayapuraDJJ",
+        "code": "DJJ"
+    },
+    {
+        "flight": "departure",
+        "country": "MeraukeMKQ",
+        "code": "MKQ"
+    },
+    {
+        "flight": "departure",
+        "country": "OksibilOKL",
+        "code": "OKL"
+    },
+    {
+        "flight": "departure",
+        "country": "SananaSQN",
+        "code": "SQN"
+    },
+    {
+        "flight": "departure",
+        "country": "SeruiZRI",
+        "code": "ZRI"
+    },
+    {
+        "flight": "departure",
+        "country": "TanahmerahTMH",
+        "code": "TMH"
+    },
+    {
+        "flight": "departure",
+        "country": "TernateTTE",
+        "code": "TTE"
+    },
+    {
+        "flight": "departure",
+        "country": "TiakurJIO",
+        "code": "JIO"
+    },
+    {
+        "flight": "departure",
+        "country": "WamenaWMX",
+        "code": "WMX"
+    },
+    {
+        "flight": "departure",
+        "country": "YahukimoDEX",
+        "code": "DEX"
+    }
+]

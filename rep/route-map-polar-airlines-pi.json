@@ -1,0 +1,162 @@
+[
+    {
+        "flight": "destination",
+        "country": "BatagayBQJ",
+        "code": "BQJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Batagay-AlytaSUK",
+        "code": "SUK"
+    },
+    {
+        "flight": "destination",
+        "country": "Belaya Gora, Sakha RepublicBGN",
+        "code": "BGN"
+    },
+    {
+        "flight": "destination",
+        "country": "KhonuuMQJ",
+        "code": "MQJ"
+    },
+    {
+        "flight": "destination",
+        "country": "NyurbaNYR",
+        "code": "NYR"
+    },
+    {
+        "flight": "destination",
+        "country": "OlyokminskOLZ",
+        "code": "OLZ"
+    },
+    {
+        "flight": "destination",
+        "country": "SaskylakhSYS",
+        "code": "SYS"
+    },
+    {
+        "flight": "destination",
+        "country": "SrednekolymskSEK",
+        "code": "SEK"
+    },
+    {
+        "flight": "destination",
+        "country": "SuntarSUY",
+        "code": "SUY"
+    },
+    {
+        "flight": "destination",
+        "country": "TiksiIKS",
+        "code": "IKS"
+    },
+    {
+        "flight": "destination",
+        "country": "Ust-KuygaUKG",
+        "code": "UKG"
+    },
+    {
+        "flight": "destination",
+        "country": "VerkhnevilyuyskVHV",
+        "code": "VHV"
+    },
+    {
+        "flight": "destination",
+        "country": "VilyuyskVYI",
+        "code": "VYI"
+    },
+    {
+        "flight": "destination",
+        "country": "YakutskYKS",
+        "code": "YKS"
+    },
+    {
+        "flight": "destination",
+        "country": "ZhiganskZIX",
+        "code": "ZIX"
+    },
+    {
+        "flight": "destination",
+        "country": "ZyryankaZKP",
+        "code": "ZKP"
+    },
+    {
+        "flight": "departure",
+        "country": "BatagayBQJ",
+        "code": "BQJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Batagay-AlytaSUK",
+        "code": "SUK"
+    },
+    {
+        "flight": "departure",
+        "country": "Belaya Gora, Sakha RepublicBGN",
+        "code": "BGN"
+    },
+    {
+        "flight": "departure",
+        "country": "KhonuuMQJ",
+        "code": "MQJ"
+    },
+    {
+        "flight": "departure",
+        "country": "NyurbaNYR",
+        "code": "NYR"
+    },
+    {
+        "flight": "departure",
+        "country": "OlyokminskOLZ",
+        "code": "OLZ"
+    },
+    {
+        "flight": "departure",
+        "country": "SaskylakhSYS",
+        "code": "SYS"
+    },
+    {
+        "flight": "departure",
+        "country": "SrednekolymskSEK",
+        "code": "SEK"
+    },
+    {
+        "flight": "departure",
+        "country": "SuntarSUY",
+        "code": "SUY"
+    },
+    {
+        "flight": "departure",
+        "country": "TiksiIKS",
+        "code": "IKS"
+    },
+    {
+        "flight": "departure",
+        "country": "Ust-KuygaUKG",
+        "code": "UKG"
+    },
+    {
+        "flight": "departure",
+        "country": "VerkhnevilyuyskVHV",
+        "code": "VHV"
+    },
+    {
+        "flight": "departure",
+        "country": "VilyuyskVYI",
+        "code": "VYI"
+    },
+    {
+        "flight": "departure",
+        "country": "YakutskYKS",
+        "code": "YKS"
+    },
+    {
+        "flight": "departure",
+        "country": "ZhiganskZIX",
+        "code": "ZIX"
+    },
+    {
+        "flight": "departure",
+        "country": "ZyryankaZKP",
+        "code": "ZKP"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "Da NangDAD",
+        "code": "DAD"
+    },
+    {
+        "flight": "destination",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "destination",
+        "country": "Ho Chi Minh CitySGN",
+        "code": "SGN"
+    },
+    {
+        "flight": "destination",
+        "country": "Nha TrangCXR",
+        "code": "CXR"
+    },
+    {
+        "flight": "destination",
+        "country": "Phu QuocPQC",
+        "code": "PQC"
+    },
+    {
+        "flight": "destination",
+        "country": "Qui NhơnUIH",
+        "code": "UIH"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "Da NangDAD",
+        "code": "DAD"
+    },
+    {
+        "flight": "departure",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "departure",
+        "country": "Ho Chi Minh CitySGN",
+        "code": "SGN"
+    },
+    {
+        "flight": "departure",
+        "country": "Nha TrangCXR",
+        "code": "CXR"
+    },
+    {
+        "flight": "departure",
+        "country": "Phu QuocPQC",
+        "code": "PQC"
+    },
+    {
+        "flight": "departure",
+        "country": "Qui NhơnUIH",
+        "code": "UIH"
+    }
+]

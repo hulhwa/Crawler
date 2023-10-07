@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "ManzhouliNZH",
+        "code": "NZH"
+    },
+    {
+        "flight": "destination",
+        "country": "AlmatyALA",
+        "code": "ALA"
+    },
+    {
+        "flight": "destination",
+        "country": "UlaanbaatarUBN",
+        "code": "UBN"
+    },
+    {
+        "flight": "destination",
+        "country": "Ulan-UdeUUD",
+        "code": "UUD"
+    },
+    {
+        "flight": "departure",
+        "country": "ManzhouliNZH",
+        "code": "NZH"
+    },
+    {
+        "flight": "departure",
+        "country": "AlmatyALA",
+        "code": "ALA"
+    },
+    {
+        "flight": "departure",
+        "country": "UlaanbaatarUBN",
+        "code": "UBN"
+    },
+    {
+        "flight": "departure",
+        "country": "Ulan-UdeUUD",
+        "code": "UUD"
+    }
+]

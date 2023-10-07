@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "Elba (island)EBA",
+        "code": "EBA"
+    },
+    {
+        "flight": "destination",
+        "country": "FlorenceFLR",
+        "code": "FLR"
+    },
+    {
+        "flight": "destination",
+        "country": "Milan (Linate)LIN",
+        "code": "LIN"
+    },
+    {
+        "flight": "destination",
+        "country": "PisaPSA",
+        "code": "PSA"
+    },
+    {
+        "flight": "destination",
+        "country": "LuganoLUG",
+        "code": "LUG"
+    },
+    {
+        "flight": "departure",
+        "country": "Elba (island)EBA",
+        "code": "EBA"
+    },
+    {
+        "flight": "departure",
+        "country": "FlorenceFLR",
+        "code": "FLR"
+    },
+    {
+        "flight": "departure",
+        "country": "Milan (Linate)LIN",
+        "code": "LIN"
+    },
+    {
+        "flight": "departure",
+        "country": "PisaPSA",
+        "code": "PSA"
+    },
+    {
+        "flight": "departure",
+        "country": "LuganoLUG",
+        "code": "LUG"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "flight": "destination",
+        "country": "NingboNGB",
+        "code": "NGB"
+    },
+    {
+        "flight": "destination",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "destination",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "destination",
+        "country": "KagoshimaKOJ",
+        "code": "KOJ"
+    },
+    {
+        "flight": "destination",
+        "country": "KumamotoKMJ",
+        "code": "KMJ"
+    },
+    {
+        "flight": "destination",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "destination",
+        "country": "OkinawaOKA",
+        "code": "OKA"
+    },
+    {
+        "flight": "destination",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "destination",
+        "country": "TakamatsuTAK",
+        "code": "TAK"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoHND",
+        "code": "HND"
+    },
+    {
+        "flight": "destination",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "destination",
+        "country": "BusanPUS",
+        "code": "PUS"
+    },
+    {
+        "flight": "destination",
+        "country": "Jeju CityCJU",
+        "code": "CJU"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "destination",
+        "country": "KaohsiungKHH",
+        "code": "KHH"
+    },
+    {
+        "flight": "destination",
+        "country": "TaichungRMQ",
+        "code": "RMQ"
+    },
+    {
+        "flight": "destination",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "destination",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "destination",
+        "country": "Da NangDAD",
+        "code": "DAD"
+    },
+    {
+        "flight": "destination",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "destination",
+        "country": "Nha TrangCXR",
+        "code": "CXR"
+    },
+    {
+        "flight": "departure",
+        "country": "NingboNGB",
+        "code": "NGB"
+    },
+    {
+        "flight": "departure",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "departure",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "departure",
+        "country": "KagoshimaKOJ",
+        "code": "KOJ"
+    },
+    {
+        "flight": "departure",
+        "country": "KumamotoKMJ",
+        "code": "KMJ"
+    },
+    {
+        "flight": "departure",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "departure",
+        "country": "OkinawaOKA",
+        "code": "OKA"
+    },
+    {
+        "flight": "departure",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "departure",
+        "country": "TakamatsuTAK",
+        "code": "TAK"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoHND",
+        "code": "HND"
+    },
+    {
+        "flight": "departure",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "departure",
+        "country": "BusanPUS",
+        "code": "PUS"
+    },
+    {
+        "flight": "departure",
+        "country": "Jeju CityCJU",
+        "code": "CJU"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "departure",
+        "country": "KaohsiungKHH",
+        "code": "KHH"
+    },
+    {
+        "flight": "departure",
+        "country": "TaichungRMQ",
+        "code": "RMQ"
+    },
+    {
+        "flight": "departure",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "departure",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "departure",
+        "country": "Da NangDAD",
+        "code": "DAD"
+    },
+    {
+        "flight": "departure",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "departure",
+        "country": "Nha TrangCXR",
+        "code": "CXR"
+    }
+]

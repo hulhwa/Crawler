@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "Brive-la-GaillardeBVE",
+        "code": "BVE"
+    },
+    {
+        "flight": "destination",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "destination",
+        "country": "RodezRDZ",
+        "code": "RDZ"
+    },
+    {
+        "flight": "destination",
+        "country": "StrasbourgSXB",
+        "code": "SXB"
+    },
+    {
+        "flight": "destination",
+        "country": "AmsterdamAMS",
+        "code": "AMS"
+    },
+    {
+        "flight": "departure",
+        "country": "Brive-la-GaillardeBVE",
+        "code": "BVE"
+    },
+    {
+        "flight": "departure",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "departure",
+        "country": "RodezRDZ",
+        "code": "RDZ"
+    },
+    {
+        "flight": "departure",
+        "country": "StrasbourgSXB",
+        "code": "SXB"
+    },
+    {
+        "flight": "departure",
+        "country": "AmsterdamAMS",
+        "code": "AMS"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "flight": "destination",
+        "country": "Guatemala CityGUA",
+        "code": "GUA"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto LempiraPEU",
+        "code": "PEU"
+    },
+    {
+        "flight": "destination",
+        "country": "RoatanRTB",
+        "code": "RTB"
+    },
+    {
+        "flight": "destination",
+        "country": "San Pedro SulaSAP",
+        "code": "SAP"
+    },
+    {
+        "flight": "destination",
+        "country": "TegucigalpaTGU",
+        "code": "TGU"
+    },
+    {
+        "flight": "destination",
+        "country": "UtilaUII",
+        "code": "UII"
+    },
+    {
+        "flight": "departure",
+        "country": "Guatemala CityGUA",
+        "code": "GUA"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto LempiraPEU",
+        "code": "PEU"
+    },
+    {
+        "flight": "departure",
+        "country": "RoatanRTB",
+        "code": "RTB"
+    },
+    {
+        "flight": "departure",
+        "country": "San Pedro SulaSAP",
+        "code": "SAP"
+    },
+    {
+        "flight": "departure",
+        "country": "TegucigalpaTGU",
+        "code": "TGU"
+    },
+    {
+        "flight": "departure",
+        "country": "UtilaUII",
+        "code": "UII"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "flight": "destination",
+        "country": "Santiago de ChileSCL",
+        "code": "SCL"
+    },
+    {
+        "flight": "destination",
+        "country": "Panama CityPTY",
+        "code": "PTY"
+    },
+    {
+        "flight": "destination",
+        "country": "BarinasBNS",
+        "code": "BNS"
+    },
+    {
+        "flight": "destination",
+        "country": "Canaima National ParkCAJ",
+        "code": "CAJ"
+    },
+    {
+        "flight": "destination",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    },
+    {
+        "flight": "destination",
+        "country": "El VigíaVIG",
+        "code": "VIG"
+    },
+    {
+        "flight": "destination",
+        "country": "MaturínMUN",
+        "code": "MUN"
+    },
+    {
+        "flight": "destination",
+        "country": "PorlamarPMV",
+        "code": "PMV"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto Ordaz and San FelixPZO",
+        "code": "PZO"
+    },
+    {
+        "flight": "destination",
+        "country": "Santo DomingoSTD",
+        "code": "STD"
+    },
+    {
+        "flight": "departure",
+        "country": "Santiago de ChileSCL",
+        "code": "SCL"
+    },
+    {
+        "flight": "departure",
+        "country": "Panama CityPTY",
+        "code": "PTY"
+    },
+    {
+        "flight": "departure",
+        "country": "BarinasBNS",
+        "code": "BNS"
+    },
+    {
+        "flight": "departure",
+        "country": "Canaima National ParkCAJ",
+        "code": "CAJ"
+    },
+    {
+        "flight": "departure",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    },
+    {
+        "flight": "departure",
+        "country": "El VigíaVIG",
+        "code": "VIG"
+    },
+    {
+        "flight": "departure",
+        "country": "MaturínMUN",
+        "code": "MUN"
+    },
+    {
+        "flight": "departure",
+        "country": "PorlamarPMV",
+        "code": "PMV"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto Ordaz and San FelixPZO",
+        "code": "PZO"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo DomingoSTD",
+        "code": "STD"
+    }
+]

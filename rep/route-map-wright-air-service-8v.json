@@ -1,0 +1,252 @@
+[
+    {
+        "flight": "destination",
+        "country": "AllakaketAET",
+        "code": "AET"
+    },
+    {
+        "flight": "destination",
+        "country": "Anaktuvuk PassAKP",
+        "code": "AKP"
+    },
+    {
+        "flight": "destination",
+        "country": "Arctic VillageARC",
+        "code": "ARC"
+    },
+    {
+        "flight": "destination",
+        "country": "AtqasukATK",
+        "code": "ATK"
+    },
+    {
+        "flight": "destination",
+        "country": "BarrowBRW",
+        "code": "BRW"
+    },
+    {
+        "flight": "destination",
+        "country": "Barter IslandBTI",
+        "code": "BTI"
+    },
+    {
+        "flight": "destination",
+        "country": "BettlesBTT",
+        "code": "BTT"
+    },
+    {
+        "flight": "destination",
+        "country": "Birch CreekKBC",
+        "code": "KBC"
+    },
+    {
+        "flight": "destination",
+        "country": "ChalkyitsikCIK",
+        "code": "CIK"
+    },
+    {
+        "flight": "destination",
+        "country": "FairbanksFAI",
+        "code": "FAI"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort YukonFYU",
+        "code": "FYU"
+    },
+    {
+        "flight": "destination",
+        "country": "GalenaGAL",
+        "code": "GAL"
+    },
+    {
+        "flight": "destination",
+        "country": "HughesHUS",
+        "code": "HUS"
+    },
+    {
+        "flight": "destination",
+        "country": "HusliaHSL",
+        "code": "HSL"
+    },
+    {
+        "flight": "destination",
+        "country": "KaltagKAL",
+        "code": "KAL"
+    },
+    {
+        "flight": "destination",
+        "country": "KoyukukKYU",
+        "code": "KYU"
+    },
+    {
+        "flight": "destination",
+        "country": "Lake MinchuminaLMA",
+        "code": "LMA"
+    },
+    {
+        "flight": "destination",
+        "country": "NuiqsutNUI",
+        "code": "NUI"
+    },
+    {
+        "flight": "destination",
+        "country": "NulatoNUL",
+        "code": "NUL"
+    },
+    {
+        "flight": "destination",
+        "country": "Point LayPIZ",
+        "code": "PIZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Prudhoe Bay / DeadhorseSCC",
+        "code": "SCC"
+    },
+    {
+        "flight": "destination",
+        "country": "RubyRBY",
+        "code": "RBY"
+    },
+    {
+        "flight": "destination",
+        "country": "TananaTAL",
+        "code": "TAL"
+    },
+    {
+        "flight": "destination",
+        "country": "VenetieVEE",
+        "code": "VEE"
+    },
+    {
+        "flight": "destination",
+        "country": "WainwrightAIN",
+        "code": "AIN"
+    },
+    {
+        "flight": "departure",
+        "country": "AllakaketAET",
+        "code": "AET"
+    },
+    {
+        "flight": "departure",
+        "country": "Anaktuvuk PassAKP",
+        "code": "AKP"
+    },
+    {
+        "flight": "departure",
+        "country": "Arctic VillageARC",
+        "code": "ARC"
+    },
+    {
+        "flight": "departure",
+        "country": "AtqasukATK",
+        "code": "ATK"
+    },
+    {
+        "flight": "departure",
+        "country": "BarrowBRW",
+        "code": "BRW"
+    },
+    {
+        "flight": "departure",
+        "country": "Barter IslandBTI",
+        "code": "BTI"
+    },
+    {
+        "flight": "departure",
+        "country": "BettlesBTT",
+        "code": "BTT"
+    },
+    {
+        "flight": "departure",
+        "country": "Birch CreekKBC",
+        "code": "KBC"
+    },
+    {
+        "flight": "departure",
+        "country": "ChalkyitsikCIK",
+        "code": "CIK"
+    },
+    {
+        "flight": "departure",
+        "country": "FairbanksFAI",
+        "code": "FAI"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort YukonFYU",
+        "code": "FYU"
+    },
+    {
+        "flight": "departure",
+        "country": "GalenaGAL",
+        "code": "GAL"
+    },
+    {
+        "flight": "departure",
+        "country": "HughesHUS",
+        "code": "HUS"
+    },
+    {
+        "flight": "departure",
+        "country": "HusliaHSL",
+        "code": "HSL"
+    },
+    {
+        "flight": "departure",
+        "country": "KaltagKAL",
+        "code": "KAL"
+    },
+    {
+        "flight": "departure",
+        "country": "KoyukukKYU",
+        "code": "KYU"
+    },
+    {
+        "flight": "departure",
+        "country": "Lake MinchuminaLMA",
+        "code": "LMA"
+    },
+    {
+        "flight": "departure",
+        "country": "NuiqsutNUI",
+        "code": "NUI"
+    },
+    {
+        "flight": "departure",
+        "country": "NulatoNUL",
+        "code": "NUL"
+    },
+    {
+        "flight": "departure",
+        "country": "Point LayPIZ",
+        "code": "PIZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Prudhoe Bay / DeadhorseSCC",
+        "code": "SCC"
+    },
+    {
+        "flight": "departure",
+        "country": "RubyRBY",
+        "code": "RBY"
+    },
+    {
+        "flight": "departure",
+        "country": "TananaTAL",
+        "code": "TAL"
+    },
+    {
+        "flight": "departure",
+        "country": "VenetieVEE",
+        "code": "VEE"
+    },
+    {
+        "flight": "departure",
+        "country": "WainwrightAIN",
+        "code": "AIN"
+    }
+]

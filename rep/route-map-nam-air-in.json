@@ -1,0 +1,182 @@
+[
+    {
+        "flight": "destination",
+        "country": "BatamBTH",
+        "code": "BTH"
+    },
+    {
+        "flight": "destination",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "destination",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "destination",
+        "country": "KupangKOE",
+        "code": "KOE"
+    },
+    {
+        "flight": "destination",
+        "country": "MaumereMOF",
+        "code": "MOF"
+    },
+    {
+        "flight": "destination",
+        "country": "Muara BungoBUU",
+        "code": "BUU"
+    },
+    {
+        "flight": "destination",
+        "country": "NatunaNTX",
+        "code": "NTX"
+    },
+    {
+        "flight": "destination",
+        "country": "PalembangPLM",
+        "code": "PLM"
+    },
+    {
+        "flight": "destination",
+        "country": "Pangkal PinangPGK",
+        "code": "PGK"
+    },
+    {
+        "flight": "destination",
+        "country": "Pangkalan BunPKN",
+        "code": "PKN"
+    },
+    {
+        "flight": "destination",
+        "country": "PontianakPNK",
+        "code": "PNK"
+    },
+    {
+        "flight": "destination",
+        "country": "SampitSMQ",
+        "code": "SMQ"
+    },
+    {
+        "flight": "destination",
+        "country": "SemarangSRG",
+        "code": "SRG"
+    },
+    {
+        "flight": "destination",
+        "country": "SurabayaSUB",
+        "code": "SUB"
+    },
+    {
+        "flight": "destination",
+        "country": "Surakarta (Solo)SOC",
+        "code": "SOC"
+    },
+    {
+        "flight": "destination",
+        "country": "TambolakaTMC",
+        "code": "TMC"
+    },
+    {
+        "flight": "destination",
+        "country": "Tanjung PandanTJQ",
+        "code": "TJQ"
+    },
+    {
+        "flight": "destination",
+        "country": "WaingapuWGP",
+        "code": "WGP"
+    },
+    {
+        "flight": "departure",
+        "country": "BatamBTH",
+        "code": "BTH"
+    },
+    {
+        "flight": "departure",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "departure",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "departure",
+        "country": "KupangKOE",
+        "code": "KOE"
+    },
+    {
+        "flight": "departure",
+        "country": "MaumereMOF",
+        "code": "MOF"
+    },
+    {
+        "flight": "departure",
+        "country": "Muara BungoBUU",
+        "code": "BUU"
+    },
+    {
+        "flight": "departure",
+        "country": "NatunaNTX",
+        "code": "NTX"
+    },
+    {
+        "flight": "departure",
+        "country": "PalembangPLM",
+        "code": "PLM"
+    },
+    {
+        "flight": "departure",
+        "country": "Pangkal PinangPGK",
+        "code": "PGK"
+    },
+    {
+        "flight": "departure",
+        "country": "Pangkalan BunPKN",
+        "code": "PKN"
+    },
+    {
+        "flight": "departure",
+        "country": "PontianakPNK",
+        "code": "PNK"
+    },
+    {
+        "flight": "departure",
+        "country": "SampitSMQ",
+        "code": "SMQ"
+    },
+    {
+        "flight": "departure",
+        "country": "SemarangSRG",
+        "code": "SRG"
+    },
+    {
+        "flight": "departure",
+        "country": "SurabayaSUB",
+        "code": "SUB"
+    },
+    {
+        "flight": "departure",
+        "country": "Surakarta (Solo)SOC",
+        "code": "SOC"
+    },
+    {
+        "flight": "departure",
+        "country": "TambolakaTMC",
+        "code": "TMC"
+    },
+    {
+        "flight": "departure",
+        "country": "Tanjung PandanTJQ",
+        "code": "TJQ"
+    },
+    {
+        "flight": "departure",
+        "country": "WaingapuWGP",
+        "code": "WGP"
+    }
+]

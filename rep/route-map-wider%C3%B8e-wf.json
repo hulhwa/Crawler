@@ -1,0 +1,522 @@
+[
+    {
+        "flight": "destination",
+        "country": "BillundBLL",
+        "code": "BLL"
+    },
+    {
+        "flight": "destination",
+        "country": "CopenhagenCPH",
+        "code": "CPH"
+    },
+    {
+        "flight": "destination",
+        "country": "SørvágurFAE",
+        "code": "FAE"
+    },
+    {
+        "flight": "destination",
+        "country": "HamburgHAM",
+        "code": "HAM"
+    },
+    {
+        "flight": "destination",
+        "country": "MunichMUC",
+        "code": "MUC"
+    },
+    {
+        "flight": "destination",
+        "country": "DublinDUB",
+        "code": "DUB"
+    },
+    {
+        "flight": "destination",
+        "country": "ÅlesundAES",
+        "code": "AES"
+    },
+    {
+        "flight": "destination",
+        "country": "AltaALF",
+        "code": "ALF"
+    },
+    {
+        "flight": "destination",
+        "country": "AndenesANX",
+        "code": "ANX"
+    },
+    {
+        "flight": "destination",
+        "country": "BåtsfjordBJF",
+        "code": "BJF"
+    },
+    {
+        "flight": "destination",
+        "country": "BergenBGO",
+        "code": "BGO"
+    },
+    {
+        "flight": "destination",
+        "country": "BerlevågBVG",
+        "code": "BVG"
+    },
+    {
+        "flight": "destination",
+        "country": "BodøBOO",
+        "code": "BOO"
+    },
+    {
+        "flight": "destination",
+        "country": "BrønnøysundBNN",
+        "code": "BNN"
+    },
+    {
+        "flight": "destination",
+        "country": "FlorøFRO",
+        "code": "FRO"
+    },
+    {
+        "flight": "destination",
+        "country": "FørdeFDE",
+        "code": "FDE"
+    },
+    {
+        "flight": "destination",
+        "country": "HammerfestHFT",
+        "code": "HFT"
+    },
+    {
+        "flight": "destination",
+        "country": "Harstad-NarvikEVE",
+        "code": "EVE"
+    },
+    {
+        "flight": "destination",
+        "country": "HasvikHAA",
+        "code": "HAA"
+    },
+    {
+        "flight": "destination",
+        "country": "HaugesundHAU",
+        "code": "HAU"
+    },
+    {
+        "flight": "destination",
+        "country": "HonningsvågHVG",
+        "code": "HVG"
+    },
+    {
+        "flight": "destination",
+        "country": "KirkenesKKN",
+        "code": "KKN"
+    },
+    {
+        "flight": "destination",
+        "country": "KristiansandKRS",
+        "code": "KRS"
+    },
+    {
+        "flight": "destination",
+        "country": "KristiansundKSU",
+        "code": "KSU"
+    },
+    {
+        "flight": "destination",
+        "country": "LeknesLKN",
+        "code": "LKN"
+    },
+    {
+        "flight": "destination",
+        "country": "MehamnMEH",
+        "code": "MEH"
+    },
+    {
+        "flight": "destination",
+        "country": "Mo i RanaMQN",
+        "code": "MQN"
+    },
+    {
+        "flight": "destination",
+        "country": "MoldeMOL",
+        "code": "MOL"
+    },
+    {
+        "flight": "destination",
+        "country": "MosjøenMJF",
+        "code": "MJF"
+    },
+    {
+        "flight": "destination",
+        "country": "NamsosOSY",
+        "code": "OSY"
+    },
+    {
+        "flight": "destination",
+        "country": "Orsta / VoldaHOV",
+        "code": "HOV"
+    },
+    {
+        "flight": "destination",
+        "country": "OsloOSL",
+        "code": "OSL"
+    },
+    {
+        "flight": "destination",
+        "country": "Oslo (Torp)TRF",
+        "code": "TRF"
+    },
+    {
+        "flight": "destination",
+        "country": "RørosRRS",
+        "code": "RRS"
+    },
+    {
+        "flight": "destination",
+        "country": "RørvikRVK",
+        "code": "RVK"
+    },
+    {
+        "flight": "destination",
+        "country": "RøstRET",
+        "code": "RET"
+    },
+    {
+        "flight": "destination",
+        "country": "SandaneSDN",
+        "code": "SDN"
+    },
+    {
+        "flight": "destination",
+        "country": "SandnessjøenSSJ",
+        "code": "SSJ"
+    },
+    {
+        "flight": "destination",
+        "country": "SogndalSOG",
+        "code": "SOG"
+    },
+    {
+        "flight": "destination",
+        "country": "SørkjosenSOJ",
+        "code": "SOJ"
+    },
+    {
+        "flight": "destination",
+        "country": "StavangerSVG",
+        "code": "SVG"
+    },
+    {
+        "flight": "destination",
+        "country": "StokmarknesSKN",
+        "code": "SKN"
+    },
+    {
+        "flight": "destination",
+        "country": "SvolværSVJ",
+        "code": "SVJ"
+    },
+    {
+        "flight": "destination",
+        "country": "TromsøTOS",
+        "code": "TOS"
+    },
+    {
+        "flight": "destination",
+        "country": "TrondheimTRD",
+        "code": "TRD"
+    },
+    {
+        "flight": "destination",
+        "country": "VadsøVDS",
+        "code": "VDS"
+    },
+    {
+        "flight": "destination",
+        "country": "VardøVAW",
+        "code": "VAW"
+    },
+    {
+        "flight": "destination",
+        "country": "AlicanteALC",
+        "code": "ALC"
+    },
+    {
+        "flight": "destination",
+        "country": "GothenburgGOT",
+        "code": "GOT"
+    },
+    {
+        "flight": "destination",
+        "country": "AberdeenABZ",
+        "code": "ABZ"
+    },
+    {
+        "flight": "destination",
+        "country": "LiverpoolLPL",
+        "code": "LPL"
+    },
+    {
+        "flight": "destination",
+        "country": "London StanstedSTN",
+        "code": "STN"
+    },
+    {
+        "flight": "departure",
+        "country": "BillundBLL",
+        "code": "BLL"
+    },
+    {
+        "flight": "departure",
+        "country": "CopenhagenCPH",
+        "code": "CPH"
+    },
+    {
+        "flight": "departure",
+        "country": "SørvágurFAE",
+        "code": "FAE"
+    },
+    {
+        "flight": "departure",
+        "country": "HamburgHAM",
+        "code": "HAM"
+    },
+    {
+        "flight": "departure",
+        "country": "MunichMUC",
+        "code": "MUC"
+    },
+    {
+        "flight": "departure",
+        "country": "DublinDUB",
+        "code": "DUB"
+    },
+    {
+        "flight": "departure",
+        "country": "ÅlesundAES",
+        "code": "AES"
+    },
+    {
+        "flight": "departure",
+        "country": "AltaALF",
+        "code": "ALF"
+    },
+    {
+        "flight": "departure",
+        "country": "AndenesANX",
+        "code": "ANX"
+    },
+    {
+        "flight": "departure",
+        "country": "BåtsfjordBJF",
+        "code": "BJF"
+    },
+    {
+        "flight": "departure",
+        "country": "BergenBGO",
+        "code": "BGO"
+    },
+    {
+        "flight": "departure",
+        "country": "BerlevågBVG",
+        "code": "BVG"
+    },
+    {
+        "flight": "departure",
+        "country": "BodøBOO",
+        "code": "BOO"
+    },
+    {
+        "flight": "departure",
+        "country": "BrønnøysundBNN",
+        "code": "BNN"
+    },
+    {
+        "flight": "departure",
+        "country": "FlorøFRO",
+        "code": "FRO"
+    },
+    {
+        "flight": "departure",
+        "country": "FørdeFDE",
+        "code": "FDE"
+    },
+    {
+        "flight": "departure",
+        "country": "HammerfestHFT",
+        "code": "HFT"
+    },
+    {
+        "flight": "departure",
+        "country": "Harstad-NarvikEVE",
+        "code": "EVE"
+    },
+    {
+        "flight": "departure",
+        "country": "HasvikHAA",
+        "code": "HAA"
+    },
+    {
+        "flight": "departure",
+        "country": "HaugesundHAU",
+        "code": "HAU"
+    },
+    {
+        "flight": "departure",
+        "country": "HonningsvågHVG",
+        "code": "HVG"
+    },
+    {
+        "flight": "departure",
+        "country": "KirkenesKKN",
+        "code": "KKN"
+    },
+    {
+        "flight": "departure",
+        "country": "KristiansandKRS",
+        "code": "KRS"
+    },
+    {
+        "flight": "departure",
+        "country": "KristiansundKSU",
+        "code": "KSU"
+    },
+    {
+        "flight": "departure",
+        "country": "LeknesLKN",
+        "code": "LKN"
+    },
+    {
+        "flight": "departure",
+        "country": "MehamnMEH",
+        "code": "MEH"
+    },
+    {
+        "flight": "departure",
+        "country": "Mo i RanaMQN",
+        "code": "MQN"
+    },
+    {
+        "flight": "departure",
+        "country": "MoldeMOL",
+        "code": "MOL"
+    },
+    {
+        "flight": "departure",
+        "country": "MosjøenMJF",
+        "code": "MJF"
+    },
+    {
+        "flight": "departure",
+        "country": "NamsosOSY",
+        "code": "OSY"
+    },
+    {
+        "flight": "departure",
+        "country": "Orsta / VoldaHOV",
+        "code": "HOV"
+    },
+    {
+        "flight": "departure",
+        "country": "OsloOSL",
+        "code": "OSL"
+    },
+    {
+        "flight": "departure",
+        "country": "Oslo (Torp)TRF",
+        "code": "TRF"
+    },
+    {
+        "flight": "departure",
+        "country": "RørosRRS",
+        "code": "RRS"
+    },
+    {
+        "flight": "departure",
+        "country": "RørvikRVK",
+        "code": "RVK"
+    },
+    {
+        "flight": "departure",
+        "country": "RøstRET",
+        "code": "RET"
+    },
+    {
+        "flight": "departure",
+        "country": "SandaneSDN",
+        "code": "SDN"
+    },
+    {
+        "flight": "departure",
+        "country": "SandnessjøenSSJ",
+        "code": "SSJ"
+    },
+    {
+        "flight": "departure",
+        "country": "SogndalSOG",
+        "code": "SOG"
+    },
+    {
+        "flight": "departure",
+        "country": "SørkjosenSOJ",
+        "code": "SOJ"
+    },
+    {
+        "flight": "departure",
+        "country": "StavangerSVG",
+        "code": "SVG"
+    },
+    {
+        "flight": "departure",
+        "country": "StokmarknesSKN",
+        "code": "SKN"
+    },
+    {
+        "flight": "departure",
+        "country": "SvolværSVJ",
+        "code": "SVJ"
+    },
+    {
+        "flight": "departure",
+        "country": "TromsøTOS",
+        "code": "TOS"
+    },
+    {
+        "flight": "departure",
+        "country": "TrondheimTRD",
+        "code": "TRD"
+    },
+    {
+        "flight": "departure",
+        "country": "VadsøVDS",
+        "code": "VDS"
+    },
+    {
+        "flight": "departure",
+        "country": "VardøVAW",
+        "code": "VAW"
+    },
+    {
+        "flight": "departure",
+        "country": "AlicanteALC",
+        "code": "ALC"
+    },
+    {
+        "flight": "departure",
+        "country": "GothenburgGOT",
+        "code": "GOT"
+    },
+    {
+        "flight": "departure",
+        "country": "AberdeenABZ",
+        "code": "ABZ"
+    },
+    {
+        "flight": "departure",
+        "country": "LiverpoolLPL",
+        "code": "LPL"
+    },
+    {
+        "flight": "departure",
+        "country": "London StanstedSTN",
+        "code": "STN"
+    }
+]

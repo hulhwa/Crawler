@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "destination",
+        "country": "AkureAKR",
+        "code": "AKR"
+    },
+    {
+        "flight": "destination",
+        "country": "IbadanIBA",
+        "code": "IBA"
+    },
+    {
+        "flight": "destination",
+        "country": "IlorinILR",
+        "code": "ILR"
+    },
+    {
+        "flight": "destination",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "departure",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "departure",
+        "country": "AkureAKR",
+        "code": "AKR"
+    },
+    {
+        "flight": "departure",
+        "country": "IbadanIBA",
+        "code": "IBA"
+    },
+    {
+        "flight": "departure",
+        "country": "IlorinILR",
+        "code": "ILR"
+    },
+    {
+        "flight": "departure",
+        "country": "LagosLOS",
+        "code": "LOS"
+    }
+]

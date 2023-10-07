@@ -1,0 +1,222 @@
+[
+    {
+        "flight": "destination",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "destination",
+        "country": "ArubaAUA",
+        "code": "AUA"
+    },
+    {
+        "flight": "destination",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "destination",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "destination",
+        "country": "TorontoYYZ",
+        "code": "YYZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Santiago de ChileSCL",
+        "code": "SCL"
+    },
+    {
+        "flight": "destination",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "destination",
+        "country": "CartagenaCTG",
+        "code": "CTG"
+    },
+    {
+        "flight": "destination",
+        "country": "MedellínMDE",
+        "code": "MDE"
+    },
+    {
+        "flight": "destination",
+        "country": "San JoséSJO",
+        "code": "SJO"
+    },
+    {
+        "flight": "destination",
+        "country": "Willemstad, CuraçaoCUR",
+        "code": "CUR"
+    },
+    {
+        "flight": "destination",
+        "country": "Santiago de los CaballerosSTI",
+        "code": "STI"
+    },
+    {
+        "flight": "destination",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "destination",
+        "country": "GuayaquilGYE",
+        "code": "GYE"
+    },
+    {
+        "flight": "destination",
+        "country": "QuitoUIO",
+        "code": "UIO"
+    },
+    {
+        "flight": "destination",
+        "country": "San SalvadorSAL",
+        "code": "SAL"
+    },
+    {
+        "flight": "destination",
+        "country": "Guatemala CityGUA",
+        "code": "GUA"
+    },
+    {
+        "flight": "destination",
+        "country": "KingstonKIN",
+        "code": "KIN"
+    },
+    {
+        "flight": "destination",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "destination",
+        "country": "Mexico City Santa LuciaNLU",
+        "code": "NLU"
+    },
+    {
+        "flight": "destination",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "destination",
+        "country": "Sint MaartenSXM",
+        "code": "SXM"
+    },
+    {
+        "flight": "departure",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "departure",
+        "country": "ArubaAUA",
+        "code": "AUA"
+    },
+    {
+        "flight": "departure",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "departure",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "departure",
+        "country": "TorontoYYZ",
+        "code": "YYZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Santiago de ChileSCL",
+        "code": "SCL"
+    },
+    {
+        "flight": "departure",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "departure",
+        "country": "CartagenaCTG",
+        "code": "CTG"
+    },
+    {
+        "flight": "departure",
+        "country": "MedellínMDE",
+        "code": "MDE"
+    },
+    {
+        "flight": "departure",
+        "country": "San JoséSJO",
+        "code": "SJO"
+    },
+    {
+        "flight": "departure",
+        "country": "Willemstad, CuraçaoCUR",
+        "code": "CUR"
+    },
+    {
+        "flight": "departure",
+        "country": "Santiago de los CaballerosSTI",
+        "code": "STI"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "departure",
+        "country": "GuayaquilGYE",
+        "code": "GYE"
+    },
+    {
+        "flight": "departure",
+        "country": "QuitoUIO",
+        "code": "UIO"
+    },
+    {
+        "flight": "departure",
+        "country": "San SalvadorSAL",
+        "code": "SAL"
+    },
+    {
+        "flight": "departure",
+        "country": "Guatemala CityGUA",
+        "code": "GUA"
+    },
+    {
+        "flight": "departure",
+        "country": "KingstonKIN",
+        "code": "KIN"
+    },
+    {
+        "flight": "departure",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "departure",
+        "country": "Mexico City Santa LuciaNLU",
+        "code": "NLU"
+    },
+    {
+        "flight": "departure",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "departure",
+        "country": "Sint MaartenSXM",
+        "code": "SXM"
+    }
+]

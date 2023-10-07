@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "BishkekFRU",
+        "code": "FRU"
+    },
+    {
+        "flight": "destination",
+        "country": "OshOSS",
+        "code": "OSS"
+    },
+    {
+        "flight": "departure",
+        "country": "BishkekFRU",
+        "code": "FRU"
+    },
+    {
+        "flight": "departure",
+        "country": "OshOSS",
+        "code": "OSS"
+    }
+]

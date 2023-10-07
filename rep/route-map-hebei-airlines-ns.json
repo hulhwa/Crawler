@@ -1,0 +1,442 @@
+[
+    {
+        "flight": "destination",
+        "country": "Beijing DaxingPKX",
+        "code": "PKX"
+    },
+    {
+        "flight": "destination",
+        "country": "ChangshaCSX",
+        "code": "CSX"
+    },
+    {
+        "flight": "destination",
+        "country": "ChengdeCDE",
+        "code": "CDE"
+    },
+    {
+        "flight": "destination",
+        "country": "ChengduTFU",
+        "code": "TFU"
+    },
+    {
+        "flight": "destination",
+        "country": "ChongqingCKG",
+        "code": "CKG"
+    },
+    {
+        "flight": "destination",
+        "country": "FuzhouFOC",
+        "code": "FOC"
+    },
+    {
+        "flight": "destination",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "destination",
+        "country": "GuilinKWL",
+        "code": "KWL"
+    },
+    {
+        "flight": "destination",
+        "country": "GuiyangKWE",
+        "code": "KWE"
+    },
+    {
+        "flight": "destination",
+        "country": "GuyuanGYU",
+        "code": "GYU"
+    },
+    {
+        "flight": "destination",
+        "country": "HaikouHAK",
+        "code": "HAK"
+    },
+    {
+        "flight": "destination",
+        "country": "HailarHLD",
+        "code": "HLD"
+    },
+    {
+        "flight": "destination",
+        "country": "HangzhouHGH",
+        "code": "HGH"
+    },
+    {
+        "flight": "destination",
+        "country": "HohhotHET",
+        "code": "HET"
+    },
+    {
+        "flight": "destination",
+        "country": "JinchangJIC",
+        "code": "JIC"
+    },
+    {
+        "flight": "destination",
+        "country": "KorlaKRL",
+        "code": "KRL"
+    },
+    {
+        "flight": "destination",
+        "country": "KunmingKMG",
+        "code": "KMG"
+    },
+    {
+        "flight": "destination",
+        "country": "LanzhouLHW",
+        "code": "LHW"
+    },
+    {
+        "flight": "destination",
+        "country": "LongnanLNL",
+        "code": "LNL"
+    },
+    {
+        "flight": "destination",
+        "country": "MianyangMIG",
+        "code": "MIG"
+    },
+    {
+        "flight": "destination",
+        "country": "NanchangKHN",
+        "code": "KHN"
+    },
+    {
+        "flight": "destination",
+        "country": "NanjingNKG",
+        "code": "NKG"
+    },
+    {
+        "flight": "destination",
+        "country": "NanningNNG",
+        "code": "NNG"
+    },
+    {
+        "flight": "destination",
+        "country": "NantongNTG",
+        "code": "NTG"
+    },
+    {
+        "flight": "destination",
+        "country": "NingboNGB",
+        "code": "NGB"
+    },
+    {
+        "flight": "destination",
+        "country": "QingyangIQN",
+        "code": "IQN"
+    },
+    {
+        "flight": "destination",
+        "country": "QinhuangdaoBPE",
+        "code": "BPE"
+    },
+    {
+        "flight": "destination",
+        "country": "QuanzhouJJN",
+        "code": "JJN"
+    },
+    {
+        "flight": "destination",
+        "country": "SanyaSYX",
+        "code": "SYX"
+    },
+    {
+        "flight": "destination",
+        "country": "ShanghaiSHA",
+        "code": "SHA"
+    },
+    {
+        "flight": "destination",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "destination",
+        "country": "ShenyangSHE",
+        "code": "SHE"
+    },
+    {
+        "flight": "destination",
+        "country": "ShenzhenSZX",
+        "code": "SZX"
+    },
+    {
+        "flight": "destination",
+        "country": "ShijiazhuangSJW",
+        "code": "SJW"
+    },
+    {
+        "flight": "destination",
+        "country": "UrumqiURC",
+        "code": "URC"
+    },
+    {
+        "flight": "destination",
+        "country": "WenzhouWNZ",
+        "code": "WNZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Xi'anXIY",
+        "code": "XIY"
+    },
+    {
+        "flight": "destination",
+        "country": "XiamenXMN",
+        "code": "XMN"
+    },
+    {
+        "flight": "destination",
+        "country": "YinchuanINC",
+        "code": "INC"
+    },
+    {
+        "flight": "destination",
+        "country": "ZhalantunNZL",
+        "code": "NZL"
+    },
+    {
+        "flight": "destination",
+        "country": "ZhangjiakouZQZ",
+        "code": "ZQZ"
+    },
+    {
+        "flight": "destination",
+        "country": "ZhuhaiZUH",
+        "code": "ZUH"
+    },
+    {
+        "flight": "destination",
+        "country": "ZunyiZYI",
+        "code": "ZYI"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "Beijing DaxingPKX",
+        "code": "PKX"
+    },
+    {
+        "flight": "departure",
+        "country": "ChangshaCSX",
+        "code": "CSX"
+    },
+    {
+        "flight": "departure",
+        "country": "ChengdeCDE",
+        "code": "CDE"
+    },
+    {
+        "flight": "departure",
+        "country": "ChengduTFU",
+        "code": "TFU"
+    },
+    {
+        "flight": "departure",
+        "country": "ChongqingCKG",
+        "code": "CKG"
+    },
+    {
+        "flight": "departure",
+        "country": "FuzhouFOC",
+        "code": "FOC"
+    },
+    {
+        "flight": "departure",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "departure",
+        "country": "GuilinKWL",
+        "code": "KWL"
+    },
+    {
+        "flight": "departure",
+        "country": "GuiyangKWE",
+        "code": "KWE"
+    },
+    {
+        "flight": "departure",
+        "country": "GuyuanGYU",
+        "code": "GYU"
+    },
+    {
+        "flight": "departure",
+        "country": "HaikouHAK",
+        "code": "HAK"
+    },
+    {
+        "flight": "departure",
+        "country": "HailarHLD",
+        "code": "HLD"
+    },
+    {
+        "flight": "departure",
+        "country": "HangzhouHGH",
+        "code": "HGH"
+    },
+    {
+        "flight": "departure",
+        "country": "HohhotHET",
+        "code": "HET"
+    },
+    {
+        "flight": "departure",
+        "country": "JinchangJIC",
+        "code": "JIC"
+    },
+    {
+        "flight": "departure",
+        "country": "KorlaKRL",
+        "code": "KRL"
+    },
+    {
+        "flight": "departure",
+        "country": "KunmingKMG",
+        "code": "KMG"
+    },
+    {
+        "flight": "departure",
+        "country": "LanzhouLHW",
+        "code": "LHW"
+    },
+    {
+        "flight": "departure",
+        "country": "LongnanLNL",
+        "code": "LNL"
+    },
+    {
+        "flight": "departure",
+        "country": "MianyangMIG",
+        "code": "MIG"
+    },
+    {
+        "flight": "departure",
+        "country": "NanchangKHN",
+        "code": "KHN"
+    },
+    {
+        "flight": "departure",
+        "country": "NanjingNKG",
+        "code": "NKG"
+    },
+    {
+        "flight": "departure",
+        "country": "NanningNNG",
+        "code": "NNG"
+    },
+    {
+        "flight": "departure",
+        "country": "NantongNTG",
+        "code": "NTG"
+    },
+    {
+        "flight": "departure",
+        "country": "NingboNGB",
+        "code": "NGB"
+    },
+    {
+        "flight": "departure",
+        "country": "QingyangIQN",
+        "code": "IQN"
+    },
+    {
+        "flight": "departure",
+        "country": "QinhuangdaoBPE",
+        "code": "BPE"
+    },
+    {
+        "flight": "departure",
+        "country": "QuanzhouJJN",
+        "code": "JJN"
+    },
+    {
+        "flight": "departure",
+        "country": "SanyaSYX",
+        "code": "SYX"
+    },
+    {
+        "flight": "departure",
+        "country": "ShanghaiSHA",
+        "code": "SHA"
+    },
+    {
+        "flight": "departure",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "departure",
+        "country": "ShenyangSHE",
+        "code": "SHE"
+    },
+    {
+        "flight": "departure",
+        "country": "ShenzhenSZX",
+        "code": "SZX"
+    },
+    {
+        "flight": "departure",
+        "country": "ShijiazhuangSJW",
+        "code": "SJW"
+    },
+    {
+        "flight": "departure",
+        "country": "UrumqiURC",
+        "code": "URC"
+    },
+    {
+        "flight": "departure",
+        "country": "WenzhouWNZ",
+        "code": "WNZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Xi'anXIY",
+        "code": "XIY"
+    },
+    {
+        "flight": "departure",
+        "country": "XiamenXMN",
+        "code": "XMN"
+    },
+    {
+        "flight": "departure",
+        "country": "YinchuanINC",
+        "code": "INC"
+    },
+    {
+        "flight": "departure",
+        "country": "ZhalantunNZL",
+        "code": "NZL"
+    },
+    {
+        "flight": "departure",
+        "country": "ZhangjiakouZQZ",
+        "code": "ZQZ"
+    },
+    {
+        "flight": "departure",
+        "country": "ZhuhaiZUH",
+        "code": "ZUH"
+    },
+    {
+        "flight": "departure",
+        "country": "ZunyiZYI",
+        "code": "ZYI"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    }
+]

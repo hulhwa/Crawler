@@ -1,0 +1,192 @@
+[
+    {
+        "flight": "destination",
+        "country": "NanningNNG",
+        "code": "NNG"
+    },
+    {
+        "flight": "destination",
+        "country": "ZhengzhouCGO",
+        "code": "CGO"
+    },
+    {
+        "flight": "destination",
+        "country": "HyderabadHYD",
+        "code": "HYD"
+    },
+    {
+        "flight": "destination",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "destination",
+        "country": "Buriram (Buri Ram)BFV",
+        "code": "BFV"
+    },
+    {
+        "flight": "destination",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "destination",
+        "country": "Chiang RaiCEI",
+        "code": "CEI"
+    },
+    {
+        "flight": "destination",
+        "country": "Hat YaiHDY",
+        "code": "HDY"
+    },
+    {
+        "flight": "destination",
+        "country": "Mae SotMAQ",
+        "code": "MAQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Nakhon Si ThammaratNST",
+        "code": "NST"
+    },
+    {
+        "flight": "destination",
+        "country": "NanNNT",
+        "code": "NNT"
+    },
+    {
+        "flight": "destination",
+        "country": "PhitsanulokPHS",
+        "code": "PHS"
+    },
+    {
+        "flight": "destination",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "destination",
+        "country": "RanongUNN",
+        "code": "UNN"
+    },
+    {
+        "flight": "destination",
+        "country": "Sakon NakhonSNO",
+        "code": "SNO"
+    },
+    {
+        "flight": "destination",
+        "country": "Surat ThaniURT",
+        "code": "URT"
+    },
+    {
+        "flight": "destination",
+        "country": "TrangTST",
+        "code": "TST"
+    },
+    {
+        "flight": "destination",
+        "country": "Ubon RatchathaniUBP",
+        "code": "UBP"
+    },
+    {
+        "flight": "destination",
+        "country": "Udon ThaniUTH",
+        "code": "UTH"
+    },
+    {
+        "flight": "departure",
+        "country": "NanningNNG",
+        "code": "NNG"
+    },
+    {
+        "flight": "departure",
+        "country": "ZhengzhouCGO",
+        "code": "CGO"
+    },
+    {
+        "flight": "departure",
+        "country": "HyderabadHYD",
+        "code": "HYD"
+    },
+    {
+        "flight": "departure",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "departure",
+        "country": "Buriram (Buri Ram)BFV",
+        "code": "BFV"
+    },
+    {
+        "flight": "departure",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "departure",
+        "country": "Chiang RaiCEI",
+        "code": "CEI"
+    },
+    {
+        "flight": "departure",
+        "country": "Hat YaiHDY",
+        "code": "HDY"
+    },
+    {
+        "flight": "departure",
+        "country": "Mae SotMAQ",
+        "code": "MAQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Nakhon Si ThammaratNST",
+        "code": "NST"
+    },
+    {
+        "flight": "departure",
+        "country": "NanNNT",
+        "code": "NNT"
+    },
+    {
+        "flight": "departure",
+        "country": "PhitsanulokPHS",
+        "code": "PHS"
+    },
+    {
+        "flight": "departure",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "departure",
+        "country": "RanongUNN",
+        "code": "UNN"
+    },
+    {
+        "flight": "departure",
+        "country": "Sakon NakhonSNO",
+        "code": "SNO"
+    },
+    {
+        "flight": "departure",
+        "country": "Surat ThaniURT",
+        "code": "URT"
+    },
+    {
+        "flight": "departure",
+        "country": "TrangTST",
+        "code": "TST"
+    },
+    {
+        "flight": "departure",
+        "country": "Ubon RatchathaniUBP",
+        "code": "UBP"
+    },
+    {
+        "flight": "departure",
+        "country": "Udon ThaniUTH",
+        "code": "UTH"
+    }
+]

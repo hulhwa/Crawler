@@ -1,0 +1,132 @@
+[
+    {
+        "flight": "destination",
+        "country": "AngoonAGN",
+        "code": "AGN"
+    },
+    {
+        "flight": "destination",
+        "country": "GustavusGST",
+        "code": "GST"
+    },
+    {
+        "flight": "destination",
+        "country": "HainesHNS",
+        "code": "HNS"
+    },
+    {
+        "flight": "destination",
+        "country": "HoonahHNH",
+        "code": "HNH"
+    },
+    {
+        "flight": "destination",
+        "country": "JuneauJNU",
+        "code": "JNU"
+    },
+    {
+        "flight": "destination",
+        "country": "KakeKAE",
+        "code": "KAE"
+    },
+    {
+        "flight": "destination",
+        "country": "KlawockKLW",
+        "code": "KLW"
+    },
+    {
+        "flight": "destination",
+        "country": "PelicanPEC",
+        "code": "PEC"
+    },
+    {
+        "flight": "destination",
+        "country": "PetersburgPSG",
+        "code": "PSG"
+    },
+    {
+        "flight": "destination",
+        "country": "SitkaSIT",
+        "code": "SIT"
+    },
+    {
+        "flight": "destination",
+        "country": "SkagwaySGY",
+        "code": "SGY"
+    },
+    {
+        "flight": "destination",
+        "country": "Tenakee SpringsTKE",
+        "code": "TKE"
+    },
+    {
+        "flight": "destination",
+        "country": "WrangellWRG",
+        "code": "WRG"
+    },
+    {
+        "flight": "departure",
+        "country": "AngoonAGN",
+        "code": "AGN"
+    },
+    {
+        "flight": "departure",
+        "country": "GustavusGST",
+        "code": "GST"
+    },
+    {
+        "flight": "departure",
+        "country": "HainesHNS",
+        "code": "HNS"
+    },
+    {
+        "flight": "departure",
+        "country": "HoonahHNH",
+        "code": "HNH"
+    },
+    {
+        "flight": "departure",
+        "country": "JuneauJNU",
+        "code": "JNU"
+    },
+    {
+        "flight": "departure",
+        "country": "KakeKAE",
+        "code": "KAE"
+    },
+    {
+        "flight": "departure",
+        "country": "KlawockKLW",
+        "code": "KLW"
+    },
+    {
+        "flight": "departure",
+        "country": "PelicanPEC",
+        "code": "PEC"
+    },
+    {
+        "flight": "departure",
+        "country": "PetersburgPSG",
+        "code": "PSG"
+    },
+    {
+        "flight": "departure",
+        "country": "SitkaSIT",
+        "code": "SIT"
+    },
+    {
+        "flight": "departure",
+        "country": "SkagwaySGY",
+        "code": "SGY"
+    },
+    {
+        "flight": "departure",
+        "country": "Tenakee SpringsTKE",
+        "code": "TKE"
+    },
+    {
+        "flight": "departure",
+        "country": "WrangellWRG",
+        "code": "WRG"
+    }
+]

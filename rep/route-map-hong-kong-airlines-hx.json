@@ -1,0 +1,232 @@
+[
+    {
+        "flight": "destination",
+        "country": "BeijingPEK",
+        "code": "PEK"
+    },
+    {
+        "flight": "destination",
+        "country": "Beijing DaxingPKX",
+        "code": "PKX"
+    },
+    {
+        "flight": "destination",
+        "country": "ChengduTFU",
+        "code": "TFU"
+    },
+    {
+        "flight": "destination",
+        "country": "ChongqingCKG",
+        "code": "CKG"
+    },
+    {
+        "flight": "destination",
+        "country": "HaikouHAK",
+        "code": "HAK"
+    },
+    {
+        "flight": "destination",
+        "country": "HangzhouHGH",
+        "code": "HGH"
+    },
+    {
+        "flight": "destination",
+        "country": "NanjingNKG",
+        "code": "NKG"
+    },
+    {
+        "flight": "destination",
+        "country": "SanyaSYX",
+        "code": "SYX"
+    },
+    {
+        "flight": "destination",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "destination",
+        "country": "ShanghaiSHA",
+        "code": "SHA"
+    },
+    {
+        "flight": "destination",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "destination",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "destination",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "destination",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "destination",
+        "country": "OkinawaOKA",
+        "code": "OKA"
+    },
+    {
+        "flight": "destination",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "destination",
+        "country": "SapporoCTS",
+        "code": "CTS"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "destination",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "destination",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "departure",
+        "country": "BeijingPEK",
+        "code": "PEK"
+    },
+    {
+        "flight": "departure",
+        "country": "Beijing DaxingPKX",
+        "code": "PKX"
+    },
+    {
+        "flight": "departure",
+        "country": "ChengduTFU",
+        "code": "TFU"
+    },
+    {
+        "flight": "departure",
+        "country": "ChongqingCKG",
+        "code": "CKG"
+    },
+    {
+        "flight": "departure",
+        "country": "HaikouHAK",
+        "code": "HAK"
+    },
+    {
+        "flight": "departure",
+        "country": "HangzhouHGH",
+        "code": "HGH"
+    },
+    {
+        "flight": "departure",
+        "country": "NanjingNKG",
+        "code": "NKG"
+    },
+    {
+        "flight": "departure",
+        "country": "SanyaSYX",
+        "code": "SYX"
+    },
+    {
+        "flight": "departure",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "departure",
+        "country": "ShanghaiSHA",
+        "code": "SHA"
+    },
+    {
+        "flight": "departure",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "departure",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "departure",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "departure",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "departure",
+        "country": "OkinawaOKA",
+        "code": "OKA"
+    },
+    {
+        "flight": "departure",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "departure",
+        "country": "SapporoCTS",
+        "code": "CTS"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "departure",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "departure",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    }
+]

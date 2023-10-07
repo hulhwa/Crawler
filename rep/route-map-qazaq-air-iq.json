@@ -1,0 +1,182 @@
+[
+    {
+        "flight": "destination",
+        "country": "BakuGYD",
+        "code": "GYD"
+    },
+    {
+        "flight": "destination",
+        "country": "Aktobe (Aktyubinsk)AKX",
+        "code": "AKX"
+    },
+    {
+        "flight": "destination",
+        "country": "AlmatyALA",
+        "code": "ALA"
+    },
+    {
+        "flight": "destination",
+        "country": "AstanaNQZ",
+        "code": "NQZ"
+    },
+    {
+        "flight": "destination",
+        "country": "AtyrauGUW",
+        "code": "GUW"
+    },
+    {
+        "flight": "destination",
+        "country": "KokshetauKOV",
+        "code": "KOV"
+    },
+    {
+        "flight": "destination",
+        "country": "KostanayKSN",
+        "code": "KSN"
+    },
+    {
+        "flight": "destination",
+        "country": "KyzylordaKZO",
+        "code": "KZO"
+    },
+    {
+        "flight": "destination",
+        "country": "Oral (Uralsk)URA",
+        "code": "URA"
+    },
+    {
+        "flight": "destination",
+        "country": "Oskemen (Ust-Kamenogorsk)UKK",
+        "code": "UKK"
+    },
+    {
+        "flight": "destination",
+        "country": "PetropavlPPK",
+        "code": "PPK"
+    },
+    {
+        "flight": "destination",
+        "country": "ShymkentCIT",
+        "code": "CIT"
+    },
+    {
+        "flight": "destination",
+        "country": "TaldykorganTDK",
+        "code": "TDK"
+    },
+    {
+        "flight": "destination",
+        "country": "TurkistanHSA",
+        "code": "HSA"
+    },
+    {
+        "flight": "destination",
+        "country": "UrzharUZR",
+        "code": "UZR"
+    },
+    {
+        "flight": "destination",
+        "country": "NovosibirskOVB",
+        "code": "OVB"
+    },
+    {
+        "flight": "destination",
+        "country": "OmskOMS",
+        "code": "OMS"
+    },
+    {
+        "flight": "destination",
+        "country": "YekaterinburgSVX",
+        "code": "SVX"
+    },
+    {
+        "flight": "departure",
+        "country": "BakuGYD",
+        "code": "GYD"
+    },
+    {
+        "flight": "departure",
+        "country": "Aktobe (Aktyubinsk)AKX",
+        "code": "AKX"
+    },
+    {
+        "flight": "departure",
+        "country": "AlmatyALA",
+        "code": "ALA"
+    },
+    {
+        "flight": "departure",
+        "country": "AstanaNQZ",
+        "code": "NQZ"
+    },
+    {
+        "flight": "departure",
+        "country": "AtyrauGUW",
+        "code": "GUW"
+    },
+    {
+        "flight": "departure",
+        "country": "KokshetauKOV",
+        "code": "KOV"
+    },
+    {
+        "flight": "departure",
+        "country": "KostanayKSN",
+        "code": "KSN"
+    },
+    {
+        "flight": "departure",
+        "country": "KyzylordaKZO",
+        "code": "KZO"
+    },
+    {
+        "flight": "departure",
+        "country": "Oral (Uralsk)URA",
+        "code": "URA"
+    },
+    {
+        "flight": "departure",
+        "country": "Oskemen (Ust-Kamenogorsk)UKK",
+        "code": "UKK"
+    },
+    {
+        "flight": "departure",
+        "country": "PetropavlPPK",
+        "code": "PPK"
+    },
+    {
+        "flight": "departure",
+        "country": "ShymkentCIT",
+        "code": "CIT"
+    },
+    {
+        "flight": "departure",
+        "country": "TaldykorganTDK",
+        "code": "TDK"
+    },
+    {
+        "flight": "departure",
+        "country": "TurkistanHSA",
+        "code": "HSA"
+    },
+    {
+        "flight": "departure",
+        "country": "UrzharUZR",
+        "code": "UZR"
+    },
+    {
+        "flight": "departure",
+        "country": "NovosibirskOVB",
+        "code": "OVB"
+    },
+    {
+        "flight": "departure",
+        "country": "OmskOMS",
+        "code": "OMS"
+    },
+    {
+        "flight": "departure",
+        "country": "YekaterinburgSVX",
+        "code": "SVX"
+    }
+]

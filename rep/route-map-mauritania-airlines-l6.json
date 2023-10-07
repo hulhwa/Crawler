@@ -1,0 +1,152 @@
+[
+    {
+        "flight": "destination",
+        "country": "CotonouCOO",
+        "code": "COO"
+    },
+    {
+        "flight": "destination",
+        "country": "AbidjanABJ",
+        "code": "ABJ"
+    },
+    {
+        "flight": "destination",
+        "country": "LibrevilleLBV",
+        "code": "LBV"
+    },
+    {
+        "flight": "destination",
+        "country": "ConakryCKY",
+        "code": "CKY"
+    },
+    {
+        "flight": "destination",
+        "country": "BamakoBKO",
+        "code": "BKO"
+    },
+    {
+        "flight": "destination",
+        "country": "NémaEMN",
+        "code": "EMN"
+    },
+    {
+        "flight": "destination",
+        "country": "NouadhibouNDB",
+        "code": "NDB"
+    },
+    {
+        "flight": "destination",
+        "country": "NouakchottNKC",
+        "code": "NKC"
+    },
+    {
+        "flight": "destination",
+        "country": "ZouerateOUZ",
+        "code": "OUZ"
+    },
+    {
+        "flight": "destination",
+        "country": "CasablancaCMN",
+        "code": "CMN"
+    },
+    {
+        "flight": "destination",
+        "country": "BrazzavilleBZV",
+        "code": "BZV"
+    },
+    {
+        "flight": "destination",
+        "country": "Pointe-NoirePNR",
+        "code": "PNR"
+    },
+    {
+        "flight": "destination",
+        "country": "DakarDSS",
+        "code": "DSS"
+    },
+    {
+        "flight": "destination",
+        "country": "Gran Canaria (Las Palmas)LPA",
+        "code": "LPA"
+    },
+    {
+        "flight": "destination",
+        "country": "TunisTUN",
+        "code": "TUN"
+    },
+    {
+        "flight": "departure",
+        "country": "CotonouCOO",
+        "code": "COO"
+    },
+    {
+        "flight": "departure",
+        "country": "AbidjanABJ",
+        "code": "ABJ"
+    },
+    {
+        "flight": "departure",
+        "country": "LibrevilleLBV",
+        "code": "LBV"
+    },
+    {
+        "flight": "departure",
+        "country": "ConakryCKY",
+        "code": "CKY"
+    },
+    {
+        "flight": "departure",
+        "country": "BamakoBKO",
+        "code": "BKO"
+    },
+    {
+        "flight": "departure",
+        "country": "NémaEMN",
+        "code": "EMN"
+    },
+    {
+        "flight": "departure",
+        "country": "NouadhibouNDB",
+        "code": "NDB"
+    },
+    {
+        "flight": "departure",
+        "country": "NouakchottNKC",
+        "code": "NKC"
+    },
+    {
+        "flight": "departure",
+        "country": "ZouerateOUZ",
+        "code": "OUZ"
+    },
+    {
+        "flight": "departure",
+        "country": "CasablancaCMN",
+        "code": "CMN"
+    },
+    {
+        "flight": "departure",
+        "country": "BrazzavilleBZV",
+        "code": "BZV"
+    },
+    {
+        "flight": "departure",
+        "country": "Pointe-NoirePNR",
+        "code": "PNR"
+    },
+    {
+        "flight": "departure",
+        "country": "DakarDSS",
+        "code": "DSS"
+    },
+    {
+        "flight": "departure",
+        "country": "Gran Canaria (Las Palmas)LPA",
+        "code": "LPA"
+    },
+    {
+        "flight": "departure",
+        "country": "TunisTUN",
+        "code": "TUN"
+    }
+]

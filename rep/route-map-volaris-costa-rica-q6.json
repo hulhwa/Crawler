@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "destination",
+        "country": "San JoséSJO",
+        "code": "SJO"
+    },
+    {
+        "flight": "destination",
+        "country": "San SalvadorSAL",
+        "code": "SAL"
+    },
+    {
+        "flight": "destination",
+        "country": "Guatemala CityGUA",
+        "code": "GUA"
+    },
+    {
+        "flight": "destination",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "destination",
+        "country": "Mexico CityMEX",
+        "code": "MEX"
+    },
+    {
+        "flight": "destination",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "destination",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "destination",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "departure",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "departure",
+        "country": "San JoséSJO",
+        "code": "SJO"
+    },
+    {
+        "flight": "departure",
+        "country": "San SalvadorSAL",
+        "code": "SAL"
+    },
+    {
+        "flight": "departure",
+        "country": "Guatemala CityGUA",
+        "code": "GUA"
+    },
+    {
+        "flight": "departure",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "departure",
+        "country": "Mexico CityMEX",
+        "code": "MEX"
+    },
+    {
+        "flight": "departure",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "departure",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "departure",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    }
+]

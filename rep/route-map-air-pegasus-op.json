@@ -1,0 +1,62 @@
+[
+    {
+        "flight": "destination",
+        "country": "AccraACC",
+        "code": "ACC"
+    },
+    {
+        "flight": "destination",
+        "country": "KumasiKMS",
+        "code": "KMS"
+    },
+    {
+        "flight": "destination",
+        "country": "Sekondi-TakoradiTKD",
+        "code": "TKD"
+    },
+    {
+        "flight": "destination",
+        "country": "SunyaniNYI",
+        "code": "NYI"
+    },
+    {
+        "flight": "destination",
+        "country": "TamaleTML",
+        "code": "TML"
+    },
+    {
+        "flight": "destination",
+        "country": "WaWZA",
+        "code": "WZA"
+    },
+    {
+        "flight": "departure",
+        "country": "AccraACC",
+        "code": "ACC"
+    },
+    {
+        "flight": "departure",
+        "country": "KumasiKMS",
+        "code": "KMS"
+    },
+    {
+        "flight": "departure",
+        "country": "Sekondi-TakoradiTKD",
+        "code": "TKD"
+    },
+    {
+        "flight": "departure",
+        "country": "SunyaniNYI",
+        "code": "NYI"
+    },
+    {
+        "flight": "departure",
+        "country": "TamaleTML",
+        "code": "TML"
+    },
+    {
+        "flight": "departure",
+        "country": "WaWZA",
+        "code": "WZA"
+    }
+]

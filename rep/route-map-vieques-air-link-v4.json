@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "CeibaNRR",
+        "code": "NRR"
+    },
+    {
+        "flight": "destination",
+        "country": "CulebraCPX",
+        "code": "CPX"
+    },
+    {
+        "flight": "destination",
+        "country": "San Juan (Puerto Rico)SIG",
+        "code": "SIG"
+    },
+    {
+        "flight": "destination",
+        "country": "ViequesVQS",
+        "code": "VQS"
+    },
+    {
+        "flight": "departure",
+        "country": "CeibaNRR",
+        "code": "NRR"
+    },
+    {
+        "flight": "departure",
+        "country": "CulebraCPX",
+        "code": "CPX"
+    },
+    {
+        "flight": "departure",
+        "country": "San Juan (Puerto Rico)SIG",
+        "code": "SIG"
+    },
+    {
+        "flight": "departure",
+        "country": "ViequesVQS",
+        "code": "VQS"
+    }
+]

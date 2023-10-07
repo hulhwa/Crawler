@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "Cheongju & DaejeonCJJ",
+        "code": "CJJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Jeju CityCJU",
+        "code": "CJU"
+    },
+    {
+        "flight": "destination",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "departure",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "Cheongju & DaejeonCJJ",
+        "code": "CJJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Jeju CityCJU",
+        "code": "CJU"
+    },
+    {
+        "flight": "departure",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    }
+]

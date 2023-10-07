@@ -1,0 +1,742 @@
+[
+    {
+        "flight": "destination",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "destination",
+        "country": "ArubaAUA",
+        "code": "AUA"
+    },
+    {
+        "flight": "destination",
+        "country": "La PazLPB",
+        "code": "LPB"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa Cruz de la SierraVVI",
+        "code": "VVI"
+    },
+    {
+        "flight": "destination",
+        "country": "Belo HorizonteCNF",
+        "code": "CNF"
+    },
+    {
+        "flight": "destination",
+        "country": "ManausMAO",
+        "code": "MAO"
+    },
+    {
+        "flight": "destination",
+        "country": "Rio de JaneiroGIG",
+        "code": "GIG"
+    },
+    {
+        "flight": "destination",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "destination",
+        "country": "TorontoYYZ",
+        "code": "YYZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Santiago de ChileSCL",
+        "code": "SCL"
+    },
+    {
+        "flight": "destination",
+        "country": "ArmeniaAXM",
+        "code": "AXM"
+    },
+    {
+        "flight": "destination",
+        "country": "BarrancabermejaEJA",
+        "code": "EJA"
+    },
+    {
+        "flight": "destination",
+        "country": "BarranquillaBAQ",
+        "code": "BAQ"
+    },
+    {
+        "flight": "destination",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "destination",
+        "country": "BucaramangaBGA",
+        "code": "BGA"
+    },
+    {
+        "flight": "destination",
+        "country": "CaliCLO",
+        "code": "CLO"
+    },
+    {
+        "flight": "destination",
+        "country": "CartagenaCTG",
+        "code": "CTG"
+    },
+    {
+        "flight": "destination",
+        "country": "CúcutaCUC",
+        "code": "CUC"
+    },
+    {
+        "flight": "destination",
+        "country": "FlorenciaFLA",
+        "code": "FLA"
+    },
+    {
+        "flight": "destination",
+        "country": "IbaguéIBE",
+        "code": "IBE"
+    },
+    {
+        "flight": "destination",
+        "country": "IpialesIPI",
+        "code": "IPI"
+    },
+    {
+        "flight": "destination",
+        "country": "Leticia, AmazonasLET",
+        "code": "LET"
+    },
+    {
+        "flight": "destination",
+        "country": "MedellínMDE",
+        "code": "MDE"
+    },
+    {
+        "flight": "destination",
+        "country": "MonteríaMTR",
+        "code": "MTR"
+    },
+    {
+        "flight": "destination",
+        "country": "Neiva, HuilaNVA",
+        "code": "NVA"
+    },
+    {
+        "flight": "destination",
+        "country": "PastoPSO",
+        "code": "PSO"
+    },
+    {
+        "flight": "destination",
+        "country": "PereiraPEI",
+        "code": "PEI"
+    },
+    {
+        "flight": "destination",
+        "country": "PopayánPPN",
+        "code": "PPN"
+    },
+    {
+        "flight": "destination",
+        "country": "RiohachaRCH",
+        "code": "RCH"
+    },
+    {
+        "flight": "destination",
+        "country": "San AndrésADZ",
+        "code": "ADZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa MartaSMR",
+        "code": "SMR"
+    },
+    {
+        "flight": "destination",
+        "country": "ValleduparVUP",
+        "code": "VUP"
+    },
+    {
+        "flight": "destination",
+        "country": "VillavicencioVVC",
+        "code": "VVC"
+    },
+    {
+        "flight": "destination",
+        "country": "YopalEYP",
+        "code": "EYP"
+    },
+    {
+        "flight": "destination",
+        "country": "San JoséSJO",
+        "code": "SJO"
+    },
+    {
+        "flight": "destination",
+        "country": "Willemstad, CuraçaoCUR",
+        "code": "CUR"
+    },
+    {
+        "flight": "destination",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Baltra IslandGPS",
+        "code": "GPS"
+    },
+    {
+        "flight": "destination",
+        "country": "CuencaCUE",
+        "code": "CUE"
+    },
+    {
+        "flight": "destination",
+        "country": "GuayaquilGYE",
+        "code": "GYE"
+    },
+    {
+        "flight": "destination",
+        "country": "MantaMEC",
+        "code": "MEC"
+    },
+    {
+        "flight": "destination",
+        "country": "QuitoUIO",
+        "code": "UIO"
+    },
+    {
+        "flight": "destination",
+        "country": "San Cristóbal Island (GalápagosSCY",
+        "code": "SCY"
+    },
+    {
+        "flight": "destination",
+        "country": "San SalvadorSAL",
+        "code": "SAL"
+    },
+    {
+        "flight": "destination",
+        "country": "FloresFRS",
+        "code": "FRS"
+    },
+    {
+        "flight": "destination",
+        "country": "Guatemala CityGUA",
+        "code": "GUA"
+    },
+    {
+        "flight": "destination",
+        "country": "ComayaguaXPL",
+        "code": "XPL"
+    },
+    {
+        "flight": "destination",
+        "country": "San Pedro SulaSAP",
+        "code": "SAP"
+    },
+    {
+        "flight": "destination",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "destination",
+        "country": "Mexico CityMEX",
+        "code": "MEX"
+    },
+    {
+        "flight": "destination",
+        "country": "Panama CityPTY",
+        "code": "PTY"
+    },
+    {
+        "flight": "destination",
+        "country": "AsunciónASU",
+        "code": "ASU"
+    },
+    {
+        "flight": "destination",
+        "country": "CuscoCUZ",
+        "code": "CUZ"
+    },
+    {
+        "flight": "destination",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "destination",
+        "country": "San JuanSJU",
+        "code": "SJU"
+    },
+    {
+        "flight": "destination",
+        "country": "BarcelonaBCN",
+        "code": "BCN"
+    },
+    {
+        "flight": "destination",
+        "country": "MadridMAD",
+        "code": "MAD"
+    },
+    {
+        "flight": "destination",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "destination",
+        "country": "BostonBOS",
+        "code": "BOS"
+    },
+    {
+        "flight": "destination",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "destination",
+        "country": "Dallas-Fort WorthDFW",
+        "code": "DFW"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    },
+    {
+        "flight": "destination",
+        "country": "HoustonIAH",
+        "code": "IAH"
+    },
+    {
+        "flight": "destination",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "destination",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "destination",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    },
+    {
+        "flight": "destination",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "destination",
+        "country": "Oakland, East BayOAK",
+        "code": "OAK"
+    },
+    {
+        "flight": "destination",
+        "country": "OntarioONT",
+        "code": "ONT"
+    },
+    {
+        "flight": "destination",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "destination",
+        "country": "San FranciscoSFO",
+        "code": "SFO"
+    },
+    {
+        "flight": "destination",
+        "country": "WashingtonIAD",
+        "code": "IAD"
+    },
+    {
+        "flight": "destination",
+        "country": "MontevideoMVD",
+        "code": "MVD"
+    },
+    {
+        "flight": "departure",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "departure",
+        "country": "ArubaAUA",
+        "code": "AUA"
+    },
+    {
+        "flight": "departure",
+        "country": "La PazLPB",
+        "code": "LPB"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Cruz de la SierraVVI",
+        "code": "VVI"
+    },
+    {
+        "flight": "departure",
+        "country": "Belo HorizonteCNF",
+        "code": "CNF"
+    },
+    {
+        "flight": "departure",
+        "country": "ManausMAO",
+        "code": "MAO"
+    },
+    {
+        "flight": "departure",
+        "country": "Rio de JaneiroGIG",
+        "code": "GIG"
+    },
+    {
+        "flight": "departure",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "departure",
+        "country": "TorontoYYZ",
+        "code": "YYZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Santiago de ChileSCL",
+        "code": "SCL"
+    },
+    {
+        "flight": "departure",
+        "country": "ArmeniaAXM",
+        "code": "AXM"
+    },
+    {
+        "flight": "departure",
+        "country": "BarrancabermejaEJA",
+        "code": "EJA"
+    },
+    {
+        "flight": "departure",
+        "country": "BarranquillaBAQ",
+        "code": "BAQ"
+    },
+    {
+        "flight": "departure",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "departure",
+        "country": "BucaramangaBGA",
+        "code": "BGA"
+    },
+    {
+        "flight": "departure",
+        "country": "CaliCLO",
+        "code": "CLO"
+    },
+    {
+        "flight": "departure",
+        "country": "CartagenaCTG",
+        "code": "CTG"
+    },
+    {
+        "flight": "departure",
+        "country": "CúcutaCUC",
+        "code": "CUC"
+    },
+    {
+        "flight": "departure",
+        "country": "FlorenciaFLA",
+        "code": "FLA"
+    },
+    {
+        "flight": "departure",
+        "country": "IbaguéIBE",
+        "code": "IBE"
+    },
+    {
+        "flight": "departure",
+        "country": "IpialesIPI",
+        "code": "IPI"
+    },
+    {
+        "flight": "departure",
+        "country": "Leticia, AmazonasLET",
+        "code": "LET"
+    },
+    {
+        "flight": "departure",
+        "country": "MedellínMDE",
+        "code": "MDE"
+    },
+    {
+        "flight": "departure",
+        "country": "MonteríaMTR",
+        "code": "MTR"
+    },
+    {
+        "flight": "departure",
+        "country": "Neiva, HuilaNVA",
+        "code": "NVA"
+    },
+    {
+        "flight": "departure",
+        "country": "PastoPSO",
+        "code": "PSO"
+    },
+    {
+        "flight": "departure",
+        "country": "PereiraPEI",
+        "code": "PEI"
+    },
+    {
+        "flight": "departure",
+        "country": "PopayánPPN",
+        "code": "PPN"
+    },
+    {
+        "flight": "departure",
+        "country": "RiohachaRCH",
+        "code": "RCH"
+    },
+    {
+        "flight": "departure",
+        "country": "San AndrésADZ",
+        "code": "ADZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa MartaSMR",
+        "code": "SMR"
+    },
+    {
+        "flight": "departure",
+        "country": "ValleduparVUP",
+        "code": "VUP"
+    },
+    {
+        "flight": "departure",
+        "country": "VillavicencioVVC",
+        "code": "VVC"
+    },
+    {
+        "flight": "departure",
+        "country": "YopalEYP",
+        "code": "EYP"
+    },
+    {
+        "flight": "departure",
+        "country": "San JoséSJO",
+        "code": "SJO"
+    },
+    {
+        "flight": "departure",
+        "country": "Willemstad, CuraçaoCUR",
+        "code": "CUR"
+    },
+    {
+        "flight": "departure",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Baltra IslandGPS",
+        "code": "GPS"
+    },
+    {
+        "flight": "departure",
+        "country": "CuencaCUE",
+        "code": "CUE"
+    },
+    {
+        "flight": "departure",
+        "country": "GuayaquilGYE",
+        "code": "GYE"
+    },
+    {
+        "flight": "departure",
+        "country": "MantaMEC",
+        "code": "MEC"
+    },
+    {
+        "flight": "departure",
+        "country": "QuitoUIO",
+        "code": "UIO"
+    },
+    {
+        "flight": "departure",
+        "country": "San Cristóbal Island (GalápagosSCY",
+        "code": "SCY"
+    },
+    {
+        "flight": "departure",
+        "country": "San SalvadorSAL",
+        "code": "SAL"
+    },
+    {
+        "flight": "departure",
+        "country": "FloresFRS",
+        "code": "FRS"
+    },
+    {
+        "flight": "departure",
+        "country": "Guatemala CityGUA",
+        "code": "GUA"
+    },
+    {
+        "flight": "departure",
+        "country": "ComayaguaXPL",
+        "code": "XPL"
+    },
+    {
+        "flight": "departure",
+        "country": "San Pedro SulaSAP",
+        "code": "SAP"
+    },
+    {
+        "flight": "departure",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "departure",
+        "country": "Mexico CityMEX",
+        "code": "MEX"
+    },
+    {
+        "flight": "departure",
+        "country": "Panama CityPTY",
+        "code": "PTY"
+    },
+    {
+        "flight": "departure",
+        "country": "AsunciónASU",
+        "code": "ASU"
+    },
+    {
+        "flight": "departure",
+        "country": "CuscoCUZ",
+        "code": "CUZ"
+    },
+    {
+        "flight": "departure",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "departure",
+        "country": "San JuanSJU",
+        "code": "SJU"
+    },
+    {
+        "flight": "departure",
+        "country": "BarcelonaBCN",
+        "code": "BCN"
+    },
+    {
+        "flight": "departure",
+        "country": "MadridMAD",
+        "code": "MAD"
+    },
+    {
+        "flight": "departure",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "departure",
+        "country": "BostonBOS",
+        "code": "BOS"
+    },
+    {
+        "flight": "departure",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "departure",
+        "country": "Dallas-Fort WorthDFW",
+        "code": "DFW"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    },
+    {
+        "flight": "departure",
+        "country": "HoustonIAH",
+        "code": "IAH"
+    },
+    {
+        "flight": "departure",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "departure",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "departure",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    },
+    {
+        "flight": "departure",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "departure",
+        "country": "Oakland, East BayOAK",
+        "code": "OAK"
+    },
+    {
+        "flight": "departure",
+        "country": "OntarioONT",
+        "code": "ONT"
+    },
+    {
+        "flight": "departure",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "departure",
+        "country": "San FranciscoSFO",
+        "code": "SFO"
+    },
+    {
+        "flight": "departure",
+        "country": "WashingtonIAD",
+        "code": "IAD"
+    },
+    {
+        "flight": "departure",
+        "country": "MontevideoMVD",
+        "code": "MVD"
+    }
+]

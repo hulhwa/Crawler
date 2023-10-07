@@ -1,0 +1,182 @@
+[
+    {
+        "flight": "destination",
+        "country": "Anahim LakeYAA",
+        "code": "YAA"
+    },
+    {
+        "flight": "destination",
+        "country": "Bella BellaZEL",
+        "code": "ZEL"
+    },
+    {
+        "flight": "destination",
+        "country": "Bella CoolaQBC",
+        "code": "QBC"
+    },
+    {
+        "flight": "destination",
+        "country": "Campbell RiverYBL",
+        "code": "YBL"
+    },
+    {
+        "flight": "destination",
+        "country": "ComoxYQQ",
+        "code": "YQQ"
+    },
+    {
+        "flight": "destination",
+        "country": "KamloopsYKA",
+        "code": "YKA"
+    },
+    {
+        "flight": "destination",
+        "country": "KelownaYLW",
+        "code": "YLW"
+    },
+    {
+        "flight": "destination",
+        "country": "MassetZMT",
+        "code": "ZMT"
+    },
+    {
+        "flight": "destination",
+        "country": "NanaimoYCD",
+        "code": "YCD"
+    },
+    {
+        "flight": "destination",
+        "country": "PentictonYYF",
+        "code": "YYF"
+    },
+    {
+        "flight": "destination",
+        "country": "Port HardyYZT",
+        "code": "YZT"
+    },
+    {
+        "flight": "destination",
+        "country": "Powell RiverYPW",
+        "code": "YPW"
+    },
+    {
+        "flight": "destination",
+        "country": "Prince GeorgeYXS",
+        "code": "YXS"
+    },
+    {
+        "flight": "destination",
+        "country": "TofinoYAZ",
+        "code": "YAZ"
+    },
+    {
+        "flight": "destination",
+        "country": "TrailYZZ",
+        "code": "YZZ"
+    },
+    {
+        "flight": "destination",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "destination",
+        "country": "VictoriaYYJ",
+        "code": "YYJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Williams LakeYWL",
+        "code": "YWL"
+    },
+    {
+        "flight": "departure",
+        "country": "Anahim LakeYAA",
+        "code": "YAA"
+    },
+    {
+        "flight": "departure",
+        "country": "Bella BellaZEL",
+        "code": "ZEL"
+    },
+    {
+        "flight": "departure",
+        "country": "Bella CoolaQBC",
+        "code": "QBC"
+    },
+    {
+        "flight": "departure",
+        "country": "Campbell RiverYBL",
+        "code": "YBL"
+    },
+    {
+        "flight": "departure",
+        "country": "ComoxYQQ",
+        "code": "YQQ"
+    },
+    {
+        "flight": "departure",
+        "country": "KamloopsYKA",
+        "code": "YKA"
+    },
+    {
+        "flight": "departure",
+        "country": "KelownaYLW",
+        "code": "YLW"
+    },
+    {
+        "flight": "departure",
+        "country": "MassetZMT",
+        "code": "ZMT"
+    },
+    {
+        "flight": "departure",
+        "country": "NanaimoYCD",
+        "code": "YCD"
+    },
+    {
+        "flight": "departure",
+        "country": "PentictonYYF",
+        "code": "YYF"
+    },
+    {
+        "flight": "departure",
+        "country": "Port HardyYZT",
+        "code": "YZT"
+    },
+    {
+        "flight": "departure",
+        "country": "Powell RiverYPW",
+        "code": "YPW"
+    },
+    {
+        "flight": "departure",
+        "country": "Prince GeorgeYXS",
+        "code": "YXS"
+    },
+    {
+        "flight": "departure",
+        "country": "TofinoYAZ",
+        "code": "YAZ"
+    },
+    {
+        "flight": "departure",
+        "country": "TrailYZZ",
+        "code": "YZZ"
+    },
+    {
+        "flight": "departure",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "departure",
+        "country": "VictoriaYYJ",
+        "code": "YYJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Williams LakeYWL",
+        "code": "YWL"
+    }
+]

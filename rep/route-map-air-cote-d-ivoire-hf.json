@@ -1,0 +1,262 @@
+[
+    {
+        "flight": "destination",
+        "country": "CotonouCOO",
+        "code": "COO"
+    },
+    {
+        "flight": "destination",
+        "country": "OuagadougouOUA",
+        "code": "OUA"
+    },
+    {
+        "flight": "destination",
+        "country": "DoualaDLA",
+        "code": "DLA"
+    },
+    {
+        "flight": "destination",
+        "country": "YaoundéNSI",
+        "code": "NSI"
+    },
+    {
+        "flight": "destination",
+        "country": "AbidjanABJ",
+        "code": "ABJ"
+    },
+    {
+        "flight": "destination",
+        "country": "BouakéBYK",
+        "code": "BYK"
+    },
+    {
+        "flight": "destination",
+        "country": "KorhogoHGO",
+        "code": "HGO"
+    },
+    {
+        "flight": "destination",
+        "country": "ManMJC",
+        "code": "MJC"
+    },
+    {
+        "flight": "destination",
+        "country": "OdiennéKEO",
+        "code": "KEO"
+    },
+    {
+        "flight": "destination",
+        "country": "San-PédroSPY",
+        "code": "SPY"
+    },
+    {
+        "flight": "destination",
+        "country": "KinshasaFIH",
+        "code": "FIH"
+    },
+    {
+        "flight": "destination",
+        "country": "LibrevilleLBV",
+        "code": "LBV"
+    },
+    {
+        "flight": "destination",
+        "country": "AccraACC",
+        "code": "ACC"
+    },
+    {
+        "flight": "destination",
+        "country": "ConakryCKY",
+        "code": "CKY"
+    },
+    {
+        "flight": "destination",
+        "country": "BissauOXB",
+        "code": "OXB"
+    },
+    {
+        "flight": "destination",
+        "country": "MonroviaROB",
+        "code": "ROB"
+    },
+    {
+        "flight": "destination",
+        "country": "BamakoBKO",
+        "code": "BKO"
+    },
+    {
+        "flight": "destination",
+        "country": "CasablancaCMN",
+        "code": "CMN"
+    },
+    {
+        "flight": "destination",
+        "country": "NiameyNIM",
+        "code": "NIM"
+    },
+    {
+        "flight": "destination",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "destination",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "destination",
+        "country": "BrazzavilleBZV",
+        "code": "BZV"
+    },
+    {
+        "flight": "destination",
+        "country": "Pointe-NoirePNR",
+        "code": "PNR"
+    },
+    {
+        "flight": "destination",
+        "country": "DakarDSS",
+        "code": "DSS"
+    },
+    {
+        "flight": "destination",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "destination",
+        "country": "LoméLFW",
+        "code": "LFW"
+    },
+    {
+        "flight": "departure",
+        "country": "CotonouCOO",
+        "code": "COO"
+    },
+    {
+        "flight": "departure",
+        "country": "OuagadougouOUA",
+        "code": "OUA"
+    },
+    {
+        "flight": "departure",
+        "country": "DoualaDLA",
+        "code": "DLA"
+    },
+    {
+        "flight": "departure",
+        "country": "YaoundéNSI",
+        "code": "NSI"
+    },
+    {
+        "flight": "departure",
+        "country": "AbidjanABJ",
+        "code": "ABJ"
+    },
+    {
+        "flight": "departure",
+        "country": "BouakéBYK",
+        "code": "BYK"
+    },
+    {
+        "flight": "departure",
+        "country": "KorhogoHGO",
+        "code": "HGO"
+    },
+    {
+        "flight": "departure",
+        "country": "ManMJC",
+        "code": "MJC"
+    },
+    {
+        "flight": "departure",
+        "country": "OdiennéKEO",
+        "code": "KEO"
+    },
+    {
+        "flight": "departure",
+        "country": "San-PédroSPY",
+        "code": "SPY"
+    },
+    {
+        "flight": "departure",
+        "country": "KinshasaFIH",
+        "code": "FIH"
+    },
+    {
+        "flight": "departure",
+        "country": "LibrevilleLBV",
+        "code": "LBV"
+    },
+    {
+        "flight": "departure",
+        "country": "AccraACC",
+        "code": "ACC"
+    },
+    {
+        "flight": "departure",
+        "country": "ConakryCKY",
+        "code": "CKY"
+    },
+    {
+        "flight": "departure",
+        "country": "BissauOXB",
+        "code": "OXB"
+    },
+    {
+        "flight": "departure",
+        "country": "MonroviaROB",
+        "code": "ROB"
+    },
+    {
+        "flight": "departure",
+        "country": "BamakoBKO",
+        "code": "BKO"
+    },
+    {
+        "flight": "departure",
+        "country": "CasablancaCMN",
+        "code": "CMN"
+    },
+    {
+        "flight": "departure",
+        "country": "NiameyNIM",
+        "code": "NIM"
+    },
+    {
+        "flight": "departure",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "departure",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "departure",
+        "country": "BrazzavilleBZV",
+        "code": "BZV"
+    },
+    {
+        "flight": "departure",
+        "country": "Pointe-NoirePNR",
+        "code": "PNR"
+    },
+    {
+        "flight": "departure",
+        "country": "DakarDSS",
+        "code": "DSS"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "departure",
+        "country": "LoméLFW",
+        "code": "LFW"
+    }
+]

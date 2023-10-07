@@ -1,0 +1,162 @@
+[
+    {
+        "flight": "destination",
+        "country": "LarnacaLCA",
+        "code": "LCA"
+    },
+    {
+        "flight": "destination",
+        "country": "HurghadaHRG",
+        "code": "HRG"
+    },
+    {
+        "flight": "destination",
+        "country": "Marsa AlamRMF",
+        "code": "RMF"
+    },
+    {
+        "flight": "destination",
+        "country": "Sharm el-SheikhSSH",
+        "code": "SSH"
+    },
+    {
+        "flight": "destination",
+        "country": "Heraklion (Crete)HER",
+        "code": "HER"
+    },
+    {
+        "flight": "destination",
+        "country": "KosKGS",
+        "code": "KGS"
+    },
+    {
+        "flight": "destination",
+        "country": "RhodesRHO",
+        "code": "RHO"
+    },
+    {
+        "flight": "destination",
+        "country": "OhridOHD",
+        "code": "OHD"
+    },
+    {
+        "flight": "destination",
+        "country": "SkopjeSKP",
+        "code": "SKP"
+    },
+    {
+        "flight": "destination",
+        "country": "PristinaPRN",
+        "code": "PRN"
+    },
+    {
+        "flight": "destination",
+        "country": "FuerteventuraFUE",
+        "code": "FUE"
+    },
+    {
+        "flight": "destination",
+        "country": "Gran Canaria (Las Palmas)LPA",
+        "code": "LPA"
+    },
+    {
+        "flight": "destination",
+        "country": "IbizaIBZ",
+        "code": "IBZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Palma de MallorcaPMI",
+        "code": "PMI"
+    },
+    {
+        "flight": "destination",
+        "country": "Tenerife (Reina Sofía)TFS",
+        "code": "TFS"
+    },
+    {
+        "flight": "destination",
+        "country": "ZürichZRH",
+        "code": "ZRH"
+    },
+    {
+        "flight": "departure",
+        "country": "LarnacaLCA",
+        "code": "LCA"
+    },
+    {
+        "flight": "departure",
+        "country": "HurghadaHRG",
+        "code": "HRG"
+    },
+    {
+        "flight": "departure",
+        "country": "Marsa AlamRMF",
+        "code": "RMF"
+    },
+    {
+        "flight": "departure",
+        "country": "Sharm el-SheikhSSH",
+        "code": "SSH"
+    },
+    {
+        "flight": "departure",
+        "country": "Heraklion (Crete)HER",
+        "code": "HER"
+    },
+    {
+        "flight": "departure",
+        "country": "KosKGS",
+        "code": "KGS"
+    },
+    {
+        "flight": "departure",
+        "country": "RhodesRHO",
+        "code": "RHO"
+    },
+    {
+        "flight": "departure",
+        "country": "OhridOHD",
+        "code": "OHD"
+    },
+    {
+        "flight": "departure",
+        "country": "SkopjeSKP",
+        "code": "SKP"
+    },
+    {
+        "flight": "departure",
+        "country": "PristinaPRN",
+        "code": "PRN"
+    },
+    {
+        "flight": "departure",
+        "country": "FuerteventuraFUE",
+        "code": "FUE"
+    },
+    {
+        "flight": "departure",
+        "country": "Gran Canaria (Las Palmas)LPA",
+        "code": "LPA"
+    },
+    {
+        "flight": "departure",
+        "country": "IbizaIBZ",
+        "code": "IBZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Palma de MallorcaPMI",
+        "code": "PMI"
+    },
+    {
+        "flight": "departure",
+        "country": "Tenerife (Reina Sofía)TFS",
+        "code": "TFS"
+    },
+    {
+        "flight": "departure",
+        "country": "ZürichZRH",
+        "code": "ZRH"
+    }
+]

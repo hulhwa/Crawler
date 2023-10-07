@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "destination",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    },
+    {
+        "flight": "departure",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "departure",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    }
+]

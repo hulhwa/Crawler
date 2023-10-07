@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "Fort SimpsonYFS",
+        "code": "YFS"
+    },
+    {
+        "flight": "destination",
+        "country": "GametiYRA",
+        "code": "YRA"
+    },
+    {
+        "flight": "destination",
+        "country": "Hay RiverYHY",
+        "code": "YHY"
+    },
+    {
+        "flight": "destination",
+        "country": "Lac La MartreYLE",
+        "code": "YLE"
+    },
+    {
+        "flight": "destination",
+        "country": "LutselkeYSG",
+        "code": "YSG"
+    },
+    {
+        "flight": "destination",
+        "country": "WekweetiYFJ",
+        "code": "YFJ"
+    },
+    {
+        "flight": "destination",
+        "country": "YellowknifeYZF",
+        "code": "YZF"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort SimpsonYFS",
+        "code": "YFS"
+    },
+    {
+        "flight": "departure",
+        "country": "GametiYRA",
+        "code": "YRA"
+    },
+    {
+        "flight": "departure",
+        "country": "Hay RiverYHY",
+        "code": "YHY"
+    },
+    {
+        "flight": "departure",
+        "country": "Lac La MartreYLE",
+        "code": "YLE"
+    },
+    {
+        "flight": "departure",
+        "country": "LutselkeYSG",
+        "code": "YSG"
+    },
+    {
+        "flight": "departure",
+        "country": "WekweetiYFJ",
+        "code": "YFJ"
+    },
+    {
+        "flight": "departure",
+        "country": "YellowknifeYZF",
+        "code": "YZF"
+    }
+]

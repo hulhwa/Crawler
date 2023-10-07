@@ -1,0 +1,282 @@
+[
+    {
+        "flight": "destination",
+        "country": "SplitSPU",
+        "code": "SPU"
+    },
+    {
+        "flight": "destination",
+        "country": "TallinnTLL",
+        "code": "TLL"
+    },
+    {
+        "flight": "destination",
+        "country": "DüsseldorfDUS",
+        "code": "DUS"
+    },
+    {
+        "flight": "destination",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "destination",
+        "country": "HamburgHAM",
+        "code": "HAM"
+    },
+    {
+        "flight": "destination",
+        "country": "LeipzigLEJ",
+        "code": "LEJ"
+    },
+    {
+        "flight": "destination",
+        "country": "MunichMUC",
+        "code": "MUC"
+    },
+    {
+        "flight": "destination",
+        "country": "NurembergNUE",
+        "code": "NUE"
+    },
+    {
+        "flight": "destination",
+        "country": "StuttgartSTR",
+        "code": "STR"
+    },
+    {
+        "flight": "destination",
+        "country": "Chania (Crete)CHQ",
+        "code": "CHQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Corfu (Kerkyra)CFU",
+        "code": "CFU"
+    },
+    {
+        "flight": "destination",
+        "country": "Heraklion (Crete)HER",
+        "code": "HER"
+    },
+    {
+        "flight": "destination",
+        "country": "KarpathosAOK",
+        "code": "AOK"
+    },
+    {
+        "flight": "destination",
+        "country": "KefaloniaEFL",
+        "code": "EFL"
+    },
+    {
+        "flight": "destination",
+        "country": "KosKGS",
+        "code": "KGS"
+    },
+    {
+        "flight": "destination",
+        "country": "Preveza / LefkadaPVK",
+        "code": "PVK"
+    },
+    {
+        "flight": "destination",
+        "country": "RhodesRHO",
+        "code": "RHO"
+    },
+    {
+        "flight": "destination",
+        "country": "VolosVOL",
+        "code": "VOL"
+    },
+    {
+        "flight": "destination",
+        "country": "Zakynthos IslandZTH",
+        "code": "ZTH"
+    },
+    {
+        "flight": "destination",
+        "country": "Lamezia TermeSUF",
+        "code": "SUF"
+    },
+    {
+        "flight": "destination",
+        "country": "Olbia (Sardinia)OLB",
+        "code": "OLB"
+    },
+    {
+        "flight": "destination",
+        "country": "FaroFAO",
+        "code": "FAO"
+    },
+    {
+        "flight": "destination",
+        "country": "Gran Canaria (Las Palmas)LPA",
+        "code": "LPA"
+    },
+    {
+        "flight": "destination",
+        "country": "Jerez de la FronteraXRY",
+        "code": "XRY"
+    },
+    {
+        "flight": "destination",
+        "country": "MálagaAGP",
+        "code": "AGP"
+    },
+    {
+        "flight": "destination",
+        "country": "Palma de MallorcaPMI",
+        "code": "PMI"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa Cruz de La PalmaSPC",
+        "code": "SPC"
+    },
+    {
+        "flight": "destination",
+        "country": "Tenerife (Reina Sofía)TFS",
+        "code": "TFS"
+    },
+    {
+        "flight": "departure",
+        "country": "SplitSPU",
+        "code": "SPU"
+    },
+    {
+        "flight": "departure",
+        "country": "TallinnTLL",
+        "code": "TLL"
+    },
+    {
+        "flight": "departure",
+        "country": "DüsseldorfDUS",
+        "code": "DUS"
+    },
+    {
+        "flight": "departure",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "departure",
+        "country": "HamburgHAM",
+        "code": "HAM"
+    },
+    {
+        "flight": "departure",
+        "country": "LeipzigLEJ",
+        "code": "LEJ"
+    },
+    {
+        "flight": "departure",
+        "country": "MunichMUC",
+        "code": "MUC"
+    },
+    {
+        "flight": "departure",
+        "country": "NurembergNUE",
+        "code": "NUE"
+    },
+    {
+        "flight": "departure",
+        "country": "StuttgartSTR",
+        "code": "STR"
+    },
+    {
+        "flight": "departure",
+        "country": "Chania (Crete)CHQ",
+        "code": "CHQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Corfu (Kerkyra)CFU",
+        "code": "CFU"
+    },
+    {
+        "flight": "departure",
+        "country": "Heraklion (Crete)HER",
+        "code": "HER"
+    },
+    {
+        "flight": "departure",
+        "country": "KarpathosAOK",
+        "code": "AOK"
+    },
+    {
+        "flight": "departure",
+        "country": "KefaloniaEFL",
+        "code": "EFL"
+    },
+    {
+        "flight": "departure",
+        "country": "KosKGS",
+        "code": "KGS"
+    },
+    {
+        "flight": "departure",
+        "country": "Preveza / LefkadaPVK",
+        "code": "PVK"
+    },
+    {
+        "flight": "departure",
+        "country": "RhodesRHO",
+        "code": "RHO"
+    },
+    {
+        "flight": "departure",
+        "country": "VolosVOL",
+        "code": "VOL"
+    },
+    {
+        "flight": "departure",
+        "country": "Zakynthos IslandZTH",
+        "code": "ZTH"
+    },
+    {
+        "flight": "departure",
+        "country": "Lamezia TermeSUF",
+        "code": "SUF"
+    },
+    {
+        "flight": "departure",
+        "country": "Olbia (Sardinia)OLB",
+        "code": "OLB"
+    },
+    {
+        "flight": "departure",
+        "country": "FaroFAO",
+        "code": "FAO"
+    },
+    {
+        "flight": "departure",
+        "country": "Gran Canaria (Las Palmas)LPA",
+        "code": "LPA"
+    },
+    {
+        "flight": "departure",
+        "country": "Jerez de la FronteraXRY",
+        "code": "XRY"
+    },
+    {
+        "flight": "departure",
+        "country": "MálagaAGP",
+        "code": "AGP"
+    },
+    {
+        "flight": "departure",
+        "country": "Palma de MallorcaPMI",
+        "code": "PMI"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Cruz de La PalmaSPC",
+        "code": "SPC"
+    },
+    {
+        "flight": "departure",
+        "country": "Tenerife (Reina Sofía)TFS",
+        "code": "TFS"
+    }
+]

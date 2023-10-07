@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "destination",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "departure",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "departure",
+        "country": "JeddahJED",
+        "code": "JED"
+    }
+]

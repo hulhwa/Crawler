@@ -1,0 +1,122 @@
+[
+    {
+        "flight": "destination",
+        "country": "AlgiersALG",
+        "code": "ALG"
+    },
+    {
+        "flight": "destination",
+        "country": "AnnabaAAE",
+        "code": "AAE"
+    },
+    {
+        "flight": "destination",
+        "country": "BéjaïaBJA",
+        "code": "BJA"
+    },
+    {
+        "flight": "destination",
+        "country": "ConstantineCZL",
+        "code": "CZL"
+    },
+    {
+        "flight": "destination",
+        "country": "OranORN",
+        "code": "ORN"
+    },
+    {
+        "flight": "destination",
+        "country": "SetifQSF",
+        "code": "QSF"
+    },
+    {
+        "flight": "destination",
+        "country": "TlemcenTLM",
+        "code": "TLM"
+    },
+    {
+        "flight": "destination",
+        "country": "LilleLIL",
+        "code": "LIL"
+    },
+    {
+        "flight": "destination",
+        "country": "LyonLYS",
+        "code": "LYS"
+    },
+    {
+        "flight": "destination",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "destination",
+        "country": "PerpignanPGF",
+        "code": "PGF"
+    },
+    {
+        "flight": "destination",
+        "country": "Basel Mulhouse FreiburgBSL",
+        "code": "BSL"
+    },
+    {
+        "flight": "departure",
+        "country": "AlgiersALG",
+        "code": "ALG"
+    },
+    {
+        "flight": "departure",
+        "country": "AnnabaAAE",
+        "code": "AAE"
+    },
+    {
+        "flight": "departure",
+        "country": "BéjaïaBJA",
+        "code": "BJA"
+    },
+    {
+        "flight": "departure",
+        "country": "ConstantineCZL",
+        "code": "CZL"
+    },
+    {
+        "flight": "departure",
+        "country": "OranORN",
+        "code": "ORN"
+    },
+    {
+        "flight": "departure",
+        "country": "SetifQSF",
+        "code": "QSF"
+    },
+    {
+        "flight": "departure",
+        "country": "TlemcenTLM",
+        "code": "TLM"
+    },
+    {
+        "flight": "departure",
+        "country": "LilleLIL",
+        "code": "LIL"
+    },
+    {
+        "flight": "departure",
+        "country": "LyonLYS",
+        "code": "LYS"
+    },
+    {
+        "flight": "departure",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "departure",
+        "country": "PerpignanPGF",
+        "code": "PGF"
+    },
+    {
+        "flight": "departure",
+        "country": "Basel Mulhouse FreiburgBSL",
+        "code": "BSL"
+    }
+]

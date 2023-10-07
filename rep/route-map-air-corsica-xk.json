@@ -1,0 +1,172 @@
+[
+    {
+        "flight": "destination",
+        "country": "SalzburgSZG",
+        "code": "SZG"
+    },
+    {
+        "flight": "destination",
+        "country": "ViennaVIE",
+        "code": "VIE"
+    },
+    {
+        "flight": "destination",
+        "country": "Brussels CharleroiCRL",
+        "code": "CRL"
+    },
+    {
+        "flight": "destination",
+        "country": "Ajaccio (Corsica)AJA",
+        "code": "AJA"
+    },
+    {
+        "flight": "destination",
+        "country": "Bastia (Corsica)BIA",
+        "code": "BIA"
+    },
+    {
+        "flight": "destination",
+        "country": "Calvi (Corsica)CLY",
+        "code": "CLY"
+    },
+    {
+        "flight": "destination",
+        "country": "Clermont-FerrandCFE",
+        "code": "CFE"
+    },
+    {
+        "flight": "destination",
+        "country": "FigariFSC",
+        "code": "FSC"
+    },
+    {
+        "flight": "destination",
+        "country": "LyonLYS",
+        "code": "LYS"
+    },
+    {
+        "flight": "destination",
+        "country": "MarseilleMRS",
+        "code": "MRS"
+    },
+    {
+        "flight": "destination",
+        "country": "NantesNTE",
+        "code": "NTE"
+    },
+    {
+        "flight": "destination",
+        "country": "NiceNCE",
+        "code": "NCE"
+    },
+    {
+        "flight": "destination",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint-NazaireSNR",
+        "code": "SNR"
+    },
+    {
+        "flight": "destination",
+        "country": "ToulouseTLS",
+        "code": "TLS"
+    },
+    {
+        "flight": "destination",
+        "country": "Milan (Linate)LIN",
+        "code": "LIN"
+    },
+    {
+        "flight": "destination",
+        "country": "Rome (Fiumicino)FCO",
+        "code": "FCO"
+    },
+    {
+        "flight": "departure",
+        "country": "SalzburgSZG",
+        "code": "SZG"
+    },
+    {
+        "flight": "departure",
+        "country": "ViennaVIE",
+        "code": "VIE"
+    },
+    {
+        "flight": "departure",
+        "country": "Brussels CharleroiCRL",
+        "code": "CRL"
+    },
+    {
+        "flight": "departure",
+        "country": "Ajaccio (Corsica)AJA",
+        "code": "AJA"
+    },
+    {
+        "flight": "departure",
+        "country": "Bastia (Corsica)BIA",
+        "code": "BIA"
+    },
+    {
+        "flight": "departure",
+        "country": "Calvi (Corsica)CLY",
+        "code": "CLY"
+    },
+    {
+        "flight": "departure",
+        "country": "Clermont-FerrandCFE",
+        "code": "CFE"
+    },
+    {
+        "flight": "departure",
+        "country": "FigariFSC",
+        "code": "FSC"
+    },
+    {
+        "flight": "departure",
+        "country": "LyonLYS",
+        "code": "LYS"
+    },
+    {
+        "flight": "departure",
+        "country": "MarseilleMRS",
+        "code": "MRS"
+    },
+    {
+        "flight": "departure",
+        "country": "NantesNTE",
+        "code": "NTE"
+    },
+    {
+        "flight": "departure",
+        "country": "NiceNCE",
+        "code": "NCE"
+    },
+    {
+        "flight": "departure",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint-NazaireSNR",
+        "code": "SNR"
+    },
+    {
+        "flight": "departure",
+        "country": "ToulouseTLS",
+        "code": "TLS"
+    },
+    {
+        "flight": "departure",
+        "country": "Milan (Linate)LIN",
+        "code": "LIN"
+    },
+    {
+        "flight": "departure",
+        "country": "Rome (Fiumicino)FCO",
+        "code": "FCO"
+    }
+]

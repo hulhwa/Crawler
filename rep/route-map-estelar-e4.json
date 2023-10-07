@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "CairuMXQ",
+        "code": "MXQ"
+    },
+    {
+        "flight": "destination",
+        "country": "MaraúMUU",
+        "code": "MUU"
+    },
+    {
+        "flight": "destination",
+        "country": "Salvador da BahiaSSA",
+        "code": "SSA"
+    },
+    {
+        "flight": "departure",
+        "country": "CairuMXQ",
+        "code": "MXQ"
+    },
+    {
+        "flight": "departure",
+        "country": "MaraúMUU",
+        "code": "MUU"
+    },
+    {
+        "flight": "departure",
+        "country": "Salvador da BahiaSSA",
+        "code": "SSA"
+    }
+]

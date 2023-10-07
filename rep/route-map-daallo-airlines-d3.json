@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "destination",
+        "country": "BosasoBSA",
+        "code": "BSA"
+    },
+    {
+        "flight": "destination",
+        "country": "HargeisaHGA",
+        "code": "HGA"
+    },
+    {
+        "flight": "destination",
+        "country": "MogadishuMGQ",
+        "code": "MGQ"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "departure",
+        "country": "BosasoBSA",
+        "code": "BSA"
+    },
+    {
+        "flight": "departure",
+        "country": "HargeisaHGA",
+        "code": "HGA"
+    },
+    {
+        "flight": "departure",
+        "country": "MogadishuMGQ",
+        "code": "MGQ"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    }
+]

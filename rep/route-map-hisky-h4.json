@@ -1,0 +1,182 @@
+[
+    {
+        "flight": "destination",
+        "country": "BrusselsBRU",
+        "code": "BRU"
+    },
+    {
+        "flight": "destination",
+        "country": "Paris (Beauvais)BVA",
+        "code": "BVA"
+    },
+    {
+        "flight": "destination",
+        "country": "DüsseldorfDUS",
+        "code": "DUS"
+    },
+    {
+        "flight": "destination",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "destination",
+        "country": "DublinDUB",
+        "code": "DUB"
+    },
+    {
+        "flight": "destination",
+        "country": "Tel AvivTLV",
+        "code": "TLV"
+    },
+    {
+        "flight": "destination",
+        "country": "BolognaBLQ",
+        "code": "BLQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Milan (Bergamo)BGY",
+        "code": "BGY"
+    },
+    {
+        "flight": "destination",
+        "country": "Rome (Fiumicino)FCO",
+        "code": "FCO"
+    },
+    {
+        "flight": "destination",
+        "country": "Venice Marco PoloVCE",
+        "code": "VCE"
+    },
+    {
+        "flight": "destination",
+        "country": "ChișinăuKIV",
+        "code": "KIV"
+    },
+    {
+        "flight": "destination",
+        "country": "Baia MareBAY",
+        "code": "BAY"
+    },
+    {
+        "flight": "destination",
+        "country": "BucharestOTP",
+        "code": "OTP"
+    },
+    {
+        "flight": "destination",
+        "country": "Cluj-NapocaCLJ",
+        "code": "CLJ"
+    },
+    {
+        "flight": "destination",
+        "country": "IasiIAS",
+        "code": "IAS"
+    },
+    {
+        "flight": "destination",
+        "country": "TimișoaraTSR",
+        "code": "TSR"
+    },
+    {
+        "flight": "destination",
+        "country": "BarcelonaBCN",
+        "code": "BCN"
+    },
+    {
+        "flight": "destination",
+        "country": "MálagaAGP",
+        "code": "AGP"
+    },
+    {
+        "flight": "departure",
+        "country": "BrusselsBRU",
+        "code": "BRU"
+    },
+    {
+        "flight": "departure",
+        "country": "Paris (Beauvais)BVA",
+        "code": "BVA"
+    },
+    {
+        "flight": "departure",
+        "country": "DüsseldorfDUS",
+        "code": "DUS"
+    },
+    {
+        "flight": "departure",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "departure",
+        "country": "DublinDUB",
+        "code": "DUB"
+    },
+    {
+        "flight": "departure",
+        "country": "Tel AvivTLV",
+        "code": "TLV"
+    },
+    {
+        "flight": "departure",
+        "country": "BolognaBLQ",
+        "code": "BLQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Milan (Bergamo)BGY",
+        "code": "BGY"
+    },
+    {
+        "flight": "departure",
+        "country": "Rome (Fiumicino)FCO",
+        "code": "FCO"
+    },
+    {
+        "flight": "departure",
+        "country": "Venice Marco PoloVCE",
+        "code": "VCE"
+    },
+    {
+        "flight": "departure",
+        "country": "ChișinăuKIV",
+        "code": "KIV"
+    },
+    {
+        "flight": "departure",
+        "country": "Baia MareBAY",
+        "code": "BAY"
+    },
+    {
+        "flight": "departure",
+        "country": "BucharestOTP",
+        "code": "OTP"
+    },
+    {
+        "flight": "departure",
+        "country": "Cluj-NapocaCLJ",
+        "code": "CLJ"
+    },
+    {
+        "flight": "departure",
+        "country": "IasiIAS",
+        "code": "IAS"
+    },
+    {
+        "flight": "departure",
+        "country": "TimișoaraTSR",
+        "code": "TSR"
+    },
+    {
+        "flight": "departure",
+        "country": "BarcelonaBCN",
+        "code": "BCN"
+    },
+    {
+        "flight": "departure",
+        "country": "MálagaAGP",
+        "code": "AGP"
+    }
+]

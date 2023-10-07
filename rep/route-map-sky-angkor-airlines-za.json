@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "Phnom PenhPNH",
+        "code": "PNH"
+    },
+    {
+        "flight": "destination",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "departure",
+        "country": "Phnom PenhPNH",
+        "code": "PNH"
+    },
+    {
+        "flight": "departure",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "flight": "destination",
+        "country": "San Salvador IslandZSA",
+        "code": "ZSA"
+    },
+    {
+        "flight": "destination",
+        "country": "BrusselsBRU",
+        "code": "BRU"
+    },
+    {
+        "flight": "destination",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "destination",
+        "country": "LuxorLXR",
+        "code": "LXR"
+    },
+    {
+        "flight": "destination",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "destination",
+        "country": "CayenneCAY",
+        "code": "CAY"
+    },
+    {
+        "flight": "destination",
+        "country": "DüsseldorfDUS",
+        "code": "DUS"
+    },
+    {
+        "flight": "destination",
+        "country": "Pointe-à-PitrePTP",
+        "code": "PTP"
+    },
+    {
+        "flight": "destination",
+        "country": "Port-au-PrincePAP",
+        "code": "PAP"
+    },
+    {
+        "flight": "destination",
+        "country": "DublinDUB",
+        "code": "DUB"
+    },
+    {
+        "flight": "destination",
+        "country": "Cagliari (Sardinia)CAG",
+        "code": "CAG"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort-de-FranceFDF",
+        "code": "FDF"
+    },
+    {
+        "flight": "destination",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "destination",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "destination",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "destination",
+        "country": "Palma de MallorcaPMI",
+        "code": "PMI"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint BarthélemySBH",
+        "code": "SBH"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint MartinSFG",
+        "code": "SFG"
+    },
+    {
+        "flight": "departure",
+        "country": "San Salvador IslandZSA",
+        "code": "ZSA"
+    },
+    {
+        "flight": "departure",
+        "country": "BrusselsBRU",
+        "code": "BRU"
+    },
+    {
+        "flight": "departure",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "departure",
+        "country": "LuxorLXR",
+        "code": "LXR"
+    },
+    {
+        "flight": "departure",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "departure",
+        "country": "CayenneCAY",
+        "code": "CAY"
+    },
+    {
+        "flight": "departure",
+        "country": "DüsseldorfDUS",
+        "code": "DUS"
+    },
+    {
+        "flight": "departure",
+        "country": "Pointe-à-PitrePTP",
+        "code": "PTP"
+    },
+    {
+        "flight": "departure",
+        "country": "Port-au-PrincePAP",
+        "code": "PAP"
+    },
+    {
+        "flight": "departure",
+        "country": "DublinDUB",
+        "code": "DUB"
+    },
+    {
+        "flight": "departure",
+        "country": "Cagliari (Sardinia)CAG",
+        "code": "CAG"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort-de-FranceFDF",
+        "code": "FDF"
+    },
+    {
+        "flight": "departure",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "departure",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "departure",
+        "country": "Palma de MallorcaPMI",
+        "code": "PMI"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint BarthélemySBH",
+        "code": "SBH"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint MartinSFG",
+        "code": "SFG"
+    }
+]

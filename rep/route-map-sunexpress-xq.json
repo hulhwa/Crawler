@@ -1,0 +1,902 @@
+[
+    {
+        "flight": "destination",
+        "country": "TiranaTIA",
+        "code": "TIA"
+    },
+    {
+        "flight": "destination",
+        "country": "GrazGRZ",
+        "code": "GRZ"
+    },
+    {
+        "flight": "destination",
+        "country": "ViennaVIE",
+        "code": "VIE"
+    },
+    {
+        "flight": "destination",
+        "country": "Bahrain IslandBAH",
+        "code": "BAH"
+    },
+    {
+        "flight": "destination",
+        "country": "BrusselsBRU",
+        "code": "BRU"
+    },
+    {
+        "flight": "destination",
+        "country": "SofiaSOF",
+        "code": "SOF"
+    },
+    {
+        "flight": "destination",
+        "country": "Ercan, Northern CyprusECN",
+        "code": "ECN"
+    },
+    {
+        "flight": "destination",
+        "country": "PraguePRG",
+        "code": "PRG"
+    },
+    {
+        "flight": "destination",
+        "country": "AalborgAAL",
+        "code": "AAL"
+    },
+    {
+        "flight": "destination",
+        "country": "BillundBLL",
+        "code": "BLL"
+    },
+    {
+        "flight": "destination",
+        "country": "CopenhagenCPH",
+        "code": "CPH"
+    },
+    {
+        "flight": "destination",
+        "country": "Sharm el-SheikhSSH",
+        "code": "SSH"
+    },
+    {
+        "flight": "destination",
+        "country": "TallinnTLL",
+        "code": "TLL"
+    },
+    {
+        "flight": "destination",
+        "country": "HelsinkiHEL",
+        "code": "HEL"
+    },
+    {
+        "flight": "destination",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "destination",
+        "country": "TbilisiTBS",
+        "code": "TBS"
+    },
+    {
+        "flight": "destination",
+        "country": "BerlinBER",
+        "code": "BER"
+    },
+    {
+        "flight": "destination",
+        "country": "BremenBRE",
+        "code": "BRE"
+    },
+    {
+        "flight": "destination",
+        "country": "Cologne-BonnCGN",
+        "code": "CGN"
+    },
+    {
+        "flight": "destination",
+        "country": "DortmundDTM",
+        "code": "DTM"
+    },
+    {
+        "flight": "destination",
+        "country": "DresdenDRS",
+        "code": "DRS"
+    },
+    {
+        "flight": "destination",
+        "country": "DüsseldorfDUS",
+        "code": "DUS"
+    },
+    {
+        "flight": "destination",
+        "country": "Düsseldorf (Weeze)NRN",
+        "code": "NRN"
+    },
+    {
+        "flight": "destination",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "destination",
+        "country": "HamburgHAM",
+        "code": "HAM"
+    },
+    {
+        "flight": "destination",
+        "country": "HanoverHAJ",
+        "code": "HAJ"
+    },
+    {
+        "flight": "destination",
+        "country": "LeipzigLEJ",
+        "code": "LEJ"
+    },
+    {
+        "flight": "destination",
+        "country": "MunichMUC",
+        "code": "MUC"
+    },
+    {
+        "flight": "destination",
+        "country": "Münster / OsnabrückFMO",
+        "code": "FMO"
+    },
+    {
+        "flight": "destination",
+        "country": "NurembergNUE",
+        "code": "NUE"
+    },
+    {
+        "flight": "destination",
+        "country": "PaderbornPAD",
+        "code": "PAD"
+    },
+    {
+        "flight": "destination",
+        "country": "SaarbrückenSCN",
+        "code": "SCN"
+    },
+    {
+        "flight": "destination",
+        "country": "StuttgartSTR",
+        "code": "STR"
+    },
+    {
+        "flight": "destination",
+        "country": "BudapestBUD",
+        "code": "BUD"
+    },
+    {
+        "flight": "destination",
+        "country": "ErbilEBL",
+        "code": "EBL"
+    },
+    {
+        "flight": "destination",
+        "country": "DublinDUB",
+        "code": "DUB"
+    },
+    {
+        "flight": "destination",
+        "country": "Tel AvivTLV",
+        "code": "TLV"
+    },
+    {
+        "flight": "destination",
+        "country": "Milan (Malpensa)MXP",
+        "code": "MXP"
+    },
+    {
+        "flight": "destination",
+        "country": "Venice Marco PoloVCE",
+        "code": "VCE"
+    },
+    {
+        "flight": "destination",
+        "country": "BeirutBEY",
+        "code": "BEY"
+    },
+    {
+        "flight": "destination",
+        "country": "AmsterdamAMS",
+        "code": "AMS"
+    },
+    {
+        "flight": "destination",
+        "country": "EindhovenEIN",
+        "code": "EIN"
+    },
+    {
+        "flight": "destination",
+        "country": "GroningenGRQ",
+        "code": "GRQ"
+    },
+    {
+        "flight": "destination",
+        "country": "RotterdamRTM",
+        "code": "RTM"
+    },
+    {
+        "flight": "destination",
+        "country": "OsloOSL",
+        "code": "OSL"
+    },
+    {
+        "flight": "destination",
+        "country": "KrakowKRK",
+        "code": "KRK"
+    },
+    {
+        "flight": "destination",
+        "country": "WarsawWAW",
+        "code": "WAW"
+    },
+    {
+        "flight": "destination",
+        "country": "SkopjeSKP",
+        "code": "SKP"
+    },
+    {
+        "flight": "destination",
+        "country": "BucharestOTP",
+        "code": "OTP"
+    },
+    {
+        "flight": "destination",
+        "country": "PristinaPRN",
+        "code": "PRN"
+    },
+    {
+        "flight": "destination",
+        "country": "BarcelonaBCN",
+        "code": "BCN"
+    },
+    {
+        "flight": "destination",
+        "country": "Stockholm (Arlanda)ARN",
+        "code": "ARN"
+    },
+    {
+        "flight": "destination",
+        "country": "Basel Mulhouse FreiburgBSL",
+        "code": "BSL"
+    },
+    {
+        "flight": "destination",
+        "country": "GenevaGVA",
+        "code": "GVA"
+    },
+    {
+        "flight": "destination",
+        "country": "ZürichZRH",
+        "code": "ZRH"
+    },
+    {
+        "flight": "destination",
+        "country": "AdanaADA",
+        "code": "ADA"
+    },
+    {
+        "flight": "destination",
+        "country": "AnkaraESB",
+        "code": "ESB"
+    },
+    {
+        "flight": "destination",
+        "country": "AntalyaAYT",
+        "code": "AYT"
+    },
+    {
+        "flight": "destination",
+        "country": "BodrumBJV",
+        "code": "BJV"
+    },
+    {
+        "flight": "destination",
+        "country": "DalamanDLM",
+        "code": "DLM"
+    },
+    {
+        "flight": "destination",
+        "country": "DiyarbakırDIY",
+        "code": "DIY"
+    },
+    {
+        "flight": "destination",
+        "country": "Edremit / BalıkesirEDO",
+        "code": "EDO"
+    },
+    {
+        "flight": "destination",
+        "country": "ElazığEZS",
+        "code": "EZS"
+    },
+    {
+        "flight": "destination",
+        "country": "ErzurumERZ",
+        "code": "ERZ"
+    },
+    {
+        "flight": "destination",
+        "country": "EskişehirAOE",
+        "code": "AOE"
+    },
+    {
+        "flight": "destination",
+        "country": "GaziantepGZT",
+        "code": "GZT"
+    },
+    {
+        "flight": "destination",
+        "country": "HatayHTY",
+        "code": "HTY"
+    },
+    {
+        "flight": "destination",
+        "country": "IzmirADB",
+        "code": "ADB"
+    },
+    {
+        "flight": "destination",
+        "country": "KarsKSY",
+        "code": "KSY"
+    },
+    {
+        "flight": "destination",
+        "country": "KayseriASR",
+        "code": "ASR"
+    },
+    {
+        "flight": "destination",
+        "country": "KonyaKYA",
+        "code": "KYA"
+    },
+    {
+        "flight": "destination",
+        "country": "KütahyaKZR",
+        "code": "KZR"
+    },
+    {
+        "flight": "destination",
+        "country": "MalatyaMLX",
+        "code": "MLX"
+    },
+    {
+        "flight": "destination",
+        "country": "MardinMQM",
+        "code": "MQM"
+    },
+    {
+        "flight": "destination",
+        "country": "Ordu / GiresunOGU",
+        "code": "OGU"
+    },
+    {
+        "flight": "destination",
+        "country": "SamsunSZF",
+        "code": "SZF"
+    },
+    {
+        "flight": "destination",
+        "country": "TrabzonTZX",
+        "code": "TZX"
+    },
+    {
+        "flight": "destination",
+        "country": "VanVAN",
+        "code": "VAN"
+    },
+    {
+        "flight": "destination",
+        "country": "ZonguldakONQ",
+        "code": "ONQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Abu DhabiAUH",
+        "code": "AUH"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "destination",
+        "country": "BirminghamBHX",
+        "code": "BHX"
+    },
+    {
+        "flight": "destination",
+        "country": "BristolBRS",
+        "code": "BRS"
+    },
+    {
+        "flight": "destination",
+        "country": "EdinburghEDI",
+        "code": "EDI"
+    },
+    {
+        "flight": "destination",
+        "country": "Leeds / BradfordLBA",
+        "code": "LBA"
+    },
+    {
+        "flight": "destination",
+        "country": "London GatwickLGW",
+        "code": "LGW"
+    },
+    {
+        "flight": "destination",
+        "country": "London LutonLTN",
+        "code": "LTN"
+    },
+    {
+        "flight": "destination",
+        "country": "London StanstedSTN",
+        "code": "STN"
+    },
+    {
+        "flight": "destination",
+        "country": "ManchesterMAN",
+        "code": "MAN"
+    },
+    {
+        "flight": "destination",
+        "country": "NewcastleNCL",
+        "code": "NCL"
+    },
+    {
+        "flight": "departure",
+        "country": "TiranaTIA",
+        "code": "TIA"
+    },
+    {
+        "flight": "departure",
+        "country": "GrazGRZ",
+        "code": "GRZ"
+    },
+    {
+        "flight": "departure",
+        "country": "ViennaVIE",
+        "code": "VIE"
+    },
+    {
+        "flight": "departure",
+        "country": "Bahrain IslandBAH",
+        "code": "BAH"
+    },
+    {
+        "flight": "departure",
+        "country": "BrusselsBRU",
+        "code": "BRU"
+    },
+    {
+        "flight": "departure",
+        "country": "SofiaSOF",
+        "code": "SOF"
+    },
+    {
+        "flight": "departure",
+        "country": "Ercan, Northern CyprusECN",
+        "code": "ECN"
+    },
+    {
+        "flight": "departure",
+        "country": "PraguePRG",
+        "code": "PRG"
+    },
+    {
+        "flight": "departure",
+        "country": "AalborgAAL",
+        "code": "AAL"
+    },
+    {
+        "flight": "departure",
+        "country": "BillundBLL",
+        "code": "BLL"
+    },
+    {
+        "flight": "departure",
+        "country": "CopenhagenCPH",
+        "code": "CPH"
+    },
+    {
+        "flight": "departure",
+        "country": "Sharm el-SheikhSSH",
+        "code": "SSH"
+    },
+    {
+        "flight": "departure",
+        "country": "TallinnTLL",
+        "code": "TLL"
+    },
+    {
+        "flight": "departure",
+        "country": "HelsinkiHEL",
+        "code": "HEL"
+    },
+    {
+        "flight": "departure",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "departure",
+        "country": "TbilisiTBS",
+        "code": "TBS"
+    },
+    {
+        "flight": "departure",
+        "country": "BerlinBER",
+        "code": "BER"
+    },
+    {
+        "flight": "departure",
+        "country": "BremenBRE",
+        "code": "BRE"
+    },
+    {
+        "flight": "departure",
+        "country": "Cologne-BonnCGN",
+        "code": "CGN"
+    },
+    {
+        "flight": "departure",
+        "country": "DortmundDTM",
+        "code": "DTM"
+    },
+    {
+        "flight": "departure",
+        "country": "DresdenDRS",
+        "code": "DRS"
+    },
+    {
+        "flight": "departure",
+        "country": "DüsseldorfDUS",
+        "code": "DUS"
+    },
+    {
+        "flight": "departure",
+        "country": "Düsseldorf (Weeze)NRN",
+        "code": "NRN"
+    },
+    {
+        "flight": "departure",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "departure",
+        "country": "HamburgHAM",
+        "code": "HAM"
+    },
+    {
+        "flight": "departure",
+        "country": "HanoverHAJ",
+        "code": "HAJ"
+    },
+    {
+        "flight": "departure",
+        "country": "LeipzigLEJ",
+        "code": "LEJ"
+    },
+    {
+        "flight": "departure",
+        "country": "MunichMUC",
+        "code": "MUC"
+    },
+    {
+        "flight": "departure",
+        "country": "Münster / OsnabrückFMO",
+        "code": "FMO"
+    },
+    {
+        "flight": "departure",
+        "country": "NurembergNUE",
+        "code": "NUE"
+    },
+    {
+        "flight": "departure",
+        "country": "PaderbornPAD",
+        "code": "PAD"
+    },
+    {
+        "flight": "departure",
+        "country": "SaarbrückenSCN",
+        "code": "SCN"
+    },
+    {
+        "flight": "departure",
+        "country": "StuttgartSTR",
+        "code": "STR"
+    },
+    {
+        "flight": "departure",
+        "country": "BudapestBUD",
+        "code": "BUD"
+    },
+    {
+        "flight": "departure",
+        "country": "ErbilEBL",
+        "code": "EBL"
+    },
+    {
+        "flight": "departure",
+        "country": "DublinDUB",
+        "code": "DUB"
+    },
+    {
+        "flight": "departure",
+        "country": "Tel AvivTLV",
+        "code": "TLV"
+    },
+    {
+        "flight": "departure",
+        "country": "Milan (Malpensa)MXP",
+        "code": "MXP"
+    },
+    {
+        "flight": "departure",
+        "country": "Venice Marco PoloVCE",
+        "code": "VCE"
+    },
+    {
+        "flight": "departure",
+        "country": "BeirutBEY",
+        "code": "BEY"
+    },
+    {
+        "flight": "departure",
+        "country": "AmsterdamAMS",
+        "code": "AMS"
+    },
+    {
+        "flight": "departure",
+        "country": "EindhovenEIN",
+        "code": "EIN"
+    },
+    {
+        "flight": "departure",
+        "country": "GroningenGRQ",
+        "code": "GRQ"
+    },
+    {
+        "flight": "departure",
+        "country": "RotterdamRTM",
+        "code": "RTM"
+    },
+    {
+        "flight": "departure",
+        "country": "OsloOSL",
+        "code": "OSL"
+    },
+    {
+        "flight": "departure",
+        "country": "KrakowKRK",
+        "code": "KRK"
+    },
+    {
+        "flight": "departure",
+        "country": "WarsawWAW",
+        "code": "WAW"
+    },
+    {
+        "flight": "departure",
+        "country": "SkopjeSKP",
+        "code": "SKP"
+    },
+    {
+        "flight": "departure",
+        "country": "BucharestOTP",
+        "code": "OTP"
+    },
+    {
+        "flight": "departure",
+        "country": "PristinaPRN",
+        "code": "PRN"
+    },
+    {
+        "flight": "departure",
+        "country": "BarcelonaBCN",
+        "code": "BCN"
+    },
+    {
+        "flight": "departure",
+        "country": "Stockholm (Arlanda)ARN",
+        "code": "ARN"
+    },
+    {
+        "flight": "departure",
+        "country": "Basel Mulhouse FreiburgBSL",
+        "code": "BSL"
+    },
+    {
+        "flight": "departure",
+        "country": "GenevaGVA",
+        "code": "GVA"
+    },
+    {
+        "flight": "departure",
+        "country": "ZürichZRH",
+        "code": "ZRH"
+    },
+    {
+        "flight": "departure",
+        "country": "AdanaADA",
+        "code": "ADA"
+    },
+    {
+        "flight": "departure",
+        "country": "AnkaraESB",
+        "code": "ESB"
+    },
+    {
+        "flight": "departure",
+        "country": "AntalyaAYT",
+        "code": "AYT"
+    },
+    {
+        "flight": "departure",
+        "country": "BodrumBJV",
+        "code": "BJV"
+    },
+    {
+        "flight": "departure",
+        "country": "DalamanDLM",
+        "code": "DLM"
+    },
+    {
+        "flight": "departure",
+        "country": "DiyarbakırDIY",
+        "code": "DIY"
+    },
+    {
+        "flight": "departure",
+        "country": "Edremit / BalıkesirEDO",
+        "code": "EDO"
+    },
+    {
+        "flight": "departure",
+        "country": "ElazığEZS",
+        "code": "EZS"
+    },
+    {
+        "flight": "departure",
+        "country": "ErzurumERZ",
+        "code": "ERZ"
+    },
+    {
+        "flight": "departure",
+        "country": "EskişehirAOE",
+        "code": "AOE"
+    },
+    {
+        "flight": "departure",
+        "country": "GaziantepGZT",
+        "code": "GZT"
+    },
+    {
+        "flight": "departure",
+        "country": "HatayHTY",
+        "code": "HTY"
+    },
+    {
+        "flight": "departure",
+        "country": "IzmirADB",
+        "code": "ADB"
+    },
+    {
+        "flight": "departure",
+        "country": "KarsKSY",
+        "code": "KSY"
+    },
+    {
+        "flight": "departure",
+        "country": "KayseriASR",
+        "code": "ASR"
+    },
+    {
+        "flight": "departure",
+        "country": "KonyaKYA",
+        "code": "KYA"
+    },
+    {
+        "flight": "departure",
+        "country": "KütahyaKZR",
+        "code": "KZR"
+    },
+    {
+        "flight": "departure",
+        "country": "MalatyaMLX",
+        "code": "MLX"
+    },
+    {
+        "flight": "departure",
+        "country": "MardinMQM",
+        "code": "MQM"
+    },
+    {
+        "flight": "departure",
+        "country": "Ordu / GiresunOGU",
+        "code": "OGU"
+    },
+    {
+        "flight": "departure",
+        "country": "SamsunSZF",
+        "code": "SZF"
+    },
+    {
+        "flight": "departure",
+        "country": "TrabzonTZX",
+        "code": "TZX"
+    },
+    {
+        "flight": "departure",
+        "country": "VanVAN",
+        "code": "VAN"
+    },
+    {
+        "flight": "departure",
+        "country": "ZonguldakONQ",
+        "code": "ONQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Abu DhabiAUH",
+        "code": "AUH"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "BirminghamBHX",
+        "code": "BHX"
+    },
+    {
+        "flight": "departure",
+        "country": "BristolBRS",
+        "code": "BRS"
+    },
+    {
+        "flight": "departure",
+        "country": "EdinburghEDI",
+        "code": "EDI"
+    },
+    {
+        "flight": "departure",
+        "country": "Leeds / BradfordLBA",
+        "code": "LBA"
+    },
+    {
+        "flight": "departure",
+        "country": "London GatwickLGW",
+        "code": "LGW"
+    },
+    {
+        "flight": "departure",
+        "country": "London LutonLTN",
+        "code": "LTN"
+    },
+    {
+        "flight": "departure",
+        "country": "London StanstedSTN",
+        "code": "STN"
+    },
+    {
+        "flight": "departure",
+        "country": "ManchesterMAN",
+        "code": "MAN"
+    },
+    {
+        "flight": "departure",
+        "country": "NewcastleNCL",
+        "code": "NCL"
+    }
+]

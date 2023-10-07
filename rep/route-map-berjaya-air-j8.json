@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "Kuala LumpurSZB",
+        "code": "SZB"
+    },
+    {
+        "flight": "destination",
+        "country": "RedangRDN",
+        "code": "RDN"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuala LumpurSZB",
+        "code": "SZB"
+    },
+    {
+        "flight": "departure",
+        "country": "RedangRDN",
+        "code": "RDN"
+    }
+]

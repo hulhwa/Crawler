@@ -1,0 +1,102 @@
+[
+    {
+        "flight": "destination",
+        "country": "IslamabadISB",
+        "code": "ISB"
+    },
+    {
+        "flight": "destination",
+        "country": "KarachiKHI",
+        "code": "KHI"
+    },
+    {
+        "flight": "destination",
+        "country": "LahoreLHE",
+        "code": "LHE"
+    },
+    {
+        "flight": "destination",
+        "country": "MultanMUX",
+        "code": "MUX"
+    },
+    {
+        "flight": "destination",
+        "country": "SkarduKDU",
+        "code": "KDU"
+    },
+    {
+        "flight": "destination",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "destination",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "destination",
+        "country": "Abu DhabiAUH",
+        "code": "AUH"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "destination",
+        "country": "Dubai (Sharjah)SHJ",
+        "code": "SHJ"
+    },
+    {
+        "flight": "departure",
+        "country": "IslamabadISB",
+        "code": "ISB"
+    },
+    {
+        "flight": "departure",
+        "country": "KarachiKHI",
+        "code": "KHI"
+    },
+    {
+        "flight": "departure",
+        "country": "LahoreLHE",
+        "code": "LHE"
+    },
+    {
+        "flight": "departure",
+        "country": "MultanMUX",
+        "code": "MUX"
+    },
+    {
+        "flight": "departure",
+        "country": "SkarduKDU",
+        "code": "KDU"
+    },
+    {
+        "flight": "departure",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "departure",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "departure",
+        "country": "Abu DhabiAUH",
+        "code": "AUH"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "Dubai (Sharjah)SHJ",
+        "code": "SHJ"
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "flight": "destination",
+        "country": "Boa VistaBVC",
+        "code": "BVC"
+    },
+    {
+        "flight": "destination",
+        "country": "Sal, Cape VerdeSID",
+        "code": "SID"
+    },
+    {
+        "flight": "destination",
+        "country": "DubrovnikDBV",
+        "code": "DBV"
+    },
+    {
+        "flight": "destination",
+        "country": "HurghadaHRG",
+        "code": "HRG"
+    },
+    {
+        "flight": "destination",
+        "country": "Marsa AlamRMF",
+        "code": "RMF"
+    },
+    {
+        "flight": "destination",
+        "country": "Sharm el-SheikhSSH",
+        "code": "SSH"
+    },
+    {
+        "flight": "destination",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "destination",
+        "country": "AgadirAGA",
+        "code": "AGA"
+    },
+    {
+        "flight": "destination",
+        "country": "MarrakechRAK",
+        "code": "RAK"
+    },
+    {
+        "flight": "destination",
+        "country": "BirminghamBHX",
+        "code": "BHX"
+    },
+    {
+        "flight": "destination",
+        "country": "BristolBRS",
+        "code": "BRS"
+    },
+    {
+        "flight": "destination",
+        "country": "CardiffCWL",
+        "code": "CWL"
+    },
+    {
+        "flight": "destination",
+        "country": "GlasgowGLA",
+        "code": "GLA"
+    },
+    {
+        "flight": "destination",
+        "country": "Leeds / BradfordLBA",
+        "code": "LBA"
+    },
+    {
+        "flight": "destination",
+        "country": "London GatwickLGW",
+        "code": "LGW"
+    },
+    {
+        "flight": "destination",
+        "country": "London StanstedSTN",
+        "code": "STN"
+    },
+    {
+        "flight": "destination",
+        "country": "ManchesterMAN",
+        "code": "MAN"
+    },
+    {
+        "flight": "destination",
+        "country": "NewcastleNCL",
+        "code": "NCL"
+    },
+    {
+        "flight": "destination",
+        "country": "NottinghamEMA",
+        "code": "EMA"
+    },
+    {
+        "flight": "departure",
+        "country": "Boa VistaBVC",
+        "code": "BVC"
+    },
+    {
+        "flight": "departure",
+        "country": "Sal, Cape VerdeSID",
+        "code": "SID"
+    },
+    {
+        "flight": "departure",
+        "country": "DubrovnikDBV",
+        "code": "DBV"
+    },
+    {
+        "flight": "departure",
+        "country": "HurghadaHRG",
+        "code": "HRG"
+    },
+    {
+        "flight": "departure",
+        "country": "Marsa AlamRMF",
+        "code": "RMF"
+    },
+    {
+        "flight": "departure",
+        "country": "Sharm el-SheikhSSH",
+        "code": "SSH"
+    },
+    {
+        "flight": "departure",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "departure",
+        "country": "AgadirAGA",
+        "code": "AGA"
+    },
+    {
+        "flight": "departure",
+        "country": "MarrakechRAK",
+        "code": "RAK"
+    },
+    {
+        "flight": "departure",
+        "country": "BirminghamBHX",
+        "code": "BHX"
+    },
+    {
+        "flight": "departure",
+        "country": "BristolBRS",
+        "code": "BRS"
+    },
+    {
+        "flight": "departure",
+        "country": "CardiffCWL",
+        "code": "CWL"
+    },
+    {
+        "flight": "departure",
+        "country": "GlasgowGLA",
+        "code": "GLA"
+    },
+    {
+        "flight": "departure",
+        "country": "Leeds / BradfordLBA",
+        "code": "LBA"
+    },
+    {
+        "flight": "departure",
+        "country": "London GatwickLGW",
+        "code": "LGW"
+    },
+    {
+        "flight": "departure",
+        "country": "London StanstedSTN",
+        "code": "STN"
+    },
+    {
+        "flight": "departure",
+        "country": "ManchesterMAN",
+        "code": "MAN"
+    },
+    {
+        "flight": "departure",
+        "country": "NewcastleNCL",
+        "code": "NCL"
+    },
+    {
+        "flight": "departure",
+        "country": "NottinghamEMA",
+        "code": "EMA"
+    }
+]

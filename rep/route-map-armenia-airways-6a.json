@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "YerevanEVN",
+        "code": "EVN"
+    },
+    {
+        "flight": "destination",
+        "country": "TehranIKA",
+        "code": "IKA"
+    },
+    {
+        "flight": "destination",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "departure",
+        "country": "YerevanEVN",
+        "code": "EVN"
+    },
+    {
+        "flight": "departure",
+        "country": "TehranIKA",
+        "code": "IKA"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    }
+]

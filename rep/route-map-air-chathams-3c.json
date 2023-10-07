@@ -1,0 +1,82 @@
+[
+    {
+        "flight": "destination",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "destination",
+        "country": "ChristchurchCHC",
+        "code": "CHC"
+    },
+    {
+        "flight": "destination",
+        "country": "Paraparaumu BeachPPQ",
+        "code": "PPQ"
+    },
+    {
+        "flight": "destination",
+        "country": "WaitangiCHT",
+        "code": "CHT"
+    },
+    {
+        "flight": "destination",
+        "country": "WellingtonWLG",
+        "code": "WLG"
+    },
+    {
+        "flight": "destination",
+        "country": "WhakataneWHK",
+        "code": "WHK"
+    },
+    {
+        "flight": "destination",
+        "country": "WhanganuiWAG",
+        "code": "WAG"
+    },
+    {
+        "flight": "destination",
+        "country": "Norfolk IslandNLK",
+        "code": "NLK"
+    },
+    {
+        "flight": "departure",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "departure",
+        "country": "ChristchurchCHC",
+        "code": "CHC"
+    },
+    {
+        "flight": "departure",
+        "country": "Paraparaumu BeachPPQ",
+        "code": "PPQ"
+    },
+    {
+        "flight": "departure",
+        "country": "WaitangiCHT",
+        "code": "CHT"
+    },
+    {
+        "flight": "departure",
+        "country": "WellingtonWLG",
+        "code": "WLG"
+    },
+    {
+        "flight": "departure",
+        "country": "WhakataneWHK",
+        "code": "WHK"
+    },
+    {
+        "flight": "departure",
+        "country": "WhanganuiWAG",
+        "code": "WAG"
+    },
+    {
+        "flight": "departure",
+        "country": "Norfolk IslandNLK",
+        "code": "NLK"
+    }
+]

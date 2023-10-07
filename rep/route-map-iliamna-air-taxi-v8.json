@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "IliamnaILI",
+        "code": "ILI"
+    },
+    {
+        "flight": "destination",
+        "country": "KakhonakKNK",
+        "code": "KNK"
+    },
+    {
+        "flight": "destination",
+        "country": "NondaltonNNL",
+        "code": "NNL"
+    },
+    {
+        "flight": "destination",
+        "country": "Pedro BayPDB",
+        "code": "PDB"
+    },
+    {
+        "flight": "destination",
+        "country": "Port AlsworthPTA",
+        "code": "PTA"
+    },
+    {
+        "flight": "departure",
+        "country": "IliamnaILI",
+        "code": "ILI"
+    },
+    {
+        "flight": "departure",
+        "country": "KakhonakKNK",
+        "code": "KNK"
+    },
+    {
+        "flight": "departure",
+        "country": "NondaltonNNL",
+        "code": "NNL"
+    },
+    {
+        "flight": "departure",
+        "country": "Pedro BayPDB",
+        "code": "PDB"
+    },
+    {
+        "flight": "departure",
+        "country": "Port AlsworthPTA",
+        "code": "PTA"
+    }
+]

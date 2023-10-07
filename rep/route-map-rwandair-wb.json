@@ -1,0 +1,262 @@
+[
+    {
+        "flight": "destination",
+        "country": "BrusselsBRU",
+        "code": "BRU"
+    },
+    {
+        "flight": "destination",
+        "country": "CotonouCOO",
+        "code": "COO"
+    },
+    {
+        "flight": "destination",
+        "country": "BujumburaBJM",
+        "code": "BJM"
+    },
+    {
+        "flight": "destination",
+        "country": "DoualaDLA",
+        "code": "DLA"
+    },
+    {
+        "flight": "destination",
+        "country": "BanguiBGF",
+        "code": "BGF"
+    },
+    {
+        "flight": "destination",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "destination",
+        "country": "LibrevilleLBV",
+        "code": "LBV"
+    },
+    {
+        "flight": "destination",
+        "country": "AccraACC",
+        "code": "ACC"
+    },
+    {
+        "flight": "destination",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "destination",
+        "country": "MombasaMBA",
+        "code": "MBA"
+    },
+    {
+        "flight": "destination",
+        "country": "NairobiNBO",
+        "code": "NBO"
+    },
+    {
+        "flight": "destination",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "destination",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "destination",
+        "country": "DohaDOH",
+        "code": "DOH"
+    },
+    {
+        "flight": "destination",
+        "country": "BrazzavilleBZV",
+        "code": "BZV"
+    },
+    {
+        "flight": "destination",
+        "country": "CyanguguKME",
+        "code": "KME"
+    },
+    {
+        "flight": "destination",
+        "country": "KigaliKGL",
+        "code": "KGL"
+    },
+    {
+        "flight": "destination",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "destination",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "destination",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "destination",
+        "country": "KilimanjaroJRO",
+        "code": "JRO"
+    },
+    {
+        "flight": "destination",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "destination",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "destination",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "destination",
+        "country": "HarareHRE",
+        "code": "HRE"
+    },
+    {
+        "flight": "departure",
+        "country": "BrusselsBRU",
+        "code": "BRU"
+    },
+    {
+        "flight": "departure",
+        "country": "CotonouCOO",
+        "code": "COO"
+    },
+    {
+        "flight": "departure",
+        "country": "BujumburaBJM",
+        "code": "BJM"
+    },
+    {
+        "flight": "departure",
+        "country": "DoualaDLA",
+        "code": "DLA"
+    },
+    {
+        "flight": "departure",
+        "country": "BanguiBGF",
+        "code": "BGF"
+    },
+    {
+        "flight": "departure",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "departure",
+        "country": "LibrevilleLBV",
+        "code": "LBV"
+    },
+    {
+        "flight": "departure",
+        "country": "AccraACC",
+        "code": "ACC"
+    },
+    {
+        "flight": "departure",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "departure",
+        "country": "MombasaMBA",
+        "code": "MBA"
+    },
+    {
+        "flight": "departure",
+        "country": "NairobiNBO",
+        "code": "NBO"
+    },
+    {
+        "flight": "departure",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "departure",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "departure",
+        "country": "DohaDOH",
+        "code": "DOH"
+    },
+    {
+        "flight": "departure",
+        "country": "BrazzavilleBZV",
+        "code": "BZV"
+    },
+    {
+        "flight": "departure",
+        "country": "CyanguguKME",
+        "code": "KME"
+    },
+    {
+        "flight": "departure",
+        "country": "KigaliKGL",
+        "code": "KGL"
+    },
+    {
+        "flight": "departure",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "departure",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "departure",
+        "country": "KilimanjaroJRO",
+        "code": "JRO"
+    },
+    {
+        "flight": "departure",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "departure",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "departure",
+        "country": "HarareHRE",
+        "code": "HRE"
+    }
+]

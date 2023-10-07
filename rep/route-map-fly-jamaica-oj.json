@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "KuressaareURE",
+        "code": "URE"
+    },
+    {
+        "flight": "destination",
+        "country": "TallinnTLL",
+        "code": "TLL"
+    },
+    {
+        "flight": "destination",
+        "country": "HelsinkiHEL",
+        "code": "HEL"
+    },
+    {
+        "flight": "destination",
+        "country": "SavonlinnaSVL",
+        "code": "SVL"
+    },
+    {
+        "flight": "departure",
+        "country": "KuressaareURE",
+        "code": "URE"
+    },
+    {
+        "flight": "departure",
+        "country": "TallinnTLL",
+        "code": "TLL"
+    },
+    {
+        "flight": "departure",
+        "country": "HelsinkiHEL",
+        "code": "HEL"
+    },
+    {
+        "flight": "departure",
+        "country": "SavonlinnaSVL",
+        "code": "SVL"
+    }
+]

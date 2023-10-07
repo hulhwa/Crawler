@@ -1,0 +1,612 @@
+[
+    {
+        "flight": "destination",
+        "country": "Bahía BlancaBHI",
+        "code": "BHI"
+    },
+    {
+        "flight": "destination",
+        "country": "Buenos AiresAEP",
+        "code": "AEP"
+    },
+    {
+        "flight": "destination",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "destination",
+        "country": "Comodoro RivadaviaCRD",
+        "code": "CRD"
+    },
+    {
+        "flight": "destination",
+        "country": "CórdobaCOR",
+        "code": "COR"
+    },
+    {
+        "flight": "destination",
+        "country": "CorrientesCNQ",
+        "code": "CNQ"
+    },
+    {
+        "flight": "destination",
+        "country": "El CalafateFTE",
+        "code": "FTE"
+    },
+    {
+        "flight": "destination",
+        "country": "EsquelEQS",
+        "code": "EQS"
+    },
+    {
+        "flight": "destination",
+        "country": "FormosaFMA",
+        "code": "FMA"
+    },
+    {
+        "flight": "destination",
+        "country": "La RiojaIRJ",
+        "code": "IRJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Mar del PlataMDQ",
+        "code": "MDQ"
+    },
+    {
+        "flight": "destination",
+        "country": "MendozaMDZ",
+        "code": "MDZ"
+    },
+    {
+        "flight": "destination",
+        "country": "NeuquénNQN",
+        "code": "NQN"
+    },
+    {
+        "flight": "destination",
+        "country": "ParanáPRA",
+        "code": "PRA"
+    },
+    {
+        "flight": "destination",
+        "country": "PosadasPSS",
+        "code": "PSS"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto IguazúIGR",
+        "code": "IGR"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto MadrynPMY",
+        "code": "PMY"
+    },
+    {
+        "flight": "destination",
+        "country": "ReconquistaRCQ",
+        "code": "RCQ"
+    },
+    {
+        "flight": "destination",
+        "country": "ResistenciaRES",
+        "code": "RES"
+    },
+    {
+        "flight": "destination",
+        "country": "Río CuartoRCU",
+        "code": "RCU"
+    },
+    {
+        "flight": "destination",
+        "country": "Río GallegosRGL",
+        "code": "RGL"
+    },
+    {
+        "flight": "destination",
+        "country": "Río GrandeRGA",
+        "code": "RGA"
+    },
+    {
+        "flight": "destination",
+        "country": "RosarioROS",
+        "code": "ROS"
+    },
+    {
+        "flight": "destination",
+        "country": "SaltaSLA",
+        "code": "SLA"
+    },
+    {
+        "flight": "destination",
+        "country": "San Carlos de BarilocheBRC",
+        "code": "BRC"
+    },
+    {
+        "flight": "destination",
+        "country": "San Fernando del Valle de CatamaCTC",
+        "code": "CTC"
+    },
+    {
+        "flight": "destination",
+        "country": "San JuanUAQ",
+        "code": "UAQ"
+    },
+    {
+        "flight": "destination",
+        "country": "San LuisLUQ",
+        "code": "LUQ"
+    },
+    {
+        "flight": "destination",
+        "country": "San Martín de los AndesCPC",
+        "code": "CPC"
+    },
+    {
+        "flight": "destination",
+        "country": "San RafaelAFA",
+        "code": "AFA"
+    },
+    {
+        "flight": "destination",
+        "country": "San Salvador de JujuyJUJ",
+        "code": "JUJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa FeSFN",
+        "code": "SFN"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa RosaRSA",
+        "code": "RSA"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa Rosa de ConlaraRLO",
+        "code": "RLO"
+    },
+    {
+        "flight": "destination",
+        "country": "Santiago del EsteroSDE",
+        "code": "SDE"
+    },
+    {
+        "flight": "destination",
+        "country": "Termas de Río HondoRHD",
+        "code": "RHD"
+    },
+    {
+        "flight": "destination",
+        "country": "TrelewREL",
+        "code": "REL"
+    },
+    {
+        "flight": "destination",
+        "country": "TucumánTUC",
+        "code": "TUC"
+    },
+    {
+        "flight": "destination",
+        "country": "UshuaiaUSH",
+        "code": "USH"
+    },
+    {
+        "flight": "destination",
+        "country": "ViedmaVDM",
+        "code": "VDM"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa Cruz de la SierraVVI",
+        "code": "VVI"
+    },
+    {
+        "flight": "destination",
+        "country": "BrasíliaBSB",
+        "code": "BSB"
+    },
+    {
+        "flight": "destination",
+        "country": "CuritibaCWB",
+        "code": "CWB"
+    },
+    {
+        "flight": "destination",
+        "country": "FlorianópolisFLN",
+        "code": "FLN"
+    },
+    {
+        "flight": "destination",
+        "country": "Porto AlegrePOA",
+        "code": "POA"
+    },
+    {
+        "flight": "destination",
+        "country": "Rio de JaneiroGIG",
+        "code": "GIG"
+    },
+    {
+        "flight": "destination",
+        "country": "Salvador da BahiaSSA",
+        "code": "SSA"
+    },
+    {
+        "flight": "destination",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "destination",
+        "country": "Santiago de ChileSCL",
+        "code": "SCL"
+    },
+    {
+        "flight": "destination",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "destination",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "destination",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Rome (Fiumicino)FCO",
+        "code": "FCO"
+    },
+    {
+        "flight": "destination",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "destination",
+        "country": "AsunciónASU",
+        "code": "ASU"
+    },
+    {
+        "flight": "destination",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "destination",
+        "country": "MadridMAD",
+        "code": "MAD"
+    },
+    {
+        "flight": "destination",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    },
+    {
+        "flight": "destination",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "destination",
+        "country": "MontevideoMVD",
+        "code": "MVD"
+    },
+    {
+        "flight": "destination",
+        "country": "Punta del EstePDP",
+        "code": "PDP"
+    },
+    {
+        "flight": "departure",
+        "country": "Bahía BlancaBHI",
+        "code": "BHI"
+    },
+    {
+        "flight": "departure",
+        "country": "Buenos AiresAEP",
+        "code": "AEP"
+    },
+    {
+        "flight": "departure",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "departure",
+        "country": "Comodoro RivadaviaCRD",
+        "code": "CRD"
+    },
+    {
+        "flight": "departure",
+        "country": "CórdobaCOR",
+        "code": "COR"
+    },
+    {
+        "flight": "departure",
+        "country": "CorrientesCNQ",
+        "code": "CNQ"
+    },
+    {
+        "flight": "departure",
+        "country": "El CalafateFTE",
+        "code": "FTE"
+    },
+    {
+        "flight": "departure",
+        "country": "EsquelEQS",
+        "code": "EQS"
+    },
+    {
+        "flight": "departure",
+        "country": "FormosaFMA",
+        "code": "FMA"
+    },
+    {
+        "flight": "departure",
+        "country": "La RiojaIRJ",
+        "code": "IRJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Mar del PlataMDQ",
+        "code": "MDQ"
+    },
+    {
+        "flight": "departure",
+        "country": "MendozaMDZ",
+        "code": "MDZ"
+    },
+    {
+        "flight": "departure",
+        "country": "NeuquénNQN",
+        "code": "NQN"
+    },
+    {
+        "flight": "departure",
+        "country": "ParanáPRA",
+        "code": "PRA"
+    },
+    {
+        "flight": "departure",
+        "country": "PosadasPSS",
+        "code": "PSS"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto IguazúIGR",
+        "code": "IGR"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto MadrynPMY",
+        "code": "PMY"
+    },
+    {
+        "flight": "departure",
+        "country": "ReconquistaRCQ",
+        "code": "RCQ"
+    },
+    {
+        "flight": "departure",
+        "country": "ResistenciaRES",
+        "code": "RES"
+    },
+    {
+        "flight": "departure",
+        "country": "Río CuartoRCU",
+        "code": "RCU"
+    },
+    {
+        "flight": "departure",
+        "country": "Río GallegosRGL",
+        "code": "RGL"
+    },
+    {
+        "flight": "departure",
+        "country": "Río GrandeRGA",
+        "code": "RGA"
+    },
+    {
+        "flight": "departure",
+        "country": "RosarioROS",
+        "code": "ROS"
+    },
+    {
+        "flight": "departure",
+        "country": "SaltaSLA",
+        "code": "SLA"
+    },
+    {
+        "flight": "departure",
+        "country": "San Carlos de BarilocheBRC",
+        "code": "BRC"
+    },
+    {
+        "flight": "departure",
+        "country": "San Fernando del Valle de CatamaCTC",
+        "code": "CTC"
+    },
+    {
+        "flight": "departure",
+        "country": "San JuanUAQ",
+        "code": "UAQ"
+    },
+    {
+        "flight": "departure",
+        "country": "San LuisLUQ",
+        "code": "LUQ"
+    },
+    {
+        "flight": "departure",
+        "country": "San Martín de los AndesCPC",
+        "code": "CPC"
+    },
+    {
+        "flight": "departure",
+        "country": "San RafaelAFA",
+        "code": "AFA"
+    },
+    {
+        "flight": "departure",
+        "country": "San Salvador de JujuyJUJ",
+        "code": "JUJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa FeSFN",
+        "code": "SFN"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa RosaRSA",
+        "code": "RSA"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Rosa de ConlaraRLO",
+        "code": "RLO"
+    },
+    {
+        "flight": "departure",
+        "country": "Santiago del EsteroSDE",
+        "code": "SDE"
+    },
+    {
+        "flight": "departure",
+        "country": "Termas de Río HondoRHD",
+        "code": "RHD"
+    },
+    {
+        "flight": "departure",
+        "country": "TrelewREL",
+        "code": "REL"
+    },
+    {
+        "flight": "departure",
+        "country": "TucumánTUC",
+        "code": "TUC"
+    },
+    {
+        "flight": "departure",
+        "country": "UshuaiaUSH",
+        "code": "USH"
+    },
+    {
+        "flight": "departure",
+        "country": "ViedmaVDM",
+        "code": "VDM"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Cruz de la SierraVVI",
+        "code": "VVI"
+    },
+    {
+        "flight": "departure",
+        "country": "BrasíliaBSB",
+        "code": "BSB"
+    },
+    {
+        "flight": "departure",
+        "country": "CuritibaCWB",
+        "code": "CWB"
+    },
+    {
+        "flight": "departure",
+        "country": "FlorianópolisFLN",
+        "code": "FLN"
+    },
+    {
+        "flight": "departure",
+        "country": "Porto AlegrePOA",
+        "code": "POA"
+    },
+    {
+        "flight": "departure",
+        "country": "Rio de JaneiroGIG",
+        "code": "GIG"
+    },
+    {
+        "flight": "departure",
+        "country": "Salvador da BahiaSSA",
+        "code": "SSA"
+    },
+    {
+        "flight": "departure",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "departure",
+        "country": "Santiago de ChileSCL",
+        "code": "SCL"
+    },
+    {
+        "flight": "departure",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "departure",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "departure",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Rome (Fiumicino)FCO",
+        "code": "FCO"
+    },
+    {
+        "flight": "departure",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "departure",
+        "country": "AsunciónASU",
+        "code": "ASU"
+    },
+    {
+        "flight": "departure",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "departure",
+        "country": "MadridMAD",
+        "code": "MAD"
+    },
+    {
+        "flight": "departure",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    },
+    {
+        "flight": "departure",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "departure",
+        "country": "MontevideoMVD",
+        "code": "MVD"
+    },
+    {
+        "flight": "departure",
+        "country": "Punta del EstePDP",
+        "code": "PDP"
+    }
+]

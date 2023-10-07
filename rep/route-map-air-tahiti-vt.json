@@ -1,0 +1,482 @@
+[
+    {
+        "flight": "destination",
+        "country": "Rarotonga IslandRAR",
+        "code": "RAR"
+    },
+    {
+        "flight": "destination",
+        "country": "AheAHE",
+        "code": "AHE"
+    },
+    {
+        "flight": "destination",
+        "country": "AnaaAAA",
+        "code": "AAA"
+    },
+    {
+        "flight": "destination",
+        "country": "ApatakiAPK",
+        "code": "APK"
+    },
+    {
+        "flight": "destination",
+        "country": "AratikaRKA",
+        "code": "RKA"
+    },
+    {
+        "flight": "destination",
+        "country": "ArutuaAXR",
+        "code": "AXR"
+    },
+    {
+        "flight": "destination",
+        "country": "AtuonaAUQ",
+        "code": "AUQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Bora BoraBOB",
+        "code": "BOB"
+    },
+    {
+        "flight": "destination",
+        "country": "FaaiteFAC",
+        "code": "FAC"
+    },
+    {
+        "flight": "destination",
+        "country": "FakahinaFHZ",
+        "code": "FHZ"
+    },
+    {
+        "flight": "destination",
+        "country": "FakaravaFAV",
+        "code": "FAV"
+    },
+    {
+        "flight": "destination",
+        "country": "FangatauFGU",
+        "code": "FGU"
+    },
+    {
+        "flight": "destination",
+        "country": "Hao IslandHOI",
+        "code": "HOI"
+    },
+    {
+        "flight": "destination",
+        "country": "HikueruHHZ",
+        "code": "HHZ"
+    },
+    {
+        "flight": "destination",
+        "country": "HuahineHUH",
+        "code": "HUH"
+    },
+    {
+        "flight": "destination",
+        "country": "KatiuKXU",
+        "code": "KXU"
+    },
+    {
+        "flight": "destination",
+        "country": "KauehiKHZ",
+        "code": "KHZ"
+    },
+    {
+        "flight": "destination",
+        "country": "KaukuraKKR",
+        "code": "KKR"
+    },
+    {
+        "flight": "destination",
+        "country": "MakemoMKP",
+        "code": "MKP"
+    },
+    {
+        "flight": "destination",
+        "country": "ManihiXMH",
+        "code": "XMH"
+    },
+    {
+        "flight": "destination",
+        "country": "MataivaMVT",
+        "code": "MVT"
+    },
+    {
+        "flight": "destination",
+        "country": "MaupitiMAU",
+        "code": "MAU"
+    },
+    {
+        "flight": "destination",
+        "country": "MooreaMOZ",
+        "code": "MOZ"
+    },
+    {
+        "flight": "destination",
+        "country": "NapukaNAU",
+        "code": "NAU"
+    },
+    {
+        "flight": "destination",
+        "country": "NiauNIU",
+        "code": "NIU"
+    },
+    {
+        "flight": "destination",
+        "country": "Nuku HivaNHV",
+        "code": "NHV"
+    },
+    {
+        "flight": "destination",
+        "country": "NukutavakeNUK",
+        "code": "NUK"
+    },
+    {
+        "flight": "destination",
+        "country": "Puka-PukaPKP",
+        "code": "PKP"
+    },
+    {
+        "flight": "destination",
+        "country": "PukaruaPUK",
+        "code": "PUK"
+    },
+    {
+        "flight": "destination",
+        "country": "RaiateaRFP",
+        "code": "RFP"
+    },
+    {
+        "flight": "destination",
+        "country": "Raivavae, RairuaRVV",
+        "code": "RVV"
+    },
+    {
+        "flight": "destination",
+        "country": "RangiroaRGI",
+        "code": "RGI"
+    },
+    {
+        "flight": "destination",
+        "country": "RaroiaRRR",
+        "code": "RRR"
+    },
+    {
+        "flight": "destination",
+        "country": "ReaoREA",
+        "code": "REA"
+    },
+    {
+        "flight": "destination",
+        "country": "RimataraRMT",
+        "code": "RMT"
+    },
+    {
+        "flight": "destination",
+        "country": "RurutuRUR",
+        "code": "RUR"
+    },
+    {
+        "flight": "destination",
+        "country": "TahitiPPT",
+        "code": "PPT"
+    },
+    {
+        "flight": "destination",
+        "country": "TakapotoTKP",
+        "code": "TKP"
+    },
+    {
+        "flight": "destination",
+        "country": "TakaroaTKX",
+        "code": "TKX"
+    },
+    {
+        "flight": "destination",
+        "country": "TakumeTJN",
+        "code": "TJN"
+    },
+    {
+        "flight": "destination",
+        "country": "TatakotoTKV",
+        "code": "TKV"
+    },
+    {
+        "flight": "destination",
+        "country": "TikehauTIH",
+        "code": "TIH"
+    },
+    {
+        "flight": "destination",
+        "country": "Totegegie (Gambier Islands)GMR",
+        "code": "GMR"
+    },
+    {
+        "flight": "destination",
+        "country": "TubuaiTUB",
+        "code": "TUB"
+    },
+    {
+        "flight": "destination",
+        "country": "TureiaZTA",
+        "code": "ZTA"
+    },
+    {
+        "flight": "destination",
+        "country": "Ua HukaUAH",
+        "code": "UAH"
+    },
+    {
+        "flight": "destination",
+        "country": "Ua PouUAP",
+        "code": "UAP"
+    },
+    {
+        "flight": "destination",
+        "country": "VahitahiVHZ",
+        "code": "VHZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Rarotonga IslandRAR",
+        "code": "RAR"
+    },
+    {
+        "flight": "departure",
+        "country": "AheAHE",
+        "code": "AHE"
+    },
+    {
+        "flight": "departure",
+        "country": "AnaaAAA",
+        "code": "AAA"
+    },
+    {
+        "flight": "departure",
+        "country": "ApatakiAPK",
+        "code": "APK"
+    },
+    {
+        "flight": "departure",
+        "country": "AratikaRKA",
+        "code": "RKA"
+    },
+    {
+        "flight": "departure",
+        "country": "ArutuaAXR",
+        "code": "AXR"
+    },
+    {
+        "flight": "departure",
+        "country": "AtuonaAUQ",
+        "code": "AUQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Bora BoraBOB",
+        "code": "BOB"
+    },
+    {
+        "flight": "departure",
+        "country": "FaaiteFAC",
+        "code": "FAC"
+    },
+    {
+        "flight": "departure",
+        "country": "FakahinaFHZ",
+        "code": "FHZ"
+    },
+    {
+        "flight": "departure",
+        "country": "FakaravaFAV",
+        "code": "FAV"
+    },
+    {
+        "flight": "departure",
+        "country": "FangatauFGU",
+        "code": "FGU"
+    },
+    {
+        "flight": "departure",
+        "country": "Hao IslandHOI",
+        "code": "HOI"
+    },
+    {
+        "flight": "departure",
+        "country": "HikueruHHZ",
+        "code": "HHZ"
+    },
+    {
+        "flight": "departure",
+        "country": "HuahineHUH",
+        "code": "HUH"
+    },
+    {
+        "flight": "departure",
+        "country": "KatiuKXU",
+        "code": "KXU"
+    },
+    {
+        "flight": "departure",
+        "country": "KauehiKHZ",
+        "code": "KHZ"
+    },
+    {
+        "flight": "departure",
+        "country": "KaukuraKKR",
+        "code": "KKR"
+    },
+    {
+        "flight": "departure",
+        "country": "MakemoMKP",
+        "code": "MKP"
+    },
+    {
+        "flight": "departure",
+        "country": "ManihiXMH",
+        "code": "XMH"
+    },
+    {
+        "flight": "departure",
+        "country": "MataivaMVT",
+        "code": "MVT"
+    },
+    {
+        "flight": "departure",
+        "country": "MaupitiMAU",
+        "code": "MAU"
+    },
+    {
+        "flight": "departure",
+        "country": "MooreaMOZ",
+        "code": "MOZ"
+    },
+    {
+        "flight": "departure",
+        "country": "NapukaNAU",
+        "code": "NAU"
+    },
+    {
+        "flight": "departure",
+        "country": "NiauNIU",
+        "code": "NIU"
+    },
+    {
+        "flight": "departure",
+        "country": "Nuku HivaNHV",
+        "code": "NHV"
+    },
+    {
+        "flight": "departure",
+        "country": "NukutavakeNUK",
+        "code": "NUK"
+    },
+    {
+        "flight": "departure",
+        "country": "Puka-PukaPKP",
+        "code": "PKP"
+    },
+    {
+        "flight": "departure",
+        "country": "PukaruaPUK",
+        "code": "PUK"
+    },
+    {
+        "flight": "departure",
+        "country": "RaiateaRFP",
+        "code": "RFP"
+    },
+    {
+        "flight": "departure",
+        "country": "Raivavae, RairuaRVV",
+        "code": "RVV"
+    },
+    {
+        "flight": "departure",
+        "country": "RangiroaRGI",
+        "code": "RGI"
+    },
+    {
+        "flight": "departure",
+        "country": "RaroiaRRR",
+        "code": "RRR"
+    },
+    {
+        "flight": "departure",
+        "country": "ReaoREA",
+        "code": "REA"
+    },
+    {
+        "flight": "departure",
+        "country": "RimataraRMT",
+        "code": "RMT"
+    },
+    {
+        "flight": "departure",
+        "country": "RurutuRUR",
+        "code": "RUR"
+    },
+    {
+        "flight": "departure",
+        "country": "TahitiPPT",
+        "code": "PPT"
+    },
+    {
+        "flight": "departure",
+        "country": "TakapotoTKP",
+        "code": "TKP"
+    },
+    {
+        "flight": "departure",
+        "country": "TakaroaTKX",
+        "code": "TKX"
+    },
+    {
+        "flight": "departure",
+        "country": "TakumeTJN",
+        "code": "TJN"
+    },
+    {
+        "flight": "departure",
+        "country": "TatakotoTKV",
+        "code": "TKV"
+    },
+    {
+        "flight": "departure",
+        "country": "TikehauTIH",
+        "code": "TIH"
+    },
+    {
+        "flight": "departure",
+        "country": "Totegegie (Gambier Islands)GMR",
+        "code": "GMR"
+    },
+    {
+        "flight": "departure",
+        "country": "TubuaiTUB",
+        "code": "TUB"
+    },
+    {
+        "flight": "departure",
+        "country": "TureiaZTA",
+        "code": "ZTA"
+    },
+    {
+        "flight": "departure",
+        "country": "Ua HukaUAH",
+        "code": "UAH"
+    },
+    {
+        "flight": "departure",
+        "country": "Ua PouUAP",
+        "code": "UAP"
+    },
+    {
+        "flight": "departure",
+        "country": "VahitahiVHZ",
+        "code": "VHZ"
+    }
+]

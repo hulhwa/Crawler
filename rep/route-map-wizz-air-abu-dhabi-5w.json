@@ -1,0 +1,312 @@
+[
+    {
+        "flight": "destination",
+        "country": "TiranaTIA",
+        "code": "TIA"
+    },
+    {
+        "flight": "destination",
+        "country": "YerevanEVN",
+        "code": "EVN"
+    },
+    {
+        "flight": "destination",
+        "country": "BakuGYD",
+        "code": "GYD"
+    },
+    {
+        "flight": "destination",
+        "country": "Bahrain IslandBAH",
+        "code": "BAH"
+    },
+    {
+        "flight": "destination",
+        "country": "SarajevoSJJ",
+        "code": "SJJ"
+    },
+    {
+        "flight": "destination",
+        "country": "LarnacaLCA",
+        "code": "LCA"
+    },
+    {
+        "flight": "destination",
+        "country": "AlexandriaHBE",
+        "code": "HBE"
+    },
+    {
+        "flight": "destination",
+        "country": "GizaSPX",
+        "code": "SPX"
+    },
+    {
+        "flight": "destination",
+        "country": "SohagHMB",
+        "code": "HMB"
+    },
+    {
+        "flight": "destination",
+        "country": "KutaisiKUT",
+        "code": "KUT"
+    },
+    {
+        "flight": "destination",
+        "country": "AthensATH",
+        "code": "ATH"
+    },
+    {
+        "flight": "destination",
+        "country": "SantoriniJTR",
+        "code": "JTR"
+    },
+    {
+        "flight": "destination",
+        "country": "ErbilEBL",
+        "code": "EBL"
+    },
+    {
+        "flight": "destination",
+        "country": "Tel AvivTLV",
+        "code": "TLV"
+    },
+    {
+        "flight": "destination",
+        "country": "AmmanAMM",
+        "code": "AMM"
+    },
+    {
+        "flight": "destination",
+        "country": "AqabaAQJ",
+        "code": "AQJ"
+    },
+    {
+        "flight": "destination",
+        "country": "AlmatyALA",
+        "code": "ALA"
+    },
+    {
+        "flight": "destination",
+        "country": "AstanaNQZ",
+        "code": "NQZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuwait CityKWI",
+        "code": "KWI"
+    },
+    {
+        "flight": "destination",
+        "country": "BishkekFRU",
+        "code": "FRU"
+    },
+    {
+        "flight": "destination",
+        "country": "MaléMLE",
+        "code": "MLE"
+    },
+    {
+        "flight": "destination",
+        "country": "MuscatMCT",
+        "code": "MCT"
+    },
+    {
+        "flight": "destination",
+        "country": "SalalahSLL",
+        "code": "SLL"
+    },
+    {
+        "flight": "destination",
+        "country": "DammamDMM",
+        "code": "DMM"
+    },
+    {
+        "flight": "destination",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "destination",
+        "country": "BelgradeBEG",
+        "code": "BEG"
+    },
+    {
+        "flight": "destination",
+        "country": "AnkaraESB",
+        "code": "ESB"
+    },
+    {
+        "flight": "destination",
+        "country": "AntalyaAYT",
+        "code": "AYT"
+    },
+    {
+        "flight": "destination",
+        "country": "Abu DhabiAUH",
+        "code": "AUH"
+    },
+    {
+        "flight": "destination",
+        "country": "SamarkandSKD",
+        "code": "SKD"
+    },
+    {
+        "flight": "destination",
+        "country": "TashkentTAS",
+        "code": "TAS"
+    },
+    {
+        "flight": "departure",
+        "country": "TiranaTIA",
+        "code": "TIA"
+    },
+    {
+        "flight": "departure",
+        "country": "YerevanEVN",
+        "code": "EVN"
+    },
+    {
+        "flight": "departure",
+        "country": "BakuGYD",
+        "code": "GYD"
+    },
+    {
+        "flight": "departure",
+        "country": "Bahrain IslandBAH",
+        "code": "BAH"
+    },
+    {
+        "flight": "departure",
+        "country": "SarajevoSJJ",
+        "code": "SJJ"
+    },
+    {
+        "flight": "departure",
+        "country": "LarnacaLCA",
+        "code": "LCA"
+    },
+    {
+        "flight": "departure",
+        "country": "AlexandriaHBE",
+        "code": "HBE"
+    },
+    {
+        "flight": "departure",
+        "country": "GizaSPX",
+        "code": "SPX"
+    },
+    {
+        "flight": "departure",
+        "country": "SohagHMB",
+        "code": "HMB"
+    },
+    {
+        "flight": "departure",
+        "country": "KutaisiKUT",
+        "code": "KUT"
+    },
+    {
+        "flight": "departure",
+        "country": "AthensATH",
+        "code": "ATH"
+    },
+    {
+        "flight": "departure",
+        "country": "SantoriniJTR",
+        "code": "JTR"
+    },
+    {
+        "flight": "departure",
+        "country": "ErbilEBL",
+        "code": "EBL"
+    },
+    {
+        "flight": "departure",
+        "country": "Tel AvivTLV",
+        "code": "TLV"
+    },
+    {
+        "flight": "departure",
+        "country": "AmmanAMM",
+        "code": "AMM"
+    },
+    {
+        "flight": "departure",
+        "country": "AqabaAQJ",
+        "code": "AQJ"
+    },
+    {
+        "flight": "departure",
+        "country": "AlmatyALA",
+        "code": "ALA"
+    },
+    {
+        "flight": "departure",
+        "country": "AstanaNQZ",
+        "code": "NQZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuwait CityKWI",
+        "code": "KWI"
+    },
+    {
+        "flight": "departure",
+        "country": "BishkekFRU",
+        "code": "FRU"
+    },
+    {
+        "flight": "departure",
+        "country": "MaléMLE",
+        "code": "MLE"
+    },
+    {
+        "flight": "departure",
+        "country": "MuscatMCT",
+        "code": "MCT"
+    },
+    {
+        "flight": "departure",
+        "country": "SalalahSLL",
+        "code": "SLL"
+    },
+    {
+        "flight": "departure",
+        "country": "DammamDMM",
+        "code": "DMM"
+    },
+    {
+        "flight": "departure",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "departure",
+        "country": "BelgradeBEG",
+        "code": "BEG"
+    },
+    {
+        "flight": "departure",
+        "country": "AnkaraESB",
+        "code": "ESB"
+    },
+    {
+        "flight": "departure",
+        "country": "AntalyaAYT",
+        "code": "AYT"
+    },
+    {
+        "flight": "departure",
+        "country": "Abu DhabiAUH",
+        "code": "AUH"
+    },
+    {
+        "flight": "departure",
+        "country": "SamarkandSKD",
+        "code": "SKD"
+    },
+    {
+        "flight": "departure",
+        "country": "TashkentTAS",
+        "code": "TAS"
+    }
+]

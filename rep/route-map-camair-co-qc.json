@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "BafoussamBFX",
+        "code": "BFX"
+    },
+    {
+        "flight": "destination",
+        "country": "DoualaDLA",
+        "code": "DLA"
+    },
+    {
+        "flight": "destination",
+        "country": "GarouaGOU",
+        "code": "GOU"
+    },
+    {
+        "flight": "destination",
+        "country": "MarouaMVR",
+        "code": "MVR"
+    },
+    {
+        "flight": "destination",
+        "country": "NgaoundéréNGE",
+        "code": "NGE"
+    },
+    {
+        "flight": "destination",
+        "country": "YaoundéNSI",
+        "code": "NSI"
+    },
+    {
+        "flight": "destination",
+        "country": "N'DjamenaNDJ",
+        "code": "NDJ"
+    },
+    {
+        "flight": "departure",
+        "country": "BafoussamBFX",
+        "code": "BFX"
+    },
+    {
+        "flight": "departure",
+        "country": "DoualaDLA",
+        "code": "DLA"
+    },
+    {
+        "flight": "departure",
+        "country": "GarouaGOU",
+        "code": "GOU"
+    },
+    {
+        "flight": "departure",
+        "country": "MarouaMVR",
+        "code": "MVR"
+    },
+    {
+        "flight": "departure",
+        "country": "NgaoundéréNGE",
+        "code": "NGE"
+    },
+    {
+        "flight": "departure",
+        "country": "YaoundéNSI",
+        "code": "NSI"
+    },
+    {
+        "flight": "departure",
+        "country": "N'DjamenaNDJ",
+        "code": "NDJ"
+    }
+]

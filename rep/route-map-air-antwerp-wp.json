@@ -1,0 +1,192 @@
+[
+    {
+        "flight": "destination",
+        "country": "Bearskin LakeXBE",
+        "code": "XBE"
+    },
+    {
+        "flight": "destination",
+        "country": "Big Trout LakeYTL",
+        "code": "YTL"
+    },
+    {
+        "flight": "destination",
+        "country": "Deer LakeYVZ",
+        "code": "YVZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort SevernYER",
+        "code": "YER"
+    },
+    {
+        "flight": "destination",
+        "country": "Kasabonika First NationXKS",
+        "code": "XKS"
+    },
+    {
+        "flight": "destination",
+        "country": "KeewaywinKEW",
+        "code": "KEW"
+    },
+    {
+        "flight": "destination",
+        "country": "Kingfisher LakeKIF",
+        "code": "KIF"
+    },
+    {
+        "flight": "destination",
+        "country": "Muskrat DamMSA",
+        "code": "MSA"
+    },
+    {
+        "flight": "destination",
+        "country": "Nibinamik First NationSUR",
+        "code": "SUR"
+    },
+    {
+        "flight": "destination",
+        "country": "North Spirit LakeYNO",
+        "code": "YNO"
+    },
+    {
+        "flight": "destination",
+        "country": "Pickle LakeYPL",
+        "code": "YPL"
+    },
+    {
+        "flight": "destination",
+        "country": "PikangikumYPM",
+        "code": "YPM"
+    },
+    {
+        "flight": "destination",
+        "country": "Poplar HillYHP",
+        "code": "YHP"
+    },
+    {
+        "flight": "destination",
+        "country": "Red LakeYRL",
+        "code": "YRL"
+    },
+    {
+        "flight": "destination",
+        "country": "Sandy LakeZSJ",
+        "code": "ZSJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Sioux LookoutYXL",
+        "code": "YXL"
+    },
+    {
+        "flight": "destination",
+        "country": "Thunder BayYQT",
+        "code": "YQT"
+    },
+    {
+        "flight": "destination",
+        "country": "WapekekaYAX",
+        "code": "YAX"
+    },
+    {
+        "flight": "destination",
+        "country": "Wunnummin LakeWNN",
+        "code": "WNN"
+    },
+    {
+        "flight": "departure",
+        "country": "Bearskin LakeXBE",
+        "code": "XBE"
+    },
+    {
+        "flight": "departure",
+        "country": "Big Trout LakeYTL",
+        "code": "YTL"
+    },
+    {
+        "flight": "departure",
+        "country": "Deer LakeYVZ",
+        "code": "YVZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort SevernYER",
+        "code": "YER"
+    },
+    {
+        "flight": "departure",
+        "country": "Kasabonika First NationXKS",
+        "code": "XKS"
+    },
+    {
+        "flight": "departure",
+        "country": "KeewaywinKEW",
+        "code": "KEW"
+    },
+    {
+        "flight": "departure",
+        "country": "Kingfisher LakeKIF",
+        "code": "KIF"
+    },
+    {
+        "flight": "departure",
+        "country": "Muskrat DamMSA",
+        "code": "MSA"
+    },
+    {
+        "flight": "departure",
+        "country": "Nibinamik First NationSUR",
+        "code": "SUR"
+    },
+    {
+        "flight": "departure",
+        "country": "North Spirit LakeYNO",
+        "code": "YNO"
+    },
+    {
+        "flight": "departure",
+        "country": "Pickle LakeYPL",
+        "code": "YPL"
+    },
+    {
+        "flight": "departure",
+        "country": "PikangikumYPM",
+        "code": "YPM"
+    },
+    {
+        "flight": "departure",
+        "country": "Poplar HillYHP",
+        "code": "YHP"
+    },
+    {
+        "flight": "departure",
+        "country": "Red LakeYRL",
+        "code": "YRL"
+    },
+    {
+        "flight": "departure",
+        "country": "Sandy LakeZSJ",
+        "code": "ZSJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Sioux LookoutYXL",
+        "code": "YXL"
+    },
+    {
+        "flight": "departure",
+        "country": "Thunder BayYQT",
+        "code": "YQT"
+    },
+    {
+        "flight": "departure",
+        "country": "WapekekaYAX",
+        "code": "YAX"
+    },
+    {
+        "flight": "departure",
+        "country": "Wunnummin LakeWNN",
+        "code": "WNN"
+    }
+]

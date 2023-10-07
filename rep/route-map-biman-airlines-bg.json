@@ -1,0 +1,302 @@
+[
+    {
+        "flight": "destination",
+        "country": "BarisalBZL",
+        "code": "BZL"
+    },
+    {
+        "flight": "destination",
+        "country": "ChittagongCGP",
+        "code": "CGP"
+    },
+    {
+        "flight": "destination",
+        "country": "Cox's BazarCXB",
+        "code": "CXB"
+    },
+    {
+        "flight": "destination",
+        "country": "DhakaDAC",
+        "code": "DAC"
+    },
+    {
+        "flight": "destination",
+        "country": "JessoreJSR",
+        "code": "JSR"
+    },
+    {
+        "flight": "destination",
+        "country": "RajshahiRJH",
+        "code": "RJH"
+    },
+    {
+        "flight": "destination",
+        "country": "SaidpurSPD",
+        "code": "SPD"
+    },
+    {
+        "flight": "destination",
+        "country": "SylhetZYL",
+        "code": "ZYL"
+    },
+    {
+        "flight": "destination",
+        "country": "TorontoYYZ",
+        "code": "YYZ"
+    },
+    {
+        "flight": "destination",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "destination",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "destination",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuwait CityKWI",
+        "code": "KWI"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "destination",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "destination",
+        "country": "MuscatMCT",
+        "code": "MCT"
+    },
+    {
+        "flight": "destination",
+        "country": "DohaDOH",
+        "code": "DOH"
+    },
+    {
+        "flight": "destination",
+        "country": "DammamDMM",
+        "code": "DMM"
+    },
+    {
+        "flight": "destination",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "destination",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "destination",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "destination",
+        "country": "Abu DhabiAUH",
+        "code": "AUH"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "destination",
+        "country": "Dubai (Sharjah)SHJ",
+        "code": "SHJ"
+    },
+    {
+        "flight": "destination",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "destination",
+        "country": "ManchesterMAN",
+        "code": "MAN"
+    },
+    {
+        "flight": "departure",
+        "country": "BarisalBZL",
+        "code": "BZL"
+    },
+    {
+        "flight": "departure",
+        "country": "ChittagongCGP",
+        "code": "CGP"
+    },
+    {
+        "flight": "departure",
+        "country": "Cox's BazarCXB",
+        "code": "CXB"
+    },
+    {
+        "flight": "departure",
+        "country": "DhakaDAC",
+        "code": "DAC"
+    },
+    {
+        "flight": "departure",
+        "country": "JessoreJSR",
+        "code": "JSR"
+    },
+    {
+        "flight": "departure",
+        "country": "RajshahiRJH",
+        "code": "RJH"
+    },
+    {
+        "flight": "departure",
+        "country": "SaidpurSPD",
+        "code": "SPD"
+    },
+    {
+        "flight": "departure",
+        "country": "SylhetZYL",
+        "code": "ZYL"
+    },
+    {
+        "flight": "departure",
+        "country": "TorontoYYZ",
+        "code": "YYZ"
+    },
+    {
+        "flight": "departure",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "departure",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "departure",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuwait CityKWI",
+        "code": "KWI"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "departure",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "departure",
+        "country": "MuscatMCT",
+        "code": "MCT"
+    },
+    {
+        "flight": "departure",
+        "country": "DohaDOH",
+        "code": "DOH"
+    },
+    {
+        "flight": "departure",
+        "country": "DammamDMM",
+        "code": "DMM"
+    },
+    {
+        "flight": "departure",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "departure",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "departure",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "Abu DhabiAUH",
+        "code": "AUH"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "Dubai (Sharjah)SHJ",
+        "code": "SHJ"
+    },
+    {
+        "flight": "departure",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "departure",
+        "country": "ManchesterMAN",
+        "code": "MAN"
+    }
+]

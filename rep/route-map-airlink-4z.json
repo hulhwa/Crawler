@@ -1,0 +1,502 @@
+[
+    {
+        "flight": "destination",
+        "country": "LuandaLAD",
+        "code": "LAD"
+    },
+    {
+        "flight": "destination",
+        "country": "GaboroneGBE",
+        "code": "GBE"
+    },
+    {
+        "flight": "destination",
+        "country": "KasaneBBK",
+        "code": "BBK"
+    },
+    {
+        "flight": "destination",
+        "country": "MaunMUB",
+        "code": "MUB"
+    },
+    {
+        "flight": "destination",
+        "country": "LubumbashiFBM",
+        "code": "FBM"
+    },
+    {
+        "flight": "destination",
+        "country": "NairobiNBO",
+        "code": "NBO"
+    },
+    {
+        "flight": "destination",
+        "country": "MaseruMSU",
+        "code": "MSU"
+    },
+    {
+        "flight": "destination",
+        "country": "AntananarivoTNR",
+        "code": "TNR"
+    },
+    {
+        "flight": "destination",
+        "country": "Nosy BeNOS",
+        "code": "NOS"
+    },
+    {
+        "flight": "destination",
+        "country": "BlantyreBLZ",
+        "code": "BLZ"
+    },
+    {
+        "flight": "destination",
+        "country": "LilongweLLW",
+        "code": "LLW"
+    },
+    {
+        "flight": "destination",
+        "country": "BeiraBEW",
+        "code": "BEW"
+    },
+    {
+        "flight": "destination",
+        "country": "MaputoMPM",
+        "code": "MPM"
+    },
+    {
+        "flight": "destination",
+        "country": "NampulaAPL",
+        "code": "APL"
+    },
+    {
+        "flight": "destination",
+        "country": "PembaPOL",
+        "code": "POL"
+    },
+    {
+        "flight": "destination",
+        "country": "TeteTET",
+        "code": "TET"
+    },
+    {
+        "flight": "destination",
+        "country": "VilankulosVNX",
+        "code": "VNX"
+    },
+    {
+        "flight": "destination",
+        "country": "Katima MuliloMPA",
+        "code": "MPA"
+    },
+    {
+        "flight": "destination",
+        "country": "LüderitzLUD",
+        "code": "LUD"
+    },
+    {
+        "flight": "destination",
+        "country": "OndangwaOND",
+        "code": "OND"
+    },
+    {
+        "flight": "destination",
+        "country": "OranjemundOMD",
+        "code": "OMD"
+    },
+    {
+        "flight": "destination",
+        "country": "Walvis BayWVB",
+        "code": "WVB"
+    },
+    {
+        "flight": "destination",
+        "country": "WindhoekWDH",
+        "code": "WDH"
+    },
+    {
+        "flight": "destination",
+        "country": "WindhoekERS",
+        "code": "ERS"
+    },
+    {
+        "flight": "destination",
+        "country": "BloemfonteinBFN",
+        "code": "BFN"
+    },
+    {
+        "flight": "destination",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "destination",
+        "country": "DurbanDUR",
+        "code": "DUR"
+    },
+    {
+        "flight": "destination",
+        "country": "East LondonELS",
+        "code": "ELS"
+    },
+    {
+        "flight": "destination",
+        "country": "GeorgeGRJ",
+        "code": "GRJ"
+    },
+    {
+        "flight": "destination",
+        "country": "HoedspruitHDS",
+        "code": "HDS"
+    },
+    {
+        "flight": "destination",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "destination",
+        "country": "Kimberley, Northern CapeKIM",
+        "code": "KIM"
+    },
+    {
+        "flight": "destination",
+        "country": "MthathaUTT",
+        "code": "UTT"
+    },
+    {
+        "flight": "destination",
+        "country": "NelspruitMQP",
+        "code": "MQP"
+    },
+    {
+        "flight": "destination",
+        "country": "PietermaritzburgPZB",
+        "code": "PZB"
+    },
+    {
+        "flight": "destination",
+        "country": "Polokwane, LimpopoPTG",
+        "code": "PTG"
+    },
+    {
+        "flight": "destination",
+        "country": "Port ElizabethPLZ",
+        "code": "PLZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Richards BayRCB",
+        "code": "RCB"
+    },
+    {
+        "flight": "destination",
+        "country": "SishenSIS",
+        "code": "SIS"
+    },
+    {
+        "flight": "destination",
+        "country": "Skukuza, Kruger National ParkSZK",
+        "code": "SZK"
+    },
+    {
+        "flight": "destination",
+        "country": "UpingtonUTN",
+        "code": "UTN"
+    },
+    {
+        "flight": "destination",
+        "country": "JamestownHLE",
+        "code": "HLE"
+    },
+    {
+        "flight": "destination",
+        "country": "ManziniSHO",
+        "code": "SHO"
+    },
+    {
+        "flight": "destination",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "destination",
+        "country": "LivingstoneLVI",
+        "code": "LVI"
+    },
+    {
+        "flight": "destination",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "destination",
+        "country": "NdolaNLA",
+        "code": "NLA"
+    },
+    {
+        "flight": "destination",
+        "country": "BulawayoBUQ",
+        "code": "BUQ"
+    },
+    {
+        "flight": "destination",
+        "country": "HarareHRE",
+        "code": "HRE"
+    },
+    {
+        "flight": "destination",
+        "country": "Victoria FallsVFA",
+        "code": "VFA"
+    },
+    {
+        "flight": "departure",
+        "country": "LuandaLAD",
+        "code": "LAD"
+    },
+    {
+        "flight": "departure",
+        "country": "GaboroneGBE",
+        "code": "GBE"
+    },
+    {
+        "flight": "departure",
+        "country": "KasaneBBK",
+        "code": "BBK"
+    },
+    {
+        "flight": "departure",
+        "country": "MaunMUB",
+        "code": "MUB"
+    },
+    {
+        "flight": "departure",
+        "country": "LubumbashiFBM",
+        "code": "FBM"
+    },
+    {
+        "flight": "departure",
+        "country": "NairobiNBO",
+        "code": "NBO"
+    },
+    {
+        "flight": "departure",
+        "country": "MaseruMSU",
+        "code": "MSU"
+    },
+    {
+        "flight": "departure",
+        "country": "AntananarivoTNR",
+        "code": "TNR"
+    },
+    {
+        "flight": "departure",
+        "country": "Nosy BeNOS",
+        "code": "NOS"
+    },
+    {
+        "flight": "departure",
+        "country": "BlantyreBLZ",
+        "code": "BLZ"
+    },
+    {
+        "flight": "departure",
+        "country": "LilongweLLW",
+        "code": "LLW"
+    },
+    {
+        "flight": "departure",
+        "country": "BeiraBEW",
+        "code": "BEW"
+    },
+    {
+        "flight": "departure",
+        "country": "MaputoMPM",
+        "code": "MPM"
+    },
+    {
+        "flight": "departure",
+        "country": "NampulaAPL",
+        "code": "APL"
+    },
+    {
+        "flight": "departure",
+        "country": "PembaPOL",
+        "code": "POL"
+    },
+    {
+        "flight": "departure",
+        "country": "TeteTET",
+        "code": "TET"
+    },
+    {
+        "flight": "departure",
+        "country": "VilankulosVNX",
+        "code": "VNX"
+    },
+    {
+        "flight": "departure",
+        "country": "Katima MuliloMPA",
+        "code": "MPA"
+    },
+    {
+        "flight": "departure",
+        "country": "LüderitzLUD",
+        "code": "LUD"
+    },
+    {
+        "flight": "departure",
+        "country": "OndangwaOND",
+        "code": "OND"
+    },
+    {
+        "flight": "departure",
+        "country": "OranjemundOMD",
+        "code": "OMD"
+    },
+    {
+        "flight": "departure",
+        "country": "Walvis BayWVB",
+        "code": "WVB"
+    },
+    {
+        "flight": "departure",
+        "country": "WindhoekWDH",
+        "code": "WDH"
+    },
+    {
+        "flight": "departure",
+        "country": "WindhoekERS",
+        "code": "ERS"
+    },
+    {
+        "flight": "departure",
+        "country": "BloemfonteinBFN",
+        "code": "BFN"
+    },
+    {
+        "flight": "departure",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "departure",
+        "country": "DurbanDUR",
+        "code": "DUR"
+    },
+    {
+        "flight": "departure",
+        "country": "East LondonELS",
+        "code": "ELS"
+    },
+    {
+        "flight": "departure",
+        "country": "GeorgeGRJ",
+        "code": "GRJ"
+    },
+    {
+        "flight": "departure",
+        "country": "HoedspruitHDS",
+        "code": "HDS"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "departure",
+        "country": "Kimberley, Northern CapeKIM",
+        "code": "KIM"
+    },
+    {
+        "flight": "departure",
+        "country": "MthathaUTT",
+        "code": "UTT"
+    },
+    {
+        "flight": "departure",
+        "country": "NelspruitMQP",
+        "code": "MQP"
+    },
+    {
+        "flight": "departure",
+        "country": "PietermaritzburgPZB",
+        "code": "PZB"
+    },
+    {
+        "flight": "departure",
+        "country": "Polokwane, LimpopoPTG",
+        "code": "PTG"
+    },
+    {
+        "flight": "departure",
+        "country": "Port ElizabethPLZ",
+        "code": "PLZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Richards BayRCB",
+        "code": "RCB"
+    },
+    {
+        "flight": "departure",
+        "country": "SishenSIS",
+        "code": "SIS"
+    },
+    {
+        "flight": "departure",
+        "country": "Skukuza, Kruger National ParkSZK",
+        "code": "SZK"
+    },
+    {
+        "flight": "departure",
+        "country": "UpingtonUTN",
+        "code": "UTN"
+    },
+    {
+        "flight": "departure",
+        "country": "JamestownHLE",
+        "code": "HLE"
+    },
+    {
+        "flight": "departure",
+        "country": "ManziniSHO",
+        "code": "SHO"
+    },
+    {
+        "flight": "departure",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "departure",
+        "country": "LivingstoneLVI",
+        "code": "LVI"
+    },
+    {
+        "flight": "departure",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "departure",
+        "country": "NdolaNLA",
+        "code": "NLA"
+    },
+    {
+        "flight": "departure",
+        "country": "BulawayoBUQ",
+        "code": "BUQ"
+    },
+    {
+        "flight": "departure",
+        "country": "HarareHRE",
+        "code": "HRE"
+    },
+    {
+        "flight": "departure",
+        "country": "Victoria FallsVFA",
+        "code": "VFA"
+    }
+]

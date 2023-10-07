@@ -1,0 +1,122 @@
+[
+    {
+        "flight": "destination",
+        "country": "Le Puy-en-VelayLPY",
+        "code": "LPY"
+    },
+    {
+        "flight": "destination",
+        "country": "LilleLIL",
+        "code": "LIL"
+    },
+    {
+        "flight": "destination",
+        "country": "LyonLYS",
+        "code": "LYS"
+    },
+    {
+        "flight": "destination",
+        "country": "MarseilleMRS",
+        "code": "MRS"
+    },
+    {
+        "flight": "destination",
+        "country": "Metz / NancyETZ",
+        "code": "ETZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "destination",
+        "country": "Pau (Pyrenees)PUF",
+        "code": "PUF"
+    },
+    {
+        "flight": "destination",
+        "country": "RennesRNS",
+        "code": "RNS"
+    },
+    {
+        "flight": "destination",
+        "country": "ToulouseTLS",
+        "code": "TLS"
+    },
+    {
+        "flight": "destination",
+        "country": "StuttgartSTR",
+        "code": "STR"
+    },
+    {
+        "flight": "destination",
+        "country": "BolognaBLQ",
+        "code": "BLQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Milan (Malpensa)MXP",
+        "code": "MXP"
+    },
+    {
+        "flight": "departure",
+        "country": "Le Puy-en-VelayLPY",
+        "code": "LPY"
+    },
+    {
+        "flight": "departure",
+        "country": "LilleLIL",
+        "code": "LIL"
+    },
+    {
+        "flight": "departure",
+        "country": "LyonLYS",
+        "code": "LYS"
+    },
+    {
+        "flight": "departure",
+        "country": "MarseilleMRS",
+        "code": "MRS"
+    },
+    {
+        "flight": "departure",
+        "country": "Metz / NancyETZ",
+        "code": "ETZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "departure",
+        "country": "Pau (Pyrenees)PUF",
+        "code": "PUF"
+    },
+    {
+        "flight": "departure",
+        "country": "RennesRNS",
+        "code": "RNS"
+    },
+    {
+        "flight": "departure",
+        "country": "ToulouseTLS",
+        "code": "TLS"
+    },
+    {
+        "flight": "departure",
+        "country": "StuttgartSTR",
+        "code": "STR"
+    },
+    {
+        "flight": "departure",
+        "country": "BolognaBLQ",
+        "code": "BLQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Milan (Malpensa)MXP",
+        "code": "MXP"
+    }
+]

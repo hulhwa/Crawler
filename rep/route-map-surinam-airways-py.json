@@ -1,0 +1,62 @@
+[
+    {
+        "flight": "destination",
+        "country": "ArubaAUA",
+        "code": "AUA"
+    },
+    {
+        "flight": "destination",
+        "country": "Willemstad, CuraçaoCUR",
+        "code": "CUR"
+    },
+    {
+        "flight": "destination",
+        "country": "GeorgetownGEO",
+        "code": "GEO"
+    },
+    {
+        "flight": "destination",
+        "country": "AmsterdamAMS",
+        "code": "AMS"
+    },
+    {
+        "flight": "destination",
+        "country": "ParamariboPBM",
+        "code": "PBM"
+    },
+    {
+        "flight": "destination",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    },
+    {
+        "flight": "departure",
+        "country": "ArubaAUA",
+        "code": "AUA"
+    },
+    {
+        "flight": "departure",
+        "country": "Willemstad, CuraçaoCUR",
+        "code": "CUR"
+    },
+    {
+        "flight": "departure",
+        "country": "GeorgetownGEO",
+        "code": "GEO"
+    },
+    {
+        "flight": "departure",
+        "country": "AmsterdamAMS",
+        "code": "AMS"
+    },
+    {
+        "flight": "departure",
+        "country": "ParamariboPBM",
+        "code": "PBM"
+    },
+    {
+        "flight": "departure",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    }
+]

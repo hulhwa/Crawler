@@ -1,0 +1,502 @@
+[
+    {
+        "flight": "destination",
+        "country": "AdelaideADL",
+        "code": "ADL"
+    },
+    {
+        "flight": "destination",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "destination",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "destination",
+        "country": "Gold CoastOOL",
+        "code": "OOL"
+    },
+    {
+        "flight": "destination",
+        "country": "HobartHBA",
+        "code": "HBA"
+    },
+    {
+        "flight": "destination",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "destination",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "destination",
+        "country": "Sunshine CoastMCY",
+        "code": "MCY"
+    },
+    {
+        "flight": "destination",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "destination",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "destination",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "destination",
+        "country": "Rarotonga IslandRAR",
+        "code": "RAR"
+    },
+    {
+        "flight": "destination",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "destination",
+        "country": "TahitiPPT",
+        "code": "PPT"
+    },
+    {
+        "flight": "destination",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "destination",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "NoumeaNOU",
+        "code": "NOU"
+    },
+    {
+        "flight": "destination",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "destination",
+        "country": "BlenheimBHE",
+        "code": "BHE"
+    },
+    {
+        "flight": "destination",
+        "country": "ChristchurchCHC",
+        "code": "CHC"
+    },
+    {
+        "flight": "destination",
+        "country": "DunedinDUD",
+        "code": "DUD"
+    },
+    {
+        "flight": "destination",
+        "country": "GisborneGIS",
+        "code": "GIS"
+    },
+    {
+        "flight": "destination",
+        "country": "HamiltonHLZ",
+        "code": "HLZ"
+    },
+    {
+        "flight": "destination",
+        "country": "HokitikaHKK",
+        "code": "HKK"
+    },
+    {
+        "flight": "destination",
+        "country": "InvercargillIVC",
+        "code": "IVC"
+    },
+    {
+        "flight": "destination",
+        "country": "KerikeriKKE",
+        "code": "KKE"
+    },
+    {
+        "flight": "destination",
+        "country": "Napier / HastingsNPE",
+        "code": "NPE"
+    },
+    {
+        "flight": "destination",
+        "country": "NelsonNSN",
+        "code": "NSN"
+    },
+    {
+        "flight": "destination",
+        "country": "New PlymouthNPL",
+        "code": "NPL"
+    },
+    {
+        "flight": "destination",
+        "country": "Palmerston NorthPMR",
+        "code": "PMR"
+    },
+    {
+        "flight": "destination",
+        "country": "QueenstownZQN",
+        "code": "ZQN"
+    },
+    {
+        "flight": "destination",
+        "country": "RotoruaROT",
+        "code": "ROT"
+    },
+    {
+        "flight": "destination",
+        "country": "TaupoTUO",
+        "code": "TUO"
+    },
+    {
+        "flight": "destination",
+        "country": "TaurangaTRG",
+        "code": "TRG"
+    },
+    {
+        "flight": "destination",
+        "country": "TimaruTIU",
+        "code": "TIU"
+    },
+    {
+        "flight": "destination",
+        "country": "WellingtonWLG",
+        "code": "WLG"
+    },
+    {
+        "flight": "destination",
+        "country": "WhangareiWRE",
+        "code": "WRE"
+    },
+    {
+        "flight": "destination",
+        "country": "AlofiIUE",
+        "code": "IUE"
+    },
+    {
+        "flight": "destination",
+        "country": "ApiaAPW",
+        "code": "APW"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "destination",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "destination",
+        "country": "NukuʻalofaTBU",
+        "code": "TBU"
+    },
+    {
+        "flight": "destination",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "destination",
+        "country": "HonoluluHNL",
+        "code": "HNL"
+    },
+    {
+        "flight": "destination",
+        "country": "HoustonIAH",
+        "code": "IAH"
+    },
+    {
+        "flight": "destination",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "destination",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "destination",
+        "country": "San FranciscoSFO",
+        "code": "SFO"
+    },
+    {
+        "flight": "departure",
+        "country": "AdelaideADL",
+        "code": "ADL"
+    },
+    {
+        "flight": "departure",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "departure",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "departure",
+        "country": "Gold CoastOOL",
+        "code": "OOL"
+    },
+    {
+        "flight": "departure",
+        "country": "HobartHBA",
+        "code": "HBA"
+    },
+    {
+        "flight": "departure",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "departure",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "departure",
+        "country": "Sunshine CoastMCY",
+        "code": "MCY"
+    },
+    {
+        "flight": "departure",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "departure",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "departure",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "departure",
+        "country": "Rarotonga IslandRAR",
+        "code": "RAR"
+    },
+    {
+        "flight": "departure",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "departure",
+        "country": "TahitiPPT",
+        "code": "PPT"
+    },
+    {
+        "flight": "departure",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "departure",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "NoumeaNOU",
+        "code": "NOU"
+    },
+    {
+        "flight": "departure",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "departure",
+        "country": "BlenheimBHE",
+        "code": "BHE"
+    },
+    {
+        "flight": "departure",
+        "country": "ChristchurchCHC",
+        "code": "CHC"
+    },
+    {
+        "flight": "departure",
+        "country": "DunedinDUD",
+        "code": "DUD"
+    },
+    {
+        "flight": "departure",
+        "country": "GisborneGIS",
+        "code": "GIS"
+    },
+    {
+        "flight": "departure",
+        "country": "HamiltonHLZ",
+        "code": "HLZ"
+    },
+    {
+        "flight": "departure",
+        "country": "HokitikaHKK",
+        "code": "HKK"
+    },
+    {
+        "flight": "departure",
+        "country": "InvercargillIVC",
+        "code": "IVC"
+    },
+    {
+        "flight": "departure",
+        "country": "KerikeriKKE",
+        "code": "KKE"
+    },
+    {
+        "flight": "departure",
+        "country": "Napier / HastingsNPE",
+        "code": "NPE"
+    },
+    {
+        "flight": "departure",
+        "country": "NelsonNSN",
+        "code": "NSN"
+    },
+    {
+        "flight": "departure",
+        "country": "New PlymouthNPL",
+        "code": "NPL"
+    },
+    {
+        "flight": "departure",
+        "country": "Palmerston NorthPMR",
+        "code": "PMR"
+    },
+    {
+        "flight": "departure",
+        "country": "QueenstownZQN",
+        "code": "ZQN"
+    },
+    {
+        "flight": "departure",
+        "country": "RotoruaROT",
+        "code": "ROT"
+    },
+    {
+        "flight": "departure",
+        "country": "TaupoTUO",
+        "code": "TUO"
+    },
+    {
+        "flight": "departure",
+        "country": "TaurangaTRG",
+        "code": "TRG"
+    },
+    {
+        "flight": "departure",
+        "country": "TimaruTIU",
+        "code": "TIU"
+    },
+    {
+        "flight": "departure",
+        "country": "WellingtonWLG",
+        "code": "WLG"
+    },
+    {
+        "flight": "departure",
+        "country": "WhangareiWRE",
+        "code": "WRE"
+    },
+    {
+        "flight": "departure",
+        "country": "AlofiIUE",
+        "code": "IUE"
+    },
+    {
+        "flight": "departure",
+        "country": "ApiaAPW",
+        "code": "APW"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "departure",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "departure",
+        "country": "NukuʻalofaTBU",
+        "code": "TBU"
+    },
+    {
+        "flight": "departure",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "departure",
+        "country": "HonoluluHNL",
+        "code": "HNL"
+    },
+    {
+        "flight": "departure",
+        "country": "HoustonIAH",
+        "code": "IAH"
+    },
+    {
+        "flight": "departure",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "departure",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "departure",
+        "country": "San FranciscoSFO",
+        "code": "SFO"
+    }
+]

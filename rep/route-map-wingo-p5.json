@@ -1,0 +1,232 @@
+[
+    {
+        "flight": "destination",
+        "country": "ArubaAUA",
+        "code": "AUA"
+    },
+    {
+        "flight": "destination",
+        "country": "ArmeniaAXM",
+        "code": "AXM"
+    },
+    {
+        "flight": "destination",
+        "country": "BarranquillaBAQ",
+        "code": "BAQ"
+    },
+    {
+        "flight": "destination",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "destination",
+        "country": "BucaramangaBGA",
+        "code": "BGA"
+    },
+    {
+        "flight": "destination",
+        "country": "CaliCLO",
+        "code": "CLO"
+    },
+    {
+        "flight": "destination",
+        "country": "CartagenaCTG",
+        "code": "CTG"
+    },
+    {
+        "flight": "destination",
+        "country": "MedellínMDE",
+        "code": "MDE"
+    },
+    {
+        "flight": "destination",
+        "country": "PereiraPEI",
+        "code": "PEI"
+    },
+    {
+        "flight": "destination",
+        "country": "San AndrésADZ",
+        "code": "ADZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa MartaSMR",
+        "code": "SMR"
+    },
+    {
+        "flight": "destination",
+        "country": "San JoséSJO",
+        "code": "SJO"
+    },
+    {
+        "flight": "destination",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "destination",
+        "country": "Willemstad, CuraçaoCUR",
+        "code": "CUR"
+    },
+    {
+        "flight": "destination",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "destination",
+        "country": "GuayaquilGYE",
+        "code": "GYE"
+    },
+    {
+        "flight": "destination",
+        "country": "QuitoUIO",
+        "code": "UIO"
+    },
+    {
+        "flight": "destination",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "destination",
+        "country": "Balboa, Panama CityBLB",
+        "code": "BLB"
+    },
+    {
+        "flight": "destination",
+        "country": "David, ChiriquíDAV",
+        "code": "DAV"
+    },
+    {
+        "flight": "destination",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "destination",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    },
+    {
+        "flight": "departure",
+        "country": "ArubaAUA",
+        "code": "AUA"
+    },
+    {
+        "flight": "departure",
+        "country": "ArmeniaAXM",
+        "code": "AXM"
+    },
+    {
+        "flight": "departure",
+        "country": "BarranquillaBAQ",
+        "code": "BAQ"
+    },
+    {
+        "flight": "departure",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "departure",
+        "country": "BucaramangaBGA",
+        "code": "BGA"
+    },
+    {
+        "flight": "departure",
+        "country": "CaliCLO",
+        "code": "CLO"
+    },
+    {
+        "flight": "departure",
+        "country": "CartagenaCTG",
+        "code": "CTG"
+    },
+    {
+        "flight": "departure",
+        "country": "MedellínMDE",
+        "code": "MDE"
+    },
+    {
+        "flight": "departure",
+        "country": "PereiraPEI",
+        "code": "PEI"
+    },
+    {
+        "flight": "departure",
+        "country": "San AndrésADZ",
+        "code": "ADZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa MartaSMR",
+        "code": "SMR"
+    },
+    {
+        "flight": "departure",
+        "country": "San JoséSJO",
+        "code": "SJO"
+    },
+    {
+        "flight": "departure",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "departure",
+        "country": "Willemstad, CuraçaoCUR",
+        "code": "CUR"
+    },
+    {
+        "flight": "departure",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "departure",
+        "country": "GuayaquilGYE",
+        "code": "GYE"
+    },
+    {
+        "flight": "departure",
+        "country": "QuitoUIO",
+        "code": "UIO"
+    },
+    {
+        "flight": "departure",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "departure",
+        "country": "Balboa, Panama CityBLB",
+        "code": "BLB"
+    },
+    {
+        "flight": "departure",
+        "country": "David, ChiriquíDAV",
+        "code": "DAV"
+    },
+    {
+        "flight": "departure",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "departure",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    }
+]

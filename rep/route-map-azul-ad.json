@@ -1,0 +1,1632 @@
+[
+    {
+        "flight": "destination",
+        "country": "AlegreteALQ",
+        "code": "ALQ"
+    },
+    {
+        "flight": "destination",
+        "country": "AlmeirimMEU",
+        "code": "MEU"
+    },
+    {
+        "flight": "destination",
+        "country": "AlmeirimGGF",
+        "code": "GGF"
+    },
+    {
+        "flight": "destination",
+        "country": "Alta FlorestaAFL",
+        "code": "AFL"
+    },
+    {
+        "flight": "destination",
+        "country": "AltamiraATM",
+        "code": "ATM"
+    },
+    {
+        "flight": "destination",
+        "country": "ApuiIUP",
+        "code": "IUP"
+    },
+    {
+        "flight": "destination",
+        "country": "AracajuAJU",
+        "code": "AJU"
+    },
+    {
+        "flight": "destination",
+        "country": "AracatiARX",
+        "code": "ARX"
+    },
+    {
+        "flight": "destination",
+        "country": "AraçatubaARU",
+        "code": "ARU"
+    },
+    {
+        "flight": "destination",
+        "country": "AraripinaJAW",
+        "code": "JAW"
+    },
+    {
+        "flight": "destination",
+        "country": "AraxáAAX",
+        "code": "AAX"
+    },
+    {
+        "flight": "destination",
+        "country": "AripuanãAIR",
+        "code": "AIR"
+    },
+    {
+        "flight": "destination",
+        "country": "BagéBGX",
+        "code": "BGX"
+    },
+    {
+        "flight": "destination",
+        "country": "BarcelosBAZ",
+        "code": "BAZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Barra do GarçasBPG",
+        "code": "BPG"
+    },
+    {
+        "flight": "destination",
+        "country": "BarreirasBRA",
+        "code": "BRA"
+    },
+    {
+        "flight": "destination",
+        "country": "BarreirinhasBRB",
+        "code": "BRB"
+    },
+    {
+        "flight": "destination",
+        "country": "BauruJTC",
+        "code": "JTC"
+    },
+    {
+        "flight": "destination",
+        "country": "BelémBEL",
+        "code": "BEL"
+    },
+    {
+        "flight": "destination",
+        "country": "Belo HorizonteCNF",
+        "code": "CNF"
+    },
+    {
+        "flight": "destination",
+        "country": "BlumenauBNU",
+        "code": "BNU"
+    },
+    {
+        "flight": "destination",
+        "country": "Boa VistaBVB",
+        "code": "BVB"
+    },
+    {
+        "flight": "destination",
+        "country": "BonitoBYO",
+        "code": "BYO"
+    },
+    {
+        "flight": "destination",
+        "country": "BorbaRBB",
+        "code": "RBB"
+    },
+    {
+        "flight": "destination",
+        "country": "BrasíliaBSB",
+        "code": "BSB"
+    },
+    {
+        "flight": "destination",
+        "country": "BrevesBVS",
+        "code": "BVS"
+    },
+    {
+        "flight": "destination",
+        "country": "Cabo FrioCFB",
+        "code": "CFB"
+    },
+    {
+        "flight": "destination",
+        "country": "CacoalOAL",
+        "code": "OAL"
+    },
+    {
+        "flight": "destination",
+        "country": "CajazeirasCJZ",
+        "code": "CJZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Caldas NovasCLV",
+        "code": "CLV"
+    },
+    {
+        "flight": "destination",
+        "country": "Campina GrandeCPV",
+        "code": "CPV"
+    },
+    {
+        "flight": "destination",
+        "country": "Campo GrandeCGR",
+        "code": "CGR"
+    },
+    {
+        "flight": "destination",
+        "country": "Campos dos GoytacazesCAW",
+        "code": "CAW"
+    },
+    {
+        "flight": "destination",
+        "country": "CanelaCEL",
+        "code": "CEL"
+    },
+    {
+        "flight": "destination",
+        "country": "CaruaruCAU",
+        "code": "CAU"
+    },
+    {
+        "flight": "destination",
+        "country": "CascavelCAC",
+        "code": "CAC"
+    },
+    {
+        "flight": "destination",
+        "country": "Caxias do SulCXJ",
+        "code": "CXJ"
+    },
+    {
+        "flight": "destination",
+        "country": "ChapecóXAP",
+        "code": "XAP"
+    },
+    {
+        "flight": "destination",
+        "country": "CoariCIZ",
+        "code": "CIZ"
+    },
+    {
+        "flight": "destination",
+        "country": "CorreiaEEA",
+        "code": "EEA"
+    },
+    {
+        "flight": "destination",
+        "country": "CorumbáCMG",
+        "code": "CMG"
+    },
+    {
+        "flight": "destination",
+        "country": "CrateúsJCS",
+        "code": "JCS"
+    },
+    {
+        "flight": "destination",
+        "country": "Cruz, Ceará (Jijoca de JericoacoJJD",
+        "code": "JJD"
+    },
+    {
+        "flight": "destination",
+        "country": "CuiabáCGB",
+        "code": "CGB"
+    },
+    {
+        "flight": "destination",
+        "country": "CuritibaCWB",
+        "code": "CWB"
+    },
+    {
+        "flight": "destination",
+        "country": "EirunepéERN",
+        "code": "ERN"
+    },
+    {
+        "flight": "destination",
+        "country": "Feira de SantanaFEC",
+        "code": "FEC"
+    },
+    {
+        "flight": "destination",
+        "country": "Fernando de NoronhaFEN",
+        "code": "FEN"
+    },
+    {
+        "flight": "destination",
+        "country": "FlorianópolisFLN",
+        "code": "FLN"
+    },
+    {
+        "flight": "destination",
+        "country": "FortalezaFOR",
+        "code": "FOR"
+    },
+    {
+        "flight": "destination",
+        "country": "Foz do IguaçuIGU",
+        "code": "IGU"
+    },
+    {
+        "flight": "destination",
+        "country": "GaranhunsQGP",
+        "code": "QGP"
+    },
+    {
+        "flight": "destination",
+        "country": "GoiâniaGYN",
+        "code": "GYN"
+    },
+    {
+        "flight": "destination",
+        "country": "Governador ValadaresGVR",
+        "code": "GVR"
+    },
+    {
+        "flight": "destination",
+        "country": "GuaíraGGJ",
+        "code": "GGJ"
+    },
+    {
+        "flight": "destination",
+        "country": "GuanambiGNM",
+        "code": "GNM"
+    },
+    {
+        "flight": "destination",
+        "country": "GuarapuavaGPB",
+        "code": "GPB"
+    },
+    {
+        "flight": "destination",
+        "country": "IguatuQIG",
+        "code": "QIG"
+    },
+    {
+        "flight": "destination",
+        "country": "IlhéusIOS",
+        "code": "IOS"
+    },
+    {
+        "flight": "destination",
+        "country": "ImperatrizIMP",
+        "code": "IMP"
+    },
+    {
+        "flight": "destination",
+        "country": "IpatingaIPN",
+        "code": "IPN"
+    },
+    {
+        "flight": "destination",
+        "country": "ItaitubaITB",
+        "code": "ITB"
+    },
+    {
+        "flight": "destination",
+        "country": "JaguarunaJJG",
+        "code": "JJG"
+    },
+    {
+        "flight": "destination",
+        "country": "Ji-ParanáJPR",
+        "code": "JPR"
+    },
+    {
+        "flight": "destination",
+        "country": "João Pessoa, ParaíbaJPA",
+        "code": "JPA"
+    },
+    {
+        "flight": "destination",
+        "country": "JoinvilleJOI",
+        "code": "JOI"
+    },
+    {
+        "flight": "destination",
+        "country": "Juazeiro do NorteJDO",
+        "code": "JDO"
+    },
+    {
+        "flight": "destination",
+        "country": "JuínaJIA",
+        "code": "JIA"
+    },
+    {
+        "flight": "destination",
+        "country": "Juiz de ForaIZA",
+        "code": "IZA"
+    },
+    {
+        "flight": "destination",
+        "country": "JundiaíQDV",
+        "code": "QDV"
+    },
+    {
+        "flight": "destination",
+        "country": "JurutiJRT",
+        "code": "JRT"
+    },
+    {
+        "flight": "destination",
+        "country": "LábreaLBR",
+        "code": "LBR"
+    },
+    {
+        "flight": "destination",
+        "country": "LençóisLEC",
+        "code": "LEC"
+    },
+    {
+        "flight": "destination",
+        "country": "LondrinaLDB",
+        "code": "LDB"
+    },
+    {
+        "flight": "destination",
+        "country": "MacapáMCP",
+        "code": "MCP"
+    },
+    {
+        "flight": "destination",
+        "country": "MaceióMCZ",
+        "code": "MCZ"
+    },
+    {
+        "flight": "destination",
+        "country": "ManausMAO",
+        "code": "MAO"
+    },
+    {
+        "flight": "destination",
+        "country": "ManhuaçuJMA",
+        "code": "JMA"
+    },
+    {
+        "flight": "destination",
+        "country": "ManicoréMNX",
+        "code": "MNX"
+    },
+    {
+        "flight": "destination",
+        "country": "Marabá, ParáMAB",
+        "code": "MAB"
+    },
+    {
+        "flight": "destination",
+        "country": "MaríliaMII",
+        "code": "MII"
+    },
+    {
+        "flight": "destination",
+        "country": "MaringáMGF",
+        "code": "MGF"
+    },
+    {
+        "flight": "destination",
+        "country": "MauésMBZ",
+        "code": "MBZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Monte AlegreMTE",
+        "code": "MTE"
+    },
+    {
+        "flight": "destination",
+        "country": "Montes ClarosMOC",
+        "code": "MOC"
+    },
+    {
+        "flight": "destination",
+        "country": "MossoroMVF",
+        "code": "MVF"
+    },
+    {
+        "flight": "destination",
+        "country": "NatalNAT",
+        "code": "NAT"
+    },
+    {
+        "flight": "destination",
+        "country": "NavegantesNVT",
+        "code": "NVT"
+    },
+    {
+        "flight": "destination",
+        "country": "OriximináORX",
+        "code": "ORX"
+    },
+    {
+        "flight": "destination",
+        "country": "PalmasPMW",
+        "code": "PMW"
+    },
+    {
+        "flight": "destination",
+        "country": "ParacatuPYT",
+        "code": "PYT"
+    },
+    {
+        "flight": "destination",
+        "country": "ParagominasJPE",
+        "code": "JPE"
+    },
+    {
+        "flight": "destination",
+        "country": "Parauapebas (Carajás)CKS",
+        "code": "CKS"
+    },
+    {
+        "flight": "destination",
+        "country": "ParintinsPIN",
+        "code": "PIN"
+    },
+    {
+        "flight": "destination",
+        "country": "ParnaíbaPHB",
+        "code": "PHB"
+    },
+    {
+        "flight": "destination",
+        "country": "Passo FundoPFB",
+        "code": "PFB"
+    },
+    {
+        "flight": "destination",
+        "country": "Pato BrancoPTO",
+        "code": "PTO"
+    },
+    {
+        "flight": "destination",
+        "country": "PatosJPO",
+        "code": "JPO"
+    },
+    {
+        "flight": "destination",
+        "country": "Patos de MinasPOJ",
+        "code": "POJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Paulo AfonsoPAV",
+        "code": "PAV"
+    },
+    {
+        "flight": "destination",
+        "country": "PelotasPET",
+        "code": "PET"
+    },
+    {
+        "flight": "destination",
+        "country": "PetrolinaPNZ",
+        "code": "PNZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Ponta GrossaPGZ",
+        "code": "PGZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Ponta PorãPMG",
+        "code": "PMG"
+    },
+    {
+        "flight": "destination",
+        "country": "Porto AlegrePOA",
+        "code": "POA"
+    },
+    {
+        "flight": "destination",
+        "country": "Porto De MozPTQ",
+        "code": "PTQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Porto SeguroBPS",
+        "code": "BPS"
+    },
+    {
+        "flight": "destination",
+        "country": "Porto TrombetasTMT",
+        "code": "TMT"
+    },
+    {
+        "flight": "destination",
+        "country": "Porto VelhoPVH",
+        "code": "PVH"
+    },
+    {
+        "flight": "destination",
+        "country": "Presidente PrudentePPB",
+        "code": "PPB"
+    },
+    {
+        "flight": "destination",
+        "country": "RecifeREC",
+        "code": "REC"
+    },
+    {
+        "flight": "destination",
+        "country": "Ribeirão PretoRAO",
+        "code": "RAO"
+    },
+    {
+        "flight": "destination",
+        "country": "Rio de JaneiroGIG",
+        "code": "GIG"
+    },
+    {
+        "flight": "destination",
+        "country": "Rio de JaneiroSDU",
+        "code": "SDU"
+    },
+    {
+        "flight": "destination",
+        "country": "Rio de Janeiro - JacarepaguáRRJ",
+        "code": "RRJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Rio VerdeRVD",
+        "code": "RVD"
+    },
+    {
+        "flight": "destination",
+        "country": "RondonópolisROO",
+        "code": "ROO"
+    },
+    {
+        "flight": "destination",
+        "country": "SalinópolisOPP",
+        "code": "OPP"
+    },
+    {
+        "flight": "destination",
+        "country": "Salvador da BahiaSSA",
+        "code": "SSA"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa Cruz do SulCSU",
+        "code": "CSU"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa Isabel do Rio NegroIRZ",
+        "code": "IRZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa MariaRIA",
+        "code": "RIA"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa RosaSRA",
+        "code": "SRA"
+    },
+    {
+        "flight": "destination",
+        "country": "SantarémSTM",
+        "code": "STM"
+    },
+    {
+        "flight": "destination",
+        "country": "Santo ÂngeloGEL",
+        "code": "GEL"
+    },
+    {
+        "flight": "destination",
+        "country": "São BeneditoJSB",
+        "code": "JSB"
+    },
+    {
+        "flight": "destination",
+        "country": "São Gabriel da CachoeiraSJL",
+        "code": "SJL"
+    },
+    {
+        "flight": "destination",
+        "country": "São João del-ReiJDR",
+        "code": "JDR"
+    },
+    {
+        "flight": "destination",
+        "country": "São José do Rio PretoSJP",
+        "code": "SJP"
+    },
+    {
+        "flight": "destination",
+        "country": "São LuísSLZ",
+        "code": "SLZ"
+    },
+    {
+        "flight": "destination",
+        "country": "São PauloCGH",
+        "code": "CGH"
+    },
+    {
+        "flight": "destination",
+        "country": "São PauloVCP",
+        "code": "VCP"
+    },
+    {
+        "flight": "destination",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "destination",
+        "country": "São Raimundo NonatoNSR",
+        "code": "NSR"
+    },
+    {
+        "flight": "destination",
+        "country": "Serra TalhadaSET",
+        "code": "SET"
+    },
+    {
+        "flight": "destination",
+        "country": "Sinop, Mato GrossoOPS",
+        "code": "OPS"
+    },
+    {
+        "flight": "destination",
+        "country": "SobralJSO",
+        "code": "JSO"
+    },
+    {
+        "flight": "destination",
+        "country": "SorrisoSMT",
+        "code": "SMT"
+    },
+    {
+        "flight": "destination",
+        "country": "TabatingaTBT",
+        "code": "TBT"
+    },
+    {
+        "flight": "destination",
+        "country": "TeféTFF",
+        "code": "TFF"
+    },
+    {
+        "flight": "destination",
+        "country": "Telêmaco BorbaTEC",
+        "code": "TEC"
+    },
+    {
+        "flight": "destination",
+        "country": "Teófilo OtoniTFL",
+        "code": "TFL"
+    },
+    {
+        "flight": "destination",
+        "country": "TeresinaTHE",
+        "code": "THE"
+    },
+    {
+        "flight": "destination",
+        "country": "ToledoTOW",
+        "code": "TOW"
+    },
+    {
+        "flight": "destination",
+        "country": "Tres LagoasTJL",
+        "code": "TJL"
+    },
+    {
+        "flight": "destination",
+        "country": "TucuruíTUR",
+        "code": "TUR"
+    },
+    {
+        "flight": "destination",
+        "country": "UberabaUBA",
+        "code": "UBA"
+    },
+    {
+        "flight": "destination",
+        "country": "UberlândiaUDI",
+        "code": "UDI"
+    },
+    {
+        "flight": "destination",
+        "country": "UmuaramaUMU",
+        "code": "UMU"
+    },
+    {
+        "flight": "destination",
+        "country": "UnaUNA",
+        "code": "UNA"
+    },
+    {
+        "flight": "destination",
+        "country": "União da VitóriaUVI",
+        "code": "UVI"
+    },
+    {
+        "flight": "destination",
+        "country": "UruguaianaURG",
+        "code": "URG"
+    },
+    {
+        "flight": "destination",
+        "country": "VarginhaVAG",
+        "code": "VAG"
+    },
+    {
+        "flight": "destination",
+        "country": "VilhenaBVH",
+        "code": "BVH"
+    },
+    {
+        "flight": "destination",
+        "country": "Vitória da ConquistaVDC",
+        "code": "VDC"
+    },
+    {
+        "flight": "destination",
+        "country": "Vitória, Espírito SantoVIX",
+        "code": "VIX"
+    },
+    {
+        "flight": "destination",
+        "country": "Willemstad, CuraçaoCUR",
+        "code": "CUR"
+    },
+    {
+        "flight": "destination",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "destination",
+        "country": "LisbonLIS",
+        "code": "LIS"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    },
+    {
+        "flight": "destination",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "destination",
+        "country": "MontevideoMVD",
+        "code": "MVD"
+    },
+    {
+        "flight": "destination",
+        "country": "Punta del EstePDP",
+        "code": "PDP"
+    },
+    {
+        "flight": "departure",
+        "country": "AlegreteALQ",
+        "code": "ALQ"
+    },
+    {
+        "flight": "departure",
+        "country": "AlmeirimMEU",
+        "code": "MEU"
+    },
+    {
+        "flight": "departure",
+        "country": "AlmeirimGGF",
+        "code": "GGF"
+    },
+    {
+        "flight": "departure",
+        "country": "Alta FlorestaAFL",
+        "code": "AFL"
+    },
+    {
+        "flight": "departure",
+        "country": "AltamiraATM",
+        "code": "ATM"
+    },
+    {
+        "flight": "departure",
+        "country": "ApuiIUP",
+        "code": "IUP"
+    },
+    {
+        "flight": "departure",
+        "country": "AracajuAJU",
+        "code": "AJU"
+    },
+    {
+        "flight": "departure",
+        "country": "AracatiARX",
+        "code": "ARX"
+    },
+    {
+        "flight": "departure",
+        "country": "AraçatubaARU",
+        "code": "ARU"
+    },
+    {
+        "flight": "departure",
+        "country": "AraripinaJAW",
+        "code": "JAW"
+    },
+    {
+        "flight": "departure",
+        "country": "AraxáAAX",
+        "code": "AAX"
+    },
+    {
+        "flight": "departure",
+        "country": "AripuanãAIR",
+        "code": "AIR"
+    },
+    {
+        "flight": "departure",
+        "country": "BagéBGX",
+        "code": "BGX"
+    },
+    {
+        "flight": "departure",
+        "country": "BarcelosBAZ",
+        "code": "BAZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Barra do GarçasBPG",
+        "code": "BPG"
+    },
+    {
+        "flight": "departure",
+        "country": "BarreirasBRA",
+        "code": "BRA"
+    },
+    {
+        "flight": "departure",
+        "country": "BarreirinhasBRB",
+        "code": "BRB"
+    },
+    {
+        "flight": "departure",
+        "country": "BauruJTC",
+        "code": "JTC"
+    },
+    {
+        "flight": "departure",
+        "country": "BelémBEL",
+        "code": "BEL"
+    },
+    {
+        "flight": "departure",
+        "country": "Belo HorizonteCNF",
+        "code": "CNF"
+    },
+    {
+        "flight": "departure",
+        "country": "BlumenauBNU",
+        "code": "BNU"
+    },
+    {
+        "flight": "departure",
+        "country": "Boa VistaBVB",
+        "code": "BVB"
+    },
+    {
+        "flight": "departure",
+        "country": "BonitoBYO",
+        "code": "BYO"
+    },
+    {
+        "flight": "departure",
+        "country": "BorbaRBB",
+        "code": "RBB"
+    },
+    {
+        "flight": "departure",
+        "country": "BrasíliaBSB",
+        "code": "BSB"
+    },
+    {
+        "flight": "departure",
+        "country": "BrevesBVS",
+        "code": "BVS"
+    },
+    {
+        "flight": "departure",
+        "country": "Cabo FrioCFB",
+        "code": "CFB"
+    },
+    {
+        "flight": "departure",
+        "country": "CacoalOAL",
+        "code": "OAL"
+    },
+    {
+        "flight": "departure",
+        "country": "CajazeirasCJZ",
+        "code": "CJZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Caldas NovasCLV",
+        "code": "CLV"
+    },
+    {
+        "flight": "departure",
+        "country": "Campina GrandeCPV",
+        "code": "CPV"
+    },
+    {
+        "flight": "departure",
+        "country": "Campo GrandeCGR",
+        "code": "CGR"
+    },
+    {
+        "flight": "departure",
+        "country": "Campos dos GoytacazesCAW",
+        "code": "CAW"
+    },
+    {
+        "flight": "departure",
+        "country": "CanelaCEL",
+        "code": "CEL"
+    },
+    {
+        "flight": "departure",
+        "country": "CaruaruCAU",
+        "code": "CAU"
+    },
+    {
+        "flight": "departure",
+        "country": "CascavelCAC",
+        "code": "CAC"
+    },
+    {
+        "flight": "departure",
+        "country": "Caxias do SulCXJ",
+        "code": "CXJ"
+    },
+    {
+        "flight": "departure",
+        "country": "ChapecóXAP",
+        "code": "XAP"
+    },
+    {
+        "flight": "departure",
+        "country": "CoariCIZ",
+        "code": "CIZ"
+    },
+    {
+        "flight": "departure",
+        "country": "CorreiaEEA",
+        "code": "EEA"
+    },
+    {
+        "flight": "departure",
+        "country": "CorumbáCMG",
+        "code": "CMG"
+    },
+    {
+        "flight": "departure",
+        "country": "CrateúsJCS",
+        "code": "JCS"
+    },
+    {
+        "flight": "departure",
+        "country": "Cruz, Ceará (Jijoca de JericoacoJJD",
+        "code": "JJD"
+    },
+    {
+        "flight": "departure",
+        "country": "CuiabáCGB",
+        "code": "CGB"
+    },
+    {
+        "flight": "departure",
+        "country": "CuritibaCWB",
+        "code": "CWB"
+    },
+    {
+        "flight": "departure",
+        "country": "EirunepéERN",
+        "code": "ERN"
+    },
+    {
+        "flight": "departure",
+        "country": "Feira de SantanaFEC",
+        "code": "FEC"
+    },
+    {
+        "flight": "departure",
+        "country": "Fernando de NoronhaFEN",
+        "code": "FEN"
+    },
+    {
+        "flight": "departure",
+        "country": "FlorianópolisFLN",
+        "code": "FLN"
+    },
+    {
+        "flight": "departure",
+        "country": "FortalezaFOR",
+        "code": "FOR"
+    },
+    {
+        "flight": "departure",
+        "country": "Foz do IguaçuIGU",
+        "code": "IGU"
+    },
+    {
+        "flight": "departure",
+        "country": "GaranhunsQGP",
+        "code": "QGP"
+    },
+    {
+        "flight": "departure",
+        "country": "GoiâniaGYN",
+        "code": "GYN"
+    },
+    {
+        "flight": "departure",
+        "country": "Governador ValadaresGVR",
+        "code": "GVR"
+    },
+    {
+        "flight": "departure",
+        "country": "GuaíraGGJ",
+        "code": "GGJ"
+    },
+    {
+        "flight": "departure",
+        "country": "GuanambiGNM",
+        "code": "GNM"
+    },
+    {
+        "flight": "departure",
+        "country": "GuarapuavaGPB",
+        "code": "GPB"
+    },
+    {
+        "flight": "departure",
+        "country": "IguatuQIG",
+        "code": "QIG"
+    },
+    {
+        "flight": "departure",
+        "country": "IlhéusIOS",
+        "code": "IOS"
+    },
+    {
+        "flight": "departure",
+        "country": "ImperatrizIMP",
+        "code": "IMP"
+    },
+    {
+        "flight": "departure",
+        "country": "IpatingaIPN",
+        "code": "IPN"
+    },
+    {
+        "flight": "departure",
+        "country": "ItaitubaITB",
+        "code": "ITB"
+    },
+    {
+        "flight": "departure",
+        "country": "JaguarunaJJG",
+        "code": "JJG"
+    },
+    {
+        "flight": "departure",
+        "country": "Ji-ParanáJPR",
+        "code": "JPR"
+    },
+    {
+        "flight": "departure",
+        "country": "João Pessoa, ParaíbaJPA",
+        "code": "JPA"
+    },
+    {
+        "flight": "departure",
+        "country": "JoinvilleJOI",
+        "code": "JOI"
+    },
+    {
+        "flight": "departure",
+        "country": "Juazeiro do NorteJDO",
+        "code": "JDO"
+    },
+    {
+        "flight": "departure",
+        "country": "JuínaJIA",
+        "code": "JIA"
+    },
+    {
+        "flight": "departure",
+        "country": "Juiz de ForaIZA",
+        "code": "IZA"
+    },
+    {
+        "flight": "departure",
+        "country": "JundiaíQDV",
+        "code": "QDV"
+    },
+    {
+        "flight": "departure",
+        "country": "JurutiJRT",
+        "code": "JRT"
+    },
+    {
+        "flight": "departure",
+        "country": "LábreaLBR",
+        "code": "LBR"
+    },
+    {
+        "flight": "departure",
+        "country": "LençóisLEC",
+        "code": "LEC"
+    },
+    {
+        "flight": "departure",
+        "country": "LondrinaLDB",
+        "code": "LDB"
+    },
+    {
+        "flight": "departure",
+        "country": "MacapáMCP",
+        "code": "MCP"
+    },
+    {
+        "flight": "departure",
+        "country": "MaceióMCZ",
+        "code": "MCZ"
+    },
+    {
+        "flight": "departure",
+        "country": "ManausMAO",
+        "code": "MAO"
+    },
+    {
+        "flight": "departure",
+        "country": "ManhuaçuJMA",
+        "code": "JMA"
+    },
+    {
+        "flight": "departure",
+        "country": "ManicoréMNX",
+        "code": "MNX"
+    },
+    {
+        "flight": "departure",
+        "country": "Marabá, ParáMAB",
+        "code": "MAB"
+    },
+    {
+        "flight": "departure",
+        "country": "MaríliaMII",
+        "code": "MII"
+    },
+    {
+        "flight": "departure",
+        "country": "MaringáMGF",
+        "code": "MGF"
+    },
+    {
+        "flight": "departure",
+        "country": "MauésMBZ",
+        "code": "MBZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Monte AlegreMTE",
+        "code": "MTE"
+    },
+    {
+        "flight": "departure",
+        "country": "Montes ClarosMOC",
+        "code": "MOC"
+    },
+    {
+        "flight": "departure",
+        "country": "MossoroMVF",
+        "code": "MVF"
+    },
+    {
+        "flight": "departure",
+        "country": "NatalNAT",
+        "code": "NAT"
+    },
+    {
+        "flight": "departure",
+        "country": "NavegantesNVT",
+        "code": "NVT"
+    },
+    {
+        "flight": "departure",
+        "country": "OriximináORX",
+        "code": "ORX"
+    },
+    {
+        "flight": "departure",
+        "country": "PalmasPMW",
+        "code": "PMW"
+    },
+    {
+        "flight": "departure",
+        "country": "ParacatuPYT",
+        "code": "PYT"
+    },
+    {
+        "flight": "departure",
+        "country": "ParagominasJPE",
+        "code": "JPE"
+    },
+    {
+        "flight": "departure",
+        "country": "Parauapebas (Carajás)CKS",
+        "code": "CKS"
+    },
+    {
+        "flight": "departure",
+        "country": "ParintinsPIN",
+        "code": "PIN"
+    },
+    {
+        "flight": "departure",
+        "country": "ParnaíbaPHB",
+        "code": "PHB"
+    },
+    {
+        "flight": "departure",
+        "country": "Passo FundoPFB",
+        "code": "PFB"
+    },
+    {
+        "flight": "departure",
+        "country": "Pato BrancoPTO",
+        "code": "PTO"
+    },
+    {
+        "flight": "departure",
+        "country": "PatosJPO",
+        "code": "JPO"
+    },
+    {
+        "flight": "departure",
+        "country": "Patos de MinasPOJ",
+        "code": "POJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Paulo AfonsoPAV",
+        "code": "PAV"
+    },
+    {
+        "flight": "departure",
+        "country": "PelotasPET",
+        "code": "PET"
+    },
+    {
+        "flight": "departure",
+        "country": "PetrolinaPNZ",
+        "code": "PNZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Ponta GrossaPGZ",
+        "code": "PGZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Ponta PorãPMG",
+        "code": "PMG"
+    },
+    {
+        "flight": "departure",
+        "country": "Porto AlegrePOA",
+        "code": "POA"
+    },
+    {
+        "flight": "departure",
+        "country": "Porto De MozPTQ",
+        "code": "PTQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Porto SeguroBPS",
+        "code": "BPS"
+    },
+    {
+        "flight": "departure",
+        "country": "Porto TrombetasTMT",
+        "code": "TMT"
+    },
+    {
+        "flight": "departure",
+        "country": "Porto VelhoPVH",
+        "code": "PVH"
+    },
+    {
+        "flight": "departure",
+        "country": "Presidente PrudentePPB",
+        "code": "PPB"
+    },
+    {
+        "flight": "departure",
+        "country": "RecifeREC",
+        "code": "REC"
+    },
+    {
+        "flight": "departure",
+        "country": "Ribeirão PretoRAO",
+        "code": "RAO"
+    },
+    {
+        "flight": "departure",
+        "country": "Rio de JaneiroGIG",
+        "code": "GIG"
+    },
+    {
+        "flight": "departure",
+        "country": "Rio de JaneiroSDU",
+        "code": "SDU"
+    },
+    {
+        "flight": "departure",
+        "country": "Rio de Janeiro - JacarepaguáRRJ",
+        "code": "RRJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Rio VerdeRVD",
+        "code": "RVD"
+    },
+    {
+        "flight": "departure",
+        "country": "RondonópolisROO",
+        "code": "ROO"
+    },
+    {
+        "flight": "departure",
+        "country": "SalinópolisOPP",
+        "code": "OPP"
+    },
+    {
+        "flight": "departure",
+        "country": "Salvador da BahiaSSA",
+        "code": "SSA"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Cruz do SulCSU",
+        "code": "CSU"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Isabel do Rio NegroIRZ",
+        "code": "IRZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa MariaRIA",
+        "code": "RIA"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa RosaSRA",
+        "code": "SRA"
+    },
+    {
+        "flight": "departure",
+        "country": "SantarémSTM",
+        "code": "STM"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo ÂngeloGEL",
+        "code": "GEL"
+    },
+    {
+        "flight": "departure",
+        "country": "São BeneditoJSB",
+        "code": "JSB"
+    },
+    {
+        "flight": "departure",
+        "country": "São Gabriel da CachoeiraSJL",
+        "code": "SJL"
+    },
+    {
+        "flight": "departure",
+        "country": "São João del-ReiJDR",
+        "code": "JDR"
+    },
+    {
+        "flight": "departure",
+        "country": "São José do Rio PretoSJP",
+        "code": "SJP"
+    },
+    {
+        "flight": "departure",
+        "country": "São LuísSLZ",
+        "code": "SLZ"
+    },
+    {
+        "flight": "departure",
+        "country": "São PauloCGH",
+        "code": "CGH"
+    },
+    {
+        "flight": "departure",
+        "country": "São PauloVCP",
+        "code": "VCP"
+    },
+    {
+        "flight": "departure",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "departure",
+        "country": "São Raimundo NonatoNSR",
+        "code": "NSR"
+    },
+    {
+        "flight": "departure",
+        "country": "Serra TalhadaSET",
+        "code": "SET"
+    },
+    {
+        "flight": "departure",
+        "country": "Sinop, Mato GrossoOPS",
+        "code": "OPS"
+    },
+    {
+        "flight": "departure",
+        "country": "SobralJSO",
+        "code": "JSO"
+    },
+    {
+        "flight": "departure",
+        "country": "SorrisoSMT",
+        "code": "SMT"
+    },
+    {
+        "flight": "departure",
+        "country": "TabatingaTBT",
+        "code": "TBT"
+    },
+    {
+        "flight": "departure",
+        "country": "TeféTFF",
+        "code": "TFF"
+    },
+    {
+        "flight": "departure",
+        "country": "Telêmaco BorbaTEC",
+        "code": "TEC"
+    },
+    {
+        "flight": "departure",
+        "country": "Teófilo OtoniTFL",
+        "code": "TFL"
+    },
+    {
+        "flight": "departure",
+        "country": "TeresinaTHE",
+        "code": "THE"
+    },
+    {
+        "flight": "departure",
+        "country": "ToledoTOW",
+        "code": "TOW"
+    },
+    {
+        "flight": "departure",
+        "country": "Tres LagoasTJL",
+        "code": "TJL"
+    },
+    {
+        "flight": "departure",
+        "country": "TucuruíTUR",
+        "code": "TUR"
+    },
+    {
+        "flight": "departure",
+        "country": "UberabaUBA",
+        "code": "UBA"
+    },
+    {
+        "flight": "departure",
+        "country": "UberlândiaUDI",
+        "code": "UDI"
+    },
+    {
+        "flight": "departure",
+        "country": "UmuaramaUMU",
+        "code": "UMU"
+    },
+    {
+        "flight": "departure",
+        "country": "UnaUNA",
+        "code": "UNA"
+    },
+    {
+        "flight": "departure",
+        "country": "União da VitóriaUVI",
+        "code": "UVI"
+    },
+    {
+        "flight": "departure",
+        "country": "UruguaianaURG",
+        "code": "URG"
+    },
+    {
+        "flight": "departure",
+        "country": "VarginhaVAG",
+        "code": "VAG"
+    },
+    {
+        "flight": "departure",
+        "country": "VilhenaBVH",
+        "code": "BVH"
+    },
+    {
+        "flight": "departure",
+        "country": "Vitória da ConquistaVDC",
+        "code": "VDC"
+    },
+    {
+        "flight": "departure",
+        "country": "Vitória, Espírito SantoVIX",
+        "code": "VIX"
+    },
+    {
+        "flight": "departure",
+        "country": "Willemstad, CuraçaoCUR",
+        "code": "CUR"
+    },
+    {
+        "flight": "departure",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "departure",
+        "country": "LisbonLIS",
+        "code": "LIS"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    },
+    {
+        "flight": "departure",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "departure",
+        "country": "MontevideoMVD",
+        "code": "MVD"
+    },
+    {
+        "flight": "departure",
+        "country": "Punta del EstePDP",
+        "code": "PDP"
+    }
+]

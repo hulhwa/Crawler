@@ -1,0 +1,252 @@
+[
+    {
+        "flight": "destination",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "destination",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "destination",
+        "country": "ShenzhenSZX",
+        "code": "SZX"
+    },
+    {
+        "flight": "destination",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "destination",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "MacauMFM",
+        "code": "MFM"
+    },
+    {
+        "flight": "destination",
+        "country": "Kota KinabaluBKI",
+        "code": "BKI"
+    },
+    {
+        "flight": "destination",
+        "country": "Angeles CityCRK",
+        "code": "CRK"
+    },
+    {
+        "flight": "destination",
+        "country": "Bacolod CityBCD",
+        "code": "BCD"
+    },
+    {
+        "flight": "destination",
+        "country": "Cagayan de Oro CityCGY",
+        "code": "CGY"
+    },
+    {
+        "flight": "destination",
+        "country": "CaticlanMPH",
+        "code": "MPH"
+    },
+    {
+        "flight": "destination",
+        "country": "CebuCEB",
+        "code": "CEB"
+    },
+    {
+        "flight": "destination",
+        "country": "Davao CityDVO",
+        "code": "DVO"
+    },
+    {
+        "flight": "destination",
+        "country": "Iloilo CityILO",
+        "code": "ILO"
+    },
+    {
+        "flight": "destination",
+        "country": "KaliboKLO",
+        "code": "KLO"
+    },
+    {
+        "flight": "destination",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto PrincesaPPS",
+        "code": "PPS"
+    },
+    {
+        "flight": "destination",
+        "country": "Roxas, CapizRXS",
+        "code": "RXS"
+    },
+    {
+        "flight": "destination",
+        "country": "TaclobanTAC",
+        "code": "TAC"
+    },
+    {
+        "flight": "destination",
+        "country": "TagbilaranTAG",
+        "code": "TAG"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "destination",
+        "country": "KaohsiungKHH",
+        "code": "KHH"
+    },
+    {
+        "flight": "destination",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "destination",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "departure",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "departure",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "departure",
+        "country": "ShenzhenSZX",
+        "code": "SZX"
+    },
+    {
+        "flight": "departure",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "departure",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "MacauMFM",
+        "code": "MFM"
+    },
+    {
+        "flight": "departure",
+        "country": "Kota KinabaluBKI",
+        "code": "BKI"
+    },
+    {
+        "flight": "departure",
+        "country": "Angeles CityCRK",
+        "code": "CRK"
+    },
+    {
+        "flight": "departure",
+        "country": "Bacolod CityBCD",
+        "code": "BCD"
+    },
+    {
+        "flight": "departure",
+        "country": "Cagayan de Oro CityCGY",
+        "code": "CGY"
+    },
+    {
+        "flight": "departure",
+        "country": "CaticlanMPH",
+        "code": "MPH"
+    },
+    {
+        "flight": "departure",
+        "country": "CebuCEB",
+        "code": "CEB"
+    },
+    {
+        "flight": "departure",
+        "country": "Davao CityDVO",
+        "code": "DVO"
+    },
+    {
+        "flight": "departure",
+        "country": "Iloilo CityILO",
+        "code": "ILO"
+    },
+    {
+        "flight": "departure",
+        "country": "KaliboKLO",
+        "code": "KLO"
+    },
+    {
+        "flight": "departure",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto PrincesaPPS",
+        "code": "PPS"
+    },
+    {
+        "flight": "departure",
+        "country": "Roxas, CapizRXS",
+        "code": "RXS"
+    },
+    {
+        "flight": "departure",
+        "country": "TaclobanTAC",
+        "code": "TAC"
+    },
+    {
+        "flight": "departure",
+        "country": "TagbilaranTAG",
+        "code": "TAG"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "departure",
+        "country": "KaohsiungKHH",
+        "code": "KHH"
+    },
+    {
+        "flight": "departure",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "departure",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    }
+]

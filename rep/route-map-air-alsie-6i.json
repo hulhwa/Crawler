@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "CopenhagenCPH",
+        "code": "CPH"
+    },
+    {
+        "flight": "destination",
+        "country": "SønderborgSGD",
+        "code": "SGD"
+    },
+    {
+        "flight": "destination",
+        "country": "Basel Mulhouse FreiburgBSL",
+        "code": "BSL"
+    },
+    {
+        "flight": "departure",
+        "country": "CopenhagenCPH",
+        "code": "CPH"
+    },
+    {
+        "flight": "departure",
+        "country": "SønderborgSGD",
+        "code": "SGD"
+    },
+    {
+        "flight": "departure",
+        "country": "Basel Mulhouse FreiburgBSL",
+        "code": "BSL"
+    }
+]

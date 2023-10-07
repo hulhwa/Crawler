@@ -1,0 +1,172 @@
+[
+    {
+        "flight": "destination",
+        "country": "MinskMSQ",
+        "code": "MSQ"
+    },
+    {
+        "flight": "destination",
+        "country": "ArkhangelskARH",
+        "code": "ARH"
+    },
+    {
+        "flight": "destination",
+        "country": "CherepovetsCEE",
+        "code": "CEE"
+    },
+    {
+        "flight": "destination",
+        "country": "KaliningradKGD",
+        "code": "KGD"
+    },
+    {
+        "flight": "destination",
+        "country": "KalugaKLF",
+        "code": "KLF"
+    },
+    {
+        "flight": "destination",
+        "country": "KazanKZN",
+        "code": "KZN"
+    },
+    {
+        "flight": "destination",
+        "country": "Kirovsk / ApatityKVK",
+        "code": "KVK"
+    },
+    {
+        "flight": "destination",
+        "country": "Mineralnye VodyMRV",
+        "code": "MRV"
+    },
+    {
+        "flight": "destination",
+        "country": "Moscow DomodedovoDME",
+        "code": "DME"
+    },
+    {
+        "flight": "destination",
+        "country": "Moscow SheremetyevoSVO",
+        "code": "SVO"
+    },
+    {
+        "flight": "destination",
+        "country": "MurmanskMMK",
+        "code": "MMK"
+    },
+    {
+        "flight": "destination",
+        "country": "PetrozavodskPES",
+        "code": "PES"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint PetersburgLED",
+        "code": "LED"
+    },
+    {
+        "flight": "destination",
+        "country": "SochiAER",
+        "code": "AER"
+    },
+    {
+        "flight": "destination",
+        "country": "Ukhta / SosnogorskUCT",
+        "code": "UCT"
+    },
+    {
+        "flight": "destination",
+        "country": "Veliky UstyugVUS",
+        "code": "VUS"
+    },
+    {
+        "flight": "destination",
+        "country": "YekaterinburgSVX",
+        "code": "SVX"
+    },
+    {
+        "flight": "departure",
+        "country": "MinskMSQ",
+        "code": "MSQ"
+    },
+    {
+        "flight": "departure",
+        "country": "ArkhangelskARH",
+        "code": "ARH"
+    },
+    {
+        "flight": "departure",
+        "country": "CherepovetsCEE",
+        "code": "CEE"
+    },
+    {
+        "flight": "departure",
+        "country": "KaliningradKGD",
+        "code": "KGD"
+    },
+    {
+        "flight": "departure",
+        "country": "KalugaKLF",
+        "code": "KLF"
+    },
+    {
+        "flight": "departure",
+        "country": "KazanKZN",
+        "code": "KZN"
+    },
+    {
+        "flight": "departure",
+        "country": "Kirovsk / ApatityKVK",
+        "code": "KVK"
+    },
+    {
+        "flight": "departure",
+        "country": "Mineralnye VodyMRV",
+        "code": "MRV"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow DomodedovoDME",
+        "code": "DME"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow SheremetyevoSVO",
+        "code": "SVO"
+    },
+    {
+        "flight": "departure",
+        "country": "MurmanskMMK",
+        "code": "MMK"
+    },
+    {
+        "flight": "departure",
+        "country": "PetrozavodskPES",
+        "code": "PES"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint PetersburgLED",
+        "code": "LED"
+    },
+    {
+        "flight": "departure",
+        "country": "SochiAER",
+        "code": "AER"
+    },
+    {
+        "flight": "departure",
+        "country": "Ukhta / SosnogorskUCT",
+        "code": "UCT"
+    },
+    {
+        "flight": "departure",
+        "country": "Veliky UstyugVUS",
+        "code": "VUS"
+    },
+    {
+        "flight": "departure",
+        "country": "YekaterinburgSVX",
+        "code": "SVX"
+    }
+]

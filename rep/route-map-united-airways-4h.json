@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "Jeju CityCJU",
+        "code": "CJU"
+    },
+    {
+        "flight": "destination",
+        "country": "Sacheon / JinjuHIN",
+        "code": "HIN"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulGMP",
+        "code": "GMP"
+    },
+    {
+        "flight": "destination",
+        "country": "UlsanUSN",
+        "code": "USN"
+    },
+    {
+        "flight": "departure",
+        "country": "Jeju CityCJU",
+        "code": "CJU"
+    },
+    {
+        "flight": "departure",
+        "country": "Sacheon / JinjuHIN",
+        "code": "HIN"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulGMP",
+        "code": "GMP"
+    },
+    {
+        "flight": "departure",
+        "country": "UlsanUSN",
+        "code": "USN"
+    }
+]

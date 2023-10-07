@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "Ciudad del CarmenCME",
+        "code": "CME"
+    },
+    {
+        "flight": "destination",
+        "country": "MatamorosMAM",
+        "code": "MAM"
+    },
+    {
+        "flight": "destination",
+        "country": "MonterreyMTY",
+        "code": "MTY"
+    },
+    {
+        "flight": "destination",
+        "country": "Piedras NegrasPDS",
+        "code": "PDS"
+    },
+    {
+        "flight": "destination",
+        "country": "ReynosaREX",
+        "code": "REX"
+    },
+    {
+        "flight": "destination",
+        "country": "TampicoTAM",
+        "code": "TAM"
+    },
+    {
+        "flight": "destination",
+        "country": "Tuxtla GutiérrezTGZ",
+        "code": "TGZ"
+    },
+    {
+        "flight": "destination",
+        "country": "VeracruzVER",
+        "code": "VER"
+    },
+    {
+        "flight": "destination",
+        "country": "VillahermosaVSA",
+        "code": "VSA"
+    },
+    {
+        "flight": "departure",
+        "country": "Ciudad del CarmenCME",
+        "code": "CME"
+    },
+    {
+        "flight": "departure",
+        "country": "MatamorosMAM",
+        "code": "MAM"
+    },
+    {
+        "flight": "departure",
+        "country": "MonterreyMTY",
+        "code": "MTY"
+    },
+    {
+        "flight": "departure",
+        "country": "Piedras NegrasPDS",
+        "code": "PDS"
+    },
+    {
+        "flight": "departure",
+        "country": "ReynosaREX",
+        "code": "REX"
+    },
+    {
+        "flight": "departure",
+        "country": "TampicoTAM",
+        "code": "TAM"
+    },
+    {
+        "flight": "departure",
+        "country": "Tuxtla GutiérrezTGZ",
+        "code": "TGZ"
+    },
+    {
+        "flight": "departure",
+        "country": "VeracruzVER",
+        "code": "VER"
+    },
+    {
+        "flight": "departure",
+        "country": "VillahermosaVSA",
+        "code": "VSA"
+    }
+]

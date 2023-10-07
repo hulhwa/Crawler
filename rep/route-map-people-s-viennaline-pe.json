@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "ViennaVIE",
+        "code": "VIE"
+    },
+    {
+        "flight": "destination",
+        "country": "St Gallen AltenrheinACH",
+        "code": "ACH"
+    },
+    {
+        "flight": "departure",
+        "country": "ViennaVIE",
+        "code": "VIE"
+    },
+    {
+        "flight": "departure",
+        "country": "St Gallen AltenrheinACH",
+        "code": "ACH"
+    }
+]

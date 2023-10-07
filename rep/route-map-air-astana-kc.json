@@ -1,0 +1,412 @@
+[
+    {
+        "flight": "destination",
+        "country": "BakuGYD",
+        "code": "GYD"
+    },
+    {
+        "flight": "destination",
+        "country": "BeijingPEK",
+        "code": "PEK"
+    },
+    {
+        "flight": "destination",
+        "country": "UrumqiURC",
+        "code": "URC"
+    },
+    {
+        "flight": "destination",
+        "country": "Sharm el-SheikhSSH",
+        "code": "SSH"
+    },
+    {
+        "flight": "destination",
+        "country": "BatumiBUS",
+        "code": "BUS"
+    },
+    {
+        "flight": "destination",
+        "country": "KutaisiKUT",
+        "code": "KUT"
+    },
+    {
+        "flight": "destination",
+        "country": "TbilisiTBS",
+        "code": "TBS"
+    },
+    {
+        "flight": "destination",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "destination",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "destination",
+        "country": "Tel AvivTLV",
+        "code": "TLV"
+    },
+    {
+        "flight": "destination",
+        "country": "AktauSCO",
+        "code": "SCO"
+    },
+    {
+        "flight": "destination",
+        "country": "Aktobe (Aktyubinsk)AKX",
+        "code": "AKX"
+    },
+    {
+        "flight": "destination",
+        "country": "AlmatyALA",
+        "code": "ALA"
+    },
+    {
+        "flight": "destination",
+        "country": "AstanaNQZ",
+        "code": "NQZ"
+    },
+    {
+        "flight": "destination",
+        "country": "AtyrauGUW",
+        "code": "GUW"
+    },
+    {
+        "flight": "destination",
+        "country": "KaragandaKGF",
+        "code": "KGF"
+    },
+    {
+        "flight": "destination",
+        "country": "KostanayKSN",
+        "code": "KSN"
+    },
+    {
+        "flight": "destination",
+        "country": "KyzylordaKZO",
+        "code": "KZO"
+    },
+    {
+        "flight": "destination",
+        "country": "Oral (Uralsk)URA",
+        "code": "URA"
+    },
+    {
+        "flight": "destination",
+        "country": "Oskemen (Ust-Kamenogorsk)UKK",
+        "code": "UKK"
+    },
+    {
+        "flight": "destination",
+        "country": "PavlodarPWQ",
+        "code": "PWQ"
+    },
+    {
+        "flight": "destination",
+        "country": "SemeyPLX",
+        "code": "PLX"
+    },
+    {
+        "flight": "destination",
+        "country": "ShymkentCIT",
+        "code": "CIT"
+    },
+    {
+        "flight": "destination",
+        "country": "TurkistanHSA",
+        "code": "HSA"
+    },
+    {
+        "flight": "destination",
+        "country": "BishkekFRU",
+        "code": "FRU"
+    },
+    {
+        "flight": "destination",
+        "country": "MaléMLE",
+        "code": "MLE"
+    },
+    {
+        "flight": "destination",
+        "country": "AmsterdamAMS",
+        "code": "AMS"
+    },
+    {
+        "flight": "destination",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "destination",
+        "country": "DushanbeDYU",
+        "code": "DYU"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "destination",
+        "country": "AnkaraESB",
+        "code": "ESB"
+    },
+    {
+        "flight": "destination",
+        "country": "AntalyaAYT",
+        "code": "AYT"
+    },
+    {
+        "flight": "destination",
+        "country": "BodrumBJV",
+        "code": "BJV"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "destination",
+        "country": "Istanbul (Sabiha)SAW",
+        "code": "SAW"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "destination",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "destination",
+        "country": "SamarkandSKD",
+        "code": "SKD"
+    },
+    {
+        "flight": "destination",
+        "country": "TashkentTAS",
+        "code": "TAS"
+    },
+    {
+        "flight": "departure",
+        "country": "BakuGYD",
+        "code": "GYD"
+    },
+    {
+        "flight": "departure",
+        "country": "BeijingPEK",
+        "code": "PEK"
+    },
+    {
+        "flight": "departure",
+        "country": "UrumqiURC",
+        "code": "URC"
+    },
+    {
+        "flight": "departure",
+        "country": "Sharm el-SheikhSSH",
+        "code": "SSH"
+    },
+    {
+        "flight": "departure",
+        "country": "BatumiBUS",
+        "code": "BUS"
+    },
+    {
+        "flight": "departure",
+        "country": "KutaisiKUT",
+        "code": "KUT"
+    },
+    {
+        "flight": "departure",
+        "country": "TbilisiTBS",
+        "code": "TBS"
+    },
+    {
+        "flight": "departure",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "departure",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "departure",
+        "country": "Tel AvivTLV",
+        "code": "TLV"
+    },
+    {
+        "flight": "departure",
+        "country": "AktauSCO",
+        "code": "SCO"
+    },
+    {
+        "flight": "departure",
+        "country": "Aktobe (Aktyubinsk)AKX",
+        "code": "AKX"
+    },
+    {
+        "flight": "departure",
+        "country": "AlmatyALA",
+        "code": "ALA"
+    },
+    {
+        "flight": "departure",
+        "country": "AstanaNQZ",
+        "code": "NQZ"
+    },
+    {
+        "flight": "departure",
+        "country": "AtyrauGUW",
+        "code": "GUW"
+    },
+    {
+        "flight": "departure",
+        "country": "KaragandaKGF",
+        "code": "KGF"
+    },
+    {
+        "flight": "departure",
+        "country": "KostanayKSN",
+        "code": "KSN"
+    },
+    {
+        "flight": "departure",
+        "country": "KyzylordaKZO",
+        "code": "KZO"
+    },
+    {
+        "flight": "departure",
+        "country": "Oral (Uralsk)URA",
+        "code": "URA"
+    },
+    {
+        "flight": "departure",
+        "country": "Oskemen (Ust-Kamenogorsk)UKK",
+        "code": "UKK"
+    },
+    {
+        "flight": "departure",
+        "country": "PavlodarPWQ",
+        "code": "PWQ"
+    },
+    {
+        "flight": "departure",
+        "country": "SemeyPLX",
+        "code": "PLX"
+    },
+    {
+        "flight": "departure",
+        "country": "ShymkentCIT",
+        "code": "CIT"
+    },
+    {
+        "flight": "departure",
+        "country": "TurkistanHSA",
+        "code": "HSA"
+    },
+    {
+        "flight": "departure",
+        "country": "BishkekFRU",
+        "code": "FRU"
+    },
+    {
+        "flight": "departure",
+        "country": "MaléMLE",
+        "code": "MLE"
+    },
+    {
+        "flight": "departure",
+        "country": "AmsterdamAMS",
+        "code": "AMS"
+    },
+    {
+        "flight": "departure",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "departure",
+        "country": "DushanbeDYU",
+        "code": "DYU"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "departure",
+        "country": "AnkaraESB",
+        "code": "ESB"
+    },
+    {
+        "flight": "departure",
+        "country": "AntalyaAYT",
+        "code": "AYT"
+    },
+    {
+        "flight": "departure",
+        "country": "BodrumBJV",
+        "code": "BJV"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "Istanbul (Sabiha)SAW",
+        "code": "SAW"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "departure",
+        "country": "SamarkandSKD",
+        "code": "SKD"
+    },
+    {
+        "flight": "departure",
+        "country": "TashkentTAS",
+        "code": "TAS"
+    }
+]

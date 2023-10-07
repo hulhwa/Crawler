@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "ChachapoyasCHH",
+        "code": "CHH"
+    },
+    {
+        "flight": "destination",
+        "country": "HuánucoHUU",
+        "code": "HUU"
+    },
+    {
+        "flight": "destination",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "destination",
+        "country": "MazamariMZA",
+        "code": "MZA"
+    },
+    {
+        "flight": "destination",
+        "country": "Tingo MaríaTGI",
+        "code": "TGI"
+    },
+    {
+        "flight": "departure",
+        "country": "ChachapoyasCHH",
+        "code": "CHH"
+    },
+    {
+        "flight": "departure",
+        "country": "HuánucoHUU",
+        "code": "HUU"
+    },
+    {
+        "flight": "departure",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "departure",
+        "country": "MazamariMZA",
+        "code": "MZA"
+    },
+    {
+        "flight": "departure",
+        "country": "Tingo MaríaTGI",
+        "code": "TGI"
+    }
+]

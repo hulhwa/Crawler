@@ -1,0 +1,112 @@
+[
+    {
+        "flight": "destination",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "destination",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Panama CityPTY",
+        "code": "PTY"
+    },
+    {
+        "flight": "destination",
+        "country": "BarcelonaBLA",
+        "code": "BLA"
+    },
+    {
+        "flight": "destination",
+        "country": "BarquisimetoBRM",
+        "code": "BRM"
+    },
+    {
+        "flight": "destination",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    },
+    {
+        "flight": "destination",
+        "country": "El VigíaVIG",
+        "code": "VIG"
+    },
+    {
+        "flight": "destination",
+        "country": "La FriaLFR",
+        "code": "LFR"
+    },
+    {
+        "flight": "destination",
+        "country": "MaracaiboMAR",
+        "code": "MAR"
+    },
+    {
+        "flight": "destination",
+        "country": "PorlamarPMV",
+        "code": "PMV"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto Ordaz and San FelixPZO",
+        "code": "PZO"
+    },
+    {
+        "flight": "departure",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Panama CityPTY",
+        "code": "PTY"
+    },
+    {
+        "flight": "departure",
+        "country": "BarcelonaBLA",
+        "code": "BLA"
+    },
+    {
+        "flight": "departure",
+        "country": "BarquisimetoBRM",
+        "code": "BRM"
+    },
+    {
+        "flight": "departure",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    },
+    {
+        "flight": "departure",
+        "country": "El VigíaVIG",
+        "code": "VIG"
+    },
+    {
+        "flight": "departure",
+        "country": "La FriaLFR",
+        "code": "LFR"
+    },
+    {
+        "flight": "departure",
+        "country": "MaracaiboMAR",
+        "code": "MAR"
+    },
+    {
+        "flight": "departure",
+        "country": "PorlamarPMV",
+        "code": "PMV"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto Ordaz and San FelixPZO",
+        "code": "PZO"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "Ailinglaplap AtollJEJ",
+        "code": "JEJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Jabat IslandJAT",
+        "code": "JAT"
+    },
+    {
+        "flight": "destination",
+        "country": "MajuroMAJ",
+        "code": "MAJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Ailinglaplap AtollJEJ",
+        "code": "JEJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Jabat IslandJAT",
+        "code": "JAT"
+    },
+    {
+        "flight": "departure",
+        "country": "MajuroMAJ",
+        "code": "MAJ"
+    }
+]

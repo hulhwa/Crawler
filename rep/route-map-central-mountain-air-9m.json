@@ -1,0 +1,212 @@
+[
+    {
+        "flight": "destination",
+        "country": "Bob Quinn LakeYBO",
+        "code": "YBO"
+    },
+    {
+        "flight": "destination",
+        "country": "CalgaryYYC",
+        "code": "YYC"
+    },
+    {
+        "flight": "destination",
+        "country": "Campbell RiverYBL",
+        "code": "YBL"
+    },
+    {
+        "flight": "destination",
+        "country": "Dease LakeYDL",
+        "code": "YDL"
+    },
+    {
+        "flight": "destination",
+        "country": "EdmontonYEG",
+        "code": "YEG"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort NelsonYYE",
+        "code": "YYE"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort St. JohnYXJ",
+        "code": "YXJ"
+    },
+    {
+        "flight": "destination",
+        "country": "High LevelYOJ",
+        "code": "YOJ"
+    },
+    {
+        "flight": "destination",
+        "country": "KamloopsYKA",
+        "code": "YKA"
+    },
+    {
+        "flight": "destination",
+        "country": "KelownaYLW",
+        "code": "YLW"
+    },
+    {
+        "flight": "destination",
+        "country": "Port HardyYZT",
+        "code": "YZT"
+    },
+    {
+        "flight": "destination",
+        "country": "Prince GeorgeYXS",
+        "code": "YXS"
+    },
+    {
+        "flight": "destination",
+        "country": "Prince RupertYPR",
+        "code": "YPR"
+    },
+    {
+        "flight": "destination",
+        "country": "QuesnelYQZ",
+        "code": "YQZ"
+    },
+    {
+        "flight": "destination",
+        "country": "SandspitYZP",
+        "code": "YZP"
+    },
+    {
+        "flight": "destination",
+        "country": "SmithersYYD",
+        "code": "YYD"
+    },
+    {
+        "flight": "destination",
+        "country": "TerraceYXT",
+        "code": "YXT"
+    },
+    {
+        "flight": "destination",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "destination",
+        "country": "VictoriaYYJ",
+        "code": "YYJ"
+    },
+    {
+        "flight": "destination",
+        "country": "WhitecourtYZU",
+        "code": "YZU"
+    },
+    {
+        "flight": "destination",
+        "country": "Williams LakeYWL",
+        "code": "YWL"
+    },
+    {
+        "flight": "departure",
+        "country": "Bob Quinn LakeYBO",
+        "code": "YBO"
+    },
+    {
+        "flight": "departure",
+        "country": "CalgaryYYC",
+        "code": "YYC"
+    },
+    {
+        "flight": "departure",
+        "country": "Campbell RiverYBL",
+        "code": "YBL"
+    },
+    {
+        "flight": "departure",
+        "country": "Dease LakeYDL",
+        "code": "YDL"
+    },
+    {
+        "flight": "departure",
+        "country": "EdmontonYEG",
+        "code": "YEG"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort NelsonYYE",
+        "code": "YYE"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort St. JohnYXJ",
+        "code": "YXJ"
+    },
+    {
+        "flight": "departure",
+        "country": "High LevelYOJ",
+        "code": "YOJ"
+    },
+    {
+        "flight": "departure",
+        "country": "KamloopsYKA",
+        "code": "YKA"
+    },
+    {
+        "flight": "departure",
+        "country": "KelownaYLW",
+        "code": "YLW"
+    },
+    {
+        "flight": "departure",
+        "country": "Port HardyYZT",
+        "code": "YZT"
+    },
+    {
+        "flight": "departure",
+        "country": "Prince GeorgeYXS",
+        "code": "YXS"
+    },
+    {
+        "flight": "departure",
+        "country": "Prince RupertYPR",
+        "code": "YPR"
+    },
+    {
+        "flight": "departure",
+        "country": "QuesnelYQZ",
+        "code": "YQZ"
+    },
+    {
+        "flight": "departure",
+        "country": "SandspitYZP",
+        "code": "YZP"
+    },
+    {
+        "flight": "departure",
+        "country": "SmithersYYD",
+        "code": "YYD"
+    },
+    {
+        "flight": "departure",
+        "country": "TerraceYXT",
+        "code": "YXT"
+    },
+    {
+        "flight": "departure",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "departure",
+        "country": "VictoriaYYJ",
+        "code": "YYJ"
+    },
+    {
+        "flight": "departure",
+        "country": "WhitecourtYZU",
+        "code": "YZU"
+    },
+    {
+        "flight": "departure",
+        "country": "Williams LakeYWL",
+        "code": "YWL"
+    }
+]

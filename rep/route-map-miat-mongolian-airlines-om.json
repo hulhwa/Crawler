@@ -1,0 +1,192 @@
+[
+    {
+        "flight": "destination",
+        "country": "BeijingPEK",
+        "code": "PEK"
+    },
+    {
+        "flight": "destination",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "destination",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "destination",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "AltaiLTI",
+        "code": "LTI"
+    },
+    {
+        "flight": "destination",
+        "country": "ChoibalsanCOQ",
+        "code": "COQ"
+    },
+    {
+        "flight": "destination",
+        "country": "DalanzadgadDLZ",
+        "code": "DLZ"
+    },
+    {
+        "flight": "destination",
+        "country": "KhovdHVD",
+        "code": "HVD"
+    },
+    {
+        "flight": "destination",
+        "country": "MoronMXV",
+        "code": "MXV"
+    },
+    {
+        "flight": "destination",
+        "country": "ÖlgiiULG",
+        "code": "ULG"
+    },
+    {
+        "flight": "destination",
+        "country": "UlaanbaatarUBN",
+        "code": "UBN"
+    },
+    {
+        "flight": "destination",
+        "country": "UlaangomULO",
+        "code": "ULO"
+    },
+    {
+        "flight": "destination",
+        "country": "UliastaiULZ",
+        "code": "ULZ"
+    },
+    {
+        "flight": "destination",
+        "country": "BusanPUS",
+        "code": "PUS"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "BeijingPEK",
+        "code": "PEK"
+    },
+    {
+        "flight": "departure",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "departure",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "departure",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "AltaiLTI",
+        "code": "LTI"
+    },
+    {
+        "flight": "departure",
+        "country": "ChoibalsanCOQ",
+        "code": "COQ"
+    },
+    {
+        "flight": "departure",
+        "country": "DalanzadgadDLZ",
+        "code": "DLZ"
+    },
+    {
+        "flight": "departure",
+        "country": "KhovdHVD",
+        "code": "HVD"
+    },
+    {
+        "flight": "departure",
+        "country": "MoronMXV",
+        "code": "MXV"
+    },
+    {
+        "flight": "departure",
+        "country": "ÖlgiiULG",
+        "code": "ULG"
+    },
+    {
+        "flight": "departure",
+        "country": "UlaanbaatarUBN",
+        "code": "UBN"
+    },
+    {
+        "flight": "departure",
+        "country": "UlaangomULO",
+        "code": "ULO"
+    },
+    {
+        "flight": "departure",
+        "country": "UliastaiULZ",
+        "code": "ULZ"
+    },
+    {
+        "flight": "departure",
+        "country": "BusanPUS",
+        "code": "PUS"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    }
+]

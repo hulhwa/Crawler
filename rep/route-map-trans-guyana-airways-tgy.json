@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "GeorgetownOGL",
+        "code": "OGL"
+    },
+    {
+        "flight": "destination",
+        "country": "LethemLTM",
+        "code": "LTM"
+    },
+    {
+        "flight": "destination",
+        "country": "ParamariboPBM",
+        "code": "PBM"
+    },
+    {
+        "flight": "destination",
+        "country": "ParamariboORG",
+        "code": "ORG"
+    },
+    {
+        "flight": "departure",
+        "country": "GeorgetownOGL",
+        "code": "OGL"
+    },
+    {
+        "flight": "departure",
+        "country": "LethemLTM",
+        "code": "LTM"
+    },
+    {
+        "flight": "departure",
+        "country": "ParamariboPBM",
+        "code": "PBM"
+    },
+    {
+        "flight": "departure",
+        "country": "ParamariboORG",
+        "code": "ORG"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "MontrealYMX",
+        "code": "YMX"
+    },
+    {
+        "flight": "destination",
+        "country": "Val-d'OrYVO",
+        "code": "YVO"
+    },
+    {
+        "flight": "departure",
+        "country": "MontrealYMX",
+        "code": "YMX"
+    },
+    {
+        "flight": "departure",
+        "country": "Val-d'OrYVO",
+        "code": "YVO"
+    }
+]

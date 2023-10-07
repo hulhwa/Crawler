@@ -1,0 +1,152 @@
+[
+    {
+        "flight": "destination",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "destination",
+        "country": "CobijaCIJ",
+        "code": "CIJ"
+    },
+    {
+        "flight": "destination",
+        "country": "CochabambaCBB",
+        "code": "CBB"
+    },
+    {
+        "flight": "destination",
+        "country": "La PazLPB",
+        "code": "LPB"
+    },
+    {
+        "flight": "destination",
+        "country": "OruroORU",
+        "code": "ORU"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa Cruz de la SierraVVI",
+        "code": "VVI"
+    },
+    {
+        "flight": "destination",
+        "country": "SucreSRE",
+        "code": "SRE"
+    },
+    {
+        "flight": "destination",
+        "country": "TarijaTJA",
+        "code": "TJA"
+    },
+    {
+        "flight": "destination",
+        "country": "TrinidadTDD",
+        "code": "TDD"
+    },
+    {
+        "flight": "destination",
+        "country": "UyuniUYU",
+        "code": "UYU"
+    },
+    {
+        "flight": "destination",
+        "country": "YacuíbaBYC",
+        "code": "BYC"
+    },
+    {
+        "flight": "destination",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "destination",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "destination",
+        "country": "MadridMAD",
+        "code": "MAD"
+    },
+    {
+        "flight": "destination",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    },
+    {
+        "flight": "departure",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "departure",
+        "country": "CobijaCIJ",
+        "code": "CIJ"
+    },
+    {
+        "flight": "departure",
+        "country": "CochabambaCBB",
+        "code": "CBB"
+    },
+    {
+        "flight": "departure",
+        "country": "La PazLPB",
+        "code": "LPB"
+    },
+    {
+        "flight": "departure",
+        "country": "OruroORU",
+        "code": "ORU"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Cruz de la SierraVVI",
+        "code": "VVI"
+    },
+    {
+        "flight": "departure",
+        "country": "SucreSRE",
+        "code": "SRE"
+    },
+    {
+        "flight": "departure",
+        "country": "TarijaTJA",
+        "code": "TJA"
+    },
+    {
+        "flight": "departure",
+        "country": "TrinidadTDD",
+        "code": "TDD"
+    },
+    {
+        "flight": "departure",
+        "country": "UyuniUYU",
+        "code": "UYU"
+    },
+    {
+        "flight": "departure",
+        "country": "YacuíbaBYC",
+        "code": "BYC"
+    },
+    {
+        "flight": "departure",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "departure",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "departure",
+        "country": "MadridMAD",
+        "code": "MAD"
+    },
+    {
+        "flight": "departure",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    }
+]

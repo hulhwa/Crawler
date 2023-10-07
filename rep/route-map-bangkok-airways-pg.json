@@ -1,0 +1,212 @@
+[
+    {
+        "flight": "destination",
+        "country": "Phnom PenhPNH",
+        "code": "PNH"
+    },
+    {
+        "flight": "destination",
+        "country": "Siem ReapREP",
+        "code": "REP"
+    },
+    {
+        "flight": "destination",
+        "country": "Siem ReapSAI",
+        "code": "SAI"
+    },
+    {
+        "flight": "destination",
+        "country": "ChengduTFU",
+        "code": "TFU"
+    },
+    {
+        "flight": "destination",
+        "country": "ChongqingCKG",
+        "code": "CKG"
+    },
+    {
+        "flight": "destination",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "destination",
+        "country": "Luang PrabangLPQ",
+        "code": "LPQ"
+    },
+    {
+        "flight": "destination",
+        "country": "MaléMLE",
+        "code": "MLE"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "destination",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "destination",
+        "country": "Hat YaiHDY",
+        "code": "HDY"
+    },
+    {
+        "flight": "destination",
+        "country": "Ko SamuiUSM",
+        "code": "USM"
+    },
+    {
+        "flight": "destination",
+        "country": "KrabiKBV",
+        "code": "KBV"
+    },
+    {
+        "flight": "destination",
+        "country": "LampangLPT",
+        "code": "LPT"
+    },
+    {
+        "flight": "destination",
+        "country": "Mae Hong SonHGN",
+        "code": "HGN"
+    },
+    {
+        "flight": "destination",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "destination",
+        "country": "SukhothaiTHS",
+        "code": "THS"
+    },
+    {
+        "flight": "destination",
+        "country": "Tongren and FenghuangTDX",
+        "code": "TDX"
+    },
+    {
+        "flight": "destination",
+        "country": "U-Tapao, Rayong / PattayaUTP",
+        "code": "UTP"
+    },
+    {
+        "flight": "departure",
+        "country": "Phnom PenhPNH",
+        "code": "PNH"
+    },
+    {
+        "flight": "departure",
+        "country": "Siem ReapREP",
+        "code": "REP"
+    },
+    {
+        "flight": "departure",
+        "country": "Siem ReapSAI",
+        "code": "SAI"
+    },
+    {
+        "flight": "departure",
+        "country": "ChengduTFU",
+        "code": "TFU"
+    },
+    {
+        "flight": "departure",
+        "country": "ChongqingCKG",
+        "code": "CKG"
+    },
+    {
+        "flight": "departure",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "departure",
+        "country": "Luang PrabangLPQ",
+        "code": "LPQ"
+    },
+    {
+        "flight": "departure",
+        "country": "MaléMLE",
+        "code": "MLE"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "departure",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "departure",
+        "country": "Hat YaiHDY",
+        "code": "HDY"
+    },
+    {
+        "flight": "departure",
+        "country": "Ko SamuiUSM",
+        "code": "USM"
+    },
+    {
+        "flight": "departure",
+        "country": "KrabiKBV",
+        "code": "KBV"
+    },
+    {
+        "flight": "departure",
+        "country": "LampangLPT",
+        "code": "LPT"
+    },
+    {
+        "flight": "departure",
+        "country": "Mae Hong SonHGN",
+        "code": "HGN"
+    },
+    {
+        "flight": "departure",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "departure",
+        "country": "SukhothaiTHS",
+        "code": "THS"
+    },
+    {
+        "flight": "departure",
+        "country": "Tongren and FenghuangTDX",
+        "code": "TDX"
+    },
+    {
+        "flight": "departure",
+        "country": "U-Tapao, Rayong / PattayaUTP",
+        "code": "UTP"
+    }
+]

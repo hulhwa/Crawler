@@ -1,0 +1,62 @@
+[
+    {
+        "flight": "destination",
+        "country": "HarbinHRB",
+        "code": "HRB"
+    },
+    {
+        "flight": "destination",
+        "country": "NingboNGB",
+        "code": "NGB"
+    },
+    {
+        "flight": "destination",
+        "country": "TianjinTSN",
+        "code": "TSN"
+    },
+    {
+        "flight": "destination",
+        "country": "HiroshimaHIJ",
+        "code": "HIJ"
+    },
+    {
+        "flight": "destination",
+        "country": "SapporoCTS",
+        "code": "CTS"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "HarbinHRB",
+        "code": "HRB"
+    },
+    {
+        "flight": "departure",
+        "country": "NingboNGB",
+        "code": "NGB"
+    },
+    {
+        "flight": "departure",
+        "country": "TianjinTSN",
+        "code": "TSN"
+    },
+    {
+        "flight": "departure",
+        "country": "HiroshimaHIJ",
+        "code": "HIJ"
+    },
+    {
+        "flight": "departure",
+        "country": "SapporoCTS",
+        "code": "CTS"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "AttawapiskatYAT",
+        "code": "YAT"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort AlbanyYFA",
+        "code": "YFA"
+    },
+    {
+        "flight": "destination",
+        "country": "KashechewanZKE",
+        "code": "ZKE"
+    },
+    {
+        "flight": "destination",
+        "country": "MoosoneeYMO",
+        "code": "YMO"
+    },
+    {
+        "flight": "destination",
+        "country": "TimminsYTS",
+        "code": "YTS"
+    },
+    {
+        "flight": "departure",
+        "country": "AttawapiskatYAT",
+        "code": "YAT"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort AlbanyYFA",
+        "code": "YFA"
+    },
+    {
+        "flight": "departure",
+        "country": "KashechewanZKE",
+        "code": "ZKE"
+    },
+    {
+        "flight": "departure",
+        "country": "MoosoneeYMO",
+        "code": "YMO"
+    },
+    {
+        "flight": "departure",
+        "country": "TimminsYTS",
+        "code": "YTS"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "Fair IsleFIE",
+        "code": "FIE"
+    },
+    {
+        "flight": "destination",
+        "country": "FoulaFOA",
+        "code": "FOA"
+    },
+    {
+        "flight": "destination",
+        "country": "LerwickLWK",
+        "code": "LWK"
+    },
+    {
+        "flight": "departure",
+        "country": "Fair IsleFIE",
+        "code": "FIE"
+    },
+    {
+        "flight": "departure",
+        "country": "FoulaFOA",
+        "code": "FOA"
+    },
+    {
+        "flight": "departure",
+        "country": "LerwickLWK",
+        "code": "LWK"
+    }
+]

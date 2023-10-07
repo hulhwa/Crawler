@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "CobijaCIJ",
+        "code": "CIJ"
+    },
+    {
+        "flight": "destination",
+        "country": "CochabambaCBB",
+        "code": "CBB"
+    },
+    {
+        "flight": "destination",
+        "country": "GuayaramerínGYA",
+        "code": "GYA"
+    },
+    {
+        "flight": "destination",
+        "country": "La PazLPB",
+        "code": "LPB"
+    },
+    {
+        "flight": "destination",
+        "country": "RiberaltaRIB",
+        "code": "RIB"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa Cruz de la SierraVVI",
+        "code": "VVI"
+    },
+    {
+        "flight": "destination",
+        "country": "SucreSRE",
+        "code": "SRE"
+    },
+    {
+        "flight": "destination",
+        "country": "TarijaTJA",
+        "code": "TJA"
+    },
+    {
+        "flight": "destination",
+        "country": "TrinidadTDD",
+        "code": "TDD"
+    },
+    {
+        "flight": "departure",
+        "country": "CobijaCIJ",
+        "code": "CIJ"
+    },
+    {
+        "flight": "departure",
+        "country": "CochabambaCBB",
+        "code": "CBB"
+    },
+    {
+        "flight": "departure",
+        "country": "GuayaramerínGYA",
+        "code": "GYA"
+    },
+    {
+        "flight": "departure",
+        "country": "La PazLPB",
+        "code": "LPB"
+    },
+    {
+        "flight": "departure",
+        "country": "RiberaltaRIB",
+        "code": "RIB"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Cruz de la SierraVVI",
+        "code": "VVI"
+    },
+    {
+        "flight": "departure",
+        "country": "SucreSRE",
+        "code": "SRE"
+    },
+    {
+        "flight": "departure",
+        "country": "TarijaTJA",
+        "code": "TJA"
+    },
+    {
+        "flight": "departure",
+        "country": "TrinidadTDD",
+        "code": "TDD"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "CabindaCAB",
+        "code": "CAB"
+    },
+    {
+        "flight": "destination",
+        "country": "CatumbelaCBT",
+        "code": "CBT"
+    },
+    {
+        "flight": "destination",
+        "country": "DundoDUE",
+        "code": "DUE"
+    },
+    {
+        "flight": "destination",
+        "country": "LuandaLAD",
+        "code": "LAD"
+    },
+    {
+        "flight": "destination",
+        "country": "LubangoSDD",
+        "code": "SDD"
+    },
+    {
+        "flight": "destination",
+        "country": "SaurimoVHC",
+        "code": "VHC"
+    },
+    {
+        "flight": "destination",
+        "country": "SoyoSZA",
+        "code": "SZA"
+    },
+    {
+        "flight": "departure",
+        "country": "CabindaCAB",
+        "code": "CAB"
+    },
+    {
+        "flight": "departure",
+        "country": "CatumbelaCBT",
+        "code": "CBT"
+    },
+    {
+        "flight": "departure",
+        "country": "DundoDUE",
+        "code": "DUE"
+    },
+    {
+        "flight": "departure",
+        "country": "LuandaLAD",
+        "code": "LAD"
+    },
+    {
+        "flight": "departure",
+        "country": "LubangoSDD",
+        "code": "SDD"
+    },
+    {
+        "flight": "departure",
+        "country": "SaurimoVHC",
+        "code": "VHC"
+    },
+    {
+        "flight": "departure",
+        "country": "SoyoSZA",
+        "code": "SZA"
+    }
+]

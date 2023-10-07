@@ -1,0 +1,102 @@
+[
+    {
+        "flight": "destination",
+        "country": "Belize CityBZE",
+        "code": "BZE"
+    },
+    {
+        "flight": "destination",
+        "country": "Belize CityTZA",
+        "code": "TZA"
+    },
+    {
+        "flight": "destination",
+        "country": "Caye CaulkerCUK",
+        "code": "CUK"
+    },
+    {
+        "flight": "destination",
+        "country": "Corozal TownCZH",
+        "code": "CZH"
+    },
+    {
+        "flight": "destination",
+        "country": "DangrigaDGA",
+        "code": "DGA"
+    },
+    {
+        "flight": "destination",
+        "country": "IndependenceINB",
+        "code": "INB"
+    },
+    {
+        "flight": "destination",
+        "country": "PlacenciaPLJ",
+        "code": "PLJ"
+    },
+    {
+        "flight": "destination",
+        "country": "San PedroSPR",
+        "code": "SPR"
+    },
+    {
+        "flight": "destination",
+        "country": "Guatemala CityGUA",
+        "code": "GUA"
+    },
+    {
+        "flight": "destination",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "departure",
+        "country": "Belize CityBZE",
+        "code": "BZE"
+    },
+    {
+        "flight": "departure",
+        "country": "Belize CityTZA",
+        "code": "TZA"
+    },
+    {
+        "flight": "departure",
+        "country": "Caye CaulkerCUK",
+        "code": "CUK"
+    },
+    {
+        "flight": "departure",
+        "country": "Corozal TownCZH",
+        "code": "CZH"
+    },
+    {
+        "flight": "departure",
+        "country": "DangrigaDGA",
+        "code": "DGA"
+    },
+    {
+        "flight": "departure",
+        "country": "IndependenceINB",
+        "code": "INB"
+    },
+    {
+        "flight": "departure",
+        "country": "PlacenciaPLJ",
+        "code": "PLJ"
+    },
+    {
+        "flight": "departure",
+        "country": "San PedroSPR",
+        "code": "SPR"
+    },
+    {
+        "flight": "departure",
+        "country": "Guatemala CityGUA",
+        "code": "GUA"
+    },
+    {
+        "flight": "departure",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    }
+]

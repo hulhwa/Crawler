@@ -1,0 +1,132 @@
+[
+    {
+        "flight": "destination",
+        "country": "DhakaDAC",
+        "code": "DAC"
+    },
+    {
+        "flight": "destination",
+        "country": "JakarBUT",
+        "code": "BUT"
+    },
+    {
+        "flight": "destination",
+        "country": "ParoPBH",
+        "code": "PBH"
+    },
+    {
+        "flight": "destination",
+        "country": "TrashigangYON",
+        "code": "YON"
+    },
+    {
+        "flight": "destination",
+        "country": "BagdograIXB",
+        "code": "IXB"
+    },
+    {
+        "flight": "destination",
+        "country": "GayaGAY",
+        "code": "GAY"
+    },
+    {
+        "flight": "destination",
+        "country": "GuwahatiGAU",
+        "code": "GAU"
+    },
+    {
+        "flight": "destination",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "destination",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "destination",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "DiliDIL",
+        "code": "DIL"
+    },
+    {
+        "flight": "departure",
+        "country": "DhakaDAC",
+        "code": "DAC"
+    },
+    {
+        "flight": "departure",
+        "country": "JakarBUT",
+        "code": "BUT"
+    },
+    {
+        "flight": "departure",
+        "country": "ParoPBH",
+        "code": "PBH"
+    },
+    {
+        "flight": "departure",
+        "country": "TrashigangYON",
+        "code": "YON"
+    },
+    {
+        "flight": "departure",
+        "country": "BagdograIXB",
+        "code": "IXB"
+    },
+    {
+        "flight": "departure",
+        "country": "GayaGAY",
+        "code": "GAY"
+    },
+    {
+        "flight": "departure",
+        "country": "GuwahatiGAU",
+        "code": "GAU"
+    },
+    {
+        "flight": "departure",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "departure",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "departure",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "DiliDIL",
+        "code": "DIL"
+    }
+]

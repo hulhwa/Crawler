@@ -1,0 +1,212 @@
+[
+    {
+        "flight": "destination",
+        "country": "DhakaDAC",
+        "code": "DAC"
+    },
+    {
+        "flight": "destination",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "destination",
+        "country": "KochiCOK",
+        "code": "COK"
+    },
+    {
+        "flight": "destination",
+        "country": "ThiruvananthapuramTRV",
+        "code": "TRV"
+    },
+    {
+        "flight": "destination",
+        "country": "DharavandhooDRV",
+        "code": "DRV"
+    },
+    {
+        "flight": "destination",
+        "country": "FaresmathodaFMT",
+        "code": "FMT"
+    },
+    {
+        "flight": "destination",
+        "country": "FunadhooFND",
+        "code": "FND"
+    },
+    {
+        "flight": "destination",
+        "country": "FuvahmulahFVM",
+        "code": "FVM"
+    },
+    {
+        "flight": "destination",
+        "country": "Gan IslandGAN",
+        "code": "GAN"
+    },
+    {
+        "flight": "destination",
+        "country": "HanimaadhooHAQ",
+        "code": "HAQ"
+    },
+    {
+        "flight": "destination",
+        "country": "HoarafushiHRF",
+        "code": "HRF"
+    },
+    {
+        "flight": "destination",
+        "country": "Huvadhu AtollGKK",
+        "code": "GKK"
+    },
+    {
+        "flight": "destination",
+        "country": "IfuruIFU",
+        "code": "IFU"
+    },
+    {
+        "flight": "destination",
+        "country": "Kaadedhdhoo IslandKDM",
+        "code": "KDM"
+    },
+    {
+        "flight": "destination",
+        "country": "Kadhdhoo IslandKDO",
+        "code": "KDO"
+    },
+    {
+        "flight": "destination",
+        "country": "KulhudhuffushiHDK",
+        "code": "HDK"
+    },
+    {
+        "flight": "destination",
+        "country": "MaafaruNMF",
+        "code": "NMF"
+    },
+    {
+        "flight": "destination",
+        "country": "MaavaaruluRUL",
+        "code": "RUL"
+    },
+    {
+        "flight": "destination",
+        "country": "MadivaruLMV",
+        "code": "LMV"
+    },
+    {
+        "flight": "destination",
+        "country": "MaléMLE",
+        "code": "MLE"
+    },
+    {
+        "flight": "destination",
+        "country": "Thaa AtollTMF",
+        "code": "TMF"
+    },
+    {
+        "flight": "departure",
+        "country": "DhakaDAC",
+        "code": "DAC"
+    },
+    {
+        "flight": "departure",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "departure",
+        "country": "KochiCOK",
+        "code": "COK"
+    },
+    {
+        "flight": "departure",
+        "country": "ThiruvananthapuramTRV",
+        "code": "TRV"
+    },
+    {
+        "flight": "departure",
+        "country": "DharavandhooDRV",
+        "code": "DRV"
+    },
+    {
+        "flight": "departure",
+        "country": "FaresmathodaFMT",
+        "code": "FMT"
+    },
+    {
+        "flight": "departure",
+        "country": "FunadhooFND",
+        "code": "FND"
+    },
+    {
+        "flight": "departure",
+        "country": "FuvahmulahFVM",
+        "code": "FVM"
+    },
+    {
+        "flight": "departure",
+        "country": "Gan IslandGAN",
+        "code": "GAN"
+    },
+    {
+        "flight": "departure",
+        "country": "HanimaadhooHAQ",
+        "code": "HAQ"
+    },
+    {
+        "flight": "departure",
+        "country": "HoarafushiHRF",
+        "code": "HRF"
+    },
+    {
+        "flight": "departure",
+        "country": "Huvadhu AtollGKK",
+        "code": "GKK"
+    },
+    {
+        "flight": "departure",
+        "country": "IfuruIFU",
+        "code": "IFU"
+    },
+    {
+        "flight": "departure",
+        "country": "Kaadedhdhoo IslandKDM",
+        "code": "KDM"
+    },
+    {
+        "flight": "departure",
+        "country": "Kadhdhoo IslandKDO",
+        "code": "KDO"
+    },
+    {
+        "flight": "departure",
+        "country": "KulhudhuffushiHDK",
+        "code": "HDK"
+    },
+    {
+        "flight": "departure",
+        "country": "MaafaruNMF",
+        "code": "NMF"
+    },
+    {
+        "flight": "departure",
+        "country": "MaavaaruluRUL",
+        "code": "RUL"
+    },
+    {
+        "flight": "departure",
+        "country": "MadivaruLMV",
+        "code": "LMV"
+    },
+    {
+        "flight": "departure",
+        "country": "MaléMLE",
+        "code": "MLE"
+    },
+    {
+        "flight": "departure",
+        "country": "Thaa AtollTMF",
+        "code": "TMF"
+    }
+]

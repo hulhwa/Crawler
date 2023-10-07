@@ -1,0 +1,682 @@
+[
+    {
+        "flight": "destination",
+        "country": "DhakaDAC",
+        "code": "DAC"
+    },
+    {
+        "flight": "destination",
+        "country": "Brunei and MuaraBWN",
+        "code": "BWN"
+    },
+    {
+        "flight": "destination",
+        "country": "Phnom PenhPNH",
+        "code": "PNH"
+    },
+    {
+        "flight": "destination",
+        "country": "Siem ReapREP",
+        "code": "REP"
+    },
+    {
+        "flight": "destination",
+        "country": "SihanoukvilleKOS",
+        "code": "KOS"
+    },
+    {
+        "flight": "destination",
+        "country": "Beijing DaxingPKX",
+        "code": "PKX"
+    },
+    {
+        "flight": "destination",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "destination",
+        "country": "GuilinKWL",
+        "code": "KWL"
+    },
+    {
+        "flight": "destination",
+        "country": "HangzhouHGH",
+        "code": "HGH"
+    },
+    {
+        "flight": "destination",
+        "country": "KunmingKMG",
+        "code": "KMG"
+    },
+    {
+        "flight": "destination",
+        "country": "NanningNNG",
+        "code": "NNG"
+    },
+    {
+        "flight": "destination",
+        "country": "QuanzhouJJN",
+        "code": "JJN"
+    },
+    {
+        "flight": "destination",
+        "country": "ShantouSWA",
+        "code": "SWA"
+    },
+    {
+        "flight": "destination",
+        "country": "ShenzhenSZX",
+        "code": "SZX"
+    },
+    {
+        "flight": "destination",
+        "country": "WuhanWUH",
+        "code": "WUH"
+    },
+    {
+        "flight": "destination",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "destination",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "destination",
+        "country": "ChennaiMAA",
+        "code": "MAA"
+    },
+    {
+        "flight": "destination",
+        "country": "HyderabadHYD",
+        "code": "HYD"
+    },
+    {
+        "flight": "destination",
+        "country": "KochiCOK",
+        "code": "COK"
+    },
+    {
+        "flight": "destination",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "destination",
+        "country": "TiruchirappalliTRZ",
+        "code": "TRZ"
+    },
+    {
+        "flight": "destination",
+        "country": "BalikpapanBPN",
+        "code": "BPN"
+    },
+    {
+        "flight": "destination",
+        "country": "Banda AcehBTJ",
+        "code": "BTJ"
+    },
+    {
+        "flight": "destination",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "destination",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "destination",
+        "country": "MajalengkaKJT",
+        "code": "KJT"
+    },
+    {
+        "flight": "destination",
+        "country": "MakassarUPG",
+        "code": "UPG"
+    },
+    {
+        "flight": "destination",
+        "country": "MedanKNO",
+        "code": "KNO"
+    },
+    {
+        "flight": "destination",
+        "country": "PadangPDG",
+        "code": "PDG"
+    },
+    {
+        "flight": "destination",
+        "country": "PekanbaruPKU",
+        "code": "PKU"
+    },
+    {
+        "flight": "destination",
+        "country": "YogyakartaYIA",
+        "code": "YIA"
+    },
+    {
+        "flight": "destination",
+        "country": "VientianeVTE",
+        "code": "VTE"
+    },
+    {
+        "flight": "destination",
+        "country": "MacauMFM",
+        "code": "MFM"
+    },
+    {
+        "flight": "destination",
+        "country": "Alor Setar, KedahAOR",
+        "code": "AOR"
+    },
+    {
+        "flight": "destination",
+        "country": "Bintulu DivisionBTU",
+        "code": "BTU"
+    },
+    {
+        "flight": "destination",
+        "country": "IpohIPH",
+        "code": "IPH"
+    },
+    {
+        "flight": "destination",
+        "country": "Johor BahruJHB",
+        "code": "JHB"
+    },
+    {
+        "flight": "destination",
+        "country": "Kota BharuKBR",
+        "code": "KBR"
+    },
+    {
+        "flight": "destination",
+        "country": "Kota KinabaluBKI",
+        "code": "BKI"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuala TerengganuTGG",
+        "code": "TGG"
+    },
+    {
+        "flight": "destination",
+        "country": "KuchingKCH",
+        "code": "KCH"
+    },
+    {
+        "flight": "destination",
+        "country": "LabuanLBU",
+        "code": "LBU"
+    },
+    {
+        "flight": "destination",
+        "country": "LangkawiLGK",
+        "code": "LGK"
+    },
+    {
+        "flight": "destination",
+        "country": "MiriMYY",
+        "code": "MYY"
+    },
+    {
+        "flight": "destination",
+        "country": "PenangPEN",
+        "code": "PEN"
+    },
+    {
+        "flight": "destination",
+        "country": "SandakanSDK",
+        "code": "SDK"
+    },
+    {
+        "flight": "destination",
+        "country": "SibuSBW",
+        "code": "SBW"
+    },
+    {
+        "flight": "destination",
+        "country": "TawauTWU",
+        "code": "TWU"
+    },
+    {
+        "flight": "destination",
+        "country": "MaléMLE",
+        "code": "MLE"
+    },
+    {
+        "flight": "destination",
+        "country": "YangonRGN",
+        "code": "RGN"
+    },
+    {
+        "flight": "destination",
+        "country": "CebuCEB",
+        "code": "CEB"
+    },
+    {
+        "flight": "destination",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "ColomboCMB",
+        "code": "CMB"
+    },
+    {
+        "flight": "destination",
+        "country": "KaohsiungKHH",
+        "code": "KHH"
+    },
+    {
+        "flight": "destination",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "destination",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "destination",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "destination",
+        "country": "KrabiKBV",
+        "code": "KBV"
+    },
+    {
+        "flight": "destination",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "destination",
+        "country": "Da LatDLI",
+        "code": "DLI"
+    },
+    {
+        "flight": "destination",
+        "country": "Da NangDAD",
+        "code": "DAD"
+    },
+    {
+        "flight": "destination",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "destination",
+        "country": "Ho Chi Minh CitySGN",
+        "code": "SGN"
+    },
+    {
+        "flight": "destination",
+        "country": "Nha TrangCXR",
+        "code": "CXR"
+    },
+    {
+        "flight": "destination",
+        "country": "Phu QuocPQC",
+        "code": "PQC"
+    },
+    {
+        "flight": "departure",
+        "country": "DhakaDAC",
+        "code": "DAC"
+    },
+    {
+        "flight": "departure",
+        "country": "Brunei and MuaraBWN",
+        "code": "BWN"
+    },
+    {
+        "flight": "departure",
+        "country": "Phnom PenhPNH",
+        "code": "PNH"
+    },
+    {
+        "flight": "departure",
+        "country": "Siem ReapREP",
+        "code": "REP"
+    },
+    {
+        "flight": "departure",
+        "country": "SihanoukvilleKOS",
+        "code": "KOS"
+    },
+    {
+        "flight": "departure",
+        "country": "Beijing DaxingPKX",
+        "code": "PKX"
+    },
+    {
+        "flight": "departure",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "departure",
+        "country": "GuilinKWL",
+        "code": "KWL"
+    },
+    {
+        "flight": "departure",
+        "country": "HangzhouHGH",
+        "code": "HGH"
+    },
+    {
+        "flight": "departure",
+        "country": "KunmingKMG",
+        "code": "KMG"
+    },
+    {
+        "flight": "departure",
+        "country": "NanningNNG",
+        "code": "NNG"
+    },
+    {
+        "flight": "departure",
+        "country": "QuanzhouJJN",
+        "code": "JJN"
+    },
+    {
+        "flight": "departure",
+        "country": "ShantouSWA",
+        "code": "SWA"
+    },
+    {
+        "flight": "departure",
+        "country": "ShenzhenSZX",
+        "code": "SZX"
+    },
+    {
+        "flight": "departure",
+        "country": "WuhanWUH",
+        "code": "WUH"
+    },
+    {
+        "flight": "departure",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "departure",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "departure",
+        "country": "ChennaiMAA",
+        "code": "MAA"
+    },
+    {
+        "flight": "departure",
+        "country": "HyderabadHYD",
+        "code": "HYD"
+    },
+    {
+        "flight": "departure",
+        "country": "KochiCOK",
+        "code": "COK"
+    },
+    {
+        "flight": "departure",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "departure",
+        "country": "TiruchirappalliTRZ",
+        "code": "TRZ"
+    },
+    {
+        "flight": "departure",
+        "country": "BalikpapanBPN",
+        "code": "BPN"
+    },
+    {
+        "flight": "departure",
+        "country": "Banda AcehBTJ",
+        "code": "BTJ"
+    },
+    {
+        "flight": "departure",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "departure",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "departure",
+        "country": "MajalengkaKJT",
+        "code": "KJT"
+    },
+    {
+        "flight": "departure",
+        "country": "MakassarUPG",
+        "code": "UPG"
+    },
+    {
+        "flight": "departure",
+        "country": "MedanKNO",
+        "code": "KNO"
+    },
+    {
+        "flight": "departure",
+        "country": "PadangPDG",
+        "code": "PDG"
+    },
+    {
+        "flight": "departure",
+        "country": "PekanbaruPKU",
+        "code": "PKU"
+    },
+    {
+        "flight": "departure",
+        "country": "YogyakartaYIA",
+        "code": "YIA"
+    },
+    {
+        "flight": "departure",
+        "country": "VientianeVTE",
+        "code": "VTE"
+    },
+    {
+        "flight": "departure",
+        "country": "MacauMFM",
+        "code": "MFM"
+    },
+    {
+        "flight": "departure",
+        "country": "Alor Setar, KedahAOR",
+        "code": "AOR"
+    },
+    {
+        "flight": "departure",
+        "country": "Bintulu DivisionBTU",
+        "code": "BTU"
+    },
+    {
+        "flight": "departure",
+        "country": "IpohIPH",
+        "code": "IPH"
+    },
+    {
+        "flight": "departure",
+        "country": "Johor BahruJHB",
+        "code": "JHB"
+    },
+    {
+        "flight": "departure",
+        "country": "Kota BharuKBR",
+        "code": "KBR"
+    },
+    {
+        "flight": "departure",
+        "country": "Kota KinabaluBKI",
+        "code": "BKI"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuala TerengganuTGG",
+        "code": "TGG"
+    },
+    {
+        "flight": "departure",
+        "country": "KuchingKCH",
+        "code": "KCH"
+    },
+    {
+        "flight": "departure",
+        "country": "LabuanLBU",
+        "code": "LBU"
+    },
+    {
+        "flight": "departure",
+        "country": "LangkawiLGK",
+        "code": "LGK"
+    },
+    {
+        "flight": "departure",
+        "country": "MiriMYY",
+        "code": "MYY"
+    },
+    {
+        "flight": "departure",
+        "country": "PenangPEN",
+        "code": "PEN"
+    },
+    {
+        "flight": "departure",
+        "country": "SandakanSDK",
+        "code": "SDK"
+    },
+    {
+        "flight": "departure",
+        "country": "SibuSBW",
+        "code": "SBW"
+    },
+    {
+        "flight": "departure",
+        "country": "TawauTWU",
+        "code": "TWU"
+    },
+    {
+        "flight": "departure",
+        "country": "MaléMLE",
+        "code": "MLE"
+    },
+    {
+        "flight": "departure",
+        "country": "YangonRGN",
+        "code": "RGN"
+    },
+    {
+        "flight": "departure",
+        "country": "CebuCEB",
+        "code": "CEB"
+    },
+    {
+        "flight": "departure",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "ColomboCMB",
+        "code": "CMB"
+    },
+    {
+        "flight": "departure",
+        "country": "KaohsiungKHH",
+        "code": "KHH"
+    },
+    {
+        "flight": "departure",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "departure",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "departure",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "departure",
+        "country": "KrabiKBV",
+        "code": "KBV"
+    },
+    {
+        "flight": "departure",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "departure",
+        "country": "Da LatDLI",
+        "code": "DLI"
+    },
+    {
+        "flight": "departure",
+        "country": "Da NangDAD",
+        "code": "DAD"
+    },
+    {
+        "flight": "departure",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "departure",
+        "country": "Ho Chi Minh CitySGN",
+        "code": "SGN"
+    },
+    {
+        "flight": "departure",
+        "country": "Nha TrangCXR",
+        "code": "CXR"
+    },
+    {
+        "flight": "departure",
+        "country": "Phu QuocPQC",
+        "code": "PQC"
+    }
+]

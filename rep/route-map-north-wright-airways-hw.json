@@ -1,0 +1,82 @@
+[
+    {
+        "flight": "destination",
+        "country": "AklavikLAK",
+        "code": "LAK"
+    },
+    {
+        "flight": "destination",
+        "country": "Colville LakeYCK",
+        "code": "YCK"
+    },
+    {
+        "flight": "destination",
+        "country": "DelineYWJ",
+        "code": "YWJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort Good HopeYGH",
+        "code": "YGH"
+    },
+    {
+        "flight": "destination",
+        "country": "InuvikYEV",
+        "code": "YEV"
+    },
+    {
+        "flight": "destination",
+        "country": "Norman WellsYVQ",
+        "code": "YVQ"
+    },
+    {
+        "flight": "destination",
+        "country": "TulitaZFN",
+        "code": "ZFN"
+    },
+    {
+        "flight": "destination",
+        "country": "YellowknifeYZF",
+        "code": "YZF"
+    },
+    {
+        "flight": "departure",
+        "country": "AklavikLAK",
+        "code": "LAK"
+    },
+    {
+        "flight": "departure",
+        "country": "Colville LakeYCK",
+        "code": "YCK"
+    },
+    {
+        "flight": "departure",
+        "country": "DelineYWJ",
+        "code": "YWJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort Good HopeYGH",
+        "code": "YGH"
+    },
+    {
+        "flight": "departure",
+        "country": "InuvikYEV",
+        "code": "YEV"
+    },
+    {
+        "flight": "departure",
+        "country": "Norman WellsYVQ",
+        "code": "YVQ"
+    },
+    {
+        "flight": "departure",
+        "country": "TulitaZFN",
+        "code": "ZFN"
+    },
+    {
+        "flight": "departure",
+        "country": "YellowknifeYZF",
+        "code": "YZF"
+    }
+]

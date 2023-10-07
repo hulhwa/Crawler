@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "BluefieldsBEF",
+        "code": "BEF"
+    },
+    {
+        "flight": "destination",
+        "country": "Corn IslandRNI",
+        "code": "RNI"
+    },
+    {
+        "flight": "destination",
+        "country": "ManaguaMGA",
+        "code": "MGA"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto CabezasPUZ",
+        "code": "PUZ"
+    },
+    {
+        "flight": "departure",
+        "country": "BluefieldsBEF",
+        "code": "BEF"
+    },
+    {
+        "flight": "departure",
+        "country": "Corn IslandRNI",
+        "code": "RNI"
+    },
+    {
+        "flight": "departure",
+        "country": "ManaguaMGA",
+        "code": "MGA"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto CabezasPUZ",
+        "code": "PUZ"
+    }
+]

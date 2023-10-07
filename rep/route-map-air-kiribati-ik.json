@@ -1,0 +1,172 @@
+[
+    {
+        "flight": "destination",
+        "country": "AbaiangABF",
+        "code": "ABF"
+    },
+    {
+        "flight": "destination",
+        "country": "Abemama AtollAEA",
+        "code": "AEA"
+    },
+    {
+        "flight": "destination",
+        "country": "AranukaAAK",
+        "code": "AAK"
+    },
+    {
+        "flight": "destination",
+        "country": "Arorae IslandAIS",
+        "code": "AIS"
+    },
+    {
+        "flight": "destination",
+        "country": "Beru IslandBEZ",
+        "code": "BEZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Butaritari AtollBBG",
+        "code": "BBG"
+    },
+    {
+        "flight": "destination",
+        "country": "KuriaKUC",
+        "code": "KUC"
+    },
+    {
+        "flight": "destination",
+        "country": "MaianaMNK",
+        "code": "MNK"
+    },
+    {
+        "flight": "destination",
+        "country": "MakinMTK",
+        "code": "MTK"
+    },
+    {
+        "flight": "destination",
+        "country": "MarakeiMZK",
+        "code": "MZK"
+    },
+    {
+        "flight": "destination",
+        "country": "NikunauNIG",
+        "code": "NIG"
+    },
+    {
+        "flight": "destination",
+        "country": "NonoutiNON",
+        "code": "NON"
+    },
+    {
+        "flight": "destination",
+        "country": "OnotoaOOT",
+        "code": "OOT"
+    },
+    {
+        "flight": "destination",
+        "country": "TabiteueaTBF",
+        "code": "TBF"
+    },
+    {
+        "flight": "destination",
+        "country": "Tabiteuea SouthTSU",
+        "code": "TSU"
+    },
+    {
+        "flight": "destination",
+        "country": "TamanaTMN",
+        "code": "TMN"
+    },
+    {
+        "flight": "destination",
+        "country": "TarawaTRW",
+        "code": "TRW"
+    },
+    {
+        "flight": "departure",
+        "country": "AbaiangABF",
+        "code": "ABF"
+    },
+    {
+        "flight": "departure",
+        "country": "Abemama AtollAEA",
+        "code": "AEA"
+    },
+    {
+        "flight": "departure",
+        "country": "AranukaAAK",
+        "code": "AAK"
+    },
+    {
+        "flight": "departure",
+        "country": "Arorae IslandAIS",
+        "code": "AIS"
+    },
+    {
+        "flight": "departure",
+        "country": "Beru IslandBEZ",
+        "code": "BEZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Butaritari AtollBBG",
+        "code": "BBG"
+    },
+    {
+        "flight": "departure",
+        "country": "KuriaKUC",
+        "code": "KUC"
+    },
+    {
+        "flight": "departure",
+        "country": "MaianaMNK",
+        "code": "MNK"
+    },
+    {
+        "flight": "departure",
+        "country": "MakinMTK",
+        "code": "MTK"
+    },
+    {
+        "flight": "departure",
+        "country": "MarakeiMZK",
+        "code": "MZK"
+    },
+    {
+        "flight": "departure",
+        "country": "NikunauNIG",
+        "code": "NIG"
+    },
+    {
+        "flight": "departure",
+        "country": "NonoutiNON",
+        "code": "NON"
+    },
+    {
+        "flight": "departure",
+        "country": "OnotoaOOT",
+        "code": "OOT"
+    },
+    {
+        "flight": "departure",
+        "country": "TabiteueaTBF",
+        "code": "TBF"
+    },
+    {
+        "flight": "departure",
+        "country": "Tabiteuea SouthTSU",
+        "code": "TSU"
+    },
+    {
+        "flight": "departure",
+        "country": "TamanaTMN",
+        "code": "TMN"
+    },
+    {
+        "flight": "departure",
+        "country": "TarawaTRW",
+        "code": "TRW"
+    }
+]

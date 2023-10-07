@@ -1,0 +1,112 @@
+[
+    {
+        "flight": "destination",
+        "country": "AlderneyACI",
+        "code": "ACI"
+    },
+    {
+        "flight": "destination",
+        "country": "GuernseyGCI",
+        "code": "GCI"
+    },
+    {
+        "flight": "destination",
+        "country": "DublinDUB",
+        "code": "DUB"
+    },
+    {
+        "flight": "destination",
+        "country": "BirminghamBHX",
+        "code": "BHX"
+    },
+    {
+        "flight": "destination",
+        "country": "BristolBRS",
+        "code": "BRS"
+    },
+    {
+        "flight": "destination",
+        "country": "ExeterEXT",
+        "code": "EXT"
+    },
+    {
+        "flight": "destination",
+        "country": "Leeds / BradfordLBA",
+        "code": "LBA"
+    },
+    {
+        "flight": "destination",
+        "country": "London GatwickLGW",
+        "code": "LGW"
+    },
+    {
+        "flight": "destination",
+        "country": "ManchesterMAN",
+        "code": "MAN"
+    },
+    {
+        "flight": "destination",
+        "country": "NottinghamEMA",
+        "code": "EMA"
+    },
+    {
+        "flight": "destination",
+        "country": "SouthamptonSOU",
+        "code": "SOU"
+    },
+    {
+        "flight": "departure",
+        "country": "AlderneyACI",
+        "code": "ACI"
+    },
+    {
+        "flight": "departure",
+        "country": "GuernseyGCI",
+        "code": "GCI"
+    },
+    {
+        "flight": "departure",
+        "country": "DublinDUB",
+        "code": "DUB"
+    },
+    {
+        "flight": "departure",
+        "country": "BirminghamBHX",
+        "code": "BHX"
+    },
+    {
+        "flight": "departure",
+        "country": "BristolBRS",
+        "code": "BRS"
+    },
+    {
+        "flight": "departure",
+        "country": "ExeterEXT",
+        "code": "EXT"
+    },
+    {
+        "flight": "departure",
+        "country": "Leeds / BradfordLBA",
+        "code": "LBA"
+    },
+    {
+        "flight": "departure",
+        "country": "London GatwickLGW",
+        "code": "LGW"
+    },
+    {
+        "flight": "departure",
+        "country": "ManchesterMAN",
+        "code": "MAN"
+    },
+    {
+        "flight": "departure",
+        "country": "NottinghamEMA",
+        "code": "EMA"
+    },
+    {
+        "flight": "departure",
+        "country": "SouthamptonSOU",
+        "code": "SOU"
+    }
+]

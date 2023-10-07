@@ -1,0 +1,112 @@
+[
+    {
+        "flight": "destination",
+        "country": "AlexandriaALY",
+        "code": "ALY"
+    },
+    {
+        "flight": "destination",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "destination",
+        "country": "BenghaziBEN",
+        "code": "BEN"
+    },
+    {
+        "flight": "destination",
+        "country": "MisurataMRA",
+        "code": "MRA"
+    },
+    {
+        "flight": "destination",
+        "country": "SabhaSEB",
+        "code": "SEB"
+    },
+    {
+        "flight": "destination",
+        "country": "TobrukTOB",
+        "code": "TOB"
+    },
+    {
+        "flight": "destination",
+        "country": "MajuroMAJ",
+        "code": "MAJ"
+    },
+    {
+        "flight": "destination",
+        "country": "KhartoumKRT",
+        "code": "KRT"
+    },
+    {
+        "flight": "destination",
+        "country": "SfaxSFA",
+        "code": "SFA"
+    },
+    {
+        "flight": "destination",
+        "country": "TunisTUN",
+        "code": "TUN"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "AlexandriaALY",
+        "code": "ALY"
+    },
+    {
+        "flight": "departure",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "departure",
+        "country": "BenghaziBEN",
+        "code": "BEN"
+    },
+    {
+        "flight": "departure",
+        "country": "MisurataMRA",
+        "code": "MRA"
+    },
+    {
+        "flight": "departure",
+        "country": "SabhaSEB",
+        "code": "SEB"
+    },
+    {
+        "flight": "departure",
+        "country": "TobrukTOB",
+        "code": "TOB"
+    },
+    {
+        "flight": "departure",
+        "country": "MajuroMAJ",
+        "code": "MAJ"
+    },
+    {
+        "flight": "departure",
+        "country": "KhartoumKRT",
+        "code": "KRT"
+    },
+    {
+        "flight": "departure",
+        "country": "SfaxSFA",
+        "code": "SFA"
+    },
+    {
+        "flight": "departure",
+        "country": "TunisTUN",
+        "code": "TUN"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "BurnieBWT",
+        "code": "BWT"
+    },
+    {
+        "flight": "destination",
+        "country": "Flinders IslandFLS",
+        "code": "FLS"
+    },
+    {
+        "flight": "destination",
+        "country": "King IslandKNS",
+        "code": "KNS"
+    },
+    {
+        "flight": "destination",
+        "country": "LauncestonLST",
+        "code": "LST"
+    },
+    {
+        "flight": "destination",
+        "country": "MelbourneMEB",
+        "code": "MEB"
+    },
+    {
+        "flight": "departure",
+        "country": "BurnieBWT",
+        "code": "BWT"
+    },
+    {
+        "flight": "departure",
+        "country": "Flinders IslandFLS",
+        "code": "FLS"
+    },
+    {
+        "flight": "departure",
+        "country": "King IslandKNS",
+        "code": "KNS"
+    },
+    {
+        "flight": "departure",
+        "country": "LauncestonLST",
+        "code": "LST"
+    },
+    {
+        "flight": "departure",
+        "country": "MelbourneMEB",
+        "code": "MEB"
+    }
+]

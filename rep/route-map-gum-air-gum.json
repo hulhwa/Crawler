@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "GeorgetownOGL",
+        "code": "OGL"
+    },
+    {
+        "flight": "destination",
+        "country": "ParamariboORG",
+        "code": "ORG"
+    },
+    {
+        "flight": "departure",
+        "country": "GeorgetownOGL",
+        "code": "OGL"
+    },
+    {
+        "flight": "departure",
+        "country": "ParamariboORG",
+        "code": "ORG"
+    }
+]

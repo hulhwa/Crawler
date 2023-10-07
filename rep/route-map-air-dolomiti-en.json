@@ -1,0 +1,292 @@
+[
+    {
+        "flight": "destination",
+        "country": "GrazGRZ",
+        "code": "GRZ"
+    },
+    {
+        "flight": "destination",
+        "country": "InnsbruckINN",
+        "code": "INN"
+    },
+    {
+        "flight": "destination",
+        "country": "LinzLNZ",
+        "code": "LNZ"
+    },
+    {
+        "flight": "destination",
+        "country": "LyonLYS",
+        "code": "LYS"
+    },
+    {
+        "flight": "destination",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "destination",
+        "country": "DresdenDRS",
+        "code": "DRS"
+    },
+    {
+        "flight": "destination",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "destination",
+        "country": "MunichMUC",
+        "code": "MUC"
+    },
+    {
+        "flight": "destination",
+        "country": "BariBRI",
+        "code": "BRI"
+    },
+    {
+        "flight": "destination",
+        "country": "BolognaBLQ",
+        "code": "BLQ"
+    },
+    {
+        "flight": "destination",
+        "country": "BrindisiBDS",
+        "code": "BDS"
+    },
+    {
+        "flight": "destination",
+        "country": "FlorenceFLR",
+        "code": "FLR"
+    },
+    {
+        "flight": "destination",
+        "country": "GenoaGOA",
+        "code": "GOA"
+    },
+    {
+        "flight": "destination",
+        "country": "Milan (Linate)LIN",
+        "code": "LIN"
+    },
+    {
+        "flight": "destination",
+        "country": "Milan (Malpensa)MXP",
+        "code": "MXP"
+    },
+    {
+        "flight": "destination",
+        "country": "Olbia (Sardinia)OLB",
+        "code": "OLB"
+    },
+    {
+        "flight": "destination",
+        "country": "PisaPSA",
+        "code": "PSA"
+    },
+    {
+        "flight": "destination",
+        "country": "TriesteTRS",
+        "code": "TRS"
+    },
+    {
+        "flight": "destination",
+        "country": "TurinTRN",
+        "code": "TRN"
+    },
+    {
+        "flight": "destination",
+        "country": "Venice Marco PoloVCE",
+        "code": "VCE"
+    },
+    {
+        "flight": "destination",
+        "country": "VeronaVRN",
+        "code": "VRN"
+    },
+    {
+        "flight": "destination",
+        "country": "JerseyJER",
+        "code": "JER"
+    },
+    {
+        "flight": "destination",
+        "country": "Luxembourg CityLUX",
+        "code": "LUX"
+    },
+    {
+        "flight": "destination",
+        "country": "KatowiceKTW",
+        "code": "KTW"
+    },
+    {
+        "flight": "destination",
+        "country": "KrakowKRK",
+        "code": "KRK"
+    },
+    {
+        "flight": "destination",
+        "country": "WrocławWRO",
+        "code": "WRO"
+    },
+    {
+        "flight": "destination",
+        "country": "Cluj-NapocaCLJ",
+        "code": "CLJ"
+    },
+    {
+        "flight": "destination",
+        "country": "KalmarKLR",
+        "code": "KLR"
+    },
+    {
+        "flight": "destination",
+        "country": "GenevaGVA",
+        "code": "GVA"
+    },
+    {
+        "flight": "departure",
+        "country": "GrazGRZ",
+        "code": "GRZ"
+    },
+    {
+        "flight": "departure",
+        "country": "InnsbruckINN",
+        "code": "INN"
+    },
+    {
+        "flight": "departure",
+        "country": "LinzLNZ",
+        "code": "LNZ"
+    },
+    {
+        "flight": "departure",
+        "country": "LyonLYS",
+        "code": "LYS"
+    },
+    {
+        "flight": "departure",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "departure",
+        "country": "DresdenDRS",
+        "code": "DRS"
+    },
+    {
+        "flight": "departure",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "departure",
+        "country": "MunichMUC",
+        "code": "MUC"
+    },
+    {
+        "flight": "departure",
+        "country": "BariBRI",
+        "code": "BRI"
+    },
+    {
+        "flight": "departure",
+        "country": "BolognaBLQ",
+        "code": "BLQ"
+    },
+    {
+        "flight": "departure",
+        "country": "BrindisiBDS",
+        "code": "BDS"
+    },
+    {
+        "flight": "departure",
+        "country": "FlorenceFLR",
+        "code": "FLR"
+    },
+    {
+        "flight": "departure",
+        "country": "GenoaGOA",
+        "code": "GOA"
+    },
+    {
+        "flight": "departure",
+        "country": "Milan (Linate)LIN",
+        "code": "LIN"
+    },
+    {
+        "flight": "departure",
+        "country": "Milan (Malpensa)MXP",
+        "code": "MXP"
+    },
+    {
+        "flight": "departure",
+        "country": "Olbia (Sardinia)OLB",
+        "code": "OLB"
+    },
+    {
+        "flight": "departure",
+        "country": "PisaPSA",
+        "code": "PSA"
+    },
+    {
+        "flight": "departure",
+        "country": "TriesteTRS",
+        "code": "TRS"
+    },
+    {
+        "flight": "departure",
+        "country": "TurinTRN",
+        "code": "TRN"
+    },
+    {
+        "flight": "departure",
+        "country": "Venice Marco PoloVCE",
+        "code": "VCE"
+    },
+    {
+        "flight": "departure",
+        "country": "VeronaVRN",
+        "code": "VRN"
+    },
+    {
+        "flight": "departure",
+        "country": "JerseyJER",
+        "code": "JER"
+    },
+    {
+        "flight": "departure",
+        "country": "Luxembourg CityLUX",
+        "code": "LUX"
+    },
+    {
+        "flight": "departure",
+        "country": "KatowiceKTW",
+        "code": "KTW"
+    },
+    {
+        "flight": "departure",
+        "country": "KrakowKRK",
+        "code": "KRK"
+    },
+    {
+        "flight": "departure",
+        "country": "WrocławWRO",
+        "code": "WRO"
+    },
+    {
+        "flight": "departure",
+        "country": "Cluj-NapocaCLJ",
+        "code": "CLJ"
+    },
+    {
+        "flight": "departure",
+        "country": "KalmarKLR",
+        "code": "KLR"
+    },
+    {
+        "flight": "departure",
+        "country": "GenevaGVA",
+        "code": "GVA"
+    }
+]

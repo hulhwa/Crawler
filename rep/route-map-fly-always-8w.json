@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "BridgetownBGI",
+        "code": "BGI"
+    },
+    {
+        "flight": "destination",
+        "country": "BelémBEL",
+        "code": "BEL"
+    },
+    {
+        "flight": "destination",
+        "country": "BonaireBON",
+        "code": "BON"
+    },
+    {
+        "flight": "destination",
+        "country": "CamagüeyCMW",
+        "code": "CMW"
+    },
+    {
+        "flight": "destination",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "destination",
+        "country": "Santiago de CubaSCU",
+        "code": "SCU"
+    },
+    {
+        "flight": "destination",
+        "country": "GeorgetownGEO",
+        "code": "GEO"
+    },
+    {
+        "flight": "destination",
+        "country": "KingstonKIN",
+        "code": "KIN"
+    },
+    {
+        "flight": "destination",
+        "country": "ParamariboPBM",
+        "code": "PBM"
+    },
+    {
+        "flight": "departure",
+        "country": "BridgetownBGI",
+        "code": "BGI"
+    },
+    {
+        "flight": "departure",
+        "country": "BelémBEL",
+        "code": "BEL"
+    },
+    {
+        "flight": "departure",
+        "country": "BonaireBON",
+        "code": "BON"
+    },
+    {
+        "flight": "departure",
+        "country": "CamagüeyCMW",
+        "code": "CMW"
+    },
+    {
+        "flight": "departure",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "departure",
+        "country": "Santiago de CubaSCU",
+        "code": "SCU"
+    },
+    {
+        "flight": "departure",
+        "country": "GeorgetownGEO",
+        "code": "GEO"
+    },
+    {
+        "flight": "departure",
+        "country": "KingstonKIN",
+        "code": "KIN"
+    },
+    {
+        "flight": "departure",
+        "country": "ParamariboPBM",
+        "code": "PBM"
+    }
+]

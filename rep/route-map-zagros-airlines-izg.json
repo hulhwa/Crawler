@@ -1,0 +1,142 @@
+[
+    {
+        "flight": "destination",
+        "country": "AbadanABD",
+        "code": "ABD"
+    },
+    {
+        "flight": "destination",
+        "country": "AhwazAWZ",
+        "code": "AWZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Bandar AbbasBND",
+        "code": "BND"
+    },
+    {
+        "flight": "destination",
+        "country": "BushehrBUZ",
+        "code": "BUZ"
+    },
+    {
+        "flight": "destination",
+        "country": "ChabaharZBR",
+        "code": "ZBR"
+    },
+    {
+        "flight": "destination",
+        "country": "DezfulDEF",
+        "code": "DEF"
+    },
+    {
+        "flight": "destination",
+        "country": "KermanKER",
+        "code": "KER"
+    },
+    {
+        "flight": "destination",
+        "country": "Kish IslandKIH",
+        "code": "KIH"
+    },
+    {
+        "flight": "destination",
+        "country": "MashhadMHD",
+        "code": "MHD"
+    },
+    {
+        "flight": "destination",
+        "country": "QeshmGSM",
+        "code": "GSM"
+    },
+    {
+        "flight": "destination",
+        "country": "ShirazSYZ",
+        "code": "SYZ"
+    },
+    {
+        "flight": "destination",
+        "country": "TehranTHR",
+        "code": "THR"
+    },
+    {
+        "flight": "destination",
+        "country": "YazdAZD",
+        "code": "AZD"
+    },
+    {
+        "flight": "destination",
+        "country": "ZahedanZAH",
+        "code": "ZAH"
+    },
+    {
+        "flight": "departure",
+        "country": "AbadanABD",
+        "code": "ABD"
+    },
+    {
+        "flight": "departure",
+        "country": "AhwazAWZ",
+        "code": "AWZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Bandar AbbasBND",
+        "code": "BND"
+    },
+    {
+        "flight": "departure",
+        "country": "BushehrBUZ",
+        "code": "BUZ"
+    },
+    {
+        "flight": "departure",
+        "country": "ChabaharZBR",
+        "code": "ZBR"
+    },
+    {
+        "flight": "departure",
+        "country": "DezfulDEF",
+        "code": "DEF"
+    },
+    {
+        "flight": "departure",
+        "country": "KermanKER",
+        "code": "KER"
+    },
+    {
+        "flight": "departure",
+        "country": "Kish IslandKIH",
+        "code": "KIH"
+    },
+    {
+        "flight": "departure",
+        "country": "MashhadMHD",
+        "code": "MHD"
+    },
+    {
+        "flight": "departure",
+        "country": "QeshmGSM",
+        "code": "GSM"
+    },
+    {
+        "flight": "departure",
+        "country": "ShirazSYZ",
+        "code": "SYZ"
+    },
+    {
+        "flight": "departure",
+        "country": "TehranTHR",
+        "code": "THR"
+    },
+    {
+        "flight": "departure",
+        "country": "YazdAZD",
+        "code": "AZD"
+    },
+    {
+        "flight": "departure",
+        "country": "ZahedanZAH",
+        "code": "ZAH"
+    }
+]

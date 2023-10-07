@@ -1,0 +1,192 @@
+[
+    {
+        "flight": "destination",
+        "country": "AguascalientesAGU",
+        "code": "AGU"
+    },
+    {
+        "flight": "destination",
+        "country": "ChihuahuaCUU",
+        "code": "CUU"
+    },
+    {
+        "flight": "destination",
+        "country": "Ciudad del CarmenCME",
+        "code": "CME"
+    },
+    {
+        "flight": "destination",
+        "country": "Ciudad JuárezCJS",
+        "code": "CJS"
+    },
+    {
+        "flight": "destination",
+        "country": "CuliacánCUL",
+        "code": "CUL"
+    },
+    {
+        "flight": "destination",
+        "country": "DurangoDGO",
+        "code": "DGO"
+    },
+    {
+        "flight": "destination",
+        "country": "GuadalajaraGDL",
+        "code": "GDL"
+    },
+    {
+        "flight": "destination",
+        "country": "HermosilloHMO",
+        "code": "HMO"
+    },
+    {
+        "flight": "destination",
+        "country": "La PazLAP",
+        "code": "LAP"
+    },
+    {
+        "flight": "destination",
+        "country": "MazatlánMZT",
+        "code": "MZT"
+    },
+    {
+        "flight": "destination",
+        "country": "MexicaliMXL",
+        "code": "MXL"
+    },
+    {
+        "flight": "destination",
+        "country": "Mexico City / TolucaTLC",
+        "code": "TLC"
+    },
+    {
+        "flight": "destination",
+        "country": "MonterreyMTY",
+        "code": "MTY"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto VallartaPVR",
+        "code": "PVR"
+    },
+    {
+        "flight": "destination",
+        "country": "QuerétaroQRO",
+        "code": "QRO"
+    },
+    {
+        "flight": "destination",
+        "country": "San Luis PotosíSLP",
+        "code": "SLP"
+    },
+    {
+        "flight": "destination",
+        "country": "TampicoTAM",
+        "code": "TAM"
+    },
+    {
+        "flight": "destination",
+        "country": "TorreónTRC",
+        "code": "TRC"
+    },
+    {
+        "flight": "destination",
+        "country": "VeracruzVER",
+        "code": "VER"
+    },
+    {
+        "flight": "departure",
+        "country": "AguascalientesAGU",
+        "code": "AGU"
+    },
+    {
+        "flight": "departure",
+        "country": "ChihuahuaCUU",
+        "code": "CUU"
+    },
+    {
+        "flight": "departure",
+        "country": "Ciudad del CarmenCME",
+        "code": "CME"
+    },
+    {
+        "flight": "departure",
+        "country": "Ciudad JuárezCJS",
+        "code": "CJS"
+    },
+    {
+        "flight": "departure",
+        "country": "CuliacánCUL",
+        "code": "CUL"
+    },
+    {
+        "flight": "departure",
+        "country": "DurangoDGO",
+        "code": "DGO"
+    },
+    {
+        "flight": "departure",
+        "country": "GuadalajaraGDL",
+        "code": "GDL"
+    },
+    {
+        "flight": "departure",
+        "country": "HermosilloHMO",
+        "code": "HMO"
+    },
+    {
+        "flight": "departure",
+        "country": "La PazLAP",
+        "code": "LAP"
+    },
+    {
+        "flight": "departure",
+        "country": "MazatlánMZT",
+        "code": "MZT"
+    },
+    {
+        "flight": "departure",
+        "country": "MexicaliMXL",
+        "code": "MXL"
+    },
+    {
+        "flight": "departure",
+        "country": "Mexico City / TolucaTLC",
+        "code": "TLC"
+    },
+    {
+        "flight": "departure",
+        "country": "MonterreyMTY",
+        "code": "MTY"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto VallartaPVR",
+        "code": "PVR"
+    },
+    {
+        "flight": "departure",
+        "country": "QuerétaroQRO",
+        "code": "QRO"
+    },
+    {
+        "flight": "departure",
+        "country": "San Luis PotosíSLP",
+        "code": "SLP"
+    },
+    {
+        "flight": "departure",
+        "country": "TampicoTAM",
+        "code": "TAM"
+    },
+    {
+        "flight": "departure",
+        "country": "TorreónTRC",
+        "code": "TRC"
+    },
+    {
+        "flight": "departure",
+        "country": "VeracruzVER",
+        "code": "VER"
+    }
+]

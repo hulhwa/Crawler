@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "DubrovnikDBV",
+        "code": "DBV"
+    },
+    {
+        "flight": "destination",
+        "country": "OsijekOSI",
+        "code": "OSI"
+    },
+    {
+        "flight": "destination",
+        "country": "PulaPUY",
+        "code": "PUY"
+    },
+    {
+        "flight": "destination",
+        "country": "RijekaRJK",
+        "code": "RJK"
+    },
+    {
+        "flight": "destination",
+        "country": "SplitSPU",
+        "code": "SPU"
+    },
+    {
+        "flight": "destination",
+        "country": "ZadarZAD",
+        "code": "ZAD"
+    },
+    {
+        "flight": "destination",
+        "country": "ZagrebZAG",
+        "code": "ZAG"
+    },
+    {
+        "flight": "departure",
+        "country": "DubrovnikDBV",
+        "code": "DBV"
+    },
+    {
+        "flight": "departure",
+        "country": "OsijekOSI",
+        "code": "OSI"
+    },
+    {
+        "flight": "departure",
+        "country": "PulaPUY",
+        "code": "PUY"
+    },
+    {
+        "flight": "departure",
+        "country": "RijekaRJK",
+        "code": "RJK"
+    },
+    {
+        "flight": "departure",
+        "country": "SplitSPU",
+        "code": "SPU"
+    },
+    {
+        "flight": "departure",
+        "country": "ZadarZAD",
+        "code": "ZAD"
+    },
+    {
+        "flight": "departure",
+        "country": "ZagrebZAG",
+        "code": "ZAG"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "flight": "destination",
+        "country": "AnchorageANC",
+        "code": "ANC"
+    },
+    {
+        "flight": "destination",
+        "country": "Cold BayCDB",
+        "code": "CDB"
+    },
+    {
+        "flight": "destination",
+        "country": "HomerHOM",
+        "code": "HOM"
+    },
+    {
+        "flight": "destination",
+        "country": "King SalmonAKN",
+        "code": "AKN"
+    },
+    {
+        "flight": "destination",
+        "country": "Sand PointSDP",
+        "code": "SDP"
+    },
+    {
+        "flight": "destination",
+        "country": "UnalaskaDUT",
+        "code": "DUT"
+    },
+    {
+        "flight": "departure",
+        "country": "AnchorageANC",
+        "code": "ANC"
+    },
+    {
+        "flight": "departure",
+        "country": "Cold BayCDB",
+        "code": "CDB"
+    },
+    {
+        "flight": "departure",
+        "country": "HomerHOM",
+        "code": "HOM"
+    },
+    {
+        "flight": "departure",
+        "country": "King SalmonAKN",
+        "code": "AKN"
+    },
+    {
+        "flight": "departure",
+        "country": "Sand PointSDP",
+        "code": "SDP"
+    },
+    {
+        "flight": "departure",
+        "country": "UnalaskaDUT",
+        "code": "DUT"
+    }
+]

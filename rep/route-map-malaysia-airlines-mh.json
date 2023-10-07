@@ -1,0 +1,772 @@
+[
+    {
+        "flight": "destination",
+        "country": "AdelaideADL",
+        "code": "ADL"
+    },
+    {
+        "flight": "destination",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "destination",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "destination",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "destination",
+        "country": "DhakaDAC",
+        "code": "DAC"
+    },
+    {
+        "flight": "destination",
+        "country": "Phnom PenhPNH",
+        "code": "PNH"
+    },
+    {
+        "flight": "destination",
+        "country": "Beijing DaxingPKX",
+        "code": "PKX"
+    },
+    {
+        "flight": "destination",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "destination",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "destination",
+        "country": "XiamenXMN",
+        "code": "XMN"
+    },
+    {
+        "flight": "destination",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "destination",
+        "country": "AhmedabadAMD",
+        "code": "AMD"
+    },
+    {
+        "flight": "destination",
+        "country": "Amritsar, PunjabATQ",
+        "code": "ATQ"
+    },
+    {
+        "flight": "destination",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "destination",
+        "country": "ChennaiMAA",
+        "code": "MAA"
+    },
+    {
+        "flight": "destination",
+        "country": "HyderabadHYD",
+        "code": "HYD"
+    },
+    {
+        "flight": "destination",
+        "country": "KochiCOK",
+        "code": "COK"
+    },
+    {
+        "flight": "destination",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "destination",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "destination",
+        "country": "ThiruvananthapuramTRV",
+        "code": "TRV"
+    },
+    {
+        "flight": "destination",
+        "country": "BalikpapanBPN",
+        "code": "BPN"
+    },
+    {
+        "flight": "destination",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "destination",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "destination",
+        "country": "MajalengkaKJT",
+        "code": "KJT"
+    },
+    {
+        "flight": "destination",
+        "country": "MakassarUPG",
+        "code": "UPG"
+    },
+    {
+        "flight": "destination",
+        "country": "MedanKNO",
+        "code": "KNO"
+    },
+    {
+        "flight": "destination",
+        "country": "PekanbaruPKU",
+        "code": "PKU"
+    },
+    {
+        "flight": "destination",
+        "country": "SurabayaSUB",
+        "code": "SUB"
+    },
+    {
+        "flight": "destination",
+        "country": "YogyakartaYIA",
+        "code": "YIA"
+    },
+    {
+        "flight": "destination",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoHND",
+        "code": "HND"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "Alor Setar, KedahAOR",
+        "code": "AOR"
+    },
+    {
+        "flight": "destination",
+        "country": "BakelalanBKM",
+        "code": "BKM"
+    },
+    {
+        "flight": "destination",
+        "country": "BarioBBN",
+        "code": "BBN"
+    },
+    {
+        "flight": "destination",
+        "country": "Bintulu DivisionBTU",
+        "code": "BTU"
+    },
+    {
+        "flight": "destination",
+        "country": "Gunung Mulu National ParkMZV",
+        "code": "MZV"
+    },
+    {
+        "flight": "destination",
+        "country": "Johor BahruJHB",
+        "code": "JHB"
+    },
+    {
+        "flight": "destination",
+        "country": "Kota BharuKBR",
+        "code": "KBR"
+    },
+    {
+        "flight": "destination",
+        "country": "Kota KinabaluBKI",
+        "code": "BKI"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuala TerengganuTGG",
+        "code": "TGG"
+    },
+    {
+        "flight": "destination",
+        "country": "KuantanKUA",
+        "code": "KUA"
+    },
+    {
+        "flight": "destination",
+        "country": "KuchingKCH",
+        "code": "KCH"
+    },
+    {
+        "flight": "destination",
+        "country": "LabuanLBU",
+        "code": "LBU"
+    },
+    {
+        "flight": "destination",
+        "country": "Lahad DatuLDU",
+        "code": "LDU"
+    },
+    {
+        "flight": "destination",
+        "country": "LangkawiLGK",
+        "code": "LGK"
+    },
+    {
+        "flight": "destination",
+        "country": "LawasLWY",
+        "code": "LWY"
+    },
+    {
+        "flight": "destination",
+        "country": "LimbangLMN",
+        "code": "LMN"
+    },
+    {
+        "flight": "destination",
+        "country": "Long AkahLKH",
+        "code": "LKH"
+    },
+    {
+        "flight": "destination",
+        "country": "Long BangaLBP",
+        "code": "LBP"
+    },
+    {
+        "flight": "destination",
+        "country": "Long LellangLGL",
+        "code": "LGL"
+    },
+    {
+        "flight": "destination",
+        "country": "Long SeridanODN",
+        "code": "ODN"
+    },
+    {
+        "flight": "destination",
+        "country": "MarudiMUR",
+        "code": "MUR"
+    },
+    {
+        "flight": "destination",
+        "country": "MiriMYY",
+        "code": "MYY"
+    },
+    {
+        "flight": "destination",
+        "country": "MukahMKM",
+        "code": "MKM"
+    },
+    {
+        "flight": "destination",
+        "country": "PenangPEN",
+        "code": "PEN"
+    },
+    {
+        "flight": "destination",
+        "country": "SandakanSDK",
+        "code": "SDK"
+    },
+    {
+        "flight": "destination",
+        "country": "SibuSBW",
+        "code": "SBW"
+    },
+    {
+        "flight": "destination",
+        "country": "Tanjung ManisTGC",
+        "code": "TGC"
+    },
+    {
+        "flight": "destination",
+        "country": "TawauTWU",
+        "code": "TWU"
+    },
+    {
+        "flight": "destination",
+        "country": "YangonRGN",
+        "code": "RGN"
+    },
+    {
+        "flight": "destination",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "destination",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "destination",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "destination",
+        "country": "DohaDOH",
+        "code": "DOH"
+    },
+    {
+        "flight": "destination",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "destination",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "destination",
+        "country": "ColomboCMB",
+        "code": "CMB"
+    },
+    {
+        "flight": "destination",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "destination",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "destination",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "destination",
+        "country": "Ho Chi Minh CitySGN",
+        "code": "SGN"
+    },
+    {
+        "flight": "departure",
+        "country": "AdelaideADL",
+        "code": "ADL"
+    },
+    {
+        "flight": "departure",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "departure",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "departure",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "departure",
+        "country": "DhakaDAC",
+        "code": "DAC"
+    },
+    {
+        "flight": "departure",
+        "country": "Phnom PenhPNH",
+        "code": "PNH"
+    },
+    {
+        "flight": "departure",
+        "country": "Beijing DaxingPKX",
+        "code": "PKX"
+    },
+    {
+        "flight": "departure",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "departure",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "departure",
+        "country": "XiamenXMN",
+        "code": "XMN"
+    },
+    {
+        "flight": "departure",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "departure",
+        "country": "AhmedabadAMD",
+        "code": "AMD"
+    },
+    {
+        "flight": "departure",
+        "country": "Amritsar, PunjabATQ",
+        "code": "ATQ"
+    },
+    {
+        "flight": "departure",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "departure",
+        "country": "ChennaiMAA",
+        "code": "MAA"
+    },
+    {
+        "flight": "departure",
+        "country": "HyderabadHYD",
+        "code": "HYD"
+    },
+    {
+        "flight": "departure",
+        "country": "KochiCOK",
+        "code": "COK"
+    },
+    {
+        "flight": "departure",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "departure",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "departure",
+        "country": "ThiruvananthapuramTRV",
+        "code": "TRV"
+    },
+    {
+        "flight": "departure",
+        "country": "BalikpapanBPN",
+        "code": "BPN"
+    },
+    {
+        "flight": "departure",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "departure",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "departure",
+        "country": "MajalengkaKJT",
+        "code": "KJT"
+    },
+    {
+        "flight": "departure",
+        "country": "MakassarUPG",
+        "code": "UPG"
+    },
+    {
+        "flight": "departure",
+        "country": "MedanKNO",
+        "code": "KNO"
+    },
+    {
+        "flight": "departure",
+        "country": "PekanbaruPKU",
+        "code": "PKU"
+    },
+    {
+        "flight": "departure",
+        "country": "SurabayaSUB",
+        "code": "SUB"
+    },
+    {
+        "flight": "departure",
+        "country": "YogyakartaYIA",
+        "code": "YIA"
+    },
+    {
+        "flight": "departure",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoHND",
+        "code": "HND"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "Alor Setar, KedahAOR",
+        "code": "AOR"
+    },
+    {
+        "flight": "departure",
+        "country": "BakelalanBKM",
+        "code": "BKM"
+    },
+    {
+        "flight": "departure",
+        "country": "BarioBBN",
+        "code": "BBN"
+    },
+    {
+        "flight": "departure",
+        "country": "Bintulu DivisionBTU",
+        "code": "BTU"
+    },
+    {
+        "flight": "departure",
+        "country": "Gunung Mulu National ParkMZV",
+        "code": "MZV"
+    },
+    {
+        "flight": "departure",
+        "country": "Johor BahruJHB",
+        "code": "JHB"
+    },
+    {
+        "flight": "departure",
+        "country": "Kota BharuKBR",
+        "code": "KBR"
+    },
+    {
+        "flight": "departure",
+        "country": "Kota KinabaluBKI",
+        "code": "BKI"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuala TerengganuTGG",
+        "code": "TGG"
+    },
+    {
+        "flight": "departure",
+        "country": "KuantanKUA",
+        "code": "KUA"
+    },
+    {
+        "flight": "departure",
+        "country": "KuchingKCH",
+        "code": "KCH"
+    },
+    {
+        "flight": "departure",
+        "country": "LabuanLBU",
+        "code": "LBU"
+    },
+    {
+        "flight": "departure",
+        "country": "Lahad DatuLDU",
+        "code": "LDU"
+    },
+    {
+        "flight": "departure",
+        "country": "LangkawiLGK",
+        "code": "LGK"
+    },
+    {
+        "flight": "departure",
+        "country": "LawasLWY",
+        "code": "LWY"
+    },
+    {
+        "flight": "departure",
+        "country": "LimbangLMN",
+        "code": "LMN"
+    },
+    {
+        "flight": "departure",
+        "country": "Long AkahLKH",
+        "code": "LKH"
+    },
+    {
+        "flight": "departure",
+        "country": "Long BangaLBP",
+        "code": "LBP"
+    },
+    {
+        "flight": "departure",
+        "country": "Long LellangLGL",
+        "code": "LGL"
+    },
+    {
+        "flight": "departure",
+        "country": "Long SeridanODN",
+        "code": "ODN"
+    },
+    {
+        "flight": "departure",
+        "country": "MarudiMUR",
+        "code": "MUR"
+    },
+    {
+        "flight": "departure",
+        "country": "MiriMYY",
+        "code": "MYY"
+    },
+    {
+        "flight": "departure",
+        "country": "MukahMKM",
+        "code": "MKM"
+    },
+    {
+        "flight": "departure",
+        "country": "PenangPEN",
+        "code": "PEN"
+    },
+    {
+        "flight": "departure",
+        "country": "SandakanSDK",
+        "code": "SDK"
+    },
+    {
+        "flight": "departure",
+        "country": "SibuSBW",
+        "code": "SBW"
+    },
+    {
+        "flight": "departure",
+        "country": "Tanjung ManisTGC",
+        "code": "TGC"
+    },
+    {
+        "flight": "departure",
+        "country": "TawauTWU",
+        "code": "TWU"
+    },
+    {
+        "flight": "departure",
+        "country": "YangonRGN",
+        "code": "RGN"
+    },
+    {
+        "flight": "departure",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "departure",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "departure",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "departure",
+        "country": "DohaDOH",
+        "code": "DOH"
+    },
+    {
+        "flight": "departure",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "departure",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "departure",
+        "country": "ColomboCMB",
+        "code": "CMB"
+    },
+    {
+        "flight": "departure",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "departure",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "departure",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "departure",
+        "country": "Ho Chi Minh CitySGN",
+        "code": "SGN"
+    }
+]

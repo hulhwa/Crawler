@@ -1,0 +1,242 @@
+[
+    {
+        "flight": "destination",
+        "country": "BalikpapanBPN",
+        "code": "BPN"
+    },
+    {
+        "flight": "destination",
+        "country": "Bandar LampungTKG",
+        "code": "TKG"
+    },
+    {
+        "flight": "destination",
+        "country": "BanjarmasinBDJ",
+        "code": "BDJ"
+    },
+    {
+        "flight": "destination",
+        "country": "BatamBTH",
+        "code": "BTH"
+    },
+    {
+        "flight": "destination",
+        "country": "BengkuluBKS",
+        "code": "BKS"
+    },
+    {
+        "flight": "destination",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "destination",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "destination",
+        "country": "Jambi CityDJB",
+        "code": "DJB"
+    },
+    {
+        "flight": "destination",
+        "country": "KupangKOE",
+        "code": "KOE"
+    },
+    {
+        "flight": "destination",
+        "country": "Labuan BajoLBJ",
+        "code": "LBJ"
+    },
+    {
+        "flight": "destination",
+        "country": "MakassarUPG",
+        "code": "UPG"
+    },
+    {
+        "flight": "destination",
+        "country": "MedanKNO",
+        "code": "KNO"
+    },
+    {
+        "flight": "destination",
+        "country": "PadangPDG",
+        "code": "PDG"
+    },
+    {
+        "flight": "destination",
+        "country": "PalembangPLM",
+        "code": "PLM"
+    },
+    {
+        "flight": "destination",
+        "country": "PekanbaruPKU",
+        "code": "PKU"
+    },
+    {
+        "flight": "destination",
+        "country": "PontianakPNK",
+        "code": "PNK"
+    },
+    {
+        "flight": "destination",
+        "country": "Praya, LombokLOP",
+        "code": "LOP"
+    },
+    {
+        "flight": "destination",
+        "country": "SamarindaAAP",
+        "code": "AAP"
+    },
+    {
+        "flight": "destination",
+        "country": "SemarangSRG",
+        "code": "SRG"
+    },
+    {
+        "flight": "destination",
+        "country": "SurabayaSUB",
+        "code": "SUB"
+    },
+    {
+        "flight": "destination",
+        "country": "Surakarta (Solo)SOC",
+        "code": "SOC"
+    },
+    {
+        "flight": "destination",
+        "country": "Tanjung PandanTJQ",
+        "code": "TJQ"
+    },
+    {
+        "flight": "destination",
+        "country": "TarakanTRK",
+        "code": "TRK"
+    },
+    {
+        "flight": "destination",
+        "country": "YogyakartaYIA",
+        "code": "YIA"
+    },
+    {
+        "flight": "departure",
+        "country": "BalikpapanBPN",
+        "code": "BPN"
+    },
+    {
+        "flight": "departure",
+        "country": "Bandar LampungTKG",
+        "code": "TKG"
+    },
+    {
+        "flight": "departure",
+        "country": "BanjarmasinBDJ",
+        "code": "BDJ"
+    },
+    {
+        "flight": "departure",
+        "country": "BatamBTH",
+        "code": "BTH"
+    },
+    {
+        "flight": "departure",
+        "country": "BengkuluBKS",
+        "code": "BKS"
+    },
+    {
+        "flight": "departure",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "departure",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "departure",
+        "country": "Jambi CityDJB",
+        "code": "DJB"
+    },
+    {
+        "flight": "departure",
+        "country": "KupangKOE",
+        "code": "KOE"
+    },
+    {
+        "flight": "departure",
+        "country": "Labuan BajoLBJ",
+        "code": "LBJ"
+    },
+    {
+        "flight": "departure",
+        "country": "MakassarUPG",
+        "code": "UPG"
+    },
+    {
+        "flight": "departure",
+        "country": "MedanKNO",
+        "code": "KNO"
+    },
+    {
+        "flight": "departure",
+        "country": "PadangPDG",
+        "code": "PDG"
+    },
+    {
+        "flight": "departure",
+        "country": "PalembangPLM",
+        "code": "PLM"
+    },
+    {
+        "flight": "departure",
+        "country": "PekanbaruPKU",
+        "code": "PKU"
+    },
+    {
+        "flight": "departure",
+        "country": "PontianakPNK",
+        "code": "PNK"
+    },
+    {
+        "flight": "departure",
+        "country": "Praya, LombokLOP",
+        "code": "LOP"
+    },
+    {
+        "flight": "departure",
+        "country": "SamarindaAAP",
+        "code": "AAP"
+    },
+    {
+        "flight": "departure",
+        "country": "SemarangSRG",
+        "code": "SRG"
+    },
+    {
+        "flight": "departure",
+        "country": "SurabayaSUB",
+        "code": "SUB"
+    },
+    {
+        "flight": "departure",
+        "country": "Surakarta (Solo)SOC",
+        "code": "SOC"
+    },
+    {
+        "flight": "departure",
+        "country": "Tanjung PandanTJQ",
+        "code": "TJQ"
+    },
+    {
+        "flight": "departure",
+        "country": "TarakanTRK",
+        "code": "TRK"
+    },
+    {
+        "flight": "departure",
+        "country": "YogyakartaYIA",
+        "code": "YIA"
+    }
+]

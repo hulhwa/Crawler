@@ -1,0 +1,122 @@
+[
+    {
+        "flight": "destination",
+        "country": "Belize CityBZE",
+        "code": "BZE"
+    },
+    {
+        "flight": "destination",
+        "country": "Belize CityTZA",
+        "code": "TZA"
+    },
+    {
+        "flight": "destination",
+        "country": "Caye CaulkerCUK",
+        "code": "CUK"
+    },
+    {
+        "flight": "destination",
+        "country": "Corozal TownCZH",
+        "code": "CZH"
+    },
+    {
+        "flight": "destination",
+        "country": "DangrigaDGA",
+        "code": "DGA"
+    },
+    {
+        "flight": "destination",
+        "country": "PlacenciaPLJ",
+        "code": "PLJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Punta GordaPND",
+        "code": "PND"
+    },
+    {
+        "flight": "destination",
+        "country": "San PedroSPR",
+        "code": "SPR"
+    },
+    {
+        "flight": "destination",
+        "country": "San SalvadorSAL",
+        "code": "SAL"
+    },
+    {
+        "flight": "destination",
+        "country": "RoatanRTB",
+        "code": "RTB"
+    },
+    {
+        "flight": "destination",
+        "country": "San Pedro SulaSAP",
+        "code": "SAP"
+    },
+    {
+        "flight": "destination",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "departure",
+        "country": "Belize CityBZE",
+        "code": "BZE"
+    },
+    {
+        "flight": "departure",
+        "country": "Belize CityTZA",
+        "code": "TZA"
+    },
+    {
+        "flight": "departure",
+        "country": "Caye CaulkerCUK",
+        "code": "CUK"
+    },
+    {
+        "flight": "departure",
+        "country": "Corozal TownCZH",
+        "code": "CZH"
+    },
+    {
+        "flight": "departure",
+        "country": "DangrigaDGA",
+        "code": "DGA"
+    },
+    {
+        "flight": "departure",
+        "country": "PlacenciaPLJ",
+        "code": "PLJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Punta GordaPND",
+        "code": "PND"
+    },
+    {
+        "flight": "departure",
+        "country": "San PedroSPR",
+        "code": "SPR"
+    },
+    {
+        "flight": "departure",
+        "country": "San SalvadorSAL",
+        "code": "SAL"
+    },
+    {
+        "flight": "departure",
+        "country": "RoatanRTB",
+        "code": "RTB"
+    },
+    {
+        "flight": "departure",
+        "country": "San Pedro SulaSAP",
+        "code": "SAP"
+    },
+    {
+        "flight": "departure",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    }
+]

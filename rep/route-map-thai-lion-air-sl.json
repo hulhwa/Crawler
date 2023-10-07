@@ -1,0 +1,342 @@
+[
+    {
+        "flight": "destination",
+        "country": "ChangshaCSX",
+        "code": "CSX"
+    },
+    {
+        "flight": "destination",
+        "country": "ChangzhouCZX",
+        "code": "CZX"
+    },
+    {
+        "flight": "destination",
+        "country": "ChengduTFU",
+        "code": "TFU"
+    },
+    {
+        "flight": "destination",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "destination",
+        "country": "HangzhouHGH",
+        "code": "HGH"
+    },
+    {
+        "flight": "destination",
+        "country": "HefeiHFE",
+        "code": "HFE"
+    },
+    {
+        "flight": "destination",
+        "country": "JinanTNA",
+        "code": "TNA"
+    },
+    {
+        "flight": "destination",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "destination",
+        "country": "ShenzhenSZX",
+        "code": "SZX"
+    },
+    {
+        "flight": "destination",
+        "country": "TianjinTSN",
+        "code": "TSN"
+    },
+    {
+        "flight": "destination",
+        "country": "Xi'anXIY",
+        "code": "XIY"
+    },
+    {
+        "flight": "destination",
+        "country": "ZhengzhouCGO",
+        "code": "CGO"
+    },
+    {
+        "flight": "destination",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "destination",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "destination",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "MacauMFM",
+        "code": "MFM"
+    },
+    {
+        "flight": "destination",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "destination",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "destination",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "destination",
+        "country": "Chiang RaiCEI",
+        "code": "CEI"
+    },
+    {
+        "flight": "destination",
+        "country": "Hat YaiHDY",
+        "code": "HDY"
+    },
+    {
+        "flight": "destination",
+        "country": "Khon KaenKKC",
+        "code": "KKC"
+    },
+    {
+        "flight": "destination",
+        "country": "KrabiKBV",
+        "code": "KBV"
+    },
+    {
+        "flight": "destination",
+        "country": "Nakhon Si ThammaratNST",
+        "code": "NST"
+    },
+    {
+        "flight": "destination",
+        "country": "PhitsanulokPHS",
+        "code": "PHS"
+    },
+    {
+        "flight": "destination",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "destination",
+        "country": "Surat ThaniURT",
+        "code": "URT"
+    },
+    {
+        "flight": "destination",
+        "country": "TrangTST",
+        "code": "TST"
+    },
+    {
+        "flight": "destination",
+        "country": "U-Tapao, Rayong / PattayaUTP",
+        "code": "UTP"
+    },
+    {
+        "flight": "destination",
+        "country": "Ubon RatchathaniUBP",
+        "code": "UBP"
+    },
+    {
+        "flight": "destination",
+        "country": "Udon ThaniUTH",
+        "code": "UTH"
+    },
+    {
+        "flight": "departure",
+        "country": "ChangshaCSX",
+        "code": "CSX"
+    },
+    {
+        "flight": "departure",
+        "country": "ChangzhouCZX",
+        "code": "CZX"
+    },
+    {
+        "flight": "departure",
+        "country": "ChengduTFU",
+        "code": "TFU"
+    },
+    {
+        "flight": "departure",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "departure",
+        "country": "HangzhouHGH",
+        "code": "HGH"
+    },
+    {
+        "flight": "departure",
+        "country": "HefeiHFE",
+        "code": "HFE"
+    },
+    {
+        "flight": "departure",
+        "country": "JinanTNA",
+        "code": "TNA"
+    },
+    {
+        "flight": "departure",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "departure",
+        "country": "ShenzhenSZX",
+        "code": "SZX"
+    },
+    {
+        "flight": "departure",
+        "country": "TianjinTSN",
+        "code": "TSN"
+    },
+    {
+        "flight": "departure",
+        "country": "Xi'anXIY",
+        "code": "XIY"
+    },
+    {
+        "flight": "departure",
+        "country": "ZhengzhouCGO",
+        "code": "CGO"
+    },
+    {
+        "flight": "departure",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "departure",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "departure",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "MacauMFM",
+        "code": "MFM"
+    },
+    {
+        "flight": "departure",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "departure",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "departure",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "departure",
+        "country": "Chiang RaiCEI",
+        "code": "CEI"
+    },
+    {
+        "flight": "departure",
+        "country": "Hat YaiHDY",
+        "code": "HDY"
+    },
+    {
+        "flight": "departure",
+        "country": "Khon KaenKKC",
+        "code": "KKC"
+    },
+    {
+        "flight": "departure",
+        "country": "KrabiKBV",
+        "code": "KBV"
+    },
+    {
+        "flight": "departure",
+        "country": "Nakhon Si ThammaratNST",
+        "code": "NST"
+    },
+    {
+        "flight": "departure",
+        "country": "PhitsanulokPHS",
+        "code": "PHS"
+    },
+    {
+        "flight": "departure",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "departure",
+        "country": "Surat ThaniURT",
+        "code": "URT"
+    },
+    {
+        "flight": "departure",
+        "country": "TrangTST",
+        "code": "TST"
+    },
+    {
+        "flight": "departure",
+        "country": "U-Tapao, Rayong / PattayaUTP",
+        "code": "UTP"
+    },
+    {
+        "flight": "departure",
+        "country": "Ubon RatchathaniUBP",
+        "code": "UBP"
+    },
+    {
+        "flight": "departure",
+        "country": "Udon ThaniUTH",
+        "code": "UTH"
+    }
+]

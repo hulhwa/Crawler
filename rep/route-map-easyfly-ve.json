@@ -1,0 +1,302 @@
+[
+    {
+        "flight": "destination",
+        "country": "ApartadóAPO",
+        "code": "APO"
+    },
+    {
+        "flight": "destination",
+        "country": "AraucaAUC",
+        "code": "AUC"
+    },
+    {
+        "flight": "destination",
+        "country": "ArmeniaAXM",
+        "code": "AXM"
+    },
+    {
+        "flight": "destination",
+        "country": "Bahía SolanoBSC",
+        "code": "BSC"
+    },
+    {
+        "flight": "destination",
+        "country": "BarrancabermejaEJA",
+        "code": "EJA"
+    },
+    {
+        "flight": "destination",
+        "country": "BarranquillaBAQ",
+        "code": "BAQ"
+    },
+    {
+        "flight": "destination",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "destination",
+        "country": "BucaramangaBGA",
+        "code": "BGA"
+    },
+    {
+        "flight": "destination",
+        "country": "CaliCLO",
+        "code": "CLO"
+    },
+    {
+        "flight": "destination",
+        "country": "Corozal, SucreCZU",
+        "code": "CZU"
+    },
+    {
+        "flight": "destination",
+        "country": "CúcutaCUC",
+        "code": "CUC"
+    },
+    {
+        "flight": "destination",
+        "country": "FlorenciaFLA",
+        "code": "FLA"
+    },
+    {
+        "flight": "destination",
+        "country": "GuapiGPI",
+        "code": "GPI"
+    },
+    {
+        "flight": "destination",
+        "country": "IbaguéIBE",
+        "code": "IBE"
+    },
+    {
+        "flight": "destination",
+        "country": "ManizalesMZL",
+        "code": "MZL"
+    },
+    {
+        "flight": "destination",
+        "country": "MedellínEOH",
+        "code": "EOH"
+    },
+    {
+        "flight": "destination",
+        "country": "MonteríaMTR",
+        "code": "MTR"
+    },
+    {
+        "flight": "destination",
+        "country": "Neiva, HuilaNVA",
+        "code": "NVA"
+    },
+    {
+        "flight": "destination",
+        "country": "PaipaRON",
+        "code": "RON"
+    },
+    {
+        "flight": "destination",
+        "country": "PastoPSO",
+        "code": "PSO"
+    },
+    {
+        "flight": "destination",
+        "country": "PereiraPEI",
+        "code": "PEI"
+    },
+    {
+        "flight": "destination",
+        "country": "PopayánPPN",
+        "code": "PPN"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto AsísPUU",
+        "code": "PUU"
+    },
+    {
+        "flight": "destination",
+        "country": "QuibdóUIB",
+        "code": "UIB"
+    },
+    {
+        "flight": "destination",
+        "country": "San José del GuaviareSJE",
+        "code": "SJE"
+    },
+    {
+        "flight": "destination",
+        "country": "TolúTLU",
+        "code": "TLU"
+    },
+    {
+        "flight": "destination",
+        "country": "TumacoTCO",
+        "code": "TCO"
+    },
+    {
+        "flight": "destination",
+        "country": "ValleduparVUP",
+        "code": "VUP"
+    },
+    {
+        "flight": "destination",
+        "country": "VillavicencioVVC",
+        "code": "VVC"
+    },
+    {
+        "flight": "destination",
+        "country": "YopalEYP",
+        "code": "EYP"
+    },
+    {
+        "flight": "departure",
+        "country": "ApartadóAPO",
+        "code": "APO"
+    },
+    {
+        "flight": "departure",
+        "country": "AraucaAUC",
+        "code": "AUC"
+    },
+    {
+        "flight": "departure",
+        "country": "ArmeniaAXM",
+        "code": "AXM"
+    },
+    {
+        "flight": "departure",
+        "country": "Bahía SolanoBSC",
+        "code": "BSC"
+    },
+    {
+        "flight": "departure",
+        "country": "BarrancabermejaEJA",
+        "code": "EJA"
+    },
+    {
+        "flight": "departure",
+        "country": "BarranquillaBAQ",
+        "code": "BAQ"
+    },
+    {
+        "flight": "departure",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "departure",
+        "country": "BucaramangaBGA",
+        "code": "BGA"
+    },
+    {
+        "flight": "departure",
+        "country": "CaliCLO",
+        "code": "CLO"
+    },
+    {
+        "flight": "departure",
+        "country": "Corozal, SucreCZU",
+        "code": "CZU"
+    },
+    {
+        "flight": "departure",
+        "country": "CúcutaCUC",
+        "code": "CUC"
+    },
+    {
+        "flight": "departure",
+        "country": "FlorenciaFLA",
+        "code": "FLA"
+    },
+    {
+        "flight": "departure",
+        "country": "GuapiGPI",
+        "code": "GPI"
+    },
+    {
+        "flight": "departure",
+        "country": "IbaguéIBE",
+        "code": "IBE"
+    },
+    {
+        "flight": "departure",
+        "country": "ManizalesMZL",
+        "code": "MZL"
+    },
+    {
+        "flight": "departure",
+        "country": "MedellínEOH",
+        "code": "EOH"
+    },
+    {
+        "flight": "departure",
+        "country": "MonteríaMTR",
+        "code": "MTR"
+    },
+    {
+        "flight": "departure",
+        "country": "Neiva, HuilaNVA",
+        "code": "NVA"
+    },
+    {
+        "flight": "departure",
+        "country": "PaipaRON",
+        "code": "RON"
+    },
+    {
+        "flight": "departure",
+        "country": "PastoPSO",
+        "code": "PSO"
+    },
+    {
+        "flight": "departure",
+        "country": "PereiraPEI",
+        "code": "PEI"
+    },
+    {
+        "flight": "departure",
+        "country": "PopayánPPN",
+        "code": "PPN"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto AsísPUU",
+        "code": "PUU"
+    },
+    {
+        "flight": "departure",
+        "country": "QuibdóUIB",
+        "code": "UIB"
+    },
+    {
+        "flight": "departure",
+        "country": "San José del GuaviareSJE",
+        "code": "SJE"
+    },
+    {
+        "flight": "departure",
+        "country": "TolúTLU",
+        "code": "TLU"
+    },
+    {
+        "flight": "departure",
+        "country": "TumacoTCO",
+        "code": "TCO"
+    },
+    {
+        "flight": "departure",
+        "country": "ValleduparVUP",
+        "code": "VUP"
+    },
+    {
+        "flight": "departure",
+        "country": "VillavicencioVVC",
+        "code": "VVC"
+    },
+    {
+        "flight": "departure",
+        "country": "YopalEYP",
+        "code": "EYP"
+    }
+]

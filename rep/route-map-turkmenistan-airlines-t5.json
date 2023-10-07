@@ -1,0 +1,142 @@
+[
+    {
+        "flight": "destination",
+        "country": "BeijingPEK",
+        "code": "PEK"
+    },
+    {
+        "flight": "destination",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "destination",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "destination",
+        "country": "KazanKZN",
+        "code": "KZN"
+    },
+    {
+        "flight": "destination",
+        "country": "ErzurumERZ",
+        "code": "ERZ"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "destination",
+        "country": "AshgabatASB",
+        "code": "ASB"
+    },
+    {
+        "flight": "destination",
+        "country": "DaşoguzTAZ",
+        "code": "TAZ"
+    },
+    {
+        "flight": "destination",
+        "country": "KerkiKEA",
+        "code": "KEA"
+    },
+    {
+        "flight": "destination",
+        "country": "MaryMYP",
+        "code": "MYP"
+    },
+    {
+        "flight": "destination",
+        "country": "TürkmenabatCRZ",
+        "code": "CRZ"
+    },
+    {
+        "flight": "destination",
+        "country": "TürkmenbaşyKRW",
+        "code": "KRW"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "destination",
+        "country": "London StanstedSTN",
+        "code": "STN"
+    },
+    {
+        "flight": "departure",
+        "country": "BeijingPEK",
+        "code": "PEK"
+    },
+    {
+        "flight": "departure",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "departure",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "departure",
+        "country": "KazanKZN",
+        "code": "KZN"
+    },
+    {
+        "flight": "departure",
+        "country": "ErzurumERZ",
+        "code": "ERZ"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "AshgabatASB",
+        "code": "ASB"
+    },
+    {
+        "flight": "departure",
+        "country": "DaşoguzTAZ",
+        "code": "TAZ"
+    },
+    {
+        "flight": "departure",
+        "country": "KerkiKEA",
+        "code": "KEA"
+    },
+    {
+        "flight": "departure",
+        "country": "MaryMYP",
+        "code": "MYP"
+    },
+    {
+        "flight": "departure",
+        "country": "TürkmenabatCRZ",
+        "code": "CRZ"
+    },
+    {
+        "flight": "departure",
+        "country": "TürkmenbaşyKRW",
+        "code": "KRW"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "London StanstedSTN",
+        "code": "STN"
+    }
+]

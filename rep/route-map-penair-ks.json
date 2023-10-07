@@ -1,0 +1,62 @@
+[
+    {
+        "flight": "destination",
+        "country": "BudapestBUD",
+        "code": "BUD"
+    },
+    {
+        "flight": "destination",
+        "country": "Baia MareBAY",
+        "code": "BAY"
+    },
+    {
+        "flight": "destination",
+        "country": "BucharestBBU",
+        "code": "BBU"
+    },
+    {
+        "flight": "destination",
+        "country": "BucharestOTP",
+        "code": "OTP"
+    },
+    {
+        "flight": "destination",
+        "country": "SuceavaSCV",
+        "code": "SCV"
+    },
+    {
+        "flight": "destination",
+        "country": "TimișoaraTSR",
+        "code": "TSR"
+    },
+    {
+        "flight": "departure",
+        "country": "BudapestBUD",
+        "code": "BUD"
+    },
+    {
+        "flight": "departure",
+        "country": "Baia MareBAY",
+        "code": "BAY"
+    },
+    {
+        "flight": "departure",
+        "country": "BucharestBBU",
+        "code": "BBU"
+    },
+    {
+        "flight": "departure",
+        "country": "BucharestOTP",
+        "code": "OTP"
+    },
+    {
+        "flight": "departure",
+        "country": "SuceavaSCV",
+        "code": "SCV"
+    },
+    {
+        "flight": "departure",
+        "country": "TimișoaraTSR",
+        "code": "TSR"
+    }
+]

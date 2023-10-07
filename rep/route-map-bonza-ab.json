@@ -1,0 +1,182 @@
+[
+    {
+        "flight": "destination",
+        "country": "AlburyABX",
+        "code": "ABX"
+    },
+    {
+        "flight": "destination",
+        "country": "BundabergBDB",
+        "code": "BDB"
+    },
+    {
+        "flight": "destination",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "destination",
+        "country": "GladstoneGLT",
+        "code": "GLT"
+    },
+    {
+        "flight": "destination",
+        "country": "Gold CoastOOL",
+        "code": "OOL"
+    },
+    {
+        "flight": "destination",
+        "country": "LauncestonLST",
+        "code": "LST"
+    },
+    {
+        "flight": "destination",
+        "country": "MackayMKY",
+        "code": "MKY"
+    },
+    {
+        "flight": "destination",
+        "country": "MelbourneAVV",
+        "code": "AVV"
+    },
+    {
+        "flight": "destination",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "destination",
+        "country": "MilduraMQL",
+        "code": "MQL"
+    },
+    {
+        "flight": "destination",
+        "country": "NewcastleNTL",
+        "code": "NTL"
+    },
+    {
+        "flight": "destination",
+        "country": "Port MacquariePQQ",
+        "code": "PQQ"
+    },
+    {
+        "flight": "destination",
+        "country": "ProserpinePPP",
+        "code": "PPP"
+    },
+    {
+        "flight": "destination",
+        "country": "RockhamptonROK",
+        "code": "ROK"
+    },
+    {
+        "flight": "destination",
+        "country": "Sunshine CoastMCY",
+        "code": "MCY"
+    },
+    {
+        "flight": "destination",
+        "country": "TamworthTMW",
+        "code": "TMW"
+    },
+    {
+        "flight": "destination",
+        "country": "ToowoombaWTB",
+        "code": "WTB"
+    },
+    {
+        "flight": "destination",
+        "country": "TownsvilleTSV",
+        "code": "TSV"
+    },
+    {
+        "flight": "departure",
+        "country": "AlburyABX",
+        "code": "ABX"
+    },
+    {
+        "flight": "departure",
+        "country": "BundabergBDB",
+        "code": "BDB"
+    },
+    {
+        "flight": "departure",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "departure",
+        "country": "GladstoneGLT",
+        "code": "GLT"
+    },
+    {
+        "flight": "departure",
+        "country": "Gold CoastOOL",
+        "code": "OOL"
+    },
+    {
+        "flight": "departure",
+        "country": "LauncestonLST",
+        "code": "LST"
+    },
+    {
+        "flight": "departure",
+        "country": "MackayMKY",
+        "code": "MKY"
+    },
+    {
+        "flight": "departure",
+        "country": "MelbourneAVV",
+        "code": "AVV"
+    },
+    {
+        "flight": "departure",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "departure",
+        "country": "MilduraMQL",
+        "code": "MQL"
+    },
+    {
+        "flight": "departure",
+        "country": "NewcastleNTL",
+        "code": "NTL"
+    },
+    {
+        "flight": "departure",
+        "country": "Port MacquariePQQ",
+        "code": "PQQ"
+    },
+    {
+        "flight": "departure",
+        "country": "ProserpinePPP",
+        "code": "PPP"
+    },
+    {
+        "flight": "departure",
+        "country": "RockhamptonROK",
+        "code": "ROK"
+    },
+    {
+        "flight": "departure",
+        "country": "Sunshine CoastMCY",
+        "code": "MCY"
+    },
+    {
+        "flight": "departure",
+        "country": "TamworthTMW",
+        "code": "TMW"
+    },
+    {
+        "flight": "departure",
+        "country": "ToowoombaWTB",
+        "code": "WTB"
+    },
+    {
+        "flight": "departure",
+        "country": "TownsvilleTSV",
+        "code": "TSV"
+    }
+]

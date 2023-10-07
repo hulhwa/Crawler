@@ -1,0 +1,382 @@
+[
+    {
+        "flight": "destination",
+        "country": "BakuGYD",
+        "code": "GYD"
+    },
+    {
+        "flight": "destination",
+        "country": "Bahrain IslandBAH",
+        "code": "BAH"
+    },
+    {
+        "flight": "destination",
+        "country": "TorontoYYZ",
+        "code": "YYZ"
+    },
+    {
+        "flight": "destination",
+        "country": "BeijingPEK",
+        "code": "PEK"
+    },
+    {
+        "flight": "destination",
+        "country": "Al NajafNJF",
+        "code": "NJF"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuwait CityKWI",
+        "code": "KWI"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "destination",
+        "country": "MuscatMCT",
+        "code": "MCT"
+    },
+    {
+        "flight": "destination",
+        "country": "SalalahSLL",
+        "code": "SLL"
+    },
+    {
+        "flight": "destination",
+        "country": "BahawalpurBHV",
+        "code": "BHV"
+    },
+    {
+        "flight": "destination",
+        "country": "ChitralCJL",
+        "code": "CJL"
+    },
+    {
+        "flight": "destination",
+        "country": "FaisalabadLYP",
+        "code": "LYP"
+    },
+    {
+        "flight": "destination",
+        "country": "GilgitGIL",
+        "code": "GIL"
+    },
+    {
+        "flight": "destination",
+        "country": "GwadarGWD",
+        "code": "GWD"
+    },
+    {
+        "flight": "destination",
+        "country": "IslamabadISB",
+        "code": "ISB"
+    },
+    {
+        "flight": "destination",
+        "country": "KarachiKHI",
+        "code": "KHI"
+    },
+    {
+        "flight": "destination",
+        "country": "LahoreLHE",
+        "code": "LHE"
+    },
+    {
+        "flight": "destination",
+        "country": "MoenjodaroMJD",
+        "code": "MJD"
+    },
+    {
+        "flight": "destination",
+        "country": "MultanMUX",
+        "code": "MUX"
+    },
+    {
+        "flight": "destination",
+        "country": "PeshawarPEW",
+        "code": "PEW"
+    },
+    {
+        "flight": "destination",
+        "country": "QuettaUET",
+        "code": "UET"
+    },
+    {
+        "flight": "destination",
+        "country": "Rahim Yar KhanRYK",
+        "code": "RYK"
+    },
+    {
+        "flight": "destination",
+        "country": "SialkotSKT",
+        "code": "SKT"
+    },
+    {
+        "flight": "destination",
+        "country": "SkarduKDU",
+        "code": "KDU"
+    },
+    {
+        "flight": "destination",
+        "country": "SukkurSKZ",
+        "code": "SKZ"
+    },
+    {
+        "flight": "destination",
+        "country": "TurbatTUK",
+        "code": "TUK"
+    },
+    {
+        "flight": "destination",
+        "country": "DohaDOH",
+        "code": "DOH"
+    },
+    {
+        "flight": "destination",
+        "country": "DammamDMM",
+        "code": "DMM"
+    },
+    {
+        "flight": "destination",
+        "country": "GassimELQ",
+        "code": "ELQ"
+    },
+    {
+        "flight": "destination",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "destination",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "destination",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "destination",
+        "country": "DamascusDAM",
+        "code": "DAM"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "destination",
+        "country": "Abu DhabiAUH",
+        "code": "AUH"
+    },
+    {
+        "flight": "destination",
+        "country": "Al AinAAN",
+        "code": "AAN"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "destination",
+        "country": "Dubai (Sharjah)SHJ",
+        "code": "SHJ"
+    },
+    {
+        "flight": "departure",
+        "country": "BakuGYD",
+        "code": "GYD"
+    },
+    {
+        "flight": "departure",
+        "country": "Bahrain IslandBAH",
+        "code": "BAH"
+    },
+    {
+        "flight": "departure",
+        "country": "TorontoYYZ",
+        "code": "YYZ"
+    },
+    {
+        "flight": "departure",
+        "country": "BeijingPEK",
+        "code": "PEK"
+    },
+    {
+        "flight": "departure",
+        "country": "Al NajafNJF",
+        "code": "NJF"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuwait CityKWI",
+        "code": "KWI"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "departure",
+        "country": "MuscatMCT",
+        "code": "MCT"
+    },
+    {
+        "flight": "departure",
+        "country": "SalalahSLL",
+        "code": "SLL"
+    },
+    {
+        "flight": "departure",
+        "country": "BahawalpurBHV",
+        "code": "BHV"
+    },
+    {
+        "flight": "departure",
+        "country": "ChitralCJL",
+        "code": "CJL"
+    },
+    {
+        "flight": "departure",
+        "country": "FaisalabadLYP",
+        "code": "LYP"
+    },
+    {
+        "flight": "departure",
+        "country": "GilgitGIL",
+        "code": "GIL"
+    },
+    {
+        "flight": "departure",
+        "country": "GwadarGWD",
+        "code": "GWD"
+    },
+    {
+        "flight": "departure",
+        "country": "IslamabadISB",
+        "code": "ISB"
+    },
+    {
+        "flight": "departure",
+        "country": "KarachiKHI",
+        "code": "KHI"
+    },
+    {
+        "flight": "departure",
+        "country": "LahoreLHE",
+        "code": "LHE"
+    },
+    {
+        "flight": "departure",
+        "country": "MoenjodaroMJD",
+        "code": "MJD"
+    },
+    {
+        "flight": "departure",
+        "country": "MultanMUX",
+        "code": "MUX"
+    },
+    {
+        "flight": "departure",
+        "country": "PeshawarPEW",
+        "code": "PEW"
+    },
+    {
+        "flight": "departure",
+        "country": "QuettaUET",
+        "code": "UET"
+    },
+    {
+        "flight": "departure",
+        "country": "Rahim Yar KhanRYK",
+        "code": "RYK"
+    },
+    {
+        "flight": "departure",
+        "country": "SialkotSKT",
+        "code": "SKT"
+    },
+    {
+        "flight": "departure",
+        "country": "SkarduKDU",
+        "code": "KDU"
+    },
+    {
+        "flight": "departure",
+        "country": "SukkurSKZ",
+        "code": "SKZ"
+    },
+    {
+        "flight": "departure",
+        "country": "TurbatTUK",
+        "code": "TUK"
+    },
+    {
+        "flight": "departure",
+        "country": "DohaDOH",
+        "code": "DOH"
+    },
+    {
+        "flight": "departure",
+        "country": "DammamDMM",
+        "code": "DMM"
+    },
+    {
+        "flight": "departure",
+        "country": "GassimELQ",
+        "code": "ELQ"
+    },
+    {
+        "flight": "departure",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "departure",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "departure",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "departure",
+        "country": "DamascusDAM",
+        "code": "DAM"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "Abu DhabiAUH",
+        "code": "AUH"
+    },
+    {
+        "flight": "departure",
+        "country": "Al AinAAN",
+        "code": "AAN"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "Dubai (Sharjah)SHJ",
+        "code": "SHJ"
+    }
+]

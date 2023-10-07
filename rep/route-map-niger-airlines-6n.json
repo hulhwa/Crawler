@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "AgadezAJY",
+        "code": "AJY"
+    },
+    {
+        "flight": "destination",
+        "country": "NiameyNIM",
+        "code": "NIM"
+    },
+    {
+        "flight": "destination",
+        "country": "ZinderZND",
+        "code": "ZND"
+    },
+    {
+        "flight": "departure",
+        "country": "AgadezAJY",
+        "code": "AJY"
+    },
+    {
+        "flight": "departure",
+        "country": "NiameyNIM",
+        "code": "NIM"
+    },
+    {
+        "flight": "departure",
+        "country": "ZinderZND",
+        "code": "ZND"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "flight": "destination",
+        "country": "BeniBNC",
+        "code": "BNC"
+    },
+    {
+        "flight": "destination",
+        "country": "BuniaBUX",
+        "code": "BUX"
+    },
+    {
+        "flight": "destination",
+        "country": "GomaGOM",
+        "code": "GOM"
+    },
+    {
+        "flight": "destination",
+        "country": "IsiroIRP",
+        "code": "IRP"
+    },
+    {
+        "flight": "destination",
+        "country": "KalemieFMI",
+        "code": "FMI"
+    },
+    {
+        "flight": "destination",
+        "country": "KanangaKGA",
+        "code": "KGA"
+    },
+    {
+        "flight": "destination",
+        "country": "KinduKND",
+        "code": "KND"
+    },
+    {
+        "flight": "destination",
+        "country": "KinshasaFIH",
+        "code": "FIH"
+    },
+    {
+        "flight": "destination",
+        "country": "KisanganiFKI",
+        "code": "FKI"
+    },
+    {
+        "flight": "destination",
+        "country": "LubumbashiFBM",
+        "code": "FBM"
+    },
+    {
+        "flight": "destination",
+        "country": "MbandakaMDK",
+        "code": "MDK"
+    },
+    {
+        "flight": "destination",
+        "country": "KolweziKWZ",
+        "code": "KWZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Mbuji MayiMJM",
+        "code": "MJM"
+    },
+    {
+        "flight": "departure",
+        "country": "BeniBNC",
+        "code": "BNC"
+    },
+    {
+        "flight": "departure",
+        "country": "BuniaBUX",
+        "code": "BUX"
+    },
+    {
+        "flight": "departure",
+        "country": "GomaGOM",
+        "code": "GOM"
+    },
+    {
+        "flight": "departure",
+        "country": "IsiroIRP",
+        "code": "IRP"
+    },
+    {
+        "flight": "departure",
+        "country": "KalemieFMI",
+        "code": "FMI"
+    },
+    {
+        "flight": "departure",
+        "country": "KanangaKGA",
+        "code": "KGA"
+    },
+    {
+        "flight": "departure",
+        "country": "KinduKND",
+        "code": "KND"
+    },
+    {
+        "flight": "departure",
+        "country": "KinshasaFIH",
+        "code": "FIH"
+    },
+    {
+        "flight": "departure",
+        "country": "KisanganiFKI",
+        "code": "FKI"
+    },
+    {
+        "flight": "departure",
+        "country": "LubumbashiFBM",
+        "code": "FBM"
+    },
+    {
+        "flight": "departure",
+        "country": "MbandakaMDK",
+        "code": "MDK"
+    },
+    {
+        "flight": "departure",
+        "country": "KolweziKWZ",
+        "code": "KWZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Mbuji MayiMJM",
+        "code": "MJM"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "MedellínMDE",
+        "code": "MDE"
+    },
+    {
+        "flight": "destination",
+        "country": "Willemstad, CuraçaoCUR",
+        "code": "CUR"
+    },
+    {
+        "flight": "destination",
+        "country": "KingstonKIN",
+        "code": "KIN"
+    },
+    {
+        "flight": "destination",
+        "country": "Sint MaartenSXM",
+        "code": "SXM"
+    },
+    {
+        "flight": "destination",
+        "country": "ParamariboPBM",
+        "code": "PBM"
+    },
+    {
+        "flight": "departure",
+        "country": "MedellínMDE",
+        "code": "MDE"
+    },
+    {
+        "flight": "departure",
+        "country": "Willemstad, CuraçaoCUR",
+        "code": "CUR"
+    },
+    {
+        "flight": "departure",
+        "country": "KingstonKIN",
+        "code": "KIN"
+    },
+    {
+        "flight": "departure",
+        "country": "Sint MaartenSXM",
+        "code": "SXM"
+    },
+    {
+        "flight": "departure",
+        "country": "ParamariboPBM",
+        "code": "PBM"
+    }
+]

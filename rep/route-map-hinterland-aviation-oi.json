@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "destination",
+        "country": "CoenCUQ",
+        "code": "CUQ"
+    },
+    {
+        "flight": "destination",
+        "country": "CooktownCTN",
+        "code": "CTN"
+    },
+    {
+        "flight": "destination",
+        "country": "KowanyamaKWM",
+        "code": "KWM"
+    },
+    {
+        "flight": "destination",
+        "country": "Palm IslandPMK",
+        "code": "PMK"
+    },
+    {
+        "flight": "destination",
+        "country": "PormpuraawEDR",
+        "code": "EDR"
+    },
+    {
+        "flight": "destination",
+        "country": "TownsvilleTSV",
+        "code": "TSV"
+    },
+    {
+        "flight": "departure",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "departure",
+        "country": "CoenCUQ",
+        "code": "CUQ"
+    },
+    {
+        "flight": "departure",
+        "country": "CooktownCTN",
+        "code": "CTN"
+    },
+    {
+        "flight": "departure",
+        "country": "KowanyamaKWM",
+        "code": "KWM"
+    },
+    {
+        "flight": "departure",
+        "country": "Palm IslandPMK",
+        "code": "PMK"
+    },
+    {
+        "flight": "departure",
+        "country": "PormpuraawEDR",
+        "code": "EDR"
+    },
+    {
+        "flight": "departure",
+        "country": "TownsvilleTSV",
+        "code": "TSV"
+    }
+]

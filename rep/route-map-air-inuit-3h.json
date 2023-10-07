@@ -1,0 +1,202 @@
+[
+    {
+        "flight": "destination",
+        "country": "AkulivikAKV",
+        "code": "AKV"
+    },
+    {
+        "flight": "destination",
+        "country": "AupalukYPJ",
+        "code": "YPJ"
+    },
+    {
+        "flight": "destination",
+        "country": "InukjuakYPH",
+        "code": "YPH"
+    },
+    {
+        "flight": "destination",
+        "country": "IvujivikYIK",
+        "code": "YIK"
+    },
+    {
+        "flight": "destination",
+        "country": "KangiqsualujjuaqXGR",
+        "code": "XGR"
+    },
+    {
+        "flight": "destination",
+        "country": "KangiqsujuaqYWB",
+        "code": "YWB"
+    },
+    {
+        "flight": "destination",
+        "country": "KangirsukYKG",
+        "code": "YKG"
+    },
+    {
+        "flight": "destination",
+        "country": "KuujjuaqYVP",
+        "code": "YVP"
+    },
+    {
+        "flight": "destination",
+        "country": "KuujjuarapikYGW",
+        "code": "YGW"
+    },
+    {
+        "flight": "destination",
+        "country": "La Grande RiviereYGL",
+        "code": "YGL"
+    },
+    {
+        "flight": "destination",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "destination",
+        "country": "PuvirnituqYPX",
+        "code": "YPX"
+    },
+    {
+        "flight": "destination",
+        "country": "QuaqtaqYQC",
+        "code": "YQC"
+    },
+    {
+        "flight": "destination",
+        "country": "Quebec CityYQB",
+        "code": "YQB"
+    },
+    {
+        "flight": "destination",
+        "country": "SalluitYZG",
+        "code": "YZG"
+    },
+    {
+        "flight": "destination",
+        "country": "SanikiluaqYSK",
+        "code": "YSK"
+    },
+    {
+        "flight": "destination",
+        "country": "ScheffervilleYKL",
+        "code": "YKL"
+    },
+    {
+        "flight": "destination",
+        "country": "Sept-ÎlesYZV",
+        "code": "YZV"
+    },
+    {
+        "flight": "destination",
+        "country": "TasiujaqYTQ",
+        "code": "YTQ"
+    },
+    {
+        "flight": "destination",
+        "country": "UmiujaqYUD",
+        "code": "YUD"
+    },
+    {
+        "flight": "departure",
+        "country": "AkulivikAKV",
+        "code": "AKV"
+    },
+    {
+        "flight": "departure",
+        "country": "AupalukYPJ",
+        "code": "YPJ"
+    },
+    {
+        "flight": "departure",
+        "country": "InukjuakYPH",
+        "code": "YPH"
+    },
+    {
+        "flight": "departure",
+        "country": "IvujivikYIK",
+        "code": "YIK"
+    },
+    {
+        "flight": "departure",
+        "country": "KangiqsualujjuaqXGR",
+        "code": "XGR"
+    },
+    {
+        "flight": "departure",
+        "country": "KangiqsujuaqYWB",
+        "code": "YWB"
+    },
+    {
+        "flight": "departure",
+        "country": "KangirsukYKG",
+        "code": "YKG"
+    },
+    {
+        "flight": "departure",
+        "country": "KuujjuaqYVP",
+        "code": "YVP"
+    },
+    {
+        "flight": "departure",
+        "country": "KuujjuarapikYGW",
+        "code": "YGW"
+    },
+    {
+        "flight": "departure",
+        "country": "La Grande RiviereYGL",
+        "code": "YGL"
+    },
+    {
+        "flight": "departure",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "departure",
+        "country": "PuvirnituqYPX",
+        "code": "YPX"
+    },
+    {
+        "flight": "departure",
+        "country": "QuaqtaqYQC",
+        "code": "YQC"
+    },
+    {
+        "flight": "departure",
+        "country": "Quebec CityYQB",
+        "code": "YQB"
+    },
+    {
+        "flight": "departure",
+        "country": "SalluitYZG",
+        "code": "YZG"
+    },
+    {
+        "flight": "departure",
+        "country": "SanikiluaqYSK",
+        "code": "YSK"
+    },
+    {
+        "flight": "departure",
+        "country": "ScheffervilleYKL",
+        "code": "YKL"
+    },
+    {
+        "flight": "departure",
+        "country": "Sept-ÎlesYZV",
+        "code": "YZV"
+    },
+    {
+        "flight": "departure",
+        "country": "TasiujaqYTQ",
+        "code": "YTQ"
+    },
+    {
+        "flight": "departure",
+        "country": "UmiujaqYUD",
+        "code": "YUD"
+    }
+]

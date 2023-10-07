@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "Baltra IslandGPS",
+        "code": "GPS"
+    },
+    {
+        "flight": "destination",
+        "country": "GuayaquilGYE",
+        "code": "GYE"
+    },
+    {
+        "flight": "destination",
+        "country": "QuitoUIO",
+        "code": "UIO"
+    },
+    {
+        "flight": "destination",
+        "country": "San Cristóbal Island (GalápagosSCY",
+        "code": "SCY"
+    },
+    {
+        "flight": "departure",
+        "country": "Baltra IslandGPS",
+        "code": "GPS"
+    },
+    {
+        "flight": "departure",
+        "country": "GuayaquilGYE",
+        "code": "GYE"
+    },
+    {
+        "flight": "departure",
+        "country": "QuitoUIO",
+        "code": "UIO"
+    },
+    {
+        "flight": "departure",
+        "country": "San Cristóbal Island (GalápagosSCY",
+        "code": "SCY"
+    }
+]

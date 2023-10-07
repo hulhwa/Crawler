@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "BourkeBRK",
+        "code": "BRK"
+    },
+    {
+        "flight": "destination",
+        "country": "DubboDBO",
+        "code": "DBO"
+    },
+    {
+        "flight": "destination",
+        "country": "Lightning RidgeLHG",
+        "code": "LHG"
+    },
+    {
+        "flight": "destination",
+        "country": "WalgettWGE",
+        "code": "WGE"
+    },
+    {
+        "flight": "departure",
+        "country": "BourkeBRK",
+        "code": "BRK"
+    },
+    {
+        "flight": "departure",
+        "country": "DubboDBO",
+        "code": "DBO"
+    },
+    {
+        "flight": "departure",
+        "country": "Lightning RidgeLHG",
+        "code": "LHG"
+    },
+    {
+        "flight": "departure",
+        "country": "WalgettWGE",
+        "code": "WGE"
+    }
+]

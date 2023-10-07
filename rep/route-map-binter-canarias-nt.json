@@ -1,0 +1,392 @@
+[
+    {
+        "flight": "destination",
+        "country": "Sal, Cape VerdeSID",
+        "code": "SID"
+    },
+    {
+        "flight": "destination",
+        "country": "LilleLIL",
+        "code": "LIL"
+    },
+    {
+        "flight": "destination",
+        "country": "ToulouseTLS",
+        "code": "TLS"
+    },
+    {
+        "flight": "destination",
+        "country": "FlorenceFLR",
+        "code": "FLR"
+    },
+    {
+        "flight": "destination",
+        "country": "Venice Marco PoloVCE",
+        "code": "VCE"
+    },
+    {
+        "flight": "destination",
+        "country": "NouadhibouNDB",
+        "code": "NDB"
+    },
+    {
+        "flight": "destination",
+        "country": "NouakchottNKC",
+        "code": "NKC"
+    },
+    {
+        "flight": "destination",
+        "country": "AgadirAGA",
+        "code": "AGA"
+    },
+    {
+        "flight": "destination",
+        "country": "GuelmimGLN",
+        "code": "GLN"
+    },
+    {
+        "flight": "destination",
+        "country": "LaayouneEUN",
+        "code": "EUN"
+    },
+    {
+        "flight": "destination",
+        "country": "MarrakechRAK",
+        "code": "RAK"
+    },
+    {
+        "flight": "destination",
+        "country": "Funchal (Madeira)FNC",
+        "code": "FNC"
+    },
+    {
+        "flight": "destination",
+        "country": "Ponta DelgadaPDL",
+        "code": "PDL"
+    },
+    {
+        "flight": "destination",
+        "country": "Porto Santo IslandPXO",
+        "code": "PXO"
+    },
+    {
+        "flight": "destination",
+        "country": "DakarDSS",
+        "code": "DSS"
+    },
+    {
+        "flight": "destination",
+        "country": "A CoruñaLCG",
+        "code": "LCG"
+    },
+    {
+        "flight": "destination",
+        "country": "AsturiasOVD",
+        "code": "OVD"
+    },
+    {
+        "flight": "destination",
+        "country": "FuerteventuraFUE",
+        "code": "FUE"
+    },
+    {
+        "flight": "destination",
+        "country": "Gran Canaria (Las Palmas)LPA",
+        "code": "LPA"
+    },
+    {
+        "flight": "destination",
+        "country": "GranadaGRX",
+        "code": "GRX"
+    },
+    {
+        "flight": "destination",
+        "country": "IbizaIBZ",
+        "code": "IBZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Jerez de la FronteraXRY",
+        "code": "XRY"
+    },
+    {
+        "flight": "destination",
+        "country": "Lanzarote (Arrecife)ACE",
+        "code": "ACE"
+    },
+    {
+        "flight": "destination",
+        "country": "Menorca (Mahon)MAH",
+        "code": "MAH"
+    },
+    {
+        "flight": "destination",
+        "country": "MurciaRMU",
+        "code": "RMU"
+    },
+    {
+        "flight": "destination",
+        "country": "Palma de MallorcaPMI",
+        "code": "PMI"
+    },
+    {
+        "flight": "destination",
+        "country": "PamplonaPNA",
+        "code": "PNA"
+    },
+    {
+        "flight": "destination",
+        "country": "San SebastiánEAS",
+        "code": "EAS"
+    },
+    {
+        "flight": "destination",
+        "country": "San Sebastián (La Gomera)GMZ",
+        "code": "GMZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa Cruz de La PalmaSPC",
+        "code": "SPC"
+    },
+    {
+        "flight": "destination",
+        "country": "SantanderSDR",
+        "code": "SDR"
+    },
+    {
+        "flight": "destination",
+        "country": "Tenerife (Los Rodeos)TFN",
+        "code": "TFN"
+    },
+    {
+        "flight": "destination",
+        "country": "Tenerife (Reina Sofía)TFS",
+        "code": "TFS"
+    },
+    {
+        "flight": "destination",
+        "country": "ValladolidVLL",
+        "code": "VLL"
+    },
+    {
+        "flight": "destination",
+        "country": "ValverdeVDE",
+        "code": "VDE"
+    },
+    {
+        "flight": "destination",
+        "country": "VigoVGO",
+        "code": "VGO"
+    },
+    {
+        "flight": "destination",
+        "country": "Vitoria-GasteizVIT",
+        "code": "VIT"
+    },
+    {
+        "flight": "destination",
+        "country": "ZaragozaZAZ",
+        "code": "ZAZ"
+    },
+    {
+        "flight": "destination",
+        "country": "DakhlaVIL",
+        "code": "VIL"
+    },
+    {
+        "flight": "departure",
+        "country": "Sal, Cape VerdeSID",
+        "code": "SID"
+    },
+    {
+        "flight": "departure",
+        "country": "LilleLIL",
+        "code": "LIL"
+    },
+    {
+        "flight": "departure",
+        "country": "ToulouseTLS",
+        "code": "TLS"
+    },
+    {
+        "flight": "departure",
+        "country": "FlorenceFLR",
+        "code": "FLR"
+    },
+    {
+        "flight": "departure",
+        "country": "Venice Marco PoloVCE",
+        "code": "VCE"
+    },
+    {
+        "flight": "departure",
+        "country": "NouadhibouNDB",
+        "code": "NDB"
+    },
+    {
+        "flight": "departure",
+        "country": "NouakchottNKC",
+        "code": "NKC"
+    },
+    {
+        "flight": "departure",
+        "country": "AgadirAGA",
+        "code": "AGA"
+    },
+    {
+        "flight": "departure",
+        "country": "GuelmimGLN",
+        "code": "GLN"
+    },
+    {
+        "flight": "departure",
+        "country": "LaayouneEUN",
+        "code": "EUN"
+    },
+    {
+        "flight": "departure",
+        "country": "MarrakechRAK",
+        "code": "RAK"
+    },
+    {
+        "flight": "departure",
+        "country": "Funchal (Madeira)FNC",
+        "code": "FNC"
+    },
+    {
+        "flight": "departure",
+        "country": "Ponta DelgadaPDL",
+        "code": "PDL"
+    },
+    {
+        "flight": "departure",
+        "country": "Porto Santo IslandPXO",
+        "code": "PXO"
+    },
+    {
+        "flight": "departure",
+        "country": "DakarDSS",
+        "code": "DSS"
+    },
+    {
+        "flight": "departure",
+        "country": "A CoruñaLCG",
+        "code": "LCG"
+    },
+    {
+        "flight": "departure",
+        "country": "AsturiasOVD",
+        "code": "OVD"
+    },
+    {
+        "flight": "departure",
+        "country": "FuerteventuraFUE",
+        "code": "FUE"
+    },
+    {
+        "flight": "departure",
+        "country": "Gran Canaria (Las Palmas)LPA",
+        "code": "LPA"
+    },
+    {
+        "flight": "departure",
+        "country": "GranadaGRX",
+        "code": "GRX"
+    },
+    {
+        "flight": "departure",
+        "country": "IbizaIBZ",
+        "code": "IBZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Jerez de la FronteraXRY",
+        "code": "XRY"
+    },
+    {
+        "flight": "departure",
+        "country": "Lanzarote (Arrecife)ACE",
+        "code": "ACE"
+    },
+    {
+        "flight": "departure",
+        "country": "Menorca (Mahon)MAH",
+        "code": "MAH"
+    },
+    {
+        "flight": "departure",
+        "country": "MurciaRMU",
+        "code": "RMU"
+    },
+    {
+        "flight": "departure",
+        "country": "Palma de MallorcaPMI",
+        "code": "PMI"
+    },
+    {
+        "flight": "departure",
+        "country": "PamplonaPNA",
+        "code": "PNA"
+    },
+    {
+        "flight": "departure",
+        "country": "San SebastiánEAS",
+        "code": "EAS"
+    },
+    {
+        "flight": "departure",
+        "country": "San Sebastián (La Gomera)GMZ",
+        "code": "GMZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Cruz de La PalmaSPC",
+        "code": "SPC"
+    },
+    {
+        "flight": "departure",
+        "country": "SantanderSDR",
+        "code": "SDR"
+    },
+    {
+        "flight": "departure",
+        "country": "Tenerife (Los Rodeos)TFN",
+        "code": "TFN"
+    },
+    {
+        "flight": "departure",
+        "country": "Tenerife (Reina Sofía)TFS",
+        "code": "TFS"
+    },
+    {
+        "flight": "departure",
+        "country": "ValladolidVLL",
+        "code": "VLL"
+    },
+    {
+        "flight": "departure",
+        "country": "ValverdeVDE",
+        "code": "VDE"
+    },
+    {
+        "flight": "departure",
+        "country": "VigoVGO",
+        "code": "VGO"
+    },
+    {
+        "flight": "departure",
+        "country": "Vitoria-GasteizVIT",
+        "code": "VIT"
+    },
+    {
+        "flight": "departure",
+        "country": "ZaragozaZAZ",
+        "code": "ZAZ"
+    },
+    {
+        "flight": "departure",
+        "country": "DakhlaVIL",
+        "code": "VIL"
+    }
+]

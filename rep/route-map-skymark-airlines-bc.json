@@ -1,0 +1,122 @@
+[
+    {
+        "flight": "destination",
+        "country": "Amami IslandASJ",
+        "code": "ASJ"
+    },
+    {
+        "flight": "destination",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "destination",
+        "country": "IbarakiIBR",
+        "code": "IBR"
+    },
+    {
+        "flight": "destination",
+        "country": "KagoshimaKOJ",
+        "code": "KOJ"
+    },
+    {
+        "flight": "destination",
+        "country": "KobeUKB",
+        "code": "UKB"
+    },
+    {
+        "flight": "destination",
+        "country": "NagasakiNGS",
+        "code": "NGS"
+    },
+    {
+        "flight": "destination",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "destination",
+        "country": "OkinawaOKA",
+        "code": "OKA"
+    },
+    {
+        "flight": "destination",
+        "country": "SapporoCTS",
+        "code": "CTS"
+    },
+    {
+        "flight": "destination",
+        "country": "SendaiSDJ",
+        "code": "SDJ"
+    },
+    {
+        "flight": "destination",
+        "country": "ShimojishimaSHI",
+        "code": "SHI"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoHND",
+        "code": "HND"
+    },
+    {
+        "flight": "departure",
+        "country": "Amami IslandASJ",
+        "code": "ASJ"
+    },
+    {
+        "flight": "departure",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "departure",
+        "country": "IbarakiIBR",
+        "code": "IBR"
+    },
+    {
+        "flight": "departure",
+        "country": "KagoshimaKOJ",
+        "code": "KOJ"
+    },
+    {
+        "flight": "departure",
+        "country": "KobeUKB",
+        "code": "UKB"
+    },
+    {
+        "flight": "departure",
+        "country": "NagasakiNGS",
+        "code": "NGS"
+    },
+    {
+        "flight": "departure",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "departure",
+        "country": "OkinawaOKA",
+        "code": "OKA"
+    },
+    {
+        "flight": "departure",
+        "country": "SapporoCTS",
+        "code": "CTS"
+    },
+    {
+        "flight": "departure",
+        "country": "SendaiSDJ",
+        "code": "SDJ"
+    },
+    {
+        "flight": "departure",
+        "country": "ShimojishimaSHI",
+        "code": "SHI"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoHND",
+        "code": "HND"
+    }
+]

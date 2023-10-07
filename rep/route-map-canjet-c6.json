@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "destination",
+        "country": "NovosibirskOVB",
+        "code": "OVB"
+    },
+    {
+        "flight": "destination",
+        "country": "Ras Al KhaimahRKT",
+        "code": "RKT"
+    },
+    {
+        "flight": "destination",
+        "country": "BukharaBHK",
+        "code": "BHK"
+    },
+    {
+        "flight": "destination",
+        "country": "TashkentTAS",
+        "code": "TAS"
+    },
+    {
+        "flight": "destination",
+        "country": "TermezTMJ",
+        "code": "TMJ"
+    },
+    {
+        "flight": "destination",
+        "country": "UrgenchUGC",
+        "code": "UGC"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "departure",
+        "country": "NovosibirskOVB",
+        "code": "OVB"
+    },
+    {
+        "flight": "departure",
+        "country": "Ras Al KhaimahRKT",
+        "code": "RKT"
+    },
+    {
+        "flight": "departure",
+        "country": "BukharaBHK",
+        "code": "BHK"
+    },
+    {
+        "flight": "departure",
+        "country": "TashkentTAS",
+        "code": "TAS"
+    },
+    {
+        "flight": "departure",
+        "country": "TermezTMJ",
+        "code": "TMJ"
+    },
+    {
+        "flight": "departure",
+        "country": "UrgenchUGC",
+        "code": "UGC"
+    }
+]

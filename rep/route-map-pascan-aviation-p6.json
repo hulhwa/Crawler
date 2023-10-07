@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "BonaventureYVB",
+        "code": "YVB"
+    },
+    {
+        "flight": "destination",
+        "country": "GaspéYGP",
+        "code": "YGP"
+    },
+    {
+        "flight": "destination",
+        "country": "Les Îles-de-la-MadeleineYGR",
+        "code": "YGR"
+    },
+    {
+        "flight": "destination",
+        "country": "LongueuilYHU",
+        "code": "YHU"
+    },
+    {
+        "flight": "destination",
+        "country": "Mont-JoliYYY",
+        "code": "YYY"
+    },
+    {
+        "flight": "destination",
+        "country": "Quebec CityYQB",
+        "code": "YQB"
+    },
+    {
+        "flight": "destination",
+        "country": "SaguenayYBG",
+        "code": "YBG"
+    },
+    {
+        "flight": "destination",
+        "country": "Sept-ÎlesYZV",
+        "code": "YZV"
+    },
+    {
+        "flight": "destination",
+        "country": "WabushYWK",
+        "code": "YWK"
+    },
+    {
+        "flight": "departure",
+        "country": "BonaventureYVB",
+        "code": "YVB"
+    },
+    {
+        "flight": "departure",
+        "country": "GaspéYGP",
+        "code": "YGP"
+    },
+    {
+        "flight": "departure",
+        "country": "Les Îles-de-la-MadeleineYGR",
+        "code": "YGR"
+    },
+    {
+        "flight": "departure",
+        "country": "LongueuilYHU",
+        "code": "YHU"
+    },
+    {
+        "flight": "departure",
+        "country": "Mont-JoliYYY",
+        "code": "YYY"
+    },
+    {
+        "flight": "departure",
+        "country": "Quebec CityYQB",
+        "code": "YQB"
+    },
+    {
+        "flight": "departure",
+        "country": "SaguenayYBG",
+        "code": "YBG"
+    },
+    {
+        "flight": "departure",
+        "country": "Sept-ÎlesYZV",
+        "code": "YZV"
+    },
+    {
+        "flight": "departure",
+        "country": "WabushYWK",
+        "code": "YWK"
+    }
+]

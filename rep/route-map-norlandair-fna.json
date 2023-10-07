@@ -1,0 +1,82 @@
+[
+    {
+        "flight": "destination",
+        "country": "IttoqqortoormiitCNP",
+        "code": "CNP"
+    },
+    {
+        "flight": "destination",
+        "country": "AkureyriAEY",
+        "code": "AEY"
+    },
+    {
+        "flight": "destination",
+        "country": "BíldudalurBIU",
+        "code": "BIU"
+    },
+    {
+        "flight": "destination",
+        "country": "GjögurGJR",
+        "code": "GJR"
+    },
+    {
+        "flight": "destination",
+        "country": "GrímseyGRY",
+        "code": "GRY"
+    },
+    {
+        "flight": "destination",
+        "country": "ReykjavikRKV",
+        "code": "RKV"
+    },
+    {
+        "flight": "destination",
+        "country": "ThorshofnTHO",
+        "code": "THO"
+    },
+    {
+        "flight": "destination",
+        "country": "VopnafjörðurVPN",
+        "code": "VPN"
+    },
+    {
+        "flight": "departure",
+        "country": "IttoqqortoormiitCNP",
+        "code": "CNP"
+    },
+    {
+        "flight": "departure",
+        "country": "AkureyriAEY",
+        "code": "AEY"
+    },
+    {
+        "flight": "departure",
+        "country": "BíldudalurBIU",
+        "code": "BIU"
+    },
+    {
+        "flight": "departure",
+        "country": "GjögurGJR",
+        "code": "GJR"
+    },
+    {
+        "flight": "departure",
+        "country": "GrímseyGRY",
+        "code": "GRY"
+    },
+    {
+        "flight": "departure",
+        "country": "ReykjavikRKV",
+        "code": "RKV"
+    },
+    {
+        "flight": "departure",
+        "country": "ThorshofnTHO",
+        "code": "THO"
+    },
+    {
+        "flight": "departure",
+        "country": "VopnafjörðurVPN",
+        "code": "VPN"
+    }
+]

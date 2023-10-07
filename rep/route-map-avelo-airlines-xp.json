@@ -1,0 +1,442 @@
+[
+    {
+        "flight": "destination",
+        "country": "San JuanSJU",
+        "code": "SJU"
+    },
+    {
+        "flight": "destination",
+        "country": "Arcata / EurekaACV",
+        "code": "ACV"
+    },
+    {
+        "flight": "destination",
+        "country": "Baltimore-WashingtonBWI",
+        "code": "BWI"
+    },
+    {
+        "flight": "destination",
+        "country": "BinghamtonBGM",
+        "code": "BGM"
+    },
+    {
+        "flight": "destination",
+        "country": "BoiseBOI",
+        "code": "BOI"
+    },
+    {
+        "flight": "destination",
+        "country": "BozemanBZN",
+        "code": "BZN"
+    },
+    {
+        "flight": "destination",
+        "country": "BrownsvilleBRO",
+        "code": "BRO"
+    },
+    {
+        "flight": "destination",
+        "country": "BurbankBUR",
+        "code": "BUR"
+    },
+    {
+        "flight": "destination",
+        "country": "CharlestonCHS",
+        "code": "CHS"
+    },
+    {
+        "flight": "destination",
+        "country": "ChicagoMDW",
+        "code": "MDW"
+    },
+    {
+        "flight": "destination",
+        "country": "Colorado SpringsCOS",
+        "code": "COS"
+    },
+    {
+        "flight": "destination",
+        "country": "Daytona BeachDAB",
+        "code": "DAB"
+    },
+    {
+        "flight": "destination",
+        "country": "DubuqueDBQ",
+        "code": "DBQ"
+    },
+    {
+        "flight": "destination",
+        "country": "EugeneEUG",
+        "code": "EUG"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort MyersRSW",
+        "code": "RSW"
+    },
+    {
+        "flight": "destination",
+        "country": "Greenville / SpartanburgGSP",
+        "code": "GSP"
+    },
+    {
+        "flight": "destination",
+        "country": "Kalamazoo / Battle CreekAZO",
+        "code": "AZO"
+    },
+    {
+        "flight": "destination",
+        "country": "KalispellFCA",
+        "code": "FCA"
+    },
+    {
+        "flight": "destination",
+        "country": "LansingLAN",
+        "code": "LAN"
+    },
+    {
+        "flight": "destination",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "destination",
+        "country": "ManchesterMHT",
+        "code": "MHT"
+    },
+    {
+        "flight": "destination",
+        "country": "MedfordMFR",
+        "code": "MFR"
+    },
+    {
+        "flight": "destination",
+        "country": "MelbourneMLB",
+        "code": "MLB"
+    },
+    {
+        "flight": "destination",
+        "country": "MobileBFM",
+        "code": "BFM"
+    },
+    {
+        "flight": "destination",
+        "country": "Myrtle BeachMYR",
+        "code": "MYR"
+    },
+    {
+        "flight": "destination",
+        "country": "NashvilleBNA",
+        "code": "BNA"
+    },
+    {
+        "flight": "destination",
+        "country": "New HavenHVN",
+        "code": "HVN"
+    },
+    {
+        "flight": "destination",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "destination",
+        "country": "Palm SpringsPSP",
+        "code": "PSP"
+    },
+    {
+        "flight": "destination",
+        "country": "PascoPSC",
+        "code": "PSC"
+    },
+    {
+        "flight": "destination",
+        "country": "Raleigh / DurhamRDU",
+        "code": "RDU"
+    },
+    {
+        "flight": "destination",
+        "country": "ReddingRDD",
+        "code": "RDD"
+    },
+    {
+        "flight": "destination",
+        "country": "Redmond / BendRDM",
+        "code": "RDM"
+    },
+    {
+        "flight": "destination",
+        "country": "RochesterROC",
+        "code": "ROC"
+    },
+    {
+        "flight": "destination",
+        "country": "SalemSLE",
+        "code": "SLE"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa RosaSTS",
+        "code": "STS"
+    },
+    {
+        "flight": "destination",
+        "country": "Sarasota / BradentonSRQ",
+        "code": "SRQ"
+    },
+    {
+        "flight": "destination",
+        "country": "SavannahSAV",
+        "code": "SAV"
+    },
+    {
+        "flight": "destination",
+        "country": "TampaTPA",
+        "code": "TPA"
+    },
+    {
+        "flight": "destination",
+        "country": "WausauCWA",
+        "code": "CWA"
+    },
+    {
+        "flight": "destination",
+        "country": "West Palm BeachPBI",
+        "code": "PBI"
+    },
+    {
+        "flight": "destination",
+        "country": "WilmingtonILM",
+        "code": "ILM"
+    },
+    {
+        "flight": "destination",
+        "country": "WilmingtonILG",
+        "code": "ILG"
+    },
+    {
+        "flight": "departure",
+        "country": "San JuanSJU",
+        "code": "SJU"
+    },
+    {
+        "flight": "departure",
+        "country": "Arcata / EurekaACV",
+        "code": "ACV"
+    },
+    {
+        "flight": "departure",
+        "country": "Baltimore-WashingtonBWI",
+        "code": "BWI"
+    },
+    {
+        "flight": "departure",
+        "country": "BinghamtonBGM",
+        "code": "BGM"
+    },
+    {
+        "flight": "departure",
+        "country": "BoiseBOI",
+        "code": "BOI"
+    },
+    {
+        "flight": "departure",
+        "country": "BozemanBZN",
+        "code": "BZN"
+    },
+    {
+        "flight": "departure",
+        "country": "BrownsvilleBRO",
+        "code": "BRO"
+    },
+    {
+        "flight": "departure",
+        "country": "BurbankBUR",
+        "code": "BUR"
+    },
+    {
+        "flight": "departure",
+        "country": "CharlestonCHS",
+        "code": "CHS"
+    },
+    {
+        "flight": "departure",
+        "country": "ChicagoMDW",
+        "code": "MDW"
+    },
+    {
+        "flight": "departure",
+        "country": "Colorado SpringsCOS",
+        "code": "COS"
+    },
+    {
+        "flight": "departure",
+        "country": "Daytona BeachDAB",
+        "code": "DAB"
+    },
+    {
+        "flight": "departure",
+        "country": "DubuqueDBQ",
+        "code": "DBQ"
+    },
+    {
+        "flight": "departure",
+        "country": "EugeneEUG",
+        "code": "EUG"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort MyersRSW",
+        "code": "RSW"
+    },
+    {
+        "flight": "departure",
+        "country": "Greenville / SpartanburgGSP",
+        "code": "GSP"
+    },
+    {
+        "flight": "departure",
+        "country": "Kalamazoo / Battle CreekAZO",
+        "code": "AZO"
+    },
+    {
+        "flight": "departure",
+        "country": "KalispellFCA",
+        "code": "FCA"
+    },
+    {
+        "flight": "departure",
+        "country": "LansingLAN",
+        "code": "LAN"
+    },
+    {
+        "flight": "departure",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "departure",
+        "country": "ManchesterMHT",
+        "code": "MHT"
+    },
+    {
+        "flight": "departure",
+        "country": "MedfordMFR",
+        "code": "MFR"
+    },
+    {
+        "flight": "departure",
+        "country": "MelbourneMLB",
+        "code": "MLB"
+    },
+    {
+        "flight": "departure",
+        "country": "MobileBFM",
+        "code": "BFM"
+    },
+    {
+        "flight": "departure",
+        "country": "Myrtle BeachMYR",
+        "code": "MYR"
+    },
+    {
+        "flight": "departure",
+        "country": "NashvilleBNA",
+        "code": "BNA"
+    },
+    {
+        "flight": "departure",
+        "country": "New HavenHVN",
+        "code": "HVN"
+    },
+    {
+        "flight": "departure",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "departure",
+        "country": "Palm SpringsPSP",
+        "code": "PSP"
+    },
+    {
+        "flight": "departure",
+        "country": "PascoPSC",
+        "code": "PSC"
+    },
+    {
+        "flight": "departure",
+        "country": "Raleigh / DurhamRDU",
+        "code": "RDU"
+    },
+    {
+        "flight": "departure",
+        "country": "ReddingRDD",
+        "code": "RDD"
+    },
+    {
+        "flight": "departure",
+        "country": "Redmond / BendRDM",
+        "code": "RDM"
+    },
+    {
+        "flight": "departure",
+        "country": "RochesterROC",
+        "code": "ROC"
+    },
+    {
+        "flight": "departure",
+        "country": "SalemSLE",
+        "code": "SLE"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa RosaSTS",
+        "code": "STS"
+    },
+    {
+        "flight": "departure",
+        "country": "Sarasota / BradentonSRQ",
+        "code": "SRQ"
+    },
+    {
+        "flight": "departure",
+        "country": "SavannahSAV",
+        "code": "SAV"
+    },
+    {
+        "flight": "departure",
+        "country": "TampaTPA",
+        "code": "TPA"
+    },
+    {
+        "flight": "departure",
+        "country": "WausauCWA",
+        "code": "CWA"
+    },
+    {
+        "flight": "departure",
+        "country": "West Palm BeachPBI",
+        "code": "PBI"
+    },
+    {
+        "flight": "departure",
+        "country": "WilmingtonILM",
+        "code": "ILM"
+    },
+    {
+        "flight": "departure",
+        "country": "WilmingtonILG",
+        "code": "ILG"
+    }
+]

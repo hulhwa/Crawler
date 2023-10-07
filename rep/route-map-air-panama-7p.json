@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "Bocas del ToroBOC",
+        "code": "BOC"
+    },
+    {
+        "flight": "destination",
+        "country": "ChanguinolaCHX",
+        "code": "CHX"
+    },
+    {
+        "flight": "destination",
+        "country": "David, ChiriquíDAV",
+        "code": "DAV"
+    },
+    {
+        "flight": "destination",
+        "country": "Panama CityPAC",
+        "code": "PAC"
+    },
+    {
+        "flight": "departure",
+        "country": "Bocas del ToroBOC",
+        "code": "BOC"
+    },
+    {
+        "flight": "departure",
+        "country": "ChanguinolaCHX",
+        "code": "CHX"
+    },
+    {
+        "flight": "departure",
+        "country": "David, ChiriquíDAV",
+        "code": "DAV"
+    },
+    {
+        "flight": "departure",
+        "country": "Panama CityPAC",
+        "code": "PAC"
+    }
+]

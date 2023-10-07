@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "BrazzavilleBZV",
+        "code": "BZV"
+    },
+    {
+        "flight": "destination",
+        "country": "Pointe-NoirePNR",
+        "code": "PNR"
+    },
+    {
+        "flight": "departure",
+        "country": "BrazzavilleBZV",
+        "code": "BZV"
+    },
+    {
+        "flight": "departure",
+        "country": "Pointe-NoirePNR",
+        "code": "PNR"
+    }
+]

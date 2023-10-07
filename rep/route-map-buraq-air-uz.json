@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "TripoliMJI",
+        "code": "MJI"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "TripoliMJI",
+        "code": "MJI"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    }
+]

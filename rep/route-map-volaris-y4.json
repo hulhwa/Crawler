@@ -1,0 +1,682 @@
+[
+    {
+        "flight": "destination",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "destination",
+        "country": "San JoséSJO",
+        "code": "SJO"
+    },
+    {
+        "flight": "destination",
+        "country": "Guatemala CityGUA",
+        "code": "GUA"
+    },
+    {
+        "flight": "destination",
+        "country": "AcapulcoACA",
+        "code": "ACA"
+    },
+    {
+        "flight": "destination",
+        "country": "AguascalientesAGU",
+        "code": "AGU"
+    },
+    {
+        "flight": "destination",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "destination",
+        "country": "ChetumalCTM",
+        "code": "CTM"
+    },
+    {
+        "flight": "destination",
+        "country": "ChihuahuaCUU",
+        "code": "CUU"
+    },
+    {
+        "flight": "destination",
+        "country": "Ciudad JuárezCJS",
+        "code": "CJS"
+    },
+    {
+        "flight": "destination",
+        "country": "Ciudad ObregónCEN",
+        "code": "CEN"
+    },
+    {
+        "flight": "destination",
+        "country": "ColimaCLQ",
+        "code": "CLQ"
+    },
+    {
+        "flight": "destination",
+        "country": "CozumelCZM",
+        "code": "CZM"
+    },
+    {
+        "flight": "destination",
+        "country": "CuliacánCUL",
+        "code": "CUL"
+    },
+    {
+        "flight": "destination",
+        "country": "DurangoDGO",
+        "code": "DGO"
+    },
+    {
+        "flight": "destination",
+        "country": "GuadalajaraGDL",
+        "code": "GDL"
+    },
+    {
+        "flight": "destination",
+        "country": "HermosilloHMO",
+        "code": "HMO"
+    },
+    {
+        "flight": "destination",
+        "country": "HuatulcoHUX",
+        "code": "HUX"
+    },
+    {
+        "flight": "destination",
+        "country": "Ixtapa / ZihuatanejoZIH",
+        "code": "ZIH"
+    },
+    {
+        "flight": "destination",
+        "country": "La PazLAP",
+        "code": "LAP"
+    },
+    {
+        "flight": "destination",
+        "country": "LeónBJX",
+        "code": "BJX"
+    },
+    {
+        "flight": "destination",
+        "country": "LoretoLTO",
+        "code": "LTO"
+    },
+    {
+        "flight": "destination",
+        "country": "Los MochisLMM",
+        "code": "LMM"
+    },
+    {
+        "flight": "destination",
+        "country": "MazatlánMZT",
+        "code": "MZT"
+    },
+    {
+        "flight": "destination",
+        "country": "MéridaMID",
+        "code": "MID"
+    },
+    {
+        "flight": "destination",
+        "country": "MexicaliMXL",
+        "code": "MXL"
+    },
+    {
+        "flight": "destination",
+        "country": "Mexico CityMEX",
+        "code": "MEX"
+    },
+    {
+        "flight": "destination",
+        "country": "Mexico City / TolucaTLC",
+        "code": "TLC"
+    },
+    {
+        "flight": "destination",
+        "country": "Mexico City Santa LuciaNLU",
+        "code": "NLU"
+    },
+    {
+        "flight": "destination",
+        "country": "MonterreyMTY",
+        "code": "MTY"
+    },
+    {
+        "flight": "destination",
+        "country": "MoreliaMLM",
+        "code": "MLM"
+    },
+    {
+        "flight": "destination",
+        "country": "OaxacaOAX",
+        "code": "OAX"
+    },
+    {
+        "flight": "destination",
+        "country": "PueblaPBC",
+        "code": "PBC"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto Escondido, OaxacaPXM",
+        "code": "PXM"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto VallartaPVR",
+        "code": "PVR"
+    },
+    {
+        "flight": "destination",
+        "country": "QuerétaroQRO",
+        "code": "QRO"
+    },
+    {
+        "flight": "destination",
+        "country": "San José del CaboSJD",
+        "code": "SJD"
+    },
+    {
+        "flight": "destination",
+        "country": "San Luis PotosíSLP",
+        "code": "SLP"
+    },
+    {
+        "flight": "destination",
+        "country": "TapachulaTAP",
+        "code": "TAP"
+    },
+    {
+        "flight": "destination",
+        "country": "TepicTPQ",
+        "code": "TPQ"
+    },
+    {
+        "flight": "destination",
+        "country": "TijuanaTIJ",
+        "code": "TIJ"
+    },
+    {
+        "flight": "destination",
+        "country": "TorreónTRC",
+        "code": "TRC"
+    },
+    {
+        "flight": "destination",
+        "country": "Tuxtla GutiérrezTGZ",
+        "code": "TGZ"
+    },
+    {
+        "flight": "destination",
+        "country": "UruapanUPN",
+        "code": "UPN"
+    },
+    {
+        "flight": "destination",
+        "country": "VeracruzVER",
+        "code": "VER"
+    },
+    {
+        "flight": "destination",
+        "country": "VillahermosaVSA",
+        "code": "VSA"
+    },
+    {
+        "flight": "destination",
+        "country": "ZacatecasZCL",
+        "code": "ZCL"
+    },
+    {
+        "flight": "destination",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "destination",
+        "country": "CharlotteCLT",
+        "code": "CLT"
+    },
+    {
+        "flight": "destination",
+        "country": "ChicagoMDW",
+        "code": "MDW"
+    },
+    {
+        "flight": "destination",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "destination",
+        "country": "Dallas-Fort WorthDFW",
+        "code": "DFW"
+    },
+    {
+        "flight": "destination",
+        "country": "DenverDEN",
+        "code": "DEN"
+    },
+    {
+        "flight": "destination",
+        "country": "FresnoFAT",
+        "code": "FAT"
+    },
+    {
+        "flight": "destination",
+        "country": "HoustonIAH",
+        "code": "IAH"
+    },
+    {
+        "flight": "destination",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "destination",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "destination",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    },
+    {
+        "flight": "destination",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "destination",
+        "country": "Oakland, East BayOAK",
+        "code": "OAK"
+    },
+    {
+        "flight": "destination",
+        "country": "OntarioONT",
+        "code": "ONT"
+    },
+    {
+        "flight": "destination",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "destination",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "destination",
+        "country": "PortlandPDX",
+        "code": "PDX"
+    },
+    {
+        "flight": "destination",
+        "country": "RenoRNO",
+        "code": "RNO"
+    },
+    {
+        "flight": "destination",
+        "country": "SacramentoSMF",
+        "code": "SMF"
+    },
+    {
+        "flight": "destination",
+        "country": "San AntonioSAT",
+        "code": "SAT"
+    },
+    {
+        "flight": "destination",
+        "country": "San JoseSJC",
+        "code": "SJC"
+    },
+    {
+        "flight": "destination",
+        "country": "Seattle / TacomaSEA",
+        "code": "SEA"
+    },
+    {
+        "flight": "departure",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "departure",
+        "country": "San JoséSJO",
+        "code": "SJO"
+    },
+    {
+        "flight": "departure",
+        "country": "Guatemala CityGUA",
+        "code": "GUA"
+    },
+    {
+        "flight": "departure",
+        "country": "AcapulcoACA",
+        "code": "ACA"
+    },
+    {
+        "flight": "departure",
+        "country": "AguascalientesAGU",
+        "code": "AGU"
+    },
+    {
+        "flight": "departure",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "departure",
+        "country": "ChetumalCTM",
+        "code": "CTM"
+    },
+    {
+        "flight": "departure",
+        "country": "ChihuahuaCUU",
+        "code": "CUU"
+    },
+    {
+        "flight": "departure",
+        "country": "Ciudad JuárezCJS",
+        "code": "CJS"
+    },
+    {
+        "flight": "departure",
+        "country": "Ciudad ObregónCEN",
+        "code": "CEN"
+    },
+    {
+        "flight": "departure",
+        "country": "ColimaCLQ",
+        "code": "CLQ"
+    },
+    {
+        "flight": "departure",
+        "country": "CozumelCZM",
+        "code": "CZM"
+    },
+    {
+        "flight": "departure",
+        "country": "CuliacánCUL",
+        "code": "CUL"
+    },
+    {
+        "flight": "departure",
+        "country": "DurangoDGO",
+        "code": "DGO"
+    },
+    {
+        "flight": "departure",
+        "country": "GuadalajaraGDL",
+        "code": "GDL"
+    },
+    {
+        "flight": "departure",
+        "country": "HermosilloHMO",
+        "code": "HMO"
+    },
+    {
+        "flight": "departure",
+        "country": "HuatulcoHUX",
+        "code": "HUX"
+    },
+    {
+        "flight": "departure",
+        "country": "Ixtapa / ZihuatanejoZIH",
+        "code": "ZIH"
+    },
+    {
+        "flight": "departure",
+        "country": "La PazLAP",
+        "code": "LAP"
+    },
+    {
+        "flight": "departure",
+        "country": "LeónBJX",
+        "code": "BJX"
+    },
+    {
+        "flight": "departure",
+        "country": "LoretoLTO",
+        "code": "LTO"
+    },
+    {
+        "flight": "departure",
+        "country": "Los MochisLMM",
+        "code": "LMM"
+    },
+    {
+        "flight": "departure",
+        "country": "MazatlánMZT",
+        "code": "MZT"
+    },
+    {
+        "flight": "departure",
+        "country": "MéridaMID",
+        "code": "MID"
+    },
+    {
+        "flight": "departure",
+        "country": "MexicaliMXL",
+        "code": "MXL"
+    },
+    {
+        "flight": "departure",
+        "country": "Mexico CityMEX",
+        "code": "MEX"
+    },
+    {
+        "flight": "departure",
+        "country": "Mexico City / TolucaTLC",
+        "code": "TLC"
+    },
+    {
+        "flight": "departure",
+        "country": "Mexico City Santa LuciaNLU",
+        "code": "NLU"
+    },
+    {
+        "flight": "departure",
+        "country": "MonterreyMTY",
+        "code": "MTY"
+    },
+    {
+        "flight": "departure",
+        "country": "MoreliaMLM",
+        "code": "MLM"
+    },
+    {
+        "flight": "departure",
+        "country": "OaxacaOAX",
+        "code": "OAX"
+    },
+    {
+        "flight": "departure",
+        "country": "PueblaPBC",
+        "code": "PBC"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto Escondido, OaxacaPXM",
+        "code": "PXM"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto VallartaPVR",
+        "code": "PVR"
+    },
+    {
+        "flight": "departure",
+        "country": "QuerétaroQRO",
+        "code": "QRO"
+    },
+    {
+        "flight": "departure",
+        "country": "San José del CaboSJD",
+        "code": "SJD"
+    },
+    {
+        "flight": "departure",
+        "country": "San Luis PotosíSLP",
+        "code": "SLP"
+    },
+    {
+        "flight": "departure",
+        "country": "TapachulaTAP",
+        "code": "TAP"
+    },
+    {
+        "flight": "departure",
+        "country": "TepicTPQ",
+        "code": "TPQ"
+    },
+    {
+        "flight": "departure",
+        "country": "TijuanaTIJ",
+        "code": "TIJ"
+    },
+    {
+        "flight": "departure",
+        "country": "TorreónTRC",
+        "code": "TRC"
+    },
+    {
+        "flight": "departure",
+        "country": "Tuxtla GutiérrezTGZ",
+        "code": "TGZ"
+    },
+    {
+        "flight": "departure",
+        "country": "UruapanUPN",
+        "code": "UPN"
+    },
+    {
+        "flight": "departure",
+        "country": "VeracruzVER",
+        "code": "VER"
+    },
+    {
+        "flight": "departure",
+        "country": "VillahermosaVSA",
+        "code": "VSA"
+    },
+    {
+        "flight": "departure",
+        "country": "ZacatecasZCL",
+        "code": "ZCL"
+    },
+    {
+        "flight": "departure",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "departure",
+        "country": "CharlotteCLT",
+        "code": "CLT"
+    },
+    {
+        "flight": "departure",
+        "country": "ChicagoMDW",
+        "code": "MDW"
+    },
+    {
+        "flight": "departure",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "departure",
+        "country": "Dallas-Fort WorthDFW",
+        "code": "DFW"
+    },
+    {
+        "flight": "departure",
+        "country": "DenverDEN",
+        "code": "DEN"
+    },
+    {
+        "flight": "departure",
+        "country": "FresnoFAT",
+        "code": "FAT"
+    },
+    {
+        "flight": "departure",
+        "country": "HoustonIAH",
+        "code": "IAH"
+    },
+    {
+        "flight": "departure",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "departure",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "departure",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    },
+    {
+        "flight": "departure",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "departure",
+        "country": "Oakland, East BayOAK",
+        "code": "OAK"
+    },
+    {
+        "flight": "departure",
+        "country": "OntarioONT",
+        "code": "ONT"
+    },
+    {
+        "flight": "departure",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "departure",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "departure",
+        "country": "PortlandPDX",
+        "code": "PDX"
+    },
+    {
+        "flight": "departure",
+        "country": "RenoRNO",
+        "code": "RNO"
+    },
+    {
+        "flight": "departure",
+        "country": "SacramentoSMF",
+        "code": "SMF"
+    },
+    {
+        "flight": "departure",
+        "country": "San AntonioSAT",
+        "code": "SAT"
+    },
+    {
+        "flight": "departure",
+        "country": "San JoseSJC",
+        "code": "SJC"
+    },
+    {
+        "flight": "departure",
+        "country": "Seattle / TacomaSEA",
+        "code": "SEA"
+    }
+]

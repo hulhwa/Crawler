@@ -1,0 +1,82 @@
+[
+    {
+        "flight": "destination",
+        "country": "AlburyABX",
+        "code": "ABX"
+    },
+    {
+        "flight": "destination",
+        "country": "BallinaBNK",
+        "code": "BNK"
+    },
+    {
+        "flight": "destination",
+        "country": "CanberraCBR",
+        "code": "CBR"
+    },
+    {
+        "flight": "destination",
+        "country": "CobarCAZ",
+        "code": "CAZ"
+    },
+    {
+        "flight": "destination",
+        "country": "MudgeeDGE",
+        "code": "DGE"
+    },
+    {
+        "flight": "destination",
+        "country": "NarrabriNAA",
+        "code": "NAA"
+    },
+    {
+        "flight": "destination",
+        "country": "NewcastleNTL",
+        "code": "NTL"
+    },
+    {
+        "flight": "destination",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "departure",
+        "country": "AlburyABX",
+        "code": "ABX"
+    },
+    {
+        "flight": "departure",
+        "country": "BallinaBNK",
+        "code": "BNK"
+    },
+    {
+        "flight": "departure",
+        "country": "CanberraCBR",
+        "code": "CBR"
+    },
+    {
+        "flight": "departure",
+        "country": "CobarCAZ",
+        "code": "CAZ"
+    },
+    {
+        "flight": "departure",
+        "country": "MudgeeDGE",
+        "code": "DGE"
+    },
+    {
+        "flight": "departure",
+        "country": "NarrabriNAA",
+        "code": "NAA"
+    },
+    {
+        "flight": "departure",
+        "country": "NewcastleNTL",
+        "code": "NTL"
+    },
+    {
+        "flight": "departure",
+        "country": "SydneySYD",
+        "code": "SYD"
+    }
+]

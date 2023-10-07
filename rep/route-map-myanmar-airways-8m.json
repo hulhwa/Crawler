@@ -1,0 +1,332 @@
+[
+    {
+        "flight": "destination",
+        "country": "Phnom PenhPNH",
+        "code": "PNH"
+    },
+    {
+        "flight": "destination",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "destination",
+        "country": "ChennaiMAA",
+        "code": "MAA"
+    },
+    {
+        "flight": "destination",
+        "country": "GayaGAY",
+        "code": "GAY"
+    },
+    {
+        "flight": "destination",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "destination",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "destination",
+        "country": "BaganNYU",
+        "code": "NYU"
+    },
+    {
+        "flight": "destination",
+        "country": "DaweiTVY",
+        "code": "TVY"
+    },
+    {
+        "flight": "destination",
+        "country": "HehoHEH",
+        "code": "HEH"
+    },
+    {
+        "flight": "destination",
+        "country": "KalemyoKMV",
+        "code": "KMV"
+    },
+    {
+        "flight": "destination",
+        "country": "KawthaungKAW",
+        "code": "KAW"
+    },
+    {
+        "flight": "destination",
+        "country": "KengtungKET",
+        "code": "KET"
+    },
+    {
+        "flight": "destination",
+        "country": "KyaukpyuKYP",
+        "code": "KYP"
+    },
+    {
+        "flight": "destination",
+        "country": "LashioLSH",
+        "code": "LSH"
+    },
+    {
+        "flight": "destination",
+        "country": "LoikawLIW",
+        "code": "LIW"
+    },
+    {
+        "flight": "destination",
+        "country": "MandalayMDL",
+        "code": "MDL"
+    },
+    {
+        "flight": "destination",
+        "country": "MyeikMGZ",
+        "code": "MGZ"
+    },
+    {
+        "flight": "destination",
+        "country": "MyitkyinaMYT",
+        "code": "MYT"
+    },
+    {
+        "flight": "destination",
+        "country": "PutaoPBU",
+        "code": "PBU"
+    },
+    {
+        "flight": "destination",
+        "country": "SittweAKY",
+        "code": "AKY"
+    },
+    {
+        "flight": "destination",
+        "country": "TachilekTHL",
+        "code": "THL"
+    },
+    {
+        "flight": "destination",
+        "country": "ThandweSNW",
+        "code": "SNW"
+    },
+    {
+        "flight": "destination",
+        "country": "YangonRGN",
+        "code": "RGN"
+    },
+    {
+        "flight": "destination",
+        "country": "NovosibirskOVB",
+        "code": "OVB"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "destination",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "destination",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "destination",
+        "country": "Ho Chi Minh CitySGN",
+        "code": "SGN"
+    },
+    {
+        "flight": "departure",
+        "country": "Phnom PenhPNH",
+        "code": "PNH"
+    },
+    {
+        "flight": "departure",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "departure",
+        "country": "ChennaiMAA",
+        "code": "MAA"
+    },
+    {
+        "flight": "departure",
+        "country": "GayaGAY",
+        "code": "GAY"
+    },
+    {
+        "flight": "departure",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "departure",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "departure",
+        "country": "BaganNYU",
+        "code": "NYU"
+    },
+    {
+        "flight": "departure",
+        "country": "DaweiTVY",
+        "code": "TVY"
+    },
+    {
+        "flight": "departure",
+        "country": "HehoHEH",
+        "code": "HEH"
+    },
+    {
+        "flight": "departure",
+        "country": "KalemyoKMV",
+        "code": "KMV"
+    },
+    {
+        "flight": "departure",
+        "country": "KawthaungKAW",
+        "code": "KAW"
+    },
+    {
+        "flight": "departure",
+        "country": "KengtungKET",
+        "code": "KET"
+    },
+    {
+        "flight": "departure",
+        "country": "KyaukpyuKYP",
+        "code": "KYP"
+    },
+    {
+        "flight": "departure",
+        "country": "LashioLSH",
+        "code": "LSH"
+    },
+    {
+        "flight": "departure",
+        "country": "LoikawLIW",
+        "code": "LIW"
+    },
+    {
+        "flight": "departure",
+        "country": "MandalayMDL",
+        "code": "MDL"
+    },
+    {
+        "flight": "departure",
+        "country": "MyeikMGZ",
+        "code": "MGZ"
+    },
+    {
+        "flight": "departure",
+        "country": "MyitkyinaMYT",
+        "code": "MYT"
+    },
+    {
+        "flight": "departure",
+        "country": "PutaoPBU",
+        "code": "PBU"
+    },
+    {
+        "flight": "departure",
+        "country": "SittweAKY",
+        "code": "AKY"
+    },
+    {
+        "flight": "departure",
+        "country": "TachilekTHL",
+        "code": "THL"
+    },
+    {
+        "flight": "departure",
+        "country": "ThandweSNW",
+        "code": "SNW"
+    },
+    {
+        "flight": "departure",
+        "country": "YangonRGN",
+        "code": "RGN"
+    },
+    {
+        "flight": "departure",
+        "country": "NovosibirskOVB",
+        "code": "OVB"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "departure",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "departure",
+        "country": "Ho Chi Minh CitySGN",
+        "code": "SGN"
+    }
+]

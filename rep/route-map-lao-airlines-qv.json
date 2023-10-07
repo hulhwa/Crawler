@@ -1,0 +1,192 @@
+[
+    {
+        "flight": "destination",
+        "country": "Siem ReapREP",
+        "code": "REP"
+    },
+    {
+        "flight": "destination",
+        "country": "Siem ReapSAI",
+        "code": "SAI"
+    },
+    {
+        "flight": "destination",
+        "country": "ChangshaCSX",
+        "code": "CSX"
+    },
+    {
+        "flight": "destination",
+        "country": "ChengduTFU",
+        "code": "TFU"
+    },
+    {
+        "flight": "destination",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "destination",
+        "country": "KunmingKMG",
+        "code": "KMG"
+    },
+    {
+        "flight": "destination",
+        "country": "HoueisayHOE",
+        "code": "HOE"
+    },
+    {
+        "flight": "destination",
+        "country": "Luang NamthaLXG",
+        "code": "LXG"
+    },
+    {
+        "flight": "destination",
+        "country": "Luang PrabangLPQ",
+        "code": "LPQ"
+    },
+    {
+        "flight": "destination",
+        "country": "PaksePKZ",
+        "code": "PKZ"
+    },
+    {
+        "flight": "destination",
+        "country": "PhonsavanXKH",
+        "code": "XKH"
+    },
+    {
+        "flight": "destination",
+        "country": "Sam NeuaNEU",
+        "code": "NEU"
+    },
+    {
+        "flight": "destination",
+        "country": "SavannakhetZVK",
+        "code": "ZVK"
+    },
+    {
+        "flight": "destination",
+        "country": "VientianeVTE",
+        "code": "VTE"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "destination",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "destination",
+        "country": "Ho Chi Minh CitySGN",
+        "code": "SGN"
+    },
+    {
+        "flight": "departure",
+        "country": "Siem ReapREP",
+        "code": "REP"
+    },
+    {
+        "flight": "departure",
+        "country": "Siem ReapSAI",
+        "code": "SAI"
+    },
+    {
+        "flight": "departure",
+        "country": "ChangshaCSX",
+        "code": "CSX"
+    },
+    {
+        "flight": "departure",
+        "country": "ChengduTFU",
+        "code": "TFU"
+    },
+    {
+        "flight": "departure",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "departure",
+        "country": "KunmingKMG",
+        "code": "KMG"
+    },
+    {
+        "flight": "departure",
+        "country": "HoueisayHOE",
+        "code": "HOE"
+    },
+    {
+        "flight": "departure",
+        "country": "Luang NamthaLXG",
+        "code": "LXG"
+    },
+    {
+        "flight": "departure",
+        "country": "Luang PrabangLPQ",
+        "code": "LPQ"
+    },
+    {
+        "flight": "departure",
+        "country": "PaksePKZ",
+        "code": "PKZ"
+    },
+    {
+        "flight": "departure",
+        "country": "PhonsavanXKH",
+        "code": "XKH"
+    },
+    {
+        "flight": "departure",
+        "country": "Sam NeuaNEU",
+        "code": "NEU"
+    },
+    {
+        "flight": "departure",
+        "country": "SavannakhetZVK",
+        "code": "ZVK"
+    },
+    {
+        "flight": "departure",
+        "country": "VientianeVTE",
+        "code": "VTE"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "departure",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "departure",
+        "country": "Ho Chi Minh CitySGN",
+        "code": "SGN"
+    }
+]

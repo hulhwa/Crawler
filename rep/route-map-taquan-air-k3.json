@@ -1,0 +1,132 @@
+[
+    {
+        "flight": "destination",
+        "country": "Coffman CoveKCC",
+        "code": "KCC"
+    },
+    {
+        "flight": "destination",
+        "country": "CraigCGA",
+        "code": "CGA"
+    },
+    {
+        "flight": "destination",
+        "country": "Edna BayEDA",
+        "code": "EDA"
+    },
+    {
+        "flight": "destination",
+        "country": "HydaburgHYG",
+        "code": "HYG"
+    },
+    {
+        "flight": "destination",
+        "country": "KasaanKXA",
+        "code": "KXA"
+    },
+    {
+        "flight": "destination",
+        "country": "KetchikanKTN",
+        "code": "KTN"
+    },
+    {
+        "flight": "destination",
+        "country": "KlawockKLW",
+        "code": "KLW"
+    },
+    {
+        "flight": "destination",
+        "country": "MetlakatlaMTM",
+        "code": "MTM"
+    },
+    {
+        "flight": "destination",
+        "country": "NaukitiNKI",
+        "code": "NKI"
+    },
+    {
+        "flight": "destination",
+        "country": "North Whale PassWWP",
+        "code": "WWP"
+    },
+    {
+        "flight": "destination",
+        "country": "Point BakerKPB",
+        "code": "KPB"
+    },
+    {
+        "flight": "destination",
+        "country": "Port ProtectionPPV",
+        "code": "PPV"
+    },
+    {
+        "flight": "destination",
+        "country": "Thorne BayKTB",
+        "code": "KTB"
+    },
+    {
+        "flight": "departure",
+        "country": "Coffman CoveKCC",
+        "code": "KCC"
+    },
+    {
+        "flight": "departure",
+        "country": "CraigCGA",
+        "code": "CGA"
+    },
+    {
+        "flight": "departure",
+        "country": "Edna BayEDA",
+        "code": "EDA"
+    },
+    {
+        "flight": "departure",
+        "country": "HydaburgHYG",
+        "code": "HYG"
+    },
+    {
+        "flight": "departure",
+        "country": "KasaanKXA",
+        "code": "KXA"
+    },
+    {
+        "flight": "departure",
+        "country": "KetchikanKTN",
+        "code": "KTN"
+    },
+    {
+        "flight": "departure",
+        "country": "KlawockKLW",
+        "code": "KLW"
+    },
+    {
+        "flight": "departure",
+        "country": "MetlakatlaMTM",
+        "code": "MTM"
+    },
+    {
+        "flight": "departure",
+        "country": "NaukitiNKI",
+        "code": "NKI"
+    },
+    {
+        "flight": "departure",
+        "country": "North Whale PassWWP",
+        "code": "WWP"
+    },
+    {
+        "flight": "departure",
+        "country": "Point BakerKPB",
+        "code": "KPB"
+    },
+    {
+        "flight": "departure",
+        "country": "Port ProtectionPPV",
+        "code": "PPV"
+    },
+    {
+        "flight": "departure",
+        "country": "Thorne BayKTB",
+        "code": "KTB"
+    }
+]

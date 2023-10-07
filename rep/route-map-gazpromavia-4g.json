@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "destination",
+        "country": "NadymNYM",
+        "code": "NYM"
+    },
+    {
+        "flight": "destination",
+        "country": "Novy UrengoyNUX",
+        "code": "NUX"
+    },
+    {
+        "flight": "destination",
+        "country": "NoyabrskNOJ",
+        "code": "NOJ"
+    },
+    {
+        "flight": "destination",
+        "country": "TalakanTLK",
+        "code": "TLK"
+    },
+    {
+        "flight": "destination",
+        "country": "TyumenTJM",
+        "code": "TJM"
+    },
+    {
+        "flight": "destination",
+        "country": "UfaUFA",
+        "code": "UFA"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "departure",
+        "country": "NadymNYM",
+        "code": "NYM"
+    },
+    {
+        "flight": "departure",
+        "country": "Novy UrengoyNUX",
+        "code": "NUX"
+    },
+    {
+        "flight": "departure",
+        "country": "NoyabrskNOJ",
+        "code": "NOJ"
+    },
+    {
+        "flight": "departure",
+        "country": "TalakanTLK",
+        "code": "TLK"
+    },
+    {
+        "flight": "departure",
+        "country": "TyumenTJM",
+        "code": "TJM"
+    },
+    {
+        "flight": "departure",
+        "country": "UfaUFA",
+        "code": "UFA"
+    }
+]

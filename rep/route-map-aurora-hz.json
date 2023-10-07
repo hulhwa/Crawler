@@ -1,0 +1,312 @@
+[
+    {
+        "flight": "destination",
+        "country": "HarbinHRB",
+        "code": "HRB"
+    },
+    {
+        "flight": "destination",
+        "country": "AmguAEM",
+        "code": "AEM"
+    },
+    {
+        "flight": "destination",
+        "country": "AnadyrDYR",
+        "code": "DYR"
+    },
+    {
+        "flight": "destination",
+        "country": "BlagoveshchenskBQS",
+        "code": "BQS"
+    },
+    {
+        "flight": "destination",
+        "country": "ChitaHTA",
+        "code": "HTA"
+    },
+    {
+        "flight": "destination",
+        "country": "DalnegorskDHG",
+        "code": "DHG"
+    },
+    {
+        "flight": "destination",
+        "country": "Iturup IslandITU",
+        "code": "ITU"
+    },
+    {
+        "flight": "destination",
+        "country": "KavalerovoKVR",
+        "code": "KVR"
+    },
+    {
+        "flight": "destination",
+        "country": "KhabarovskKHV",
+        "code": "KHV"
+    },
+    {
+        "flight": "destination",
+        "country": "KrasnoyarskKJA",
+        "code": "KJA"
+    },
+    {
+        "flight": "destination",
+        "country": "MagadanGDX",
+        "code": "GDX"
+    },
+    {
+        "flight": "destination",
+        "country": "MirnyMJZ",
+        "code": "MJZ"
+    },
+    {
+        "flight": "destination",
+        "country": "NeryungriNER",
+        "code": "NER"
+    },
+    {
+        "flight": "destination",
+        "country": "Nikolayevsk-on-AmurNLI",
+        "code": "NLI"
+    },
+    {
+        "flight": "destination",
+        "country": "NoglikiNGK",
+        "code": "NGK"
+    },
+    {
+        "flight": "destination",
+        "country": "OkhaOHH",
+        "code": "OHH"
+    },
+    {
+        "flight": "destination",
+        "country": "Petropavlovsk-KamchatskyPKC",
+        "code": "PKC"
+    },
+    {
+        "flight": "destination",
+        "country": "PlastunTLY",
+        "code": "TLY"
+    },
+    {
+        "flight": "destination",
+        "country": "PreobrazheniyeRZH",
+        "code": "RZH"
+    },
+    {
+        "flight": "destination",
+        "country": "ShakhtyorskEKS",
+        "code": "EKS"
+    },
+    {
+        "flight": "destination",
+        "country": "Sovetskaya GavanGVN",
+        "code": "GVN"
+    },
+    {
+        "flight": "destination",
+        "country": "SvetlayaETL",
+        "code": "ETL"
+    },
+    {
+        "flight": "destination",
+        "country": "TerneyNEI",
+        "code": "NEI"
+    },
+    {
+        "flight": "destination",
+        "country": "Tymovskoye ZonalnoyeZZO",
+        "code": "ZZO"
+    },
+    {
+        "flight": "destination",
+        "country": "TyndaTYD",
+        "code": "TYD"
+    },
+    {
+        "flight": "destination",
+        "country": "Ulan-UdeUUD",
+        "code": "UUD"
+    },
+    {
+        "flight": "destination",
+        "country": "VladivostokVVO",
+        "code": "VVO"
+    },
+    {
+        "flight": "destination",
+        "country": "YakutskYKS",
+        "code": "YKS"
+    },
+    {
+        "flight": "destination",
+        "country": "YedinkaEDN",
+        "code": "EDN"
+    },
+    {
+        "flight": "destination",
+        "country": "Yuzhno-KurilskDEE",
+        "code": "DEE"
+    },
+    {
+        "flight": "destination",
+        "country": "Yuzhno-SakhalinskUUS",
+        "code": "UUS"
+    },
+    {
+        "flight": "departure",
+        "country": "HarbinHRB",
+        "code": "HRB"
+    },
+    {
+        "flight": "departure",
+        "country": "AmguAEM",
+        "code": "AEM"
+    },
+    {
+        "flight": "departure",
+        "country": "AnadyrDYR",
+        "code": "DYR"
+    },
+    {
+        "flight": "departure",
+        "country": "BlagoveshchenskBQS",
+        "code": "BQS"
+    },
+    {
+        "flight": "departure",
+        "country": "ChitaHTA",
+        "code": "HTA"
+    },
+    {
+        "flight": "departure",
+        "country": "DalnegorskDHG",
+        "code": "DHG"
+    },
+    {
+        "flight": "departure",
+        "country": "Iturup IslandITU",
+        "code": "ITU"
+    },
+    {
+        "flight": "departure",
+        "country": "KavalerovoKVR",
+        "code": "KVR"
+    },
+    {
+        "flight": "departure",
+        "country": "KhabarovskKHV",
+        "code": "KHV"
+    },
+    {
+        "flight": "departure",
+        "country": "KrasnoyarskKJA",
+        "code": "KJA"
+    },
+    {
+        "flight": "departure",
+        "country": "MagadanGDX",
+        "code": "GDX"
+    },
+    {
+        "flight": "departure",
+        "country": "MirnyMJZ",
+        "code": "MJZ"
+    },
+    {
+        "flight": "departure",
+        "country": "NeryungriNER",
+        "code": "NER"
+    },
+    {
+        "flight": "departure",
+        "country": "Nikolayevsk-on-AmurNLI",
+        "code": "NLI"
+    },
+    {
+        "flight": "departure",
+        "country": "NoglikiNGK",
+        "code": "NGK"
+    },
+    {
+        "flight": "departure",
+        "country": "OkhaOHH",
+        "code": "OHH"
+    },
+    {
+        "flight": "departure",
+        "country": "Petropavlovsk-KamchatskyPKC",
+        "code": "PKC"
+    },
+    {
+        "flight": "departure",
+        "country": "PlastunTLY",
+        "code": "TLY"
+    },
+    {
+        "flight": "departure",
+        "country": "PreobrazheniyeRZH",
+        "code": "RZH"
+    },
+    {
+        "flight": "departure",
+        "country": "ShakhtyorskEKS",
+        "code": "EKS"
+    },
+    {
+        "flight": "departure",
+        "country": "Sovetskaya GavanGVN",
+        "code": "GVN"
+    },
+    {
+        "flight": "departure",
+        "country": "SvetlayaETL",
+        "code": "ETL"
+    },
+    {
+        "flight": "departure",
+        "country": "TerneyNEI",
+        "code": "NEI"
+    },
+    {
+        "flight": "departure",
+        "country": "Tymovskoye ZonalnoyeZZO",
+        "code": "ZZO"
+    },
+    {
+        "flight": "departure",
+        "country": "TyndaTYD",
+        "code": "TYD"
+    },
+    {
+        "flight": "departure",
+        "country": "Ulan-UdeUUD",
+        "code": "UUD"
+    },
+    {
+        "flight": "departure",
+        "country": "VladivostokVVO",
+        "code": "VVO"
+    },
+    {
+        "flight": "departure",
+        "country": "YakutskYKS",
+        "code": "YKS"
+    },
+    {
+        "flight": "departure",
+        "country": "YedinkaEDN",
+        "code": "EDN"
+    },
+    {
+        "flight": "departure",
+        "country": "Yuzhno-KurilskDEE",
+        "code": "DEE"
+    },
+    {
+        "flight": "departure",
+        "country": "Yuzhno-SakhalinskUUS",
+        "code": "UUS"
+    }
+]

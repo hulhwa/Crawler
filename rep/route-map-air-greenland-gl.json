@@ -1,0 +1,592 @@
+[
+    {
+        "flight": "destination",
+        "country": "BillundBLL",
+        "code": "BLL"
+    },
+    {
+        "flight": "destination",
+        "country": "CopenhagenCPH",
+        "code": "CPH"
+    },
+    {
+        "flight": "destination",
+        "country": "AappilattoqQUV",
+        "code": "QUV"
+    },
+    {
+        "flight": "destination",
+        "country": "AappilattoqAOQ",
+        "code": "AOQ"
+    },
+    {
+        "flight": "destination",
+        "country": "AasiaatJEG",
+        "code": "JEG"
+    },
+    {
+        "flight": "destination",
+        "country": "AkunnaaqQCU",
+        "code": "QCU"
+    },
+    {
+        "flight": "destination",
+        "country": "Alluitsup PaaLLU",
+        "code": "LLU"
+    },
+    {
+        "flight": "destination",
+        "country": "AmmassivikQUW",
+        "code": "QUW"
+    },
+    {
+        "flight": "destination",
+        "country": "AttuQGQ",
+        "code": "QGQ"
+    },
+    {
+        "flight": "destination",
+        "country": "IginniarfikQFI",
+        "code": "QFI"
+    },
+    {
+        "flight": "destination",
+        "country": "IkamiutQJI",
+        "code": "QJI"
+    },
+    {
+        "flight": "destination",
+        "country": "IkerasaarsukQRY",
+        "code": "QRY"
+    },
+    {
+        "flight": "destination",
+        "country": "IkerasakIKE",
+        "code": "IKE"
+    },
+    {
+        "flight": "destination",
+        "country": "IlimanaqXIQ",
+        "code": "XIQ"
+    },
+    {
+        "flight": "destination",
+        "country": "IlulissatJAV",
+        "code": "JAV"
+    },
+    {
+        "flight": "destination",
+        "country": "InnaarsuitIUI",
+        "code": "IUI"
+    },
+    {
+        "flight": "destination",
+        "country": "IsortoqIOQ",
+        "code": "IOQ"
+    },
+    {
+        "flight": "destination",
+        "country": "IttoqqortoormiitOBY",
+        "code": "OBY"
+    },
+    {
+        "flight": "destination",
+        "country": "IttoqqortoormiitCNP",
+        "code": "CNP"
+    },
+    {
+        "flight": "destination",
+        "country": "KangaatsiaqQPW",
+        "code": "QPW"
+    },
+    {
+        "flight": "destination",
+        "country": "KangerlussuaqSFJ",
+        "code": "SFJ"
+    },
+    {
+        "flight": "destination",
+        "country": "KangersuatsiaqKGQ",
+        "code": "KGQ"
+    },
+    {
+        "flight": "destination",
+        "country": "KitsissuarsuitQJE",
+        "code": "QJE"
+    },
+    {
+        "flight": "destination",
+        "country": "KullorsuaqKHQ",
+        "code": "KHQ"
+    },
+    {
+        "flight": "destination",
+        "country": "KulusukKUS",
+        "code": "KUS"
+    },
+    {
+        "flight": "destination",
+        "country": "KuummiitKUZ",
+        "code": "KUZ"
+    },
+    {
+        "flight": "destination",
+        "country": "ManiitsoqJSU",
+        "code": "JSU"
+    },
+    {
+        "flight": "destination",
+        "country": "NanortalikJNN",
+        "code": "JNN"
+    },
+    {
+        "flight": "destination",
+        "country": "NarsaqJNS",
+        "code": "JNS"
+    },
+    {
+        "flight": "destination",
+        "country": "Narsaq KujalleqQFN",
+        "code": "QFN"
+    },
+    {
+        "flight": "destination",
+        "country": "NarsarsuaqUAK",
+        "code": "UAK"
+    },
+    {
+        "flight": "destination",
+        "country": "NiaqornaarsukQMK",
+        "code": "QMK"
+    },
+    {
+        "flight": "destination",
+        "country": "NiaqornatNIQ",
+        "code": "NIQ"
+    },
+    {
+        "flight": "destination",
+        "country": "NuukGOH",
+        "code": "GOH"
+    },
+    {
+        "flight": "destination",
+        "country": "NuussuaqNSQ",
+        "code": "NSQ"
+    },
+    {
+        "flight": "destination",
+        "country": "PaamiutJFR",
+        "code": "JFR"
+    },
+    {
+        "flight": "destination",
+        "country": "PituffikTHU",
+        "code": "THU"
+    },
+    {
+        "flight": "destination",
+        "country": "QaanaaqNAQ",
+        "code": "NAQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Qaarsut and UummannaqJQA",
+        "code": "JQA"
+    },
+    {
+        "flight": "destination",
+        "country": "QaqortoqJJU",
+        "code": "JJU"
+    },
+    {
+        "flight": "destination",
+        "country": "QasigiannguitJCH",
+        "code": "JCH"
+    },
+    {
+        "flight": "destination",
+        "country": "QeqertaqPQT",
+        "code": "PQT"
+    },
+    {
+        "flight": "destination",
+        "country": "QeqertarsuaqJGO",
+        "code": "JGO"
+    },
+    {
+        "flight": "destination",
+        "country": "SaattutSAE",
+        "code": "SAE"
+    },
+    {
+        "flight": "destination",
+        "country": "SaqqaqQUP",
+        "code": "QUP"
+    },
+    {
+        "flight": "destination",
+        "country": "SavissivikSVR",
+        "code": "SVR"
+    },
+    {
+        "flight": "destination",
+        "country": "SermiligaaqSGG",
+        "code": "SGG"
+    },
+    {
+        "flight": "destination",
+        "country": "SiorapalukSRK",
+        "code": "SRK"
+    },
+    {
+        "flight": "destination",
+        "country": "SisimiutJHS",
+        "code": "JHS"
+    },
+    {
+        "flight": "destination",
+        "country": "TasiilaqAGM",
+        "code": "AGM"
+    },
+    {
+        "flight": "destination",
+        "country": "TasiusaqXEQ",
+        "code": "XEQ"
+    },
+    {
+        "flight": "destination",
+        "country": "TasiusaqTQA",
+        "code": "TQA"
+    },
+    {
+        "flight": "destination",
+        "country": "TiniteqilaaqTQI",
+        "code": "TQI"
+    },
+    {
+        "flight": "destination",
+        "country": "UkkusissatJUK",
+        "code": "JUK"
+    },
+    {
+        "flight": "destination",
+        "country": "UpernavikJUV",
+        "code": "JUV"
+    },
+    {
+        "flight": "destination",
+        "country": "Upernavik KujalleqUPK",
+        "code": "UPK"
+    },
+    {
+        "flight": "destination",
+        "country": "UummannaqUMD",
+        "code": "UMD"
+    },
+    {
+        "flight": "destination",
+        "country": "Reykjavik (Keflavik)KEF",
+        "code": "KEF"
+    },
+    {
+        "flight": "destination",
+        "country": "StavangerSVG",
+        "code": "SVG"
+    },
+    {
+        "flight": "departure",
+        "country": "BillundBLL",
+        "code": "BLL"
+    },
+    {
+        "flight": "departure",
+        "country": "CopenhagenCPH",
+        "code": "CPH"
+    },
+    {
+        "flight": "departure",
+        "country": "AappilattoqQUV",
+        "code": "QUV"
+    },
+    {
+        "flight": "departure",
+        "country": "AappilattoqAOQ",
+        "code": "AOQ"
+    },
+    {
+        "flight": "departure",
+        "country": "AasiaatJEG",
+        "code": "JEG"
+    },
+    {
+        "flight": "departure",
+        "country": "AkunnaaqQCU",
+        "code": "QCU"
+    },
+    {
+        "flight": "departure",
+        "country": "Alluitsup PaaLLU",
+        "code": "LLU"
+    },
+    {
+        "flight": "departure",
+        "country": "AmmassivikQUW",
+        "code": "QUW"
+    },
+    {
+        "flight": "departure",
+        "country": "AttuQGQ",
+        "code": "QGQ"
+    },
+    {
+        "flight": "departure",
+        "country": "IginniarfikQFI",
+        "code": "QFI"
+    },
+    {
+        "flight": "departure",
+        "country": "IkamiutQJI",
+        "code": "QJI"
+    },
+    {
+        "flight": "departure",
+        "country": "IkerasaarsukQRY",
+        "code": "QRY"
+    },
+    {
+        "flight": "departure",
+        "country": "IkerasakIKE",
+        "code": "IKE"
+    },
+    {
+        "flight": "departure",
+        "country": "IlimanaqXIQ",
+        "code": "XIQ"
+    },
+    {
+        "flight": "departure",
+        "country": "IlulissatJAV",
+        "code": "JAV"
+    },
+    {
+        "flight": "departure",
+        "country": "InnaarsuitIUI",
+        "code": "IUI"
+    },
+    {
+        "flight": "departure",
+        "country": "IsortoqIOQ",
+        "code": "IOQ"
+    },
+    {
+        "flight": "departure",
+        "country": "IttoqqortoormiitOBY",
+        "code": "OBY"
+    },
+    {
+        "flight": "departure",
+        "country": "IttoqqortoormiitCNP",
+        "code": "CNP"
+    },
+    {
+        "flight": "departure",
+        "country": "KangaatsiaqQPW",
+        "code": "QPW"
+    },
+    {
+        "flight": "departure",
+        "country": "KangerlussuaqSFJ",
+        "code": "SFJ"
+    },
+    {
+        "flight": "departure",
+        "country": "KangersuatsiaqKGQ",
+        "code": "KGQ"
+    },
+    {
+        "flight": "departure",
+        "country": "KitsissuarsuitQJE",
+        "code": "QJE"
+    },
+    {
+        "flight": "departure",
+        "country": "KullorsuaqKHQ",
+        "code": "KHQ"
+    },
+    {
+        "flight": "departure",
+        "country": "KulusukKUS",
+        "code": "KUS"
+    },
+    {
+        "flight": "departure",
+        "country": "KuummiitKUZ",
+        "code": "KUZ"
+    },
+    {
+        "flight": "departure",
+        "country": "ManiitsoqJSU",
+        "code": "JSU"
+    },
+    {
+        "flight": "departure",
+        "country": "NanortalikJNN",
+        "code": "JNN"
+    },
+    {
+        "flight": "departure",
+        "country": "NarsaqJNS",
+        "code": "JNS"
+    },
+    {
+        "flight": "departure",
+        "country": "Narsaq KujalleqQFN",
+        "code": "QFN"
+    },
+    {
+        "flight": "departure",
+        "country": "NarsarsuaqUAK",
+        "code": "UAK"
+    },
+    {
+        "flight": "departure",
+        "country": "NiaqornaarsukQMK",
+        "code": "QMK"
+    },
+    {
+        "flight": "departure",
+        "country": "NiaqornatNIQ",
+        "code": "NIQ"
+    },
+    {
+        "flight": "departure",
+        "country": "NuukGOH",
+        "code": "GOH"
+    },
+    {
+        "flight": "departure",
+        "country": "NuussuaqNSQ",
+        "code": "NSQ"
+    },
+    {
+        "flight": "departure",
+        "country": "PaamiutJFR",
+        "code": "JFR"
+    },
+    {
+        "flight": "departure",
+        "country": "PituffikTHU",
+        "code": "THU"
+    },
+    {
+        "flight": "departure",
+        "country": "QaanaaqNAQ",
+        "code": "NAQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Qaarsut and UummannaqJQA",
+        "code": "JQA"
+    },
+    {
+        "flight": "departure",
+        "country": "QaqortoqJJU",
+        "code": "JJU"
+    },
+    {
+        "flight": "departure",
+        "country": "QasigiannguitJCH",
+        "code": "JCH"
+    },
+    {
+        "flight": "departure",
+        "country": "QeqertaqPQT",
+        "code": "PQT"
+    },
+    {
+        "flight": "departure",
+        "country": "QeqertarsuaqJGO",
+        "code": "JGO"
+    },
+    {
+        "flight": "departure",
+        "country": "SaattutSAE",
+        "code": "SAE"
+    },
+    {
+        "flight": "departure",
+        "country": "SaqqaqQUP",
+        "code": "QUP"
+    },
+    {
+        "flight": "departure",
+        "country": "SavissivikSVR",
+        "code": "SVR"
+    },
+    {
+        "flight": "departure",
+        "country": "SermiligaaqSGG",
+        "code": "SGG"
+    },
+    {
+        "flight": "departure",
+        "country": "SiorapalukSRK",
+        "code": "SRK"
+    },
+    {
+        "flight": "departure",
+        "country": "SisimiutJHS",
+        "code": "JHS"
+    },
+    {
+        "flight": "departure",
+        "country": "TasiilaqAGM",
+        "code": "AGM"
+    },
+    {
+        "flight": "departure",
+        "country": "TasiusaqXEQ",
+        "code": "XEQ"
+    },
+    {
+        "flight": "departure",
+        "country": "TasiusaqTQA",
+        "code": "TQA"
+    },
+    {
+        "flight": "departure",
+        "country": "TiniteqilaaqTQI",
+        "code": "TQI"
+    },
+    {
+        "flight": "departure",
+        "country": "UkkusissatJUK",
+        "code": "JUK"
+    },
+    {
+        "flight": "departure",
+        "country": "UpernavikJUV",
+        "code": "JUV"
+    },
+    {
+        "flight": "departure",
+        "country": "Upernavik KujalleqUPK",
+        "code": "UPK"
+    },
+    {
+        "flight": "departure",
+        "country": "UummannaqUMD",
+        "code": "UMD"
+    },
+    {
+        "flight": "departure",
+        "country": "Reykjavik (Keflavik)KEF",
+        "code": "KEF"
+    },
+    {
+        "flight": "departure",
+        "country": "StavangerSVG",
+        "code": "SVG"
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "flight": "destination",
+        "country": "Bhamo (Banmaw)BMO",
+        "code": "BMO"
+    },
+    {
+        "flight": "destination",
+        "country": "BokpyinVBP",
+        "code": "VBP"
+    },
+    {
+        "flight": "destination",
+        "country": "DaweiTVY",
+        "code": "TVY"
+    },
+    {
+        "flight": "destination",
+        "country": "HehoHEH",
+        "code": "HEH"
+    },
+    {
+        "flight": "destination",
+        "country": "HomalinHOX",
+        "code": "HOX"
+    },
+    {
+        "flight": "destination",
+        "country": "KalemyoKMV",
+        "code": "KMV"
+    },
+    {
+        "flight": "destination",
+        "country": "KawthaungKAW",
+        "code": "KAW"
+    },
+    {
+        "flight": "destination",
+        "country": "KengtungKET",
+        "code": "KET"
+    },
+    {
+        "flight": "destination",
+        "country": "KhamtiKHM",
+        "code": "KHM"
+    },
+    {
+        "flight": "destination",
+        "country": "KyaukpyuKYP",
+        "code": "KYP"
+    },
+    {
+        "flight": "destination",
+        "country": "LashioLSH",
+        "code": "LSH"
+    },
+    {
+        "flight": "destination",
+        "country": "LoikawLIW",
+        "code": "LIW"
+    },
+    {
+        "flight": "destination",
+        "country": "MandalayMDL",
+        "code": "MDL"
+    },
+    {
+        "flight": "destination",
+        "country": "MonghsatMOG",
+        "code": "MOG"
+    },
+    {
+        "flight": "destination",
+        "country": "MonywaNYW",
+        "code": "NYW"
+    },
+    {
+        "flight": "destination",
+        "country": "MyeikMGZ",
+        "code": "MGZ"
+    },
+    {
+        "flight": "destination",
+        "country": "MyitkyinaMYT",
+        "code": "MYT"
+    },
+    {
+        "flight": "destination",
+        "country": "NaypyidawNYT",
+        "code": "NYT"
+    },
+    {
+        "flight": "destination",
+        "country": "PutaoPBU",
+        "code": "PBU"
+    },
+    {
+        "flight": "destination",
+        "country": "SittweAKY",
+        "code": "AKY"
+    },
+    {
+        "flight": "destination",
+        "country": "TachilekTHL",
+        "code": "THL"
+    },
+    {
+        "flight": "destination",
+        "country": "YangonRGN",
+        "code": "RGN"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "departure",
+        "country": "Bhamo (Banmaw)BMO",
+        "code": "BMO"
+    },
+    {
+        "flight": "departure",
+        "country": "BokpyinVBP",
+        "code": "VBP"
+    },
+    {
+        "flight": "departure",
+        "country": "DaweiTVY",
+        "code": "TVY"
+    },
+    {
+        "flight": "departure",
+        "country": "HehoHEH",
+        "code": "HEH"
+    },
+    {
+        "flight": "departure",
+        "country": "HomalinHOX",
+        "code": "HOX"
+    },
+    {
+        "flight": "departure",
+        "country": "KalemyoKMV",
+        "code": "KMV"
+    },
+    {
+        "flight": "departure",
+        "country": "KawthaungKAW",
+        "code": "KAW"
+    },
+    {
+        "flight": "departure",
+        "country": "KengtungKET",
+        "code": "KET"
+    },
+    {
+        "flight": "departure",
+        "country": "KhamtiKHM",
+        "code": "KHM"
+    },
+    {
+        "flight": "departure",
+        "country": "KyaukpyuKYP",
+        "code": "KYP"
+    },
+    {
+        "flight": "departure",
+        "country": "LashioLSH",
+        "code": "LSH"
+    },
+    {
+        "flight": "departure",
+        "country": "LoikawLIW",
+        "code": "LIW"
+    },
+    {
+        "flight": "departure",
+        "country": "MandalayMDL",
+        "code": "MDL"
+    },
+    {
+        "flight": "departure",
+        "country": "MonghsatMOG",
+        "code": "MOG"
+    },
+    {
+        "flight": "departure",
+        "country": "MonywaNYW",
+        "code": "NYW"
+    },
+    {
+        "flight": "departure",
+        "country": "MyeikMGZ",
+        "code": "MGZ"
+    },
+    {
+        "flight": "departure",
+        "country": "MyitkyinaMYT",
+        "code": "MYT"
+    },
+    {
+        "flight": "departure",
+        "country": "NaypyidawNYT",
+        "code": "NYT"
+    },
+    {
+        "flight": "departure",
+        "country": "PutaoPBU",
+        "code": "PBU"
+    },
+    {
+        "flight": "departure",
+        "country": "SittweAKY",
+        "code": "AKY"
+    },
+    {
+        "flight": "departure",
+        "country": "TachilekTHL",
+        "code": "THL"
+    },
+    {
+        "flight": "departure",
+        "country": "YangonRGN",
+        "code": "RGN"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    }
+]

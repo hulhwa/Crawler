@@ -1,0 +1,142 @@
+[
+    {
+        "flight": "destination",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "destination",
+        "country": "KinshasaFIH",
+        "code": "FIH"
+    },
+    {
+        "flight": "destination",
+        "country": "AccraACC",
+        "code": "ACC"
+    },
+    {
+        "flight": "destination",
+        "country": "BlantyreBLZ",
+        "code": "BLZ"
+    },
+    {
+        "flight": "destination",
+        "country": "LilongweLLW",
+        "code": "LLW"
+    },
+    {
+        "flight": "destination",
+        "country": "MauritiusMRU",
+        "code": "MRU"
+    },
+    {
+        "flight": "destination",
+        "country": "WindhoekWDH",
+        "code": "WDH"
+    },
+    {
+        "flight": "destination",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "destination",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "destination",
+        "country": "DurbanDUR",
+        "code": "DUR"
+    },
+    {
+        "flight": "destination",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "destination",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "destination",
+        "country": "HarareHRE",
+        "code": "HRE"
+    },
+    {
+        "flight": "destination",
+        "country": "Victoria FallsVFA",
+        "code": "VFA"
+    },
+    {
+        "flight": "departure",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "departure",
+        "country": "KinshasaFIH",
+        "code": "FIH"
+    },
+    {
+        "flight": "departure",
+        "country": "AccraACC",
+        "code": "ACC"
+    },
+    {
+        "flight": "departure",
+        "country": "BlantyreBLZ",
+        "code": "BLZ"
+    },
+    {
+        "flight": "departure",
+        "country": "LilongweLLW",
+        "code": "LLW"
+    },
+    {
+        "flight": "departure",
+        "country": "MauritiusMRU",
+        "code": "MRU"
+    },
+    {
+        "flight": "departure",
+        "country": "WindhoekWDH",
+        "code": "WDH"
+    },
+    {
+        "flight": "departure",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "departure",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "departure",
+        "country": "DurbanDUR",
+        "code": "DUR"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "departure",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "departure",
+        "country": "HarareHRE",
+        "code": "HRE"
+    },
+    {
+        "flight": "departure",
+        "country": "Victoria FallsVFA",
+        "code": "VFA"
+    }
+]

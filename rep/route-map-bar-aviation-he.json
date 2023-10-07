@@ -1,0 +1,82 @@
+[
+    {
+        "flight": "destination",
+        "country": "AruaRUA",
+        "code": "RUA"
+    },
+    {
+        "flight": "destination",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    },
+    {
+        "flight": "destination",
+        "country": "JinjaJIN",
+        "code": "JIN"
+    },
+    {
+        "flight": "destination",
+        "country": "KaseseKSE",
+        "code": "KSE"
+    },
+    {
+        "flight": "destination",
+        "country": "KihihiKHX",
+        "code": "KHX"
+    },
+    {
+        "flight": "destination",
+        "country": "MbararaMBQ",
+        "code": "MBQ"
+    },
+    {
+        "flight": "destination",
+        "country": "PakubaPAF",
+        "code": "PAF"
+    },
+    {
+        "flight": "destination",
+        "country": "SorotiSRT",
+        "code": "SRT"
+    },
+    {
+        "flight": "departure",
+        "country": "AruaRUA",
+        "code": "RUA"
+    },
+    {
+        "flight": "departure",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    },
+    {
+        "flight": "departure",
+        "country": "JinjaJIN",
+        "code": "JIN"
+    },
+    {
+        "flight": "departure",
+        "country": "KaseseKSE",
+        "code": "KSE"
+    },
+    {
+        "flight": "departure",
+        "country": "KihihiKHX",
+        "code": "KHX"
+    },
+    {
+        "flight": "departure",
+        "country": "MbararaMBQ",
+        "code": "MBQ"
+    },
+    {
+        "flight": "departure",
+        "country": "PakubaPAF",
+        "code": "PAF"
+    },
+    {
+        "flight": "departure",
+        "country": "SorotiSRT",
+        "code": "SRT"
+    }
+]

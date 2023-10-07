@@ -1,0 +1,202 @@
+[
+    {
+        "flight": "destination",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "destination",
+        "country": "AmmanAMM",
+        "code": "AMM"
+    },
+    {
+        "flight": "destination",
+        "country": "AbhaAHB",
+        "code": "AHB"
+    },
+    {
+        "flight": "destination",
+        "country": "Al-BahaABT",
+        "code": "ABT"
+    },
+    {
+        "flight": "destination",
+        "country": "Al-JawfAJF",
+        "code": "AJF"
+    },
+    {
+        "flight": "destination",
+        "country": "BishaBHH",
+        "code": "BHH"
+    },
+    {
+        "flight": "destination",
+        "country": "DammamDMM",
+        "code": "DMM"
+    },
+    {
+        "flight": "destination",
+        "country": "GassimELQ",
+        "code": "ELQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Ha'ilHAS",
+        "code": "HAS"
+    },
+    {
+        "flight": "destination",
+        "country": "HofufHOF",
+        "code": "HOF"
+    },
+    {
+        "flight": "destination",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "destination",
+        "country": "JizanGIZ",
+        "code": "GIZ"
+    },
+    {
+        "flight": "destination",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "destination",
+        "country": "Najran (Nejran)EAM",
+        "code": "EAM"
+    },
+    {
+        "flight": "destination",
+        "country": "NeomNUM",
+        "code": "NUM"
+    },
+    {
+        "flight": "destination",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "destination",
+        "country": "Ta'ifTIF",
+        "code": "TIF"
+    },
+    {
+        "flight": "destination",
+        "country": "TabukTUU",
+        "code": "TUU"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "departure",
+        "country": "AmmanAMM",
+        "code": "AMM"
+    },
+    {
+        "flight": "departure",
+        "country": "AbhaAHB",
+        "code": "AHB"
+    },
+    {
+        "flight": "departure",
+        "country": "Al-BahaABT",
+        "code": "ABT"
+    },
+    {
+        "flight": "departure",
+        "country": "Al-JawfAJF",
+        "code": "AJF"
+    },
+    {
+        "flight": "departure",
+        "country": "BishaBHH",
+        "code": "BHH"
+    },
+    {
+        "flight": "departure",
+        "country": "DammamDMM",
+        "code": "DMM"
+    },
+    {
+        "flight": "departure",
+        "country": "GassimELQ",
+        "code": "ELQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Ha'ilHAS",
+        "code": "HAS"
+    },
+    {
+        "flight": "departure",
+        "country": "HofufHOF",
+        "code": "HOF"
+    },
+    {
+        "flight": "departure",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "departure",
+        "country": "JizanGIZ",
+        "code": "GIZ"
+    },
+    {
+        "flight": "departure",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "departure",
+        "country": "Najran (Nejran)EAM",
+        "code": "EAM"
+    },
+    {
+        "flight": "departure",
+        "country": "NeomNUM",
+        "code": "NUM"
+    },
+    {
+        "flight": "departure",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "departure",
+        "country": "Ta'ifTIF",
+        "code": "TIF"
+    },
+    {
+        "flight": "departure",
+        "country": "TabukTUU",
+        "code": "TUU"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    }
+]

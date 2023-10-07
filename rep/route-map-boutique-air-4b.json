@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "AlbuquerqueABQ",
+        "code": "ABQ"
+    },
+    {
+        "flight": "destination",
+        "country": "BostonBOS",
+        "code": "BOS"
+    },
+    {
+        "flight": "destination",
+        "country": "CarlsbadCNM",
+        "code": "CNM"
+    },
+    {
+        "flight": "destination",
+        "country": "Dallas-Fort WorthDFW",
+        "code": "DFW"
+    },
+    {
+        "flight": "destination",
+        "country": "MassenaMSS",
+        "code": "MSS"
+    },
+    {
+        "flight": "destination",
+        "country": "PendletonPDT",
+        "code": "PDT"
+    },
+    {
+        "flight": "destination",
+        "country": "PortlandPDX",
+        "code": "PDX"
+    },
+    {
+        "flight": "departure",
+        "country": "AlbuquerqueABQ",
+        "code": "ABQ"
+    },
+    {
+        "flight": "departure",
+        "country": "BostonBOS",
+        "code": "BOS"
+    },
+    {
+        "flight": "departure",
+        "country": "CarlsbadCNM",
+        "code": "CNM"
+    },
+    {
+        "flight": "departure",
+        "country": "Dallas-Fort WorthDFW",
+        "code": "DFW"
+    },
+    {
+        "flight": "departure",
+        "country": "MassenaMSS",
+        "code": "MSS"
+    },
+    {
+        "flight": "departure",
+        "country": "PendletonPDT",
+        "code": "PDT"
+    },
+    {
+        "flight": "departure",
+        "country": "PortlandPDX",
+        "code": "PDX"
+    }
+]

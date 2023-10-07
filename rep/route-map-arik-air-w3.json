@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "destination",
+        "country": "BeninBNI",
+        "code": "BNI"
+    },
+    {
+        "flight": "destination",
+        "country": "JosJOS",
+        "code": "JOS"
+    },
+    {
+        "flight": "destination",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "destination",
+        "country": "MaiduguriMIU",
+        "code": "MIU"
+    },
+    {
+        "flight": "destination",
+        "country": "Port HarcourtPHC",
+        "code": "PHC"
+    },
+    {
+        "flight": "destination",
+        "country": "SokotoSKO",
+        "code": "SKO"
+    },
+    {
+        "flight": "destination",
+        "country": "WarriQRW",
+        "code": "QRW"
+    },
+    {
+        "flight": "destination",
+        "country": "YolaYOL",
+        "code": "YOL"
+    },
+    {
+        "flight": "departure",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "departure",
+        "country": "BeninBNI",
+        "code": "BNI"
+    },
+    {
+        "flight": "departure",
+        "country": "JosJOS",
+        "code": "JOS"
+    },
+    {
+        "flight": "departure",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "departure",
+        "country": "MaiduguriMIU",
+        "code": "MIU"
+    },
+    {
+        "flight": "departure",
+        "country": "Port HarcourtPHC",
+        "code": "PHC"
+    },
+    {
+        "flight": "departure",
+        "country": "SokotoSKO",
+        "code": "SKO"
+    },
+    {
+        "flight": "departure",
+        "country": "WarriQRW",
+        "code": "QRW"
+    },
+    {
+        "flight": "departure",
+        "country": "YolaYOL",
+        "code": "YOL"
+    }
+]

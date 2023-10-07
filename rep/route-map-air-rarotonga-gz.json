@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "AitutakiAIT",
+        "code": "AIT"
+    },
+    {
+        "flight": "destination",
+        "country": "Rarotonga IslandRAR",
+        "code": "RAR"
+    },
+    {
+        "flight": "destination",
+        "country": "TahitiPPT",
+        "code": "PPT"
+    },
+    {
+        "flight": "departure",
+        "country": "AitutakiAIT",
+        "code": "AIT"
+    },
+    {
+        "flight": "departure",
+        "country": "Rarotonga IslandRAR",
+        "code": "RAR"
+    },
+    {
+        "flight": "departure",
+        "country": "TahitiPPT",
+        "code": "PPT"
+    }
+]

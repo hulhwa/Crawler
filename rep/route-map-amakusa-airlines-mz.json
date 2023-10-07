@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "AmakusaAXJ",
+        "code": "AXJ"
+    },
+    {
+        "flight": "destination",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "destination",
+        "country": "KumamotoKMJ",
+        "code": "KMJ"
+    },
+    {
+        "flight": "destination",
+        "country": "OsakaITM",
+        "code": "ITM"
+    },
+    {
+        "flight": "departure",
+        "country": "AmakusaAXJ",
+        "code": "AXJ"
+    },
+    {
+        "flight": "departure",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "departure",
+        "country": "KumamotoKMJ",
+        "code": "KMJ"
+    },
+    {
+        "flight": "departure",
+        "country": "OsakaITM",
+        "code": "ITM"
+    }
+]

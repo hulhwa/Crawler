@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "destination",
+        "country": "LondoloziLDZ",
+        "code": "LDZ"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "departure",
+        "country": "LondoloziLDZ",
+        "code": "LDZ"
+    }
+]

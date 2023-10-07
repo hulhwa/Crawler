@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "La CeibaLCE",
+        "code": "LCE"
+    },
+    {
+        "flight": "destination",
+        "country": "RoatanRTB",
+        "code": "RTB"
+    },
+    {
+        "flight": "destination",
+        "country": "San Pedro SulaSAP",
+        "code": "SAP"
+    },
+    {
+        "flight": "destination",
+        "country": "TegucigalpaTGU",
+        "code": "TGU"
+    },
+    {
+        "flight": "departure",
+        "country": "La CeibaLCE",
+        "code": "LCE"
+    },
+    {
+        "flight": "departure",
+        "country": "RoatanRTB",
+        "code": "RTB"
+    },
+    {
+        "flight": "departure",
+        "country": "San Pedro SulaSAP",
+        "code": "SAP"
+    },
+    {
+        "flight": "departure",
+        "country": "TegucigalpaTGU",
+        "code": "TGU"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "ChickenCKX",
+        "code": "CKX"
+    },
+    {
+        "flight": "destination",
+        "country": "ChisanaCZN",
+        "code": "CZN"
+    },
+    {
+        "flight": "destination",
+        "country": "Delta JunctionDJN",
+        "code": "DJN"
+    },
+    {
+        "flight": "destination",
+        "country": "FairbanksFAI",
+        "code": "FAI"
+    },
+    {
+        "flight": "destination",
+        "country": "Healy LakeHKB",
+        "code": "HKB"
+    },
+    {
+        "flight": "destination",
+        "country": "NorthwayORT",
+        "code": "ORT"
+    },
+    {
+        "flight": "destination",
+        "country": "TokTKJ",
+        "code": "TKJ"
+    },
+    {
+        "flight": "departure",
+        "country": "ChickenCKX",
+        "code": "CKX"
+    },
+    {
+        "flight": "departure",
+        "country": "ChisanaCZN",
+        "code": "CZN"
+    },
+    {
+        "flight": "departure",
+        "country": "Delta JunctionDJN",
+        "code": "DJN"
+    },
+    {
+        "flight": "departure",
+        "country": "FairbanksFAI",
+        "code": "FAI"
+    },
+    {
+        "flight": "departure",
+        "country": "Healy LakeHKB",
+        "code": "HKB"
+    },
+    {
+        "flight": "departure",
+        "country": "NorthwayORT",
+        "code": "ORT"
+    },
+    {
+        "flight": "departure",
+        "country": "TokTKJ",
+        "code": "TKJ"
+    }
+]

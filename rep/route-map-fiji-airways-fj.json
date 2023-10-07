@@ -1,0 +1,342 @@
+[
+    {
+        "flight": "destination",
+        "country": "AdelaideADL",
+        "code": "ADL"
+    },
+    {
+        "flight": "destination",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "destination",
+        "country": "CanberraCBR",
+        "code": "CBR"
+    },
+    {
+        "flight": "destination",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "destination",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "destination",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "destination",
+        "country": "CiciaICI",
+        "code": "ICI"
+    },
+    {
+        "flight": "destination",
+        "country": "Kadavu IslandKDV",
+        "code": "KDV"
+    },
+    {
+        "flight": "destination",
+        "country": "Koro IslandKXF",
+        "code": "KXF"
+    },
+    {
+        "flight": "destination",
+        "country": "LabasaLBS",
+        "code": "LBS"
+    },
+    {
+        "flight": "destination",
+        "country": "Lakeba IslandLKB",
+        "code": "LKB"
+    },
+    {
+        "flight": "destination",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "destination",
+        "country": "Rotuma IslandRTA",
+        "code": "RTA"
+    },
+    {
+        "flight": "destination",
+        "country": "SavusavuSVU",
+        "code": "SVU"
+    },
+    {
+        "flight": "destination",
+        "country": "SuvaSUV",
+        "code": "SUV"
+    },
+    {
+        "flight": "destination",
+        "country": "TaveuniTVU",
+        "code": "TVU"
+    },
+    {
+        "flight": "destination",
+        "country": "Vanua BalavuVBV",
+        "code": "VBV"
+    },
+    {
+        "flight": "destination",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "KiritimatiCXI",
+        "code": "CXI"
+    },
+    {
+        "flight": "destination",
+        "country": "TarawaTRW",
+        "code": "TRW"
+    },
+    {
+        "flight": "destination",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "destination",
+        "country": "ChristchurchCHC",
+        "code": "CHC"
+    },
+    {
+        "flight": "destination",
+        "country": "WellingtonWLG",
+        "code": "WLG"
+    },
+    {
+        "flight": "destination",
+        "country": "ApiaAPW",
+        "code": "APW"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "HoniaraHIR",
+        "code": "HIR"
+    },
+    {
+        "flight": "destination",
+        "country": "NukuʻalofaTBU",
+        "code": "TBU"
+    },
+    {
+        "flight": "destination",
+        "country": "VavaʻuVAV",
+        "code": "VAV"
+    },
+    {
+        "flight": "destination",
+        "country": "FunafutiFUN",
+        "code": "FUN"
+    },
+    {
+        "flight": "destination",
+        "country": "HonoluluHNL",
+        "code": "HNL"
+    },
+    {
+        "flight": "destination",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "destination",
+        "country": "San FranciscoSFO",
+        "code": "SFO"
+    },
+    {
+        "flight": "destination",
+        "country": "Port VilaVLI",
+        "code": "VLI"
+    },
+    {
+        "flight": "departure",
+        "country": "AdelaideADL",
+        "code": "ADL"
+    },
+    {
+        "flight": "departure",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "departure",
+        "country": "CanberraCBR",
+        "code": "CBR"
+    },
+    {
+        "flight": "departure",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "departure",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "departure",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "departure",
+        "country": "CiciaICI",
+        "code": "ICI"
+    },
+    {
+        "flight": "departure",
+        "country": "Kadavu IslandKDV",
+        "code": "KDV"
+    },
+    {
+        "flight": "departure",
+        "country": "Koro IslandKXF",
+        "code": "KXF"
+    },
+    {
+        "flight": "departure",
+        "country": "LabasaLBS",
+        "code": "LBS"
+    },
+    {
+        "flight": "departure",
+        "country": "Lakeba IslandLKB",
+        "code": "LKB"
+    },
+    {
+        "flight": "departure",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "departure",
+        "country": "Rotuma IslandRTA",
+        "code": "RTA"
+    },
+    {
+        "flight": "departure",
+        "country": "SavusavuSVU",
+        "code": "SVU"
+    },
+    {
+        "flight": "departure",
+        "country": "SuvaSUV",
+        "code": "SUV"
+    },
+    {
+        "flight": "departure",
+        "country": "TaveuniTVU",
+        "code": "TVU"
+    },
+    {
+        "flight": "departure",
+        "country": "Vanua BalavuVBV",
+        "code": "VBV"
+    },
+    {
+        "flight": "departure",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "KiritimatiCXI",
+        "code": "CXI"
+    },
+    {
+        "flight": "departure",
+        "country": "TarawaTRW",
+        "code": "TRW"
+    },
+    {
+        "flight": "departure",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "departure",
+        "country": "ChristchurchCHC",
+        "code": "CHC"
+    },
+    {
+        "flight": "departure",
+        "country": "WellingtonWLG",
+        "code": "WLG"
+    },
+    {
+        "flight": "departure",
+        "country": "ApiaAPW",
+        "code": "APW"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "HoniaraHIR",
+        "code": "HIR"
+    },
+    {
+        "flight": "departure",
+        "country": "NukuʻalofaTBU",
+        "code": "TBU"
+    },
+    {
+        "flight": "departure",
+        "country": "VavaʻuVAV",
+        "code": "VAV"
+    },
+    {
+        "flight": "departure",
+        "country": "FunafutiFUN",
+        "code": "FUN"
+    },
+    {
+        "flight": "departure",
+        "country": "HonoluluHNL",
+        "code": "HNL"
+    },
+    {
+        "flight": "departure",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "departure",
+        "country": "San FranciscoSFO",
+        "code": "SFO"
+    },
+    {
+        "flight": "departure",
+        "country": "Port VilaVLI",
+        "code": "VLI"
+    }
+]

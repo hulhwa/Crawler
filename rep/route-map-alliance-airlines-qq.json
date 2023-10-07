@@ -1,0 +1,122 @@
+[
+    {
+        "flight": "destination",
+        "country": "AdelaideADL",
+        "code": "ADL"
+    },
+    {
+        "flight": "destination",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "destination",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "destination",
+        "country": "CloncurryCNJ",
+        "code": "CNJ"
+    },
+    {
+        "flight": "destination",
+        "country": "CloudbreakKFE",
+        "code": "KFE"
+    },
+    {
+        "flight": "destination",
+        "country": "DarwinDRW",
+        "code": "DRW"
+    },
+    {
+        "flight": "destination",
+        "country": "MoranbahMOV",
+        "code": "MOV"
+    },
+    {
+        "flight": "destination",
+        "country": "Olympic DamOLP",
+        "code": "OLP"
+    },
+    {
+        "flight": "destination",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "destination",
+        "country": "The GranitesGTS",
+        "code": "GTS"
+    },
+    {
+        "flight": "destination",
+        "country": "TownsvilleTSV",
+        "code": "TSV"
+    },
+    {
+        "flight": "destination",
+        "country": "WeipaWEI",
+        "code": "WEI"
+    },
+    {
+        "flight": "departure",
+        "country": "AdelaideADL",
+        "code": "ADL"
+    },
+    {
+        "flight": "departure",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "departure",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "departure",
+        "country": "CloncurryCNJ",
+        "code": "CNJ"
+    },
+    {
+        "flight": "departure",
+        "country": "CloudbreakKFE",
+        "code": "KFE"
+    },
+    {
+        "flight": "departure",
+        "country": "DarwinDRW",
+        "code": "DRW"
+    },
+    {
+        "flight": "departure",
+        "country": "MoranbahMOV",
+        "code": "MOV"
+    },
+    {
+        "flight": "departure",
+        "country": "Olympic DamOLP",
+        "code": "OLP"
+    },
+    {
+        "flight": "departure",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "departure",
+        "country": "The GranitesGTS",
+        "code": "GTS"
+    },
+    {
+        "flight": "departure",
+        "country": "TownsvilleTSV",
+        "code": "TSV"
+    },
+    {
+        "flight": "departure",
+        "country": "WeipaWEI",
+        "code": "WEI"
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "flight": "destination",
+        "country": "Colonel Hill, Crooked IslandCRI",
+        "code": "CRI"
+    },
+    {
+        "flight": "destination",
+        "country": "Deadman's Cay, Long IslandLGI",
+        "code": "LGI"
+    },
+    {
+        "flight": "destination",
+        "country": "FreeportFPO",
+        "code": "FPO"
+    },
+    {
+        "flight": "destination",
+        "country": "Governor's HarbourGHB",
+        "code": "GHB"
+    },
+    {
+        "flight": "destination",
+        "country": "Great ExumaGGT",
+        "code": "GGT"
+    },
+    {
+        "flight": "destination",
+        "country": "InaguaIGA",
+        "code": "IGA"
+    },
+    {
+        "flight": "destination",
+        "country": "Marsh HarbourMHH",
+        "code": "MHH"
+    },
+    {
+        "flight": "destination",
+        "country": "MayaguanaMYG",
+        "code": "MYG"
+    },
+    {
+        "flight": "destination",
+        "country": "NassauNAS",
+        "code": "NAS"
+    },
+    {
+        "flight": "destination",
+        "country": "North EleutheraELH",
+        "code": "ELH"
+    },
+    {
+        "flight": "destination",
+        "country": "Rock SoundRSD",
+        "code": "RSD"
+    },
+    {
+        "flight": "destination",
+        "country": "San Salvador IslandZSA",
+        "code": "ZSA"
+    },
+    {
+        "flight": "destination",
+        "country": "Spring PointAXP",
+        "code": "AXP"
+    },
+    {
+        "flight": "destination",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "destination",
+        "country": "Cap-HaïtienCAP",
+        "code": "CAP"
+    },
+    {
+        "flight": "destination",
+        "country": "ProvidencialesPLS",
+        "code": "PLS"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    },
+    {
+        "flight": "destination",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    },
+    {
+        "flight": "destination",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "destination",
+        "country": "Raleigh / DurhamRDU",
+        "code": "RDU"
+    },
+    {
+        "flight": "destination",
+        "country": "West Palm BeachPBI",
+        "code": "PBI"
+    },
+    {
+        "flight": "departure",
+        "country": "Colonel Hill, Crooked IslandCRI",
+        "code": "CRI"
+    },
+    {
+        "flight": "departure",
+        "country": "Deadman's Cay, Long IslandLGI",
+        "code": "LGI"
+    },
+    {
+        "flight": "departure",
+        "country": "FreeportFPO",
+        "code": "FPO"
+    },
+    {
+        "flight": "departure",
+        "country": "Governor's HarbourGHB",
+        "code": "GHB"
+    },
+    {
+        "flight": "departure",
+        "country": "Great ExumaGGT",
+        "code": "GGT"
+    },
+    {
+        "flight": "departure",
+        "country": "InaguaIGA",
+        "code": "IGA"
+    },
+    {
+        "flight": "departure",
+        "country": "Marsh HarbourMHH",
+        "code": "MHH"
+    },
+    {
+        "flight": "departure",
+        "country": "MayaguanaMYG",
+        "code": "MYG"
+    },
+    {
+        "flight": "departure",
+        "country": "NassauNAS",
+        "code": "NAS"
+    },
+    {
+        "flight": "departure",
+        "country": "North EleutheraELH",
+        "code": "ELH"
+    },
+    {
+        "flight": "departure",
+        "country": "Rock SoundRSD",
+        "code": "RSD"
+    },
+    {
+        "flight": "departure",
+        "country": "San Salvador IslandZSA",
+        "code": "ZSA"
+    },
+    {
+        "flight": "departure",
+        "country": "Spring PointAXP",
+        "code": "AXP"
+    },
+    {
+        "flight": "departure",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "departure",
+        "country": "Cap-HaïtienCAP",
+        "code": "CAP"
+    },
+    {
+        "flight": "departure",
+        "country": "ProvidencialesPLS",
+        "code": "PLS"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    },
+    {
+        "flight": "departure",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    },
+    {
+        "flight": "departure",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "departure",
+        "country": "Raleigh / DurhamRDU",
+        "code": "RDU"
+    },
+    {
+        "flight": "departure",
+        "country": "West Palm BeachPBI",
+        "code": "PBI"
+    }
+]

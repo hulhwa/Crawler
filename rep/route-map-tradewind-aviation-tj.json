@@ -1,0 +1,102 @@
+[
+    {
+        "flight": "destination",
+        "country": "The ValleyAXA",
+        "code": "AXA"
+    },
+    {
+        "flight": "destination",
+        "country": "St. John's, AntiguaANU",
+        "code": "ANU"
+    },
+    {
+        "flight": "destination",
+        "country": "Virgin GordaVIJ",
+        "code": "VIJ"
+    },
+    {
+        "flight": "destination",
+        "country": "San JuanSJU",
+        "code": "SJU"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint BarthélemySBH",
+        "code": "SBH"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint ThomasSTT",
+        "code": "STT"
+    },
+    {
+        "flight": "destination",
+        "country": "Martha's VineyardMVY",
+        "code": "MVY"
+    },
+    {
+        "flight": "destination",
+        "country": "NantucketACK",
+        "code": "ACK"
+    },
+    {
+        "flight": "destination",
+        "country": "TeterboroTEB",
+        "code": "TEB"
+    },
+    {
+        "flight": "destination",
+        "country": "White PlainsHPN",
+        "code": "HPN"
+    },
+    {
+        "flight": "departure",
+        "country": "The ValleyAXA",
+        "code": "AXA"
+    },
+    {
+        "flight": "departure",
+        "country": "St. John's, AntiguaANU",
+        "code": "ANU"
+    },
+    {
+        "flight": "departure",
+        "country": "Virgin GordaVIJ",
+        "code": "VIJ"
+    },
+    {
+        "flight": "departure",
+        "country": "San JuanSJU",
+        "code": "SJU"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint BarthélemySBH",
+        "code": "SBH"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint ThomasSTT",
+        "code": "STT"
+    },
+    {
+        "flight": "departure",
+        "country": "Martha's VineyardMVY",
+        "code": "MVY"
+    },
+    {
+        "flight": "departure",
+        "country": "NantucketACK",
+        "code": "ACK"
+    },
+    {
+        "flight": "departure",
+        "country": "TeterboroTEB",
+        "code": "TEB"
+    },
+    {
+        "flight": "departure",
+        "country": "White PlainsHPN",
+        "code": "HPN"
+    }
+]

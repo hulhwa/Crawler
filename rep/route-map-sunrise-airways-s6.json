@@ -1,0 +1,112 @@
+[
+    {
+        "flight": "destination",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "destination",
+        "country": "Santiago de CubaSCU",
+        "code": "SCU"
+    },
+    {
+        "flight": "destination",
+        "country": "Santo DomingoJBQ",
+        "code": "JBQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Pointe-à-PitrePTP",
+        "code": "PTP"
+    },
+    {
+        "flight": "destination",
+        "country": "Cap-HaïtienCAP",
+        "code": "CAP"
+    },
+    {
+        "flight": "destination",
+        "country": "JérémieJEE",
+        "code": "JEE"
+    },
+    {
+        "flight": "destination",
+        "country": "Les CayesCYA",
+        "code": "CYA"
+    },
+    {
+        "flight": "destination",
+        "country": "Port-au-PrincePAP",
+        "code": "PAP"
+    },
+    {
+        "flight": "destination",
+        "country": "Panama CityPTY",
+        "code": "PTY"
+    },
+    {
+        "flight": "destination",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    },
+    {
+        "flight": "departure",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "departure",
+        "country": "Santiago de CubaSCU",
+        "code": "SCU"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo DomingoJBQ",
+        "code": "JBQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Pointe-à-PitrePTP",
+        "code": "PTP"
+    },
+    {
+        "flight": "departure",
+        "country": "Cap-HaïtienCAP",
+        "code": "CAP"
+    },
+    {
+        "flight": "departure",
+        "country": "JérémieJEE",
+        "code": "JEE"
+    },
+    {
+        "flight": "departure",
+        "country": "Les CayesCYA",
+        "code": "CYA"
+    },
+    {
+        "flight": "departure",
+        "country": "Port-au-PrincePAP",
+        "code": "PAP"
+    },
+    {
+        "flight": "departure",
+        "country": "Panama CityPTY",
+        "code": "PTY"
+    },
+    {
+        "flight": "departure",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    }
+]

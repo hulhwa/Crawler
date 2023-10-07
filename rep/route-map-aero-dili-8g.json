@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "destination",
+        "country": "DiliDIL",
+        "code": "DIL"
+    },
+    {
+        "flight": "departure",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "departure",
+        "country": "DiliDIL",
+        "code": "DIL"
+    }
+]

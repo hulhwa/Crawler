@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "NairobiNBO",
+        "code": "NBO"
+    },
+    {
+        "flight": "destination",
+        "country": "GalkayoGLK",
+        "code": "GLK"
+    },
+    {
+        "flight": "destination",
+        "country": "GaroweGGR",
+        "code": "GGR"
+    },
+    {
+        "flight": "destination",
+        "country": "MogadishuMGQ",
+        "code": "MGQ"
+    },
+    {
+        "flight": "departure",
+        "country": "NairobiNBO",
+        "code": "NBO"
+    },
+    {
+        "flight": "departure",
+        "country": "GalkayoGLK",
+        "code": "GLK"
+    },
+    {
+        "flight": "departure",
+        "country": "GaroweGGR",
+        "code": "GGR"
+    },
+    {
+        "flight": "departure",
+        "country": "MogadishuMGQ",
+        "code": "MGQ"
+    }
+]

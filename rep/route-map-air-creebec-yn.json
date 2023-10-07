@@ -1,0 +1,152 @@
+[
+    {
+        "flight": "destination",
+        "country": "AttawapiskatYAT",
+        "code": "YAT"
+    },
+    {
+        "flight": "destination",
+        "country": "ChibougamauYMT",
+        "code": "YMT"
+    },
+    {
+        "flight": "destination",
+        "country": "ChisasibiYKU",
+        "code": "YKU"
+    },
+    {
+        "flight": "destination",
+        "country": "EastmainZEM",
+        "code": "ZEM"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort AlbanyYFA",
+        "code": "YFA"
+    },
+    {
+        "flight": "destination",
+        "country": "KashechewanZKE",
+        "code": "ZKE"
+    },
+    {
+        "flight": "destination",
+        "country": "KuujjuarapikYGW",
+        "code": "YGW"
+    },
+    {
+        "flight": "destination",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "destination",
+        "country": "MoosoneeYMO",
+        "code": "YMO"
+    },
+    {
+        "flight": "destination",
+        "country": "NemiscauYNS",
+        "code": "YNS"
+    },
+    {
+        "flight": "destination",
+        "country": "PeawanuckYPO",
+        "code": "YPO"
+    },
+    {
+        "flight": "destination",
+        "country": "TimminsYTS",
+        "code": "YTS"
+    },
+    {
+        "flight": "destination",
+        "country": "Val-d'OrYVO",
+        "code": "YVO"
+    },
+    {
+        "flight": "destination",
+        "country": "WaskaganishYKQ",
+        "code": "YKQ"
+    },
+    {
+        "flight": "destination",
+        "country": "WemindjiYNC",
+        "code": "YNC"
+    },
+    {
+        "flight": "departure",
+        "country": "AttawapiskatYAT",
+        "code": "YAT"
+    },
+    {
+        "flight": "departure",
+        "country": "ChibougamauYMT",
+        "code": "YMT"
+    },
+    {
+        "flight": "departure",
+        "country": "ChisasibiYKU",
+        "code": "YKU"
+    },
+    {
+        "flight": "departure",
+        "country": "EastmainZEM",
+        "code": "ZEM"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort AlbanyYFA",
+        "code": "YFA"
+    },
+    {
+        "flight": "departure",
+        "country": "KashechewanZKE",
+        "code": "ZKE"
+    },
+    {
+        "flight": "departure",
+        "country": "KuujjuarapikYGW",
+        "code": "YGW"
+    },
+    {
+        "flight": "departure",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "departure",
+        "country": "MoosoneeYMO",
+        "code": "YMO"
+    },
+    {
+        "flight": "departure",
+        "country": "NemiscauYNS",
+        "code": "YNS"
+    },
+    {
+        "flight": "departure",
+        "country": "PeawanuckYPO",
+        "code": "YPO"
+    },
+    {
+        "flight": "departure",
+        "country": "TimminsYTS",
+        "code": "YTS"
+    },
+    {
+        "flight": "departure",
+        "country": "Val-d'OrYVO",
+        "code": "YVO"
+    },
+    {
+        "flight": "departure",
+        "country": "WaskaganishYKQ",
+        "code": "YKQ"
+    },
+    {
+        "flight": "departure",
+        "country": "WemindjiYNC",
+        "code": "YNC"
+    }
+]

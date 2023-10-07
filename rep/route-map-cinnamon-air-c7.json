@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "BatticaloaBTC",
+        "code": "BTC"
+    },
+    {
+        "flight": "destination",
+        "country": "ColomboCMB",
+        "code": "CMB"
+    },
+    {
+        "flight": "destination",
+        "country": "HattonNUF",
+        "code": "NUF"
+    },
+    {
+        "flight": "destination",
+        "country": "JaffnaJAF",
+        "code": "JAF"
+    },
+    {
+        "flight": "destination",
+        "country": "KoggalaKCT",
+        "code": "KCT"
+    },
+    {
+        "flight": "destination",
+        "country": "SigiriyaGIU",
+        "code": "GIU"
+    },
+    {
+        "flight": "destination",
+        "country": "Sri Jayawardenepura KotteDWO",
+        "code": "DWO"
+    },
+    {
+        "flight": "destination",
+        "country": "TrincomaleeTRR",
+        "code": "TRR"
+    },
+    {
+        "flight": "destination",
+        "country": "WeerawilaWRZ",
+        "code": "WRZ"
+    },
+    {
+        "flight": "departure",
+        "country": "BatticaloaBTC",
+        "code": "BTC"
+    },
+    {
+        "flight": "departure",
+        "country": "ColomboCMB",
+        "code": "CMB"
+    },
+    {
+        "flight": "departure",
+        "country": "HattonNUF",
+        "code": "NUF"
+    },
+    {
+        "flight": "departure",
+        "country": "JaffnaJAF",
+        "code": "JAF"
+    },
+    {
+        "flight": "departure",
+        "country": "KoggalaKCT",
+        "code": "KCT"
+    },
+    {
+        "flight": "departure",
+        "country": "SigiriyaGIU",
+        "code": "GIU"
+    },
+    {
+        "flight": "departure",
+        "country": "Sri Jayawardenepura KotteDWO",
+        "code": "DWO"
+    },
+    {
+        "flight": "departure",
+        "country": "TrincomaleeTRR",
+        "code": "TRR"
+    },
+    {
+        "flight": "departure",
+        "country": "WeerawilaWRZ",
+        "code": "WRZ"
+    }
+]

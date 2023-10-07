@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "BroomeBME",
+        "code": "BME"
+    },
+    {
+        "flight": "destination",
+        "country": "Fitzroy CrossingFIZ",
+        "code": "FIZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Halls CreekHCQ",
+        "code": "HCQ"
+    },
+    {
+        "flight": "destination",
+        "country": "LavertonLVO",
+        "code": "LVO"
+    },
+    {
+        "flight": "destination",
+        "country": "LeonoraLNO",
+        "code": "LNO"
+    },
+    {
+        "flight": "destination",
+        "country": "MeekatharraMKR",
+        "code": "MKR"
+    },
+    {
+        "flight": "destination",
+        "country": "Mount MagnetMMG",
+        "code": "MMG"
+    },
+    {
+        "flight": "destination",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "destination",
+        "country": "WilunaWUN",
+        "code": "WUN"
+    },
+    {
+        "flight": "departure",
+        "country": "BroomeBME",
+        "code": "BME"
+    },
+    {
+        "flight": "departure",
+        "country": "Fitzroy CrossingFIZ",
+        "code": "FIZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Halls CreekHCQ",
+        "code": "HCQ"
+    },
+    {
+        "flight": "departure",
+        "country": "LavertonLVO",
+        "code": "LVO"
+    },
+    {
+        "flight": "departure",
+        "country": "LeonoraLNO",
+        "code": "LNO"
+    },
+    {
+        "flight": "departure",
+        "country": "MeekatharraMKR",
+        "code": "MKR"
+    },
+    {
+        "flight": "departure",
+        "country": "Mount MagnetMMG",
+        "code": "MMG"
+    },
+    {
+        "flight": "departure",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "departure",
+        "country": "WilunaWUN",
+        "code": "WUN"
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "flight": "destination",
+        "country": "AalborgAAL",
+        "code": "AAL"
+    },
+    {
+        "flight": "destination",
+        "country": "BillundBLL",
+        "code": "BLL"
+    },
+    {
+        "flight": "destination",
+        "country": "Bornholm, RønneRNN",
+        "code": "RNN"
+    },
+    {
+        "flight": "destination",
+        "country": "CopenhagenCPH",
+        "code": "CPH"
+    },
+    {
+        "flight": "destination",
+        "country": "BerlinBER",
+        "code": "BER"
+    },
+    {
+        "flight": "destination",
+        "country": "HamburgHAM",
+        "code": "HAM"
+    },
+    {
+        "flight": "destination",
+        "country": "SaarbrückenSCN",
+        "code": "SCN"
+    },
+    {
+        "flight": "destination",
+        "country": "CataniaCTA",
+        "code": "CTA"
+    },
+    {
+        "flight": "destination",
+        "country": "LampedusaLMP",
+        "code": "LMP"
+    },
+    {
+        "flight": "destination",
+        "country": "PalermoPMO",
+        "code": "PMO"
+    },
+    {
+        "flight": "destination",
+        "country": "PantelleriaPNL",
+        "code": "PNL"
+    },
+    {
+        "flight": "destination",
+        "country": "TrapaniTPS",
+        "code": "TPS"
+    },
+    {
+        "flight": "destination",
+        "country": "FlorøFRO",
+        "code": "FRO"
+    },
+    {
+        "flight": "destination",
+        "country": "Harstad-NarvikEVE",
+        "code": "EVE"
+    },
+    {
+        "flight": "destination",
+        "country": "LakselvLKL",
+        "code": "LKL"
+    },
+    {
+        "flight": "destination",
+        "country": "OsloOSL",
+        "code": "OSL"
+    },
+    {
+        "flight": "destination",
+        "country": "ØrlandOLA",
+        "code": "OLA"
+    },
+    {
+        "flight": "destination",
+        "country": "StordSRP",
+        "code": "SRP"
+    },
+    {
+        "flight": "destination",
+        "country": "TromsøTOS",
+        "code": "TOS"
+    },
+    {
+        "flight": "departure",
+        "country": "AalborgAAL",
+        "code": "AAL"
+    },
+    {
+        "flight": "departure",
+        "country": "BillundBLL",
+        "code": "BLL"
+    },
+    {
+        "flight": "departure",
+        "country": "Bornholm, RønneRNN",
+        "code": "RNN"
+    },
+    {
+        "flight": "departure",
+        "country": "CopenhagenCPH",
+        "code": "CPH"
+    },
+    {
+        "flight": "departure",
+        "country": "BerlinBER",
+        "code": "BER"
+    },
+    {
+        "flight": "departure",
+        "country": "HamburgHAM",
+        "code": "HAM"
+    },
+    {
+        "flight": "departure",
+        "country": "SaarbrückenSCN",
+        "code": "SCN"
+    },
+    {
+        "flight": "departure",
+        "country": "CataniaCTA",
+        "code": "CTA"
+    },
+    {
+        "flight": "departure",
+        "country": "LampedusaLMP",
+        "code": "LMP"
+    },
+    {
+        "flight": "departure",
+        "country": "PalermoPMO",
+        "code": "PMO"
+    },
+    {
+        "flight": "departure",
+        "country": "PantelleriaPNL",
+        "code": "PNL"
+    },
+    {
+        "flight": "departure",
+        "country": "TrapaniTPS",
+        "code": "TPS"
+    },
+    {
+        "flight": "departure",
+        "country": "FlorøFRO",
+        "code": "FRO"
+    },
+    {
+        "flight": "departure",
+        "country": "Harstad-NarvikEVE",
+        "code": "EVE"
+    },
+    {
+        "flight": "departure",
+        "country": "LakselvLKL",
+        "code": "LKL"
+    },
+    {
+        "flight": "departure",
+        "country": "OsloOSL",
+        "code": "OSL"
+    },
+    {
+        "flight": "departure",
+        "country": "ØrlandOLA",
+        "code": "OLA"
+    },
+    {
+        "flight": "departure",
+        "country": "StordSRP",
+        "code": "SRP"
+    },
+    {
+        "flight": "departure",
+        "country": "TromsøTOS",
+        "code": "TOS"
+    }
+]

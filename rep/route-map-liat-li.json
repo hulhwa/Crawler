@@ -1,0 +1,102 @@
+[
+    {
+        "flight": "destination",
+        "country": "St. John's, AntiguaANU",
+        "code": "ANU"
+    },
+    {
+        "flight": "destination",
+        "country": "BridgetownBGI",
+        "code": "BGI"
+    },
+    {
+        "flight": "destination",
+        "country": "TortolaEIS",
+        "code": "EIS"
+    },
+    {
+        "flight": "destination",
+        "country": "DominicaDOM",
+        "code": "DOM"
+    },
+    {
+        "flight": "destination",
+        "country": "GrenadaGND",
+        "code": "GND"
+    },
+    {
+        "flight": "destination",
+        "country": "Sint MaartenSXM",
+        "code": "SXM"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint KittsSKB",
+        "code": "SKB"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint LuciaSLU",
+        "code": "SLU"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint VincentSVD",
+        "code": "SVD"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint ThomasSTT",
+        "code": "STT"
+    },
+    {
+        "flight": "departure",
+        "country": "St. John's, AntiguaANU",
+        "code": "ANU"
+    },
+    {
+        "flight": "departure",
+        "country": "BridgetownBGI",
+        "code": "BGI"
+    },
+    {
+        "flight": "departure",
+        "country": "TortolaEIS",
+        "code": "EIS"
+    },
+    {
+        "flight": "departure",
+        "country": "DominicaDOM",
+        "code": "DOM"
+    },
+    {
+        "flight": "departure",
+        "country": "GrenadaGND",
+        "code": "GND"
+    },
+    {
+        "flight": "departure",
+        "country": "Sint MaartenSXM",
+        "code": "SXM"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint KittsSKB",
+        "code": "SKB"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint LuciaSLU",
+        "code": "SLU"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint VincentSVD",
+        "code": "SVD"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint ThomasSTT",
+        "code": "STT"
+    }
+]

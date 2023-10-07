@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "HomerHOM",
+        "code": "HOM"
+    },
+    {
+        "flight": "destination",
+        "country": "Port GrahamPGM",
+        "code": "PGM"
+    },
+    {
+        "flight": "destination",
+        "country": "SeldoviaSOV",
+        "code": "SOV"
+    },
+    {
+        "flight": "departure",
+        "country": "HomerHOM",
+        "code": "HOM"
+    },
+    {
+        "flight": "departure",
+        "country": "Port GrahamPGM",
+        "code": "PGM"
+    },
+    {
+        "flight": "departure",
+        "country": "SeldoviaSOV",
+        "code": "SOV"
+    }
+]

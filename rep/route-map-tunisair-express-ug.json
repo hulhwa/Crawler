@@ -1,0 +1,102 @@
+[
+    {
+        "flight": "destination",
+        "country": "ConstantineCZL",
+        "code": "CZL"
+    },
+    {
+        "flight": "destination",
+        "country": "NaplesNAP",
+        "code": "NAP"
+    },
+    {
+        "flight": "destination",
+        "country": "PalermoPMO",
+        "code": "PMO"
+    },
+    {
+        "flight": "destination",
+        "country": "TripoliMJI",
+        "code": "MJI"
+    },
+    {
+        "flight": "destination",
+        "country": "MaltaMLA",
+        "code": "MLA"
+    },
+    {
+        "flight": "destination",
+        "country": "DjerbaDJE",
+        "code": "DJE"
+    },
+    {
+        "flight": "destination",
+        "country": "GabèsGAE",
+        "code": "GAE"
+    },
+    {
+        "flight": "destination",
+        "country": "SfaxSFA",
+        "code": "SFA"
+    },
+    {
+        "flight": "destination",
+        "country": "TozeurTOE",
+        "code": "TOE"
+    },
+    {
+        "flight": "destination",
+        "country": "TunisTUN",
+        "code": "TUN"
+    },
+    {
+        "flight": "departure",
+        "country": "ConstantineCZL",
+        "code": "CZL"
+    },
+    {
+        "flight": "departure",
+        "country": "NaplesNAP",
+        "code": "NAP"
+    },
+    {
+        "flight": "departure",
+        "country": "PalermoPMO",
+        "code": "PMO"
+    },
+    {
+        "flight": "departure",
+        "country": "TripoliMJI",
+        "code": "MJI"
+    },
+    {
+        "flight": "departure",
+        "country": "MaltaMLA",
+        "code": "MLA"
+    },
+    {
+        "flight": "departure",
+        "country": "DjerbaDJE",
+        "code": "DJE"
+    },
+    {
+        "flight": "departure",
+        "country": "GabèsGAE",
+        "code": "GAE"
+    },
+    {
+        "flight": "departure",
+        "country": "SfaxSFA",
+        "code": "SFA"
+    },
+    {
+        "flight": "departure",
+        "country": "TozeurTOE",
+        "code": "TOE"
+    },
+    {
+        "flight": "departure",
+        "country": "TunisTUN",
+        "code": "TUN"
+    }
+]

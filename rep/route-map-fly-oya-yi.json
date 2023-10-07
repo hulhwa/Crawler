@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "AlexandriaHBE",
+        "code": "HBE"
+    },
+    {
+        "flight": "destination",
+        "country": "MisurataMRA",
+        "code": "MRA"
+    },
+    {
+        "flight": "destination",
+        "country": "SabhaSEB",
+        "code": "SEB"
+    },
+    {
+        "flight": "destination",
+        "country": "TripoliMJI",
+        "code": "MJI"
+    },
+    {
+        "flight": "destination",
+        "country": "TunisTUN",
+        "code": "TUN"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "destination",
+        "country": "Dubai (Jebel Ali)DWC",
+        "code": "DWC"
+    },
+    {
+        "flight": "departure",
+        "country": "AlexandriaHBE",
+        "code": "HBE"
+    },
+    {
+        "flight": "departure",
+        "country": "MisurataMRA",
+        "code": "MRA"
+    },
+    {
+        "flight": "departure",
+        "country": "SabhaSEB",
+        "code": "SEB"
+    },
+    {
+        "flight": "departure",
+        "country": "TripoliMJI",
+        "code": "MJI"
+    },
+    {
+        "flight": "departure",
+        "country": "TunisTUN",
+        "code": "TUN"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "Dubai (Jebel Ali)DWC",
+        "code": "DWC"
+    }
+]

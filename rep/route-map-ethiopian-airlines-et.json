@@ -1,0 +1,1352 @@
+[
+    {
+        "flight": "destination",
+        "country": "LuandaLAD",
+        "code": "LAD"
+    },
+    {
+        "flight": "destination",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "destination",
+        "country": "ViennaVIE",
+        "code": "VIE"
+    },
+    {
+        "flight": "destination",
+        "country": "Bahrain IslandBAH",
+        "code": "BAH"
+    },
+    {
+        "flight": "destination",
+        "country": "BrusselsBRU",
+        "code": "BRU"
+    },
+    {
+        "flight": "destination",
+        "country": "CotonouCOO",
+        "code": "COO"
+    },
+    {
+        "flight": "destination",
+        "country": "GaboroneGBE",
+        "code": "GBE"
+    },
+    {
+        "flight": "destination",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "destination",
+        "country": "OuagadougouOUA",
+        "code": "OUA"
+    },
+    {
+        "flight": "destination",
+        "country": "BujumburaBJM",
+        "code": "BJM"
+    },
+    {
+        "flight": "destination",
+        "country": "DoualaDLA",
+        "code": "DLA"
+    },
+    {
+        "flight": "destination",
+        "country": "YaoundéNSI",
+        "code": "NSI"
+    },
+    {
+        "flight": "destination",
+        "country": "TorontoYYZ",
+        "code": "YYZ"
+    },
+    {
+        "flight": "destination",
+        "country": "BanguiBGF",
+        "code": "BGF"
+    },
+    {
+        "flight": "destination",
+        "country": "N'DjamenaNDJ",
+        "code": "NDJ"
+    },
+    {
+        "flight": "destination",
+        "country": "BeijingPEK",
+        "code": "PEK"
+    },
+    {
+        "flight": "destination",
+        "country": "ChengduTFU",
+        "code": "TFU"
+    },
+    {
+        "flight": "destination",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "destination",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "destination",
+        "country": "MoroniHAH",
+        "code": "HAH"
+    },
+    {
+        "flight": "destination",
+        "country": "AbidjanABJ",
+        "code": "ABJ"
+    },
+    {
+        "flight": "destination",
+        "country": "GomaGOM",
+        "code": "GOM"
+    },
+    {
+        "flight": "destination",
+        "country": "KinshasaFIH",
+        "code": "FIH"
+    },
+    {
+        "flight": "destination",
+        "country": "LubumbashiFBM",
+        "code": "FBM"
+    },
+    {
+        "flight": "destination",
+        "country": "CopenhagenCPH",
+        "code": "CPH"
+    },
+    {
+        "flight": "destination",
+        "country": "DjiboutiJIB",
+        "code": "JIB"
+    },
+    {
+        "flight": "destination",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "destination",
+        "country": "MalaboSSG",
+        "code": "SSG"
+    },
+    {
+        "flight": "destination",
+        "country": "AsmaraASM",
+        "code": "ASM"
+    },
+    {
+        "flight": "destination",
+        "country": "Addis AbabaADD",
+        "code": "ADD"
+    },
+    {
+        "flight": "destination",
+        "country": "Arba MinchAMH",
+        "code": "AMH"
+    },
+    {
+        "flight": "destination",
+        "country": "AsosaASO",
+        "code": "ASO"
+    },
+    {
+        "flight": "destination",
+        "country": "AwasaAWA",
+        "code": "AWA"
+    },
+    {
+        "flight": "destination",
+        "country": "Bahir DarBJR",
+        "code": "BJR"
+    },
+    {
+        "flight": "destination",
+        "country": "Dessie / KombolchaDSE",
+        "code": "DSE"
+    },
+    {
+        "flight": "destination",
+        "country": "Dire DawaDIR",
+        "code": "DIR"
+    },
+    {
+        "flight": "destination",
+        "country": "GambelaGMB",
+        "code": "GMB"
+    },
+    {
+        "flight": "destination",
+        "country": "GobaGOB",
+        "code": "GOB"
+    },
+    {
+        "flight": "destination",
+        "country": "GodeGDE",
+        "code": "GDE"
+    },
+    {
+        "flight": "destination",
+        "country": "GondarGDQ",
+        "code": "GDQ"
+    },
+    {
+        "flight": "destination",
+        "country": "JijigaJIJ",
+        "code": "JIJ"
+    },
+    {
+        "flight": "destination",
+        "country": "JimmaJIM",
+        "code": "JIM"
+    },
+    {
+        "flight": "destination",
+        "country": "JinkaBCO",
+        "code": "BCO"
+    },
+    {
+        "flight": "destination",
+        "country": "Kebri DaharABK",
+        "code": "ABK"
+    },
+    {
+        "flight": "destination",
+        "country": "LalibelaLLI",
+        "code": "LLI"
+    },
+    {
+        "flight": "destination",
+        "country": "MekeleMQX",
+        "code": "MQX"
+    },
+    {
+        "flight": "destination",
+        "country": "SemeraSZE",
+        "code": "SZE"
+    },
+    {
+        "flight": "destination",
+        "country": "ShireSHC",
+        "code": "SHC"
+    },
+    {
+        "flight": "destination",
+        "country": "MarseilleMRS",
+        "code": "MRS"
+    },
+    {
+        "flight": "destination",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "destination",
+        "country": "LibrevilleLBV",
+        "code": "LBV"
+    },
+    {
+        "flight": "destination",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "destination",
+        "country": "AccraACC",
+        "code": "ACC"
+    },
+    {
+        "flight": "destination",
+        "country": "AthensATH",
+        "code": "ATH"
+    },
+    {
+        "flight": "destination",
+        "country": "ConakryCKY",
+        "code": "CKY"
+    },
+    {
+        "flight": "destination",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "destination",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "destination",
+        "country": "ChennaiMAA",
+        "code": "MAA"
+    },
+    {
+        "flight": "destination",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "destination",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "destination",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "destination",
+        "country": "DublinDUB",
+        "code": "DUB"
+    },
+    {
+        "flight": "destination",
+        "country": "Tel AvivTLV",
+        "code": "TLV"
+    },
+    {
+        "flight": "destination",
+        "country": "Milan (Malpensa)MXP",
+        "code": "MXP"
+    },
+    {
+        "flight": "destination",
+        "country": "Rome (Fiumicino)FCO",
+        "code": "FCO"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "AmmanAMM",
+        "code": "AMM"
+    },
+    {
+        "flight": "destination",
+        "country": "MombasaMBA",
+        "code": "MBA"
+    },
+    {
+        "flight": "destination",
+        "country": "NairobiNBO",
+        "code": "NBO"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuwait CityKWI",
+        "code": "KWI"
+    },
+    {
+        "flight": "destination",
+        "country": "BeirutBEY",
+        "code": "BEY"
+    },
+    {
+        "flight": "destination",
+        "country": "AntananarivoTNR",
+        "code": "TNR"
+    },
+    {
+        "flight": "destination",
+        "country": "Nosy BeNOS",
+        "code": "NOS"
+    },
+    {
+        "flight": "destination",
+        "country": "BlantyreBLZ",
+        "code": "BLZ"
+    },
+    {
+        "flight": "destination",
+        "country": "LilongweLLW",
+        "code": "LLW"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "destination",
+        "country": "BamakoBKO",
+        "code": "BKO"
+    },
+    {
+        "flight": "destination",
+        "country": "BeiraBEW",
+        "code": "BEW"
+    },
+    {
+        "flight": "destination",
+        "country": "MaputoMPM",
+        "code": "MPM"
+    },
+    {
+        "flight": "destination",
+        "country": "WindhoekWDH",
+        "code": "WDH"
+    },
+    {
+        "flight": "destination",
+        "country": "NiameyNIM",
+        "code": "NIM"
+    },
+    {
+        "flight": "destination",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "destination",
+        "country": "EnuguENU",
+        "code": "ENU"
+    },
+    {
+        "flight": "destination",
+        "country": "KanoKAN",
+        "code": "KAN"
+    },
+    {
+        "flight": "destination",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "destination",
+        "country": "OsloOSL",
+        "code": "OSL"
+    },
+    {
+        "flight": "destination",
+        "country": "MuscatMCT",
+        "code": "MCT"
+    },
+    {
+        "flight": "destination",
+        "country": "KarachiKHI",
+        "code": "KHI"
+    },
+    {
+        "flight": "destination",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "destination",
+        "country": "DohaDOH",
+        "code": "DOH"
+    },
+    {
+        "flight": "destination",
+        "country": "BrazzavilleBZV",
+        "code": "BZV"
+    },
+    {
+        "flight": "destination",
+        "country": "Pointe-NoirePNR",
+        "code": "PNR"
+    },
+    {
+        "flight": "destination",
+        "country": "Moscow DomodedovoDME",
+        "code": "DME"
+    },
+    {
+        "flight": "destination",
+        "country": "KigaliKGL",
+        "code": "KGL"
+    },
+    {
+        "flight": "destination",
+        "country": "DammamDMM",
+        "code": "DMM"
+    },
+    {
+        "flight": "destination",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "destination",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "destination",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "destination",
+        "country": "DakarDSS",
+        "code": "DSS"
+    },
+    {
+        "flight": "destination",
+        "country": "MahéSEZ",
+        "code": "SEZ"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "BosasoBSA",
+        "code": "BSA"
+    },
+    {
+        "flight": "destination",
+        "country": "GaroweGGR",
+        "code": "GGR"
+    },
+    {
+        "flight": "destination",
+        "country": "HargeisaHGA",
+        "code": "HGA"
+    },
+    {
+        "flight": "destination",
+        "country": "MogadishuMGQ",
+        "code": "MGQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "destination",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "destination",
+        "country": "JubaJUB",
+        "code": "JUB"
+    },
+    {
+        "flight": "destination",
+        "country": "MadridMAD",
+        "code": "MAD"
+    },
+    {
+        "flight": "destination",
+        "country": "KhartoumKRT",
+        "code": "KRT"
+    },
+    {
+        "flight": "destination",
+        "country": "Stockholm (Arlanda)ARN",
+        "code": "ARN"
+    },
+    {
+        "flight": "destination",
+        "country": "GenevaGVA",
+        "code": "GVA"
+    },
+    {
+        "flight": "destination",
+        "country": "ZürichZRH",
+        "code": "ZRH"
+    },
+    {
+        "flight": "destination",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "destination",
+        "country": "KilimanjaroJRO",
+        "code": "JRO"
+    },
+    {
+        "flight": "destination",
+        "country": "ZanzibarZNZ",
+        "code": "ZNZ"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "LoméLFW",
+        "code": "LFW"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "destination",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "destination",
+        "country": "London GatwickLGW",
+        "code": "LGW"
+    },
+    {
+        "flight": "destination",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "destination",
+        "country": "ManchesterMAN",
+        "code": "MAN"
+    },
+    {
+        "flight": "destination",
+        "country": "AtlantaATL",
+        "code": "ATL"
+    },
+    {
+        "flight": "destination",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "destination",
+        "country": "New YorkEWR",
+        "code": "EWR"
+    },
+    {
+        "flight": "destination",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "destination",
+        "country": "WashingtonIAD",
+        "code": "IAD"
+    },
+    {
+        "flight": "destination",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "destination",
+        "country": "NdolaNLA",
+        "code": "NLA"
+    },
+    {
+        "flight": "destination",
+        "country": "BulawayoBUQ",
+        "code": "BUQ"
+    },
+    {
+        "flight": "destination",
+        "country": "HarareHRE",
+        "code": "HRE"
+    },
+    {
+        "flight": "destination",
+        "country": "Victoria FallsVFA",
+        "code": "VFA"
+    },
+    {
+        "flight": "departure",
+        "country": "LuandaLAD",
+        "code": "LAD"
+    },
+    {
+        "flight": "departure",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "departure",
+        "country": "ViennaVIE",
+        "code": "VIE"
+    },
+    {
+        "flight": "departure",
+        "country": "Bahrain IslandBAH",
+        "code": "BAH"
+    },
+    {
+        "flight": "departure",
+        "country": "BrusselsBRU",
+        "code": "BRU"
+    },
+    {
+        "flight": "departure",
+        "country": "CotonouCOO",
+        "code": "COO"
+    },
+    {
+        "flight": "departure",
+        "country": "GaboroneGBE",
+        "code": "GBE"
+    },
+    {
+        "flight": "departure",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "departure",
+        "country": "OuagadougouOUA",
+        "code": "OUA"
+    },
+    {
+        "flight": "departure",
+        "country": "BujumburaBJM",
+        "code": "BJM"
+    },
+    {
+        "flight": "departure",
+        "country": "DoualaDLA",
+        "code": "DLA"
+    },
+    {
+        "flight": "departure",
+        "country": "YaoundéNSI",
+        "code": "NSI"
+    },
+    {
+        "flight": "departure",
+        "country": "TorontoYYZ",
+        "code": "YYZ"
+    },
+    {
+        "flight": "departure",
+        "country": "BanguiBGF",
+        "code": "BGF"
+    },
+    {
+        "flight": "departure",
+        "country": "N'DjamenaNDJ",
+        "code": "NDJ"
+    },
+    {
+        "flight": "departure",
+        "country": "BeijingPEK",
+        "code": "PEK"
+    },
+    {
+        "flight": "departure",
+        "country": "ChengduTFU",
+        "code": "TFU"
+    },
+    {
+        "flight": "departure",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "departure",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "departure",
+        "country": "MoroniHAH",
+        "code": "HAH"
+    },
+    {
+        "flight": "departure",
+        "country": "AbidjanABJ",
+        "code": "ABJ"
+    },
+    {
+        "flight": "departure",
+        "country": "GomaGOM",
+        "code": "GOM"
+    },
+    {
+        "flight": "departure",
+        "country": "KinshasaFIH",
+        "code": "FIH"
+    },
+    {
+        "flight": "departure",
+        "country": "LubumbashiFBM",
+        "code": "FBM"
+    },
+    {
+        "flight": "departure",
+        "country": "CopenhagenCPH",
+        "code": "CPH"
+    },
+    {
+        "flight": "departure",
+        "country": "DjiboutiJIB",
+        "code": "JIB"
+    },
+    {
+        "flight": "departure",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "departure",
+        "country": "MalaboSSG",
+        "code": "SSG"
+    },
+    {
+        "flight": "departure",
+        "country": "AsmaraASM",
+        "code": "ASM"
+    },
+    {
+        "flight": "departure",
+        "country": "Addis AbabaADD",
+        "code": "ADD"
+    },
+    {
+        "flight": "departure",
+        "country": "Arba MinchAMH",
+        "code": "AMH"
+    },
+    {
+        "flight": "departure",
+        "country": "AsosaASO",
+        "code": "ASO"
+    },
+    {
+        "flight": "departure",
+        "country": "AwasaAWA",
+        "code": "AWA"
+    },
+    {
+        "flight": "departure",
+        "country": "Bahir DarBJR",
+        "code": "BJR"
+    },
+    {
+        "flight": "departure",
+        "country": "Dessie / KombolchaDSE",
+        "code": "DSE"
+    },
+    {
+        "flight": "departure",
+        "country": "Dire DawaDIR",
+        "code": "DIR"
+    },
+    {
+        "flight": "departure",
+        "country": "GambelaGMB",
+        "code": "GMB"
+    },
+    {
+        "flight": "departure",
+        "country": "GobaGOB",
+        "code": "GOB"
+    },
+    {
+        "flight": "departure",
+        "country": "GodeGDE",
+        "code": "GDE"
+    },
+    {
+        "flight": "departure",
+        "country": "GondarGDQ",
+        "code": "GDQ"
+    },
+    {
+        "flight": "departure",
+        "country": "JijigaJIJ",
+        "code": "JIJ"
+    },
+    {
+        "flight": "departure",
+        "country": "JimmaJIM",
+        "code": "JIM"
+    },
+    {
+        "flight": "departure",
+        "country": "JinkaBCO",
+        "code": "BCO"
+    },
+    {
+        "flight": "departure",
+        "country": "Kebri DaharABK",
+        "code": "ABK"
+    },
+    {
+        "flight": "departure",
+        "country": "LalibelaLLI",
+        "code": "LLI"
+    },
+    {
+        "flight": "departure",
+        "country": "MekeleMQX",
+        "code": "MQX"
+    },
+    {
+        "flight": "departure",
+        "country": "SemeraSZE",
+        "code": "SZE"
+    },
+    {
+        "flight": "departure",
+        "country": "ShireSHC",
+        "code": "SHC"
+    },
+    {
+        "flight": "departure",
+        "country": "MarseilleMRS",
+        "code": "MRS"
+    },
+    {
+        "flight": "departure",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "departure",
+        "country": "LibrevilleLBV",
+        "code": "LBV"
+    },
+    {
+        "flight": "departure",
+        "country": "FrankfurtFRA",
+        "code": "FRA"
+    },
+    {
+        "flight": "departure",
+        "country": "AccraACC",
+        "code": "ACC"
+    },
+    {
+        "flight": "departure",
+        "country": "AthensATH",
+        "code": "ATH"
+    },
+    {
+        "flight": "departure",
+        "country": "ConakryCKY",
+        "code": "CKY"
+    },
+    {
+        "flight": "departure",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "departure",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "departure",
+        "country": "ChennaiMAA",
+        "code": "MAA"
+    },
+    {
+        "flight": "departure",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "departure",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "departure",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "departure",
+        "country": "DublinDUB",
+        "code": "DUB"
+    },
+    {
+        "flight": "departure",
+        "country": "Tel AvivTLV",
+        "code": "TLV"
+    },
+    {
+        "flight": "departure",
+        "country": "Milan (Malpensa)MXP",
+        "code": "MXP"
+    },
+    {
+        "flight": "departure",
+        "country": "Rome (Fiumicino)FCO",
+        "code": "FCO"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "AmmanAMM",
+        "code": "AMM"
+    },
+    {
+        "flight": "departure",
+        "country": "MombasaMBA",
+        "code": "MBA"
+    },
+    {
+        "flight": "departure",
+        "country": "NairobiNBO",
+        "code": "NBO"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuwait CityKWI",
+        "code": "KWI"
+    },
+    {
+        "flight": "departure",
+        "country": "BeirutBEY",
+        "code": "BEY"
+    },
+    {
+        "flight": "departure",
+        "country": "AntananarivoTNR",
+        "code": "TNR"
+    },
+    {
+        "flight": "departure",
+        "country": "Nosy BeNOS",
+        "code": "NOS"
+    },
+    {
+        "flight": "departure",
+        "country": "BlantyreBLZ",
+        "code": "BLZ"
+    },
+    {
+        "flight": "departure",
+        "country": "LilongweLLW",
+        "code": "LLW"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "departure",
+        "country": "BamakoBKO",
+        "code": "BKO"
+    },
+    {
+        "flight": "departure",
+        "country": "BeiraBEW",
+        "code": "BEW"
+    },
+    {
+        "flight": "departure",
+        "country": "MaputoMPM",
+        "code": "MPM"
+    },
+    {
+        "flight": "departure",
+        "country": "WindhoekWDH",
+        "code": "WDH"
+    },
+    {
+        "flight": "departure",
+        "country": "NiameyNIM",
+        "code": "NIM"
+    },
+    {
+        "flight": "departure",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "departure",
+        "country": "EnuguENU",
+        "code": "ENU"
+    },
+    {
+        "flight": "departure",
+        "country": "KanoKAN",
+        "code": "KAN"
+    },
+    {
+        "flight": "departure",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "departure",
+        "country": "OsloOSL",
+        "code": "OSL"
+    },
+    {
+        "flight": "departure",
+        "country": "MuscatMCT",
+        "code": "MCT"
+    },
+    {
+        "flight": "departure",
+        "country": "KarachiKHI",
+        "code": "KHI"
+    },
+    {
+        "flight": "departure",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "departure",
+        "country": "DohaDOH",
+        "code": "DOH"
+    },
+    {
+        "flight": "departure",
+        "country": "BrazzavilleBZV",
+        "code": "BZV"
+    },
+    {
+        "flight": "departure",
+        "country": "Pointe-NoirePNR",
+        "code": "PNR"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow DomodedovoDME",
+        "code": "DME"
+    },
+    {
+        "flight": "departure",
+        "country": "KigaliKGL",
+        "code": "KGL"
+    },
+    {
+        "flight": "departure",
+        "country": "DammamDMM",
+        "code": "DMM"
+    },
+    {
+        "flight": "departure",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "departure",
+        "country": "MedinaMED",
+        "code": "MED"
+    },
+    {
+        "flight": "departure",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "departure",
+        "country": "DakarDSS",
+        "code": "DSS"
+    },
+    {
+        "flight": "departure",
+        "country": "MahéSEZ",
+        "code": "SEZ"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "BosasoBSA",
+        "code": "BSA"
+    },
+    {
+        "flight": "departure",
+        "country": "GaroweGGR",
+        "code": "GGR"
+    },
+    {
+        "flight": "departure",
+        "country": "HargeisaHGA",
+        "code": "HGA"
+    },
+    {
+        "flight": "departure",
+        "country": "MogadishuMGQ",
+        "code": "MGQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "departure",
+        "country": "JubaJUB",
+        "code": "JUB"
+    },
+    {
+        "flight": "departure",
+        "country": "MadridMAD",
+        "code": "MAD"
+    },
+    {
+        "flight": "departure",
+        "country": "KhartoumKRT",
+        "code": "KRT"
+    },
+    {
+        "flight": "departure",
+        "country": "Stockholm (Arlanda)ARN",
+        "code": "ARN"
+    },
+    {
+        "flight": "departure",
+        "country": "GenevaGVA",
+        "code": "GVA"
+    },
+    {
+        "flight": "departure",
+        "country": "ZürichZRH",
+        "code": "ZRH"
+    },
+    {
+        "flight": "departure",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "departure",
+        "country": "KilimanjaroJRO",
+        "code": "JRO"
+    },
+    {
+        "flight": "departure",
+        "country": "ZanzibarZNZ",
+        "code": "ZNZ"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "LoméLFW",
+        "code": "LFW"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "London GatwickLGW",
+        "code": "LGW"
+    },
+    {
+        "flight": "departure",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "departure",
+        "country": "ManchesterMAN",
+        "code": "MAN"
+    },
+    {
+        "flight": "departure",
+        "country": "AtlantaATL",
+        "code": "ATL"
+    },
+    {
+        "flight": "departure",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "departure",
+        "country": "New YorkEWR",
+        "code": "EWR"
+    },
+    {
+        "flight": "departure",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "departure",
+        "country": "WashingtonIAD",
+        "code": "IAD"
+    },
+    {
+        "flight": "departure",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "departure",
+        "country": "NdolaNLA",
+        "code": "NLA"
+    },
+    {
+        "flight": "departure",
+        "country": "BulawayoBUQ",
+        "code": "BUQ"
+    },
+    {
+        "flight": "departure",
+        "country": "HarareHRE",
+        "code": "HRE"
+    },
+    {
+        "flight": "departure",
+        "country": "Victoria FallsVFA",
+        "code": "VFA"
+    }
+]

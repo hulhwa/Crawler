@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "CajamarcaCJA",
+        "code": "CJA"
+    },
+    {
+        "flight": "destination",
+        "country": "ChiclayoCIX",
+        "code": "CIX"
+    },
+    {
+        "flight": "destination",
+        "country": "HuánucoHUU",
+        "code": "HUU"
+    },
+    {
+        "flight": "destination",
+        "country": "IquitosIQT",
+        "code": "IQT"
+    },
+    {
+        "flight": "destination",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "destination",
+        "country": "PucallpaPCL",
+        "code": "PCL"
+    },
+    {
+        "flight": "destination",
+        "country": "TarapotoTPP",
+        "code": "TPP"
+    },
+    {
+        "flight": "departure",
+        "country": "CajamarcaCJA",
+        "code": "CJA"
+    },
+    {
+        "flight": "departure",
+        "country": "ChiclayoCIX",
+        "code": "CIX"
+    },
+    {
+        "flight": "departure",
+        "country": "HuánucoHUU",
+        "code": "HUU"
+    },
+    {
+        "flight": "departure",
+        "country": "IquitosIQT",
+        "code": "IQT"
+    },
+    {
+        "flight": "departure",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "departure",
+        "country": "PucallpaPCL",
+        "code": "PCL"
+    },
+    {
+        "flight": "departure",
+        "country": "TarapotoTPP",
+        "code": "TPP"
+    }
+]

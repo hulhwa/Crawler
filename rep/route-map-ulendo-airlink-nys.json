@@ -1,0 +1,82 @@
+[
+    {
+        "flight": "destination",
+        "country": "BlantyreBLZ",
+        "code": "BLZ"
+    },
+    {
+        "flight": "destination",
+        "country": "ChelindaCEH",
+        "code": "CEH"
+    },
+    {
+        "flight": "destination",
+        "country": "Club MakokolaCMK",
+        "code": "CMK"
+    },
+    {
+        "flight": "destination",
+        "country": "Likoma IslandLIX",
+        "code": "LIX"
+    },
+    {
+        "flight": "destination",
+        "country": "LilongweLLW",
+        "code": "LLW"
+    },
+    {
+        "flight": "destination",
+        "country": "Liwonde Mvuu CampVUU",
+        "code": "VUU"
+    },
+    {
+        "flight": "destination",
+        "country": "MzuzuZZU",
+        "code": "ZZU"
+    },
+    {
+        "flight": "destination",
+        "country": "MfuweMFU",
+        "code": "MFU"
+    },
+    {
+        "flight": "departure",
+        "country": "BlantyreBLZ",
+        "code": "BLZ"
+    },
+    {
+        "flight": "departure",
+        "country": "ChelindaCEH",
+        "code": "CEH"
+    },
+    {
+        "flight": "departure",
+        "country": "Club MakokolaCMK",
+        "code": "CMK"
+    },
+    {
+        "flight": "departure",
+        "country": "Likoma IslandLIX",
+        "code": "LIX"
+    },
+    {
+        "flight": "departure",
+        "country": "LilongweLLW",
+        "code": "LLW"
+    },
+    {
+        "flight": "departure",
+        "country": "Liwonde Mvuu CampVUU",
+        "code": "VUU"
+    },
+    {
+        "flight": "departure",
+        "country": "MzuzuZZU",
+        "code": "ZZU"
+    },
+    {
+        "flight": "departure",
+        "country": "MfuweMFU",
+        "code": "MFU"
+    }
+]

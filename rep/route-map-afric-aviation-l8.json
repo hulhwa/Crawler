@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "EuaEUA",
+        "code": "EUA"
+    },
+    {
+        "flight": "destination",
+        "country": "LifukaHPA",
+        "code": "HPA"
+    },
+    {
+        "flight": "destination",
+        "country": "NiuatoputapuNTT",
+        "code": "NTT"
+    },
+    {
+        "flight": "destination",
+        "country": "NukuʻalofaTBU",
+        "code": "TBU"
+    },
+    {
+        "flight": "destination",
+        "country": "VavaʻuVAV",
+        "code": "VAV"
+    },
+    {
+        "flight": "departure",
+        "country": "EuaEUA",
+        "code": "EUA"
+    },
+    {
+        "flight": "departure",
+        "country": "LifukaHPA",
+        "code": "HPA"
+    },
+    {
+        "flight": "departure",
+        "country": "NiuatoputapuNTT",
+        "code": "NTT"
+    },
+    {
+        "flight": "departure",
+        "country": "NukuʻalofaTBU",
+        "code": "TBU"
+    },
+    {
+        "flight": "departure",
+        "country": "VavaʻuVAV",
+        "code": "VAV"
+    }
+]

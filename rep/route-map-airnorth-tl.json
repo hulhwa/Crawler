@@ -1,0 +1,162 @@
+[
+    {
+        "flight": "destination",
+        "country": "Alice SpringsASP",
+        "code": "ASP"
+    },
+    {
+        "flight": "destination",
+        "country": "BroomeBME",
+        "code": "BME"
+    },
+    {
+        "flight": "destination",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "destination",
+        "country": "DarwinDRW",
+        "code": "DRW"
+    },
+    {
+        "flight": "destination",
+        "country": "Elcho IslandELC",
+        "code": "ELC"
+    },
+    {
+        "flight": "destination",
+        "country": "GoveGOV",
+        "code": "GOV"
+    },
+    {
+        "flight": "destination",
+        "country": "Groote EylandtGTE",
+        "code": "GTE"
+    },
+    {
+        "flight": "destination",
+        "country": "KatherineKTR",
+        "code": "KTR"
+    },
+    {
+        "flight": "destination",
+        "country": "KununurraKNX",
+        "code": "KNX"
+    },
+    {
+        "flight": "destination",
+        "country": "ManingridaMNG",
+        "code": "MNG"
+    },
+    {
+        "flight": "destination",
+        "country": "McArthur River MineMCV",
+        "code": "MCV"
+    },
+    {
+        "flight": "destination",
+        "country": "Milingimbi IslandMGT",
+        "code": "MGT"
+    },
+    {
+        "flight": "destination",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "destination",
+        "country": "Tennant CreekTCA",
+        "code": "TCA"
+    },
+    {
+        "flight": "destination",
+        "country": "TownsvilleTSV",
+        "code": "TSV"
+    },
+    {
+        "flight": "destination",
+        "country": "DiliDIL",
+        "code": "DIL"
+    },
+    {
+        "flight": "departure",
+        "country": "Alice SpringsASP",
+        "code": "ASP"
+    },
+    {
+        "flight": "departure",
+        "country": "BroomeBME",
+        "code": "BME"
+    },
+    {
+        "flight": "departure",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "departure",
+        "country": "DarwinDRW",
+        "code": "DRW"
+    },
+    {
+        "flight": "departure",
+        "country": "Elcho IslandELC",
+        "code": "ELC"
+    },
+    {
+        "flight": "departure",
+        "country": "GoveGOV",
+        "code": "GOV"
+    },
+    {
+        "flight": "departure",
+        "country": "Groote EylandtGTE",
+        "code": "GTE"
+    },
+    {
+        "flight": "departure",
+        "country": "KatherineKTR",
+        "code": "KTR"
+    },
+    {
+        "flight": "departure",
+        "country": "KununurraKNX",
+        "code": "KNX"
+    },
+    {
+        "flight": "departure",
+        "country": "ManingridaMNG",
+        "code": "MNG"
+    },
+    {
+        "flight": "departure",
+        "country": "McArthur River MineMCV",
+        "code": "MCV"
+    },
+    {
+        "flight": "departure",
+        "country": "Milingimbi IslandMGT",
+        "code": "MGT"
+    },
+    {
+        "flight": "departure",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "departure",
+        "country": "Tennant CreekTCA",
+        "code": "TCA"
+    },
+    {
+        "flight": "departure",
+        "country": "TownsvilleTSV",
+        "code": "TSV"
+    },
+    {
+        "flight": "departure",
+        "country": "DiliDIL",
+        "code": "DIL"
+    }
+]

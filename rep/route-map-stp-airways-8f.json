@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "LisbonLIS",
+        "code": "LIS"
+    },
+    {
+        "flight": "destination",
+        "country": "Príncipe IslandPCP",
+        "code": "PCP"
+    },
+    {
+        "flight": "destination",
+        "country": "São ToméTMS",
+        "code": "TMS"
+    },
+    {
+        "flight": "departure",
+        "country": "LisbonLIS",
+        "code": "LIS"
+    },
+    {
+        "flight": "departure",
+        "country": "Príncipe IslandPCP",
+        "code": "PCP"
+    },
+    {
+        "flight": "departure",
+        "country": "São ToméTMS",
+        "code": "TMS"
+    }
+]

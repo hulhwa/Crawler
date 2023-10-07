@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "KabulKBL",
+        "code": "KBL"
+    },
+    {
+        "flight": "destination",
+        "country": "KandaharKDH",
+        "code": "KDH"
+    },
+    {
+        "flight": "destination",
+        "country": "MashhadMHD",
+        "code": "MHD"
+    },
+    {
+        "flight": "destination",
+        "country": "TehranIKA",
+        "code": "IKA"
+    },
+    {
+        "flight": "destination",
+        "country": "Moscow SheremetyevoSVO",
+        "code": "SVO"
+    },
+    {
+        "flight": "destination",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "destination",
+        "country": "Al AinAAN",
+        "code": "AAN"
+    },
+    {
+        "flight": "departure",
+        "country": "KabulKBL",
+        "code": "KBL"
+    },
+    {
+        "flight": "departure",
+        "country": "KandaharKDH",
+        "code": "KDH"
+    },
+    {
+        "flight": "departure",
+        "country": "MashhadMHD",
+        "code": "MHD"
+    },
+    {
+        "flight": "departure",
+        "country": "TehranIKA",
+        "code": "IKA"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow SheremetyevoSVO",
+        "code": "SVO"
+    },
+    {
+        "flight": "departure",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "departure",
+        "country": "Al AinAAN",
+        "code": "AAN"
+    }
+]

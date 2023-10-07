@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "BodøBOO",
+        "code": "BOO"
+    },
+    {
+        "flight": "destination",
+        "country": "VærøyVRY",
+        "code": "VRY"
+    },
+    {
+        "flight": "departure",
+        "country": "BodøBOO",
+        "code": "BOO"
+    },
+    {
+        "flight": "departure",
+        "country": "VærøyVRY",
+        "code": "VRY"
+    }
+]

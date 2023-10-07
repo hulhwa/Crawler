@@ -1,0 +1,122 @@
+[
+    {
+        "flight": "destination",
+        "country": "ComoxYQQ",
+        "code": "YQQ"
+    },
+    {
+        "flight": "destination",
+        "country": "GangesYGG",
+        "code": "YGG"
+    },
+    {
+        "flight": "destination",
+        "country": "Maple BayYAQ",
+        "code": "YAQ"
+    },
+    {
+        "flight": "destination",
+        "country": "NanaimoZNA",
+        "code": "ZNA"
+    },
+    {
+        "flight": "destination",
+        "country": "Powell LakeWPL",
+        "code": "WPL"
+    },
+    {
+        "flight": "destination",
+        "country": "SecheltYHS",
+        "code": "YHS"
+    },
+    {
+        "flight": "destination",
+        "country": "TofinoYTP",
+        "code": "YTP"
+    },
+    {
+        "flight": "destination",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "destination",
+        "country": "VancouverCXH",
+        "code": "CXH"
+    },
+    {
+        "flight": "destination",
+        "country": "VictoriaYWH",
+        "code": "YWH"
+    },
+    {
+        "flight": "destination",
+        "country": "WhistlerYWS",
+        "code": "YWS"
+    },
+    {
+        "flight": "destination",
+        "country": "SeattleLKE",
+        "code": "LKE"
+    },
+    {
+        "flight": "departure",
+        "country": "ComoxYQQ",
+        "code": "YQQ"
+    },
+    {
+        "flight": "departure",
+        "country": "GangesYGG",
+        "code": "YGG"
+    },
+    {
+        "flight": "departure",
+        "country": "Maple BayYAQ",
+        "code": "YAQ"
+    },
+    {
+        "flight": "departure",
+        "country": "NanaimoZNA",
+        "code": "ZNA"
+    },
+    {
+        "flight": "departure",
+        "country": "Powell LakeWPL",
+        "code": "WPL"
+    },
+    {
+        "flight": "departure",
+        "country": "SecheltYHS",
+        "code": "YHS"
+    },
+    {
+        "flight": "departure",
+        "country": "TofinoYTP",
+        "code": "YTP"
+    },
+    {
+        "flight": "departure",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "departure",
+        "country": "VancouverCXH",
+        "code": "CXH"
+    },
+    {
+        "flight": "departure",
+        "country": "VictoriaYWH",
+        "code": "YWH"
+    },
+    {
+        "flight": "departure",
+        "country": "WhistlerYWS",
+        "code": "YWS"
+    },
+    {
+        "flight": "departure",
+        "country": "SeattleLKE",
+        "code": "LKE"
+    }
+]

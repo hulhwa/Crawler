@@ -1,0 +1,122 @@
+[
+    {
+        "flight": "destination",
+        "country": "LilongweLLW",
+        "code": "LLW"
+    },
+    {
+        "flight": "destination",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "destination",
+        "country": "DurbanDUR",
+        "code": "DUR"
+    },
+    {
+        "flight": "destination",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "destination",
+        "country": "LivingstoneLVI",
+        "code": "LVI"
+    },
+    {
+        "flight": "destination",
+        "country": "Lower Zambezi National ParkJEK",
+        "code": "JEK"
+    },
+    {
+        "flight": "destination",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "destination",
+        "country": "MansaMNS",
+        "code": "MNS"
+    },
+    {
+        "flight": "destination",
+        "country": "MfuweMFU",
+        "code": "MFU"
+    },
+    {
+        "flight": "destination",
+        "country": "NdolaNLA",
+        "code": "NLA"
+    },
+    {
+        "flight": "destination",
+        "country": "RoyalRYL",
+        "code": "RYL"
+    },
+    {
+        "flight": "destination",
+        "country": "SolweziSLI",
+        "code": "SLI"
+    },
+    {
+        "flight": "departure",
+        "country": "LilongweLLW",
+        "code": "LLW"
+    },
+    {
+        "flight": "departure",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "departure",
+        "country": "DurbanDUR",
+        "code": "DUR"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "departure",
+        "country": "LivingstoneLVI",
+        "code": "LVI"
+    },
+    {
+        "flight": "departure",
+        "country": "Lower Zambezi National ParkJEK",
+        "code": "JEK"
+    },
+    {
+        "flight": "departure",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "departure",
+        "country": "MansaMNS",
+        "code": "MNS"
+    },
+    {
+        "flight": "departure",
+        "country": "MfuweMFU",
+        "code": "MFU"
+    },
+    {
+        "flight": "departure",
+        "country": "NdolaNLA",
+        "code": "NLA"
+    },
+    {
+        "flight": "departure",
+        "country": "RoyalRYL",
+        "code": "RYL"
+    },
+    {
+        "flight": "departure",
+        "country": "SolweziSLI",
+        "code": "SLI"
+    }
+]

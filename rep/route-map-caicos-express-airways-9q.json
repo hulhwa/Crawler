@@ -1,0 +1,82 @@
+[
+    {
+        "flight": "destination",
+        "country": "Santiago de los CaballerosSTI",
+        "code": "STI"
+    },
+    {
+        "flight": "destination",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Cap-HaïtienCAP",
+        "code": "CAP"
+    },
+    {
+        "flight": "destination",
+        "country": "KingstonKIN",
+        "code": "KIN"
+    },
+    {
+        "flight": "destination",
+        "country": "Grand Turk IslandGDT",
+        "code": "GDT"
+    },
+    {
+        "flight": "destination",
+        "country": "ProvidencialesPLS",
+        "code": "PLS"
+    },
+    {
+        "flight": "destination",
+        "country": "Salt Cay, Turks IslandsSLX",
+        "code": "SLX"
+    },
+    {
+        "flight": "destination",
+        "country": "South CaicosXSC",
+        "code": "XSC"
+    },
+    {
+        "flight": "departure",
+        "country": "Santiago de los CaballerosSTI",
+        "code": "STI"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Cap-HaïtienCAP",
+        "code": "CAP"
+    },
+    {
+        "flight": "departure",
+        "country": "KingstonKIN",
+        "code": "KIN"
+    },
+    {
+        "flight": "departure",
+        "country": "Grand Turk IslandGDT",
+        "code": "GDT"
+    },
+    {
+        "flight": "departure",
+        "country": "ProvidencialesPLS",
+        "code": "PLS"
+    },
+    {
+        "flight": "departure",
+        "country": "Salt Cay, Turks IslandsSLX",
+        "code": "SLX"
+    },
+    {
+        "flight": "departure",
+        "country": "South CaicosXSC",
+        "code": "XSC"
+    }
+]

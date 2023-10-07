@@ -1,0 +1,452 @@
+[
+    {
+        "flight": "destination",
+        "country": "BeijingPEK",
+        "code": "PEK"
+    },
+    {
+        "flight": "destination",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "destination",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "destination",
+        "country": "ShenzhenSZX",
+        "code": "SZX"
+    },
+    {
+        "flight": "destination",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "destination",
+        "country": "AhwazAWZ",
+        "code": "AWZ"
+    },
+    {
+        "flight": "destination",
+        "country": "ArdabilADU",
+        "code": "ADU"
+    },
+    {
+        "flight": "destination",
+        "country": "BamBXR",
+        "code": "BXR"
+    },
+    {
+        "flight": "destination",
+        "country": "Bandar AbbasBND",
+        "code": "BND"
+    },
+    {
+        "flight": "destination",
+        "country": "BirjandXBJ",
+        "code": "XBJ"
+    },
+    {
+        "flight": "destination",
+        "country": "BojnordBJB",
+        "code": "BJB"
+    },
+    {
+        "flight": "destination",
+        "country": "GachsaranGCH",
+        "code": "GCH"
+    },
+    {
+        "flight": "destination",
+        "country": "IlamIIL",
+        "code": "IIL"
+    },
+    {
+        "flight": "destination",
+        "country": "IranshahrIHR",
+        "code": "IHR"
+    },
+    {
+        "flight": "destination",
+        "country": "JiroftJYR",
+        "code": "JYR"
+    },
+    {
+        "flight": "destination",
+        "country": "KermanKER",
+        "code": "KER"
+    },
+    {
+        "flight": "destination",
+        "country": "KermanshahKSH",
+        "code": "KSH"
+    },
+    {
+        "flight": "destination",
+        "country": "KhorramabadKHD",
+        "code": "KHD"
+    },
+    {
+        "flight": "destination",
+        "country": "Kish IslandKIH",
+        "code": "KIH"
+    },
+    {
+        "flight": "destination",
+        "country": "MashhadMHD",
+        "code": "MHD"
+    },
+    {
+        "flight": "destination",
+        "country": "Shahre-KordCQD",
+        "code": "CQD"
+    },
+    {
+        "flight": "destination",
+        "country": "ShirazSYZ",
+        "code": "SYZ"
+    },
+    {
+        "flight": "destination",
+        "country": "SirjanSYJ",
+        "code": "SYJ"
+    },
+    {
+        "flight": "destination",
+        "country": "TabasTCX",
+        "code": "TCX"
+    },
+    {
+        "flight": "destination",
+        "country": "TabrizTBZ",
+        "code": "TBZ"
+    },
+    {
+        "flight": "destination",
+        "country": "TehranIKA",
+        "code": "IKA"
+    },
+    {
+        "flight": "destination",
+        "country": "TehranTHR",
+        "code": "THR"
+    },
+    {
+        "flight": "destination",
+        "country": "UrmiehOMH",
+        "code": "OMH"
+    },
+    {
+        "flight": "destination",
+        "country": "YasujYES",
+        "code": "YES"
+    },
+    {
+        "flight": "destination",
+        "country": "YazdAZD",
+        "code": "AZD"
+    },
+    {
+        "flight": "destination",
+        "country": "ZabolACZ",
+        "code": "ACZ"
+    },
+    {
+        "flight": "destination",
+        "country": "ZahedanZAH",
+        "code": "ZAH"
+    },
+    {
+        "flight": "destination",
+        "country": "ZanjanJWN",
+        "code": "JWN"
+    },
+    {
+        "flight": "destination",
+        "country": "BaghdadBGW",
+        "code": "BGW"
+    },
+    {
+        "flight": "destination",
+        "country": "ErbilEBL",
+        "code": "EBL"
+    },
+    {
+        "flight": "destination",
+        "country": "KirkukKIK",
+        "code": "KIK"
+    },
+    {
+        "flight": "destination",
+        "country": "SulaymaniyahISU",
+        "code": "ISU"
+    },
+    {
+        "flight": "destination",
+        "country": "LahoreLHE",
+        "code": "LHE"
+    },
+    {
+        "flight": "destination",
+        "country": "Moscow SheremetyevoSVO",
+        "code": "SVO"
+    },
+    {
+        "flight": "destination",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "destination",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "destination",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "destination",
+        "country": "AnkaraESB",
+        "code": "ESB"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "BeijingPEK",
+        "code": "PEK"
+    },
+    {
+        "flight": "departure",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "departure",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "departure",
+        "country": "ShenzhenSZX",
+        "code": "SZX"
+    },
+    {
+        "flight": "departure",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "departure",
+        "country": "AhwazAWZ",
+        "code": "AWZ"
+    },
+    {
+        "flight": "departure",
+        "country": "ArdabilADU",
+        "code": "ADU"
+    },
+    {
+        "flight": "departure",
+        "country": "BamBXR",
+        "code": "BXR"
+    },
+    {
+        "flight": "departure",
+        "country": "Bandar AbbasBND",
+        "code": "BND"
+    },
+    {
+        "flight": "departure",
+        "country": "BirjandXBJ",
+        "code": "XBJ"
+    },
+    {
+        "flight": "departure",
+        "country": "BojnordBJB",
+        "code": "BJB"
+    },
+    {
+        "flight": "departure",
+        "country": "GachsaranGCH",
+        "code": "GCH"
+    },
+    {
+        "flight": "departure",
+        "country": "IlamIIL",
+        "code": "IIL"
+    },
+    {
+        "flight": "departure",
+        "country": "IranshahrIHR",
+        "code": "IHR"
+    },
+    {
+        "flight": "departure",
+        "country": "JiroftJYR",
+        "code": "JYR"
+    },
+    {
+        "flight": "departure",
+        "country": "KermanKER",
+        "code": "KER"
+    },
+    {
+        "flight": "departure",
+        "country": "KermanshahKSH",
+        "code": "KSH"
+    },
+    {
+        "flight": "departure",
+        "country": "KhorramabadKHD",
+        "code": "KHD"
+    },
+    {
+        "flight": "departure",
+        "country": "Kish IslandKIH",
+        "code": "KIH"
+    },
+    {
+        "flight": "departure",
+        "country": "MashhadMHD",
+        "code": "MHD"
+    },
+    {
+        "flight": "departure",
+        "country": "Shahre-KordCQD",
+        "code": "CQD"
+    },
+    {
+        "flight": "departure",
+        "country": "ShirazSYZ",
+        "code": "SYZ"
+    },
+    {
+        "flight": "departure",
+        "country": "SirjanSYJ",
+        "code": "SYJ"
+    },
+    {
+        "flight": "departure",
+        "country": "TabasTCX",
+        "code": "TCX"
+    },
+    {
+        "flight": "departure",
+        "country": "TabrizTBZ",
+        "code": "TBZ"
+    },
+    {
+        "flight": "departure",
+        "country": "TehranIKA",
+        "code": "IKA"
+    },
+    {
+        "flight": "departure",
+        "country": "TehranTHR",
+        "code": "THR"
+    },
+    {
+        "flight": "departure",
+        "country": "UrmiehOMH",
+        "code": "OMH"
+    },
+    {
+        "flight": "departure",
+        "country": "YasujYES",
+        "code": "YES"
+    },
+    {
+        "flight": "departure",
+        "country": "YazdAZD",
+        "code": "AZD"
+    },
+    {
+        "flight": "departure",
+        "country": "ZabolACZ",
+        "code": "ACZ"
+    },
+    {
+        "flight": "departure",
+        "country": "ZahedanZAH",
+        "code": "ZAH"
+    },
+    {
+        "flight": "departure",
+        "country": "ZanjanJWN",
+        "code": "JWN"
+    },
+    {
+        "flight": "departure",
+        "country": "BaghdadBGW",
+        "code": "BGW"
+    },
+    {
+        "flight": "departure",
+        "country": "ErbilEBL",
+        "code": "EBL"
+    },
+    {
+        "flight": "departure",
+        "country": "KirkukKIK",
+        "code": "KIK"
+    },
+    {
+        "flight": "departure",
+        "country": "SulaymaniyahISU",
+        "code": "ISU"
+    },
+    {
+        "flight": "departure",
+        "country": "LahoreLHE",
+        "code": "LHE"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow SheremetyevoSVO",
+        "code": "SVO"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "departure",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "departure",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "departure",
+        "country": "AnkaraESB",
+        "code": "ESB"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    }
+]

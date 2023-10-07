@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "GuanajaGJA",
+        "code": "GJA"
+    },
+    {
+        "flight": "destination",
+        "country": "La CeibaLCE",
+        "code": "LCE"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto LempiraPEU",
+        "code": "PEU"
+    },
+    {
+        "flight": "destination",
+        "country": "RoatanRTB",
+        "code": "RTB"
+    },
+    {
+        "flight": "destination",
+        "country": "TegucigalpaTGU",
+        "code": "TGU"
+    },
+    {
+        "flight": "departure",
+        "country": "GuanajaGJA",
+        "code": "GJA"
+    },
+    {
+        "flight": "departure",
+        "country": "La CeibaLCE",
+        "code": "LCE"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto LempiraPEU",
+        "code": "PEU"
+    },
+    {
+        "flight": "departure",
+        "country": "RoatanRTB",
+        "code": "RTB"
+    },
+    {
+        "flight": "departure",
+        "country": "TegucigalpaTGU",
+        "code": "TGU"
+    }
+]

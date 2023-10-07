@@ -1,0 +1,312 @@
+[
+    {
+        "flight": "destination",
+        "country": "AbbotsfordYXX",
+        "code": "YXX"
+    },
+    {
+        "flight": "destination",
+        "country": "CalgaryYYC",
+        "code": "YYC"
+    },
+    {
+        "flight": "destination",
+        "country": "CharlottetownYYG",
+        "code": "YYG"
+    },
+    {
+        "flight": "destination",
+        "country": "EdmontonYEG",
+        "code": "YEG"
+    },
+    {
+        "flight": "destination",
+        "country": "HalifaxYHZ",
+        "code": "YHZ"
+    },
+    {
+        "flight": "destination",
+        "country": "KelownaYLW",
+        "code": "YLW"
+    },
+    {
+        "flight": "destination",
+        "country": "Kitchener / WaterlooYKF",
+        "code": "YKF"
+    },
+    {
+        "flight": "destination",
+        "country": "LondonYXU",
+        "code": "YXU"
+    },
+    {
+        "flight": "destination",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "destination",
+        "country": "OttawaYOW",
+        "code": "YOW"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint JohnYSJ",
+        "code": "YSJ"
+    },
+    {
+        "flight": "destination",
+        "country": "SaskatoonYXE",
+        "code": "YXE"
+    },
+    {
+        "flight": "destination",
+        "country": "Thunder BayYQT",
+        "code": "YQT"
+    },
+    {
+        "flight": "destination",
+        "country": "TorontoYYZ",
+        "code": "YYZ"
+    },
+    {
+        "flight": "destination",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "destination",
+        "country": "VictoriaYYJ",
+        "code": "YYJ"
+    },
+    {
+        "flight": "destination",
+        "country": "WindsorYQG",
+        "code": "YQG"
+    },
+    {
+        "flight": "destination",
+        "country": "WinnipegYWG",
+        "code": "YWG"
+    },
+    {
+        "flight": "destination",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "destination",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto VallartaPVR",
+        "code": "PVR"
+    },
+    {
+        "flight": "destination",
+        "country": "San José del CaboSJD",
+        "code": "SJD"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    },
+    {
+        "flight": "destination",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "destination",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "destination",
+        "country": "NashvilleBNA",
+        "code": "BNA"
+    },
+    {
+        "flight": "destination",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "destination",
+        "country": "OrlandoSFB",
+        "code": "SFB"
+    },
+    {
+        "flight": "destination",
+        "country": "Palm SpringsPSP",
+        "code": "PSP"
+    },
+    {
+        "flight": "destination",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "destination",
+        "country": "San FranciscoSFO",
+        "code": "SFO"
+    },
+    {
+        "flight": "departure",
+        "country": "AbbotsfordYXX",
+        "code": "YXX"
+    },
+    {
+        "flight": "departure",
+        "country": "CalgaryYYC",
+        "code": "YYC"
+    },
+    {
+        "flight": "departure",
+        "country": "CharlottetownYYG",
+        "code": "YYG"
+    },
+    {
+        "flight": "departure",
+        "country": "EdmontonYEG",
+        "code": "YEG"
+    },
+    {
+        "flight": "departure",
+        "country": "HalifaxYHZ",
+        "code": "YHZ"
+    },
+    {
+        "flight": "departure",
+        "country": "KelownaYLW",
+        "code": "YLW"
+    },
+    {
+        "flight": "departure",
+        "country": "Kitchener / WaterlooYKF",
+        "code": "YKF"
+    },
+    {
+        "flight": "departure",
+        "country": "LondonYXU",
+        "code": "YXU"
+    },
+    {
+        "flight": "departure",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "departure",
+        "country": "OttawaYOW",
+        "code": "YOW"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint JohnYSJ",
+        "code": "YSJ"
+    },
+    {
+        "flight": "departure",
+        "country": "SaskatoonYXE",
+        "code": "YXE"
+    },
+    {
+        "flight": "departure",
+        "country": "Thunder BayYQT",
+        "code": "YQT"
+    },
+    {
+        "flight": "departure",
+        "country": "TorontoYYZ",
+        "code": "YYZ"
+    },
+    {
+        "flight": "departure",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "departure",
+        "country": "VictoriaYYJ",
+        "code": "YYJ"
+    },
+    {
+        "flight": "departure",
+        "country": "WindsorYQG",
+        "code": "YQG"
+    },
+    {
+        "flight": "departure",
+        "country": "WinnipegYWG",
+        "code": "YWG"
+    },
+    {
+        "flight": "departure",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "departure",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto VallartaPVR",
+        "code": "PVR"
+    },
+    {
+        "flight": "departure",
+        "country": "San José del CaboSJD",
+        "code": "SJD"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    },
+    {
+        "flight": "departure",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "departure",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "departure",
+        "country": "NashvilleBNA",
+        "code": "BNA"
+    },
+    {
+        "flight": "departure",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "departure",
+        "country": "OrlandoSFB",
+        "code": "SFB"
+    },
+    {
+        "flight": "departure",
+        "country": "Palm SpringsPSP",
+        "code": "PSP"
+    },
+    {
+        "flight": "departure",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "departure",
+        "country": "San FranciscoSFO",
+        "code": "SFO"
+    }
+]

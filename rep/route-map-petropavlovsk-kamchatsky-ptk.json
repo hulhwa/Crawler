@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "MagadanGDX",
+        "code": "GDX"
+    },
+    {
+        "flight": "destination",
+        "country": "Petropavlovsk-KamchatskyPKC",
+        "code": "PKC"
+    },
+    {
+        "flight": "departure",
+        "country": "MagadanGDX",
+        "code": "GDX"
+    },
+    {
+        "flight": "departure",
+        "country": "Petropavlovsk-KamchatskyPKC",
+        "code": "PKC"
+    }
+]

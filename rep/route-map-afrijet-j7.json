@@ -1,0 +1,132 @@
+[
+    {
+        "flight": "destination",
+        "country": "CotonouCOO",
+        "code": "COO"
+    },
+    {
+        "flight": "destination",
+        "country": "DoualaDLA",
+        "code": "DLA"
+    },
+    {
+        "flight": "destination",
+        "country": "YaoundéNSI",
+        "code": "NSI"
+    },
+    {
+        "flight": "destination",
+        "country": "BataBSG",
+        "code": "BSG"
+    },
+    {
+        "flight": "destination",
+        "country": "MalaboSSG",
+        "code": "SSG"
+    },
+    {
+        "flight": "destination",
+        "country": "FrancevilleMVB",
+        "code": "MVB"
+    },
+    {
+        "flight": "destination",
+        "country": "GambaGAX",
+        "code": "GAX"
+    },
+    {
+        "flight": "destination",
+        "country": "LibrevilleLBV",
+        "code": "LBV"
+    },
+    {
+        "flight": "destination",
+        "country": "Port-GentilPOG",
+        "code": "POG"
+    },
+    {
+        "flight": "destination",
+        "country": "BrazzavilleBZV",
+        "code": "BZV"
+    },
+    {
+        "flight": "destination",
+        "country": "Pointe-NoirePNR",
+        "code": "PNR"
+    },
+    {
+        "flight": "destination",
+        "country": "Príncipe IslandPCP",
+        "code": "PCP"
+    },
+    {
+        "flight": "destination",
+        "country": "São ToméTMS",
+        "code": "TMS"
+    },
+    {
+        "flight": "departure",
+        "country": "CotonouCOO",
+        "code": "COO"
+    },
+    {
+        "flight": "departure",
+        "country": "DoualaDLA",
+        "code": "DLA"
+    },
+    {
+        "flight": "departure",
+        "country": "YaoundéNSI",
+        "code": "NSI"
+    },
+    {
+        "flight": "departure",
+        "country": "BataBSG",
+        "code": "BSG"
+    },
+    {
+        "flight": "departure",
+        "country": "MalaboSSG",
+        "code": "SSG"
+    },
+    {
+        "flight": "departure",
+        "country": "FrancevilleMVB",
+        "code": "MVB"
+    },
+    {
+        "flight": "departure",
+        "country": "GambaGAX",
+        "code": "GAX"
+    },
+    {
+        "flight": "departure",
+        "country": "LibrevilleLBV",
+        "code": "LBV"
+    },
+    {
+        "flight": "departure",
+        "country": "Port-GentilPOG",
+        "code": "POG"
+    },
+    {
+        "flight": "departure",
+        "country": "BrazzavilleBZV",
+        "code": "BZV"
+    },
+    {
+        "flight": "departure",
+        "country": "Pointe-NoirePNR",
+        "code": "PNR"
+    },
+    {
+        "flight": "departure",
+        "country": "Príncipe IslandPCP",
+        "code": "PCP"
+    },
+    {
+        "flight": "departure",
+        "country": "São ToméTMS",
+        "code": "TMS"
+    }
+]

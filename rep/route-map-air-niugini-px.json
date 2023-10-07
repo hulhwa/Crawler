@@ -1,0 +1,292 @@
+[
+    {
+        "flight": "destination",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "destination",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "destination",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "destination",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "destination",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "destination",
+        "country": "KororROR",
+        "code": "ROR"
+    },
+    {
+        "flight": "destination",
+        "country": "AlotauGUR",
+        "code": "GUR"
+    },
+    {
+        "flight": "destination",
+        "country": "Buka IslandBUA",
+        "code": "BUA"
+    },
+    {
+        "flight": "destination",
+        "country": "DaruDAU",
+        "code": "DAU"
+    },
+    {
+        "flight": "destination",
+        "country": "GorokaGKA",
+        "code": "GKA"
+    },
+    {
+        "flight": "destination",
+        "country": "HoskinsHKN",
+        "code": "HKN"
+    },
+    {
+        "flight": "destination",
+        "country": "KaviengKVG",
+        "code": "KVG"
+    },
+    {
+        "flight": "destination",
+        "country": "KiungaUNG",
+        "code": "UNG"
+    },
+    {
+        "flight": "destination",
+        "country": "LaeLAE",
+        "code": "LAE"
+    },
+    {
+        "flight": "destination",
+        "country": "Lihir IslandLNV",
+        "code": "LNV"
+    },
+    {
+        "flight": "destination",
+        "country": "MadangMAG",
+        "code": "MAG"
+    },
+    {
+        "flight": "destination",
+        "country": "Manus IslandMAS",
+        "code": "MAS"
+    },
+    {
+        "flight": "destination",
+        "country": "Mount HagenHGU",
+        "code": "HGU"
+    },
+    {
+        "flight": "destination",
+        "country": "PopondettaPNP",
+        "code": "PNP"
+    },
+    {
+        "flight": "destination",
+        "country": "Port MoresbyPOM",
+        "code": "POM"
+    },
+    {
+        "flight": "destination",
+        "country": "RabaulRAB",
+        "code": "RAB"
+    },
+    {
+        "flight": "destination",
+        "country": "TabubilTBG",
+        "code": "TBG"
+    },
+    {
+        "flight": "destination",
+        "country": "TariTIZ",
+        "code": "TIZ"
+    },
+    {
+        "flight": "destination",
+        "country": "VanimoVAI",
+        "code": "VAI"
+    },
+    {
+        "flight": "destination",
+        "country": "WapenamandaWBM",
+        "code": "WBM"
+    },
+    {
+        "flight": "destination",
+        "country": "WewakWWK",
+        "code": "WWK"
+    },
+    {
+        "flight": "destination",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "HoniaraHIR",
+        "code": "HIR"
+    },
+    {
+        "flight": "departure",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "departure",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "departure",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "departure",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "departure",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "departure",
+        "country": "KororROR",
+        "code": "ROR"
+    },
+    {
+        "flight": "departure",
+        "country": "AlotauGUR",
+        "code": "GUR"
+    },
+    {
+        "flight": "departure",
+        "country": "Buka IslandBUA",
+        "code": "BUA"
+    },
+    {
+        "flight": "departure",
+        "country": "DaruDAU",
+        "code": "DAU"
+    },
+    {
+        "flight": "departure",
+        "country": "GorokaGKA",
+        "code": "GKA"
+    },
+    {
+        "flight": "departure",
+        "country": "HoskinsHKN",
+        "code": "HKN"
+    },
+    {
+        "flight": "departure",
+        "country": "KaviengKVG",
+        "code": "KVG"
+    },
+    {
+        "flight": "departure",
+        "country": "KiungaUNG",
+        "code": "UNG"
+    },
+    {
+        "flight": "departure",
+        "country": "LaeLAE",
+        "code": "LAE"
+    },
+    {
+        "flight": "departure",
+        "country": "Lihir IslandLNV",
+        "code": "LNV"
+    },
+    {
+        "flight": "departure",
+        "country": "MadangMAG",
+        "code": "MAG"
+    },
+    {
+        "flight": "departure",
+        "country": "Manus IslandMAS",
+        "code": "MAS"
+    },
+    {
+        "flight": "departure",
+        "country": "Mount HagenHGU",
+        "code": "HGU"
+    },
+    {
+        "flight": "departure",
+        "country": "PopondettaPNP",
+        "code": "PNP"
+    },
+    {
+        "flight": "departure",
+        "country": "Port MoresbyPOM",
+        "code": "POM"
+    },
+    {
+        "flight": "departure",
+        "country": "RabaulRAB",
+        "code": "RAB"
+    },
+    {
+        "flight": "departure",
+        "country": "TabubilTBG",
+        "code": "TBG"
+    },
+    {
+        "flight": "departure",
+        "country": "TariTIZ",
+        "code": "TIZ"
+    },
+    {
+        "flight": "departure",
+        "country": "VanimoVAI",
+        "code": "VAI"
+    },
+    {
+        "flight": "departure",
+        "country": "WapenamandaWBM",
+        "code": "WBM"
+    },
+    {
+        "flight": "departure",
+        "country": "WewakWWK",
+        "code": "WWK"
+    },
+    {
+        "flight": "departure",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "HoniaraHIR",
+        "code": "HIR"
+    }
+]

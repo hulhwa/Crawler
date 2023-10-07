@@ -1,0 +1,482 @@
+[
+    {
+        "flight": "destination",
+        "country": "BakuGYD",
+        "code": "GYD"
+    },
+    {
+        "flight": "destination",
+        "country": "GanjaGNJ",
+        "code": "GNJ"
+    },
+    {
+        "flight": "destination",
+        "country": "LankaranLLK",
+        "code": "LLK"
+    },
+    {
+        "flight": "destination",
+        "country": "HarbinHRB",
+        "code": "HRB"
+    },
+    {
+        "flight": "destination",
+        "country": "UlaanbaatarUBN",
+        "code": "UBN"
+    },
+    {
+        "flight": "destination",
+        "country": "BatagayBQJ",
+        "code": "BQJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Belaya Gora, Sakha RepublicBGN",
+        "code": "BGN"
+    },
+    {
+        "flight": "destination",
+        "country": "BlagoveshchenskBQS",
+        "code": "BQS"
+    },
+    {
+        "flight": "destination",
+        "country": "BodayboODO",
+        "code": "ODO"
+    },
+    {
+        "flight": "destination",
+        "country": "ChitaHTA",
+        "code": "HTA"
+    },
+    {
+        "flight": "destination",
+        "country": "DeputatskyDPT",
+        "code": "DPT"
+    },
+    {
+        "flight": "destination",
+        "country": "EvenskSWV",
+        "code": "SWV"
+    },
+    {
+        "flight": "destination",
+        "country": "IrkutskIKT",
+        "code": "IKT"
+    },
+    {
+        "flight": "destination",
+        "country": "KazanKZN",
+        "code": "KZN"
+    },
+    {
+        "flight": "destination",
+        "country": "KeperveyemKPW",
+        "code": "KPW"
+    },
+    {
+        "flight": "destination",
+        "country": "KhonuuMQJ",
+        "code": "MQJ"
+    },
+    {
+        "flight": "destination",
+        "country": "KrasnoyarskKJA",
+        "code": "KJA"
+    },
+    {
+        "flight": "destination",
+        "country": "KyzylKYZ",
+        "code": "KYZ"
+    },
+    {
+        "flight": "destination",
+        "country": "LenskULK",
+        "code": "ULK"
+    },
+    {
+        "flight": "destination",
+        "country": "MagadanGDX",
+        "code": "GDX"
+    },
+    {
+        "flight": "destination",
+        "country": "MakhachkalaMCX",
+        "code": "MCX"
+    },
+    {
+        "flight": "destination",
+        "country": "Mineralnye VodyMRV",
+        "code": "MRV"
+    },
+    {
+        "flight": "destination",
+        "country": "MirnyMJZ",
+        "code": "MJZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Moscow DomodedovoDME",
+        "code": "DME"
+    },
+    {
+        "flight": "destination",
+        "country": "NeryungriNER",
+        "code": "NER"
+    },
+    {
+        "flight": "destination",
+        "country": "NovosibirskOVB",
+        "code": "OVB"
+    },
+    {
+        "flight": "destination",
+        "country": "NoyabrskNOJ",
+        "code": "NOJ"
+    },
+    {
+        "flight": "destination",
+        "country": "OkhotskOHO",
+        "code": "OHO"
+    },
+    {
+        "flight": "destination",
+        "country": "OlenyokONK",
+        "code": "ONK"
+    },
+    {
+        "flight": "destination",
+        "country": "OlyokminskOLZ",
+        "code": "OLZ"
+    },
+    {
+        "flight": "destination",
+        "country": "PermPEE",
+        "code": "PEE"
+    },
+    {
+        "flight": "destination",
+        "country": "SaratovGSV",
+        "code": "GSV"
+    },
+    {
+        "flight": "destination",
+        "country": "SochiAER",
+        "code": "AER"
+    },
+    {
+        "flight": "destination",
+        "country": "TalakanTLK",
+        "code": "TLK"
+    },
+    {
+        "flight": "destination",
+        "country": "TiksiIKS",
+        "code": "IKS"
+    },
+    {
+        "flight": "destination",
+        "country": "UdachnyPYJ",
+        "code": "PYJ"
+    },
+    {
+        "flight": "destination",
+        "country": "UfaUFA",
+        "code": "UFA"
+    },
+    {
+        "flight": "destination",
+        "country": "Ulan-UdeUUD",
+        "code": "UUD"
+    },
+    {
+        "flight": "destination",
+        "country": "Ust-KutUKX",
+        "code": "UKX"
+    },
+    {
+        "flight": "destination",
+        "country": "Ust-NeraUSR",
+        "code": "USR"
+    },
+    {
+        "flight": "destination",
+        "country": "VladikavkazOGZ",
+        "code": "OGZ"
+    },
+    {
+        "flight": "destination",
+        "country": "VladivostokVVO",
+        "code": "VVO"
+    },
+    {
+        "flight": "destination",
+        "country": "YakutskYKS",
+        "code": "YKS"
+    },
+    {
+        "flight": "destination",
+        "country": "YekaterinburgSVX",
+        "code": "SVX"
+    },
+    {
+        "flight": "destination",
+        "country": "Yuzhno-SakhalinskUUS",
+        "code": "UUS"
+    },
+    {
+        "flight": "destination",
+        "country": "AntalyaAYT",
+        "code": "AYT"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "destination",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "departure",
+        "country": "BakuGYD",
+        "code": "GYD"
+    },
+    {
+        "flight": "departure",
+        "country": "GanjaGNJ",
+        "code": "GNJ"
+    },
+    {
+        "flight": "departure",
+        "country": "LankaranLLK",
+        "code": "LLK"
+    },
+    {
+        "flight": "departure",
+        "country": "HarbinHRB",
+        "code": "HRB"
+    },
+    {
+        "flight": "departure",
+        "country": "UlaanbaatarUBN",
+        "code": "UBN"
+    },
+    {
+        "flight": "departure",
+        "country": "BatagayBQJ",
+        "code": "BQJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Belaya Gora, Sakha RepublicBGN",
+        "code": "BGN"
+    },
+    {
+        "flight": "departure",
+        "country": "BlagoveshchenskBQS",
+        "code": "BQS"
+    },
+    {
+        "flight": "departure",
+        "country": "BodayboODO",
+        "code": "ODO"
+    },
+    {
+        "flight": "departure",
+        "country": "ChitaHTA",
+        "code": "HTA"
+    },
+    {
+        "flight": "departure",
+        "country": "DeputatskyDPT",
+        "code": "DPT"
+    },
+    {
+        "flight": "departure",
+        "country": "EvenskSWV",
+        "code": "SWV"
+    },
+    {
+        "flight": "departure",
+        "country": "IrkutskIKT",
+        "code": "IKT"
+    },
+    {
+        "flight": "departure",
+        "country": "KazanKZN",
+        "code": "KZN"
+    },
+    {
+        "flight": "departure",
+        "country": "KeperveyemKPW",
+        "code": "KPW"
+    },
+    {
+        "flight": "departure",
+        "country": "KhonuuMQJ",
+        "code": "MQJ"
+    },
+    {
+        "flight": "departure",
+        "country": "KrasnoyarskKJA",
+        "code": "KJA"
+    },
+    {
+        "flight": "departure",
+        "country": "KyzylKYZ",
+        "code": "KYZ"
+    },
+    {
+        "flight": "departure",
+        "country": "LenskULK",
+        "code": "ULK"
+    },
+    {
+        "flight": "departure",
+        "country": "MagadanGDX",
+        "code": "GDX"
+    },
+    {
+        "flight": "departure",
+        "country": "MakhachkalaMCX",
+        "code": "MCX"
+    },
+    {
+        "flight": "departure",
+        "country": "Mineralnye VodyMRV",
+        "code": "MRV"
+    },
+    {
+        "flight": "departure",
+        "country": "MirnyMJZ",
+        "code": "MJZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow DomodedovoDME",
+        "code": "DME"
+    },
+    {
+        "flight": "departure",
+        "country": "NeryungriNER",
+        "code": "NER"
+    },
+    {
+        "flight": "departure",
+        "country": "NovosibirskOVB",
+        "code": "OVB"
+    },
+    {
+        "flight": "departure",
+        "country": "NoyabrskNOJ",
+        "code": "NOJ"
+    },
+    {
+        "flight": "departure",
+        "country": "OkhotskOHO",
+        "code": "OHO"
+    },
+    {
+        "flight": "departure",
+        "country": "OlenyokONK",
+        "code": "ONK"
+    },
+    {
+        "flight": "departure",
+        "country": "OlyokminskOLZ",
+        "code": "OLZ"
+    },
+    {
+        "flight": "departure",
+        "country": "PermPEE",
+        "code": "PEE"
+    },
+    {
+        "flight": "departure",
+        "country": "SaratovGSV",
+        "code": "GSV"
+    },
+    {
+        "flight": "departure",
+        "country": "SochiAER",
+        "code": "AER"
+    },
+    {
+        "flight": "departure",
+        "country": "TalakanTLK",
+        "code": "TLK"
+    },
+    {
+        "flight": "departure",
+        "country": "TiksiIKS",
+        "code": "IKS"
+    },
+    {
+        "flight": "departure",
+        "country": "UdachnyPYJ",
+        "code": "PYJ"
+    },
+    {
+        "flight": "departure",
+        "country": "UfaUFA",
+        "code": "UFA"
+    },
+    {
+        "flight": "departure",
+        "country": "Ulan-UdeUUD",
+        "code": "UUD"
+    },
+    {
+        "flight": "departure",
+        "country": "Ust-KutUKX",
+        "code": "UKX"
+    },
+    {
+        "flight": "departure",
+        "country": "Ust-NeraUSR",
+        "code": "USR"
+    },
+    {
+        "flight": "departure",
+        "country": "VladikavkazOGZ",
+        "code": "OGZ"
+    },
+    {
+        "flight": "departure",
+        "country": "VladivostokVVO",
+        "code": "VVO"
+    },
+    {
+        "flight": "departure",
+        "country": "YakutskYKS",
+        "code": "YKS"
+    },
+    {
+        "flight": "departure",
+        "country": "YekaterinburgSVX",
+        "code": "SVX"
+    },
+    {
+        "flight": "departure",
+        "country": "Yuzhno-SakhalinskUUS",
+        "code": "UUS"
+    },
+    {
+        "flight": "departure",
+        "country": "AntalyaAYT",
+        "code": "AYT"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    }
+]

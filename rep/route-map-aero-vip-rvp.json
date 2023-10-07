@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "BragançaBGC",
+        "code": "BGC"
+    },
+    {
+        "flight": "destination",
+        "country": "CascaisCAT",
+        "code": "CAT"
+    },
+    {
+        "flight": "destination",
+        "country": "PortimãoPRM",
+        "code": "PRM"
+    },
+    {
+        "flight": "destination",
+        "country": "Vila RealVRL",
+        "code": "VRL"
+    },
+    {
+        "flight": "destination",
+        "country": "ViseuVSE",
+        "code": "VSE"
+    },
+    {
+        "flight": "departure",
+        "country": "BragançaBGC",
+        "code": "BGC"
+    },
+    {
+        "flight": "departure",
+        "country": "CascaisCAT",
+        "code": "CAT"
+    },
+    {
+        "flight": "departure",
+        "country": "PortimãoPRM",
+        "code": "PRM"
+    },
+    {
+        "flight": "departure",
+        "country": "Vila RealVRL",
+        "code": "VRL"
+    },
+    {
+        "flight": "departure",
+        "country": "ViseuVSE",
+        "code": "VSE"
+    }
+]

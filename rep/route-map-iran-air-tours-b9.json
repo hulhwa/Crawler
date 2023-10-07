@@ -1,0 +1,122 @@
+[
+    {
+        "flight": "destination",
+        "country": "AbadanABD",
+        "code": "ABD"
+    },
+    {
+        "flight": "destination",
+        "country": "AhwazAWZ",
+        "code": "AWZ"
+    },
+    {
+        "flight": "destination",
+        "country": "AssaluyehPGU",
+        "code": "PGU"
+    },
+    {
+        "flight": "destination",
+        "country": "Bandar AbbasBND",
+        "code": "BND"
+    },
+    {
+        "flight": "destination",
+        "country": "IsfahanIFN",
+        "code": "IFN"
+    },
+    {
+        "flight": "destination",
+        "country": "KashanKKS",
+        "code": "KKS"
+    },
+    {
+        "flight": "destination",
+        "country": "Kish IslandKIH",
+        "code": "KIH"
+    },
+    {
+        "flight": "destination",
+        "country": "MashhadMHD",
+        "code": "MHD"
+    },
+    {
+        "flight": "destination",
+        "country": "ShirazSYZ",
+        "code": "SYZ"
+    },
+    {
+        "flight": "destination",
+        "country": "TabrizTBZ",
+        "code": "TBZ"
+    },
+    {
+        "flight": "destination",
+        "country": "TehranTHR",
+        "code": "THR"
+    },
+    {
+        "flight": "destination",
+        "country": "YazdAZD",
+        "code": "AZD"
+    },
+    {
+        "flight": "departure",
+        "country": "AbadanABD",
+        "code": "ABD"
+    },
+    {
+        "flight": "departure",
+        "country": "AhwazAWZ",
+        "code": "AWZ"
+    },
+    {
+        "flight": "departure",
+        "country": "AssaluyehPGU",
+        "code": "PGU"
+    },
+    {
+        "flight": "departure",
+        "country": "Bandar AbbasBND",
+        "code": "BND"
+    },
+    {
+        "flight": "departure",
+        "country": "IsfahanIFN",
+        "code": "IFN"
+    },
+    {
+        "flight": "departure",
+        "country": "KashanKKS",
+        "code": "KKS"
+    },
+    {
+        "flight": "departure",
+        "country": "Kish IslandKIH",
+        "code": "KIH"
+    },
+    {
+        "flight": "departure",
+        "country": "MashhadMHD",
+        "code": "MHD"
+    },
+    {
+        "flight": "departure",
+        "country": "ShirazSYZ",
+        "code": "SYZ"
+    },
+    {
+        "flight": "departure",
+        "country": "TabrizTBZ",
+        "code": "TBZ"
+    },
+    {
+        "flight": "departure",
+        "country": "TehranTHR",
+        "code": "THR"
+    },
+    {
+        "flight": "departure",
+        "country": "YazdAZD",
+        "code": "AZD"
+    }
+]

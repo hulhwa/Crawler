@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "BlenheimBHE",
+        "code": "BHE"
+    },
+    {
+        "flight": "destination",
+        "country": "ChristchurchCHC",
+        "code": "CHC"
+    },
+    {
+        "flight": "destination",
+        "country": "NelsonNSN",
+        "code": "NSN"
+    },
+    {
+        "flight": "destination",
+        "country": "Paraparaumu BeachPPQ",
+        "code": "PPQ"
+    },
+    {
+        "flight": "destination",
+        "country": "PictonPCN",
+        "code": "PCN"
+    },
+    {
+        "flight": "destination",
+        "country": "TaupoTUO",
+        "code": "TUO"
+    },
+    {
+        "flight": "destination",
+        "country": "WanakaWKA",
+        "code": "WKA"
+    },
+    {
+        "flight": "destination",
+        "country": "WellingtonWLG",
+        "code": "WLG"
+    },
+    {
+        "flight": "destination",
+        "country": "WestportWSZ",
+        "code": "WSZ"
+    },
+    {
+        "flight": "departure",
+        "country": "BlenheimBHE",
+        "code": "BHE"
+    },
+    {
+        "flight": "departure",
+        "country": "ChristchurchCHC",
+        "code": "CHC"
+    },
+    {
+        "flight": "departure",
+        "country": "NelsonNSN",
+        "code": "NSN"
+    },
+    {
+        "flight": "departure",
+        "country": "Paraparaumu BeachPPQ",
+        "code": "PPQ"
+    },
+    {
+        "flight": "departure",
+        "country": "PictonPCN",
+        "code": "PCN"
+    },
+    {
+        "flight": "departure",
+        "country": "TaupoTUO",
+        "code": "TUO"
+    },
+    {
+        "flight": "departure",
+        "country": "WanakaWKA",
+        "code": "WKA"
+    },
+    {
+        "flight": "departure",
+        "country": "WellingtonWLG",
+        "code": "WLG"
+    },
+    {
+        "flight": "departure",
+        "country": "WestportWSZ",
+        "code": "WSZ"
+    }
+]

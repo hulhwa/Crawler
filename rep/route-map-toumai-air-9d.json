@@ -1,0 +1,102 @@
+[
+    {
+        "flight": "destination",
+        "country": "ChifengCIF",
+        "code": "CIF"
+    },
+    {
+        "flight": "destination",
+        "country": "HailarHLD",
+        "code": "HLD"
+    },
+    {
+        "flight": "destination",
+        "country": "HohhotHET",
+        "code": "HET"
+    },
+    {
+        "flight": "destination",
+        "country": "ManzhouliNZH",
+        "code": "NZH"
+    },
+    {
+        "flight": "destination",
+        "country": "Ordos CityDSN",
+        "code": "DSN"
+    },
+    {
+        "flight": "destination",
+        "country": "TongliaoTGO",
+        "code": "TGO"
+    },
+    {
+        "flight": "destination",
+        "country": "UlanhotHLH",
+        "code": "HLH"
+    },
+    {
+        "flight": "destination",
+        "country": "XilinhotXIL",
+        "code": "XIL"
+    },
+    {
+        "flight": "destination",
+        "country": "Yan'anENY",
+        "code": "ENY"
+    },
+    {
+        "flight": "destination",
+        "country": "ZhalantunNZL",
+        "code": "NZL"
+    },
+    {
+        "flight": "departure",
+        "country": "ChifengCIF",
+        "code": "CIF"
+    },
+    {
+        "flight": "departure",
+        "country": "HailarHLD",
+        "code": "HLD"
+    },
+    {
+        "flight": "departure",
+        "country": "HohhotHET",
+        "code": "HET"
+    },
+    {
+        "flight": "departure",
+        "country": "ManzhouliNZH",
+        "code": "NZH"
+    },
+    {
+        "flight": "departure",
+        "country": "Ordos CityDSN",
+        "code": "DSN"
+    },
+    {
+        "flight": "departure",
+        "country": "TongliaoTGO",
+        "code": "TGO"
+    },
+    {
+        "flight": "departure",
+        "country": "UlanhotHLH",
+        "code": "HLH"
+    },
+    {
+        "flight": "departure",
+        "country": "XilinhotXIL",
+        "code": "XIL"
+    },
+    {
+        "flight": "departure",
+        "country": "Yan'anENY",
+        "code": "ENY"
+    },
+    {
+        "flight": "departure",
+        "country": "ZhalantunNZL",
+        "code": "NZL"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "Kailua-KonaKOA",
+        "code": "KOA"
+    },
+    {
+        "flight": "destination",
+        "country": "Oakland, East BayOAK",
+        "code": "OAK"
+    },
+    {
+        "flight": "departure",
+        "country": "Kailua-KonaKOA",
+        "code": "KOA"
+    },
+    {
+        "flight": "departure",
+        "country": "Oakland, East BayOAK",
+        "code": "OAK"
+    }
+]

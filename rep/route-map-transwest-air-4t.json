@@ -1,0 +1,82 @@
+[
+    {
+        "flight": "destination",
+        "country": "Fond-du-LacZFD",
+        "code": "ZFD"
+    },
+    {
+        "flight": "destination",
+        "country": "La RongeYVC",
+        "code": "YVC"
+    },
+    {
+        "flight": "destination",
+        "country": "Points North LandingYNL",
+        "code": "YNL"
+    },
+    {
+        "flight": "destination",
+        "country": "Prince AlbertYPA",
+        "code": "YPA"
+    },
+    {
+        "flight": "destination",
+        "country": "SaskatoonYXE",
+        "code": "YXE"
+    },
+    {
+        "flight": "destination",
+        "country": "Stony RapidsYSF",
+        "code": "YSF"
+    },
+    {
+        "flight": "destination",
+        "country": "Uranium CityYBE",
+        "code": "YBE"
+    },
+    {
+        "flight": "destination",
+        "country": "Wollaston LakeZWL",
+        "code": "ZWL"
+    },
+    {
+        "flight": "departure",
+        "country": "Fond-du-LacZFD",
+        "code": "ZFD"
+    },
+    {
+        "flight": "departure",
+        "country": "La RongeYVC",
+        "code": "YVC"
+    },
+    {
+        "flight": "departure",
+        "country": "Points North LandingYNL",
+        "code": "YNL"
+    },
+    {
+        "flight": "departure",
+        "country": "Prince AlbertYPA",
+        "code": "YPA"
+    },
+    {
+        "flight": "departure",
+        "country": "SaskatoonYXE",
+        "code": "YXE"
+    },
+    {
+        "flight": "departure",
+        "country": "Stony RapidsYSF",
+        "code": "YSF"
+    },
+    {
+        "flight": "departure",
+        "country": "Uranium CityYBE",
+        "code": "YBE"
+    },
+    {
+        "flight": "departure",
+        "country": "Wollaston LakeZWL",
+        "code": "ZWL"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "flight": "destination",
+        "country": "BaganNYU",
+        "code": "NYU"
+    },
+    {
+        "flight": "destination",
+        "country": "HehoHEH",
+        "code": "HEH"
+    },
+    {
+        "flight": "destination",
+        "country": "KengtungKET",
+        "code": "KET"
+    },
+    {
+        "flight": "destination",
+        "country": "KhamtiKHM",
+        "code": "KHM"
+    },
+    {
+        "flight": "destination",
+        "country": "LashioLSH",
+        "code": "LSH"
+    },
+    {
+        "flight": "destination",
+        "country": "MandalayMDL",
+        "code": "MDL"
+    },
+    {
+        "flight": "destination",
+        "country": "MyitkyinaMYT",
+        "code": "MYT"
+    },
+    {
+        "flight": "destination",
+        "country": "SittweAKY",
+        "code": "AKY"
+    },
+    {
+        "flight": "destination",
+        "country": "TachilekTHL",
+        "code": "THL"
+    },
+    {
+        "flight": "destination",
+        "country": "ThandweSNW",
+        "code": "SNW"
+    },
+    {
+        "flight": "destination",
+        "country": "YangonRGN",
+        "code": "RGN"
+    },
+    {
+        "flight": "departure",
+        "country": "BaganNYU",
+        "code": "NYU"
+    },
+    {
+        "flight": "departure",
+        "country": "HehoHEH",
+        "code": "HEH"
+    },
+    {
+        "flight": "departure",
+        "country": "KengtungKET",
+        "code": "KET"
+    },
+    {
+        "flight": "departure",
+        "country": "KhamtiKHM",
+        "code": "KHM"
+    },
+    {
+        "flight": "departure",
+        "country": "LashioLSH",
+        "code": "LSH"
+    },
+    {
+        "flight": "departure",
+        "country": "MandalayMDL",
+        "code": "MDL"
+    },
+    {
+        "flight": "departure",
+        "country": "MyitkyinaMYT",
+        "code": "MYT"
+    },
+    {
+        "flight": "departure",
+        "country": "SittweAKY",
+        "code": "AKY"
+    },
+    {
+        "flight": "departure",
+        "country": "TachilekTHL",
+        "code": "THL"
+    },
+    {
+        "flight": "departure",
+        "country": "ThandweSNW",
+        "code": "SNW"
+    },
+    {
+        "flight": "departure",
+        "country": "YangonRGN",
+        "code": "RGN"
+    }
+]

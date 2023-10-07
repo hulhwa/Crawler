@@ -1,0 +1,322 @@
+[
+    {
+        "flight": "destination",
+        "country": "The ValleyAXA",
+        "code": "AXA"
+    },
+    {
+        "flight": "destination",
+        "country": "St. John's, AntiguaANU",
+        "code": "ANU"
+    },
+    {
+        "flight": "destination",
+        "country": "BiminiBIM",
+        "code": "BIM"
+    },
+    {
+        "flight": "destination",
+        "country": "FreeportFPO",
+        "code": "FPO"
+    },
+    {
+        "flight": "destination",
+        "country": "Great ExumaGGT",
+        "code": "GGT"
+    },
+    {
+        "flight": "destination",
+        "country": "Marsh HarbourMHH",
+        "code": "MHH"
+    },
+    {
+        "flight": "destination",
+        "country": "NassauNAS",
+        "code": "NAS"
+    },
+    {
+        "flight": "destination",
+        "country": "North EleutheraELH",
+        "code": "ELH"
+    },
+    {
+        "flight": "destination",
+        "country": "TortolaEIS",
+        "code": "EIS"
+    },
+    {
+        "flight": "destination",
+        "country": "DominicaDOM",
+        "code": "DOM"
+    },
+    {
+        "flight": "destination",
+        "country": "La RomanaLRM",
+        "code": "LRM"
+    },
+    {
+        "flight": "destination",
+        "country": "Santiago de los CaballerosSTI",
+        "code": "STI"
+    },
+    {
+        "flight": "destination",
+        "country": "San JuanSJU",
+        "code": "SJU"
+    },
+    {
+        "flight": "destination",
+        "country": "Sint MaartenSXM",
+        "code": "SXM"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint KittsSKB",
+        "code": "SKB"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint CroixSTX",
+        "code": "STX"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint ThomasSTT",
+        "code": "STT"
+    },
+    {
+        "flight": "destination",
+        "country": "CharlestonCHS",
+        "code": "CHS"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    },
+    {
+        "flight": "destination",
+        "country": "GainesvilleGNV",
+        "code": "GNV"
+    },
+    {
+        "flight": "destination",
+        "country": "GreensboroGSO",
+        "code": "GSO"
+    },
+    {
+        "flight": "destination",
+        "country": "Greenville / SpartanburgGSP",
+        "code": "GSP"
+    },
+    {
+        "flight": "destination",
+        "country": "HuntsvilleHSV",
+        "code": "HSV"
+    },
+    {
+        "flight": "destination",
+        "country": "JacksonvilleJAX",
+        "code": "JAX"
+    },
+    {
+        "flight": "destination",
+        "country": "Key WestEYW",
+        "code": "EYW"
+    },
+    {
+        "flight": "destination",
+        "country": "NashvilleBNA",
+        "code": "BNA"
+    },
+    {
+        "flight": "destination",
+        "country": "New OrleansMSY",
+        "code": "MSY"
+    },
+    {
+        "flight": "destination",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "destination",
+        "country": "PensacolaPNS",
+        "code": "PNS"
+    },
+    {
+        "flight": "destination",
+        "country": "SavannahSAV",
+        "code": "SAV"
+    },
+    {
+        "flight": "destination",
+        "country": "TallahasseeTLH",
+        "code": "TLH"
+    },
+    {
+        "flight": "destination",
+        "country": "TampaTPA",
+        "code": "TPA"
+    },
+    {
+        "flight": "departure",
+        "country": "The ValleyAXA",
+        "code": "AXA"
+    },
+    {
+        "flight": "departure",
+        "country": "St. John's, AntiguaANU",
+        "code": "ANU"
+    },
+    {
+        "flight": "departure",
+        "country": "BiminiBIM",
+        "code": "BIM"
+    },
+    {
+        "flight": "departure",
+        "country": "FreeportFPO",
+        "code": "FPO"
+    },
+    {
+        "flight": "departure",
+        "country": "Great ExumaGGT",
+        "code": "GGT"
+    },
+    {
+        "flight": "departure",
+        "country": "Marsh HarbourMHH",
+        "code": "MHH"
+    },
+    {
+        "flight": "departure",
+        "country": "NassauNAS",
+        "code": "NAS"
+    },
+    {
+        "flight": "departure",
+        "country": "North EleutheraELH",
+        "code": "ELH"
+    },
+    {
+        "flight": "departure",
+        "country": "TortolaEIS",
+        "code": "EIS"
+    },
+    {
+        "flight": "departure",
+        "country": "DominicaDOM",
+        "code": "DOM"
+    },
+    {
+        "flight": "departure",
+        "country": "La RomanaLRM",
+        "code": "LRM"
+    },
+    {
+        "flight": "departure",
+        "country": "Santiago de los CaballerosSTI",
+        "code": "STI"
+    },
+    {
+        "flight": "departure",
+        "country": "San JuanSJU",
+        "code": "SJU"
+    },
+    {
+        "flight": "departure",
+        "country": "Sint MaartenSXM",
+        "code": "SXM"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint KittsSKB",
+        "code": "SKB"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint CroixSTX",
+        "code": "STX"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint ThomasSTT",
+        "code": "STT"
+    },
+    {
+        "flight": "departure",
+        "country": "CharlestonCHS",
+        "code": "CHS"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    },
+    {
+        "flight": "departure",
+        "country": "GainesvilleGNV",
+        "code": "GNV"
+    },
+    {
+        "flight": "departure",
+        "country": "GreensboroGSO",
+        "code": "GSO"
+    },
+    {
+        "flight": "departure",
+        "country": "Greenville / SpartanburgGSP",
+        "code": "GSP"
+    },
+    {
+        "flight": "departure",
+        "country": "HuntsvilleHSV",
+        "code": "HSV"
+    },
+    {
+        "flight": "departure",
+        "country": "JacksonvilleJAX",
+        "code": "JAX"
+    },
+    {
+        "flight": "departure",
+        "country": "Key WestEYW",
+        "code": "EYW"
+    },
+    {
+        "flight": "departure",
+        "country": "NashvilleBNA",
+        "code": "BNA"
+    },
+    {
+        "flight": "departure",
+        "country": "New OrleansMSY",
+        "code": "MSY"
+    },
+    {
+        "flight": "departure",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "departure",
+        "country": "PensacolaPNS",
+        "code": "PNS"
+    },
+    {
+        "flight": "departure",
+        "country": "SavannahSAV",
+        "code": "SAV"
+    },
+    {
+        "flight": "departure",
+        "country": "TallahasseeTLH",
+        "code": "TLH"
+    },
+    {
+        "flight": "departure",
+        "country": "TampaTPA",
+        "code": "TPA"
+    }
+]

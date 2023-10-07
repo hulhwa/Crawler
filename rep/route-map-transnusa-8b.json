@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "destination",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "destination",
+        "country": "YogyakartaYIA",
+        "code": "YIA"
+    },
+    {
+        "flight": "destination",
+        "country": "Johor BahruJHB",
+        "code": "JHB"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "departure",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "departure",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "departure",
+        "country": "YogyakartaYIA",
+        "code": "YIA"
+    },
+    {
+        "flight": "departure",
+        "country": "Johor BahruJHB",
+        "code": "JHB"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    }
+]

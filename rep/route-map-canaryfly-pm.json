@@ -1,0 +1,62 @@
+[
+    {
+        "flight": "destination",
+        "country": "FuerteventuraFUE",
+        "code": "FUE"
+    },
+    {
+        "flight": "destination",
+        "country": "Gran Canaria (Las Palmas)LPA",
+        "code": "LPA"
+    },
+    {
+        "flight": "destination",
+        "country": "Lanzarote (Arrecife)ACE",
+        "code": "ACE"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa Cruz de La PalmaSPC",
+        "code": "SPC"
+    },
+    {
+        "flight": "destination",
+        "country": "Tenerife (Los Rodeos)TFN",
+        "code": "TFN"
+    },
+    {
+        "flight": "destination",
+        "country": "ValverdeVDE",
+        "code": "VDE"
+    },
+    {
+        "flight": "departure",
+        "country": "FuerteventuraFUE",
+        "code": "FUE"
+    },
+    {
+        "flight": "departure",
+        "country": "Gran Canaria (Las Palmas)LPA",
+        "code": "LPA"
+    },
+    {
+        "flight": "departure",
+        "country": "Lanzarote (Arrecife)ACE",
+        "code": "ACE"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Cruz de La PalmaSPC",
+        "code": "SPC"
+    },
+    {
+        "flight": "departure",
+        "country": "Tenerife (Los Rodeos)TFN",
+        "code": "TFN"
+    },
+    {
+        "flight": "departure",
+        "country": "ValverdeVDE",
+        "code": "VDE"
+    }
+]

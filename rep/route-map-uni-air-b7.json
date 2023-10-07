@@ -1,0 +1,152 @@
+[
+    {
+        "flight": "destination",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "destination",
+        "country": "ShenzhenSZX",
+        "code": "SZX"
+    },
+    {
+        "flight": "destination",
+        "country": "XiamenXMN",
+        "code": "XMN"
+    },
+    {
+        "flight": "destination",
+        "country": "ChiayiCYI",
+        "code": "CYI"
+    },
+    {
+        "flight": "destination",
+        "country": "HualienHUN",
+        "code": "HUN"
+    },
+    {
+        "flight": "destination",
+        "country": "KaohsiungKHH",
+        "code": "KHH"
+    },
+    {
+        "flight": "destination",
+        "country": "KinmenKNH",
+        "code": "KNH"
+    },
+    {
+        "flight": "destination",
+        "country": "MagongMZG",
+        "code": "MZG"
+    },
+    {
+        "flight": "destination",
+        "country": "Matsu IslandsMFK",
+        "code": "MFK"
+    },
+    {
+        "flight": "destination",
+        "country": "Nangan, LienchiangLZN",
+        "code": "LZN"
+    },
+    {
+        "flight": "destination",
+        "country": "TaichungRMQ",
+        "code": "RMQ"
+    },
+    {
+        "flight": "destination",
+        "country": "TainanTNN",
+        "code": "TNN"
+    },
+    {
+        "flight": "destination",
+        "country": "TaipeiTSA",
+        "code": "TSA"
+    },
+    {
+        "flight": "destination",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "destination",
+        "country": "TaitungTTT",
+        "code": "TTT"
+    },
+    {
+        "flight": "departure",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "departure",
+        "country": "ShenzhenSZX",
+        "code": "SZX"
+    },
+    {
+        "flight": "departure",
+        "country": "XiamenXMN",
+        "code": "XMN"
+    },
+    {
+        "flight": "departure",
+        "country": "ChiayiCYI",
+        "code": "CYI"
+    },
+    {
+        "flight": "departure",
+        "country": "HualienHUN",
+        "code": "HUN"
+    },
+    {
+        "flight": "departure",
+        "country": "KaohsiungKHH",
+        "code": "KHH"
+    },
+    {
+        "flight": "departure",
+        "country": "KinmenKNH",
+        "code": "KNH"
+    },
+    {
+        "flight": "departure",
+        "country": "MagongMZG",
+        "code": "MZG"
+    },
+    {
+        "flight": "departure",
+        "country": "Matsu IslandsMFK",
+        "code": "MFK"
+    },
+    {
+        "flight": "departure",
+        "country": "Nangan, LienchiangLZN",
+        "code": "LZN"
+    },
+    {
+        "flight": "departure",
+        "country": "TaichungRMQ",
+        "code": "RMQ"
+    },
+    {
+        "flight": "departure",
+        "country": "TainanTNN",
+        "code": "TNN"
+    },
+    {
+        "flight": "departure",
+        "country": "TaipeiTSA",
+        "code": "TSA"
+    },
+    {
+        "flight": "departure",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "departure",
+        "country": "TaitungTTT",
+        "code": "TTT"
+    }
+]

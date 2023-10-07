@@ -1,0 +1,162 @@
+[
+    {
+        "flight": "destination",
+        "country": "AlamosaALS",
+        "code": "ALS"
+    },
+    {
+        "flight": "destination",
+        "country": "AllianceAIA",
+        "code": "AIA"
+    },
+    {
+        "flight": "destination",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "destination",
+        "country": "ClovisCVN",
+        "code": "CVN"
+    },
+    {
+        "flight": "destination",
+        "country": "CortezCEZ",
+        "code": "CEZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Dallas-Fort WorthDFW",
+        "code": "DFW"
+    },
+    {
+        "flight": "destination",
+        "country": "DenverDEN",
+        "code": "DEN"
+    },
+    {
+        "flight": "destination",
+        "country": "IronwoodIWD",
+        "code": "IWD"
+    },
+    {
+        "flight": "destination",
+        "country": "KearneyEAR",
+        "code": "EAR"
+    },
+    {
+        "flight": "destination",
+        "country": "McCookMCK",
+        "code": "MCK"
+    },
+    {
+        "flight": "destination",
+        "country": "MinneapolisMSP",
+        "code": "MSP"
+    },
+    {
+        "flight": "destination",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "destination",
+        "country": "PierrePIR",
+        "code": "PIR"
+    },
+    {
+        "flight": "destination",
+        "country": "TellurideTEX",
+        "code": "TEX"
+    },
+    {
+        "flight": "destination",
+        "country": "Thief River FallsTVF",
+        "code": "TVF"
+    },
+    {
+        "flight": "destination",
+        "country": "WatertownATY",
+        "code": "ATY"
+    },
+    {
+        "flight": "departure",
+        "country": "AlamosaALS",
+        "code": "ALS"
+    },
+    {
+        "flight": "departure",
+        "country": "AllianceAIA",
+        "code": "AIA"
+    },
+    {
+        "flight": "departure",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "departure",
+        "country": "ClovisCVN",
+        "code": "CVN"
+    },
+    {
+        "flight": "departure",
+        "country": "CortezCEZ",
+        "code": "CEZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Dallas-Fort WorthDFW",
+        "code": "DFW"
+    },
+    {
+        "flight": "departure",
+        "country": "DenverDEN",
+        "code": "DEN"
+    },
+    {
+        "flight": "departure",
+        "country": "IronwoodIWD",
+        "code": "IWD"
+    },
+    {
+        "flight": "departure",
+        "country": "KearneyEAR",
+        "code": "EAR"
+    },
+    {
+        "flight": "departure",
+        "country": "McCookMCK",
+        "code": "MCK"
+    },
+    {
+        "flight": "departure",
+        "country": "MinneapolisMSP",
+        "code": "MSP"
+    },
+    {
+        "flight": "departure",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "departure",
+        "country": "PierrePIR",
+        "code": "PIR"
+    },
+    {
+        "flight": "departure",
+        "country": "TellurideTEX",
+        "code": "TEX"
+    },
+    {
+        "flight": "departure",
+        "country": "Thief River FallsTVF",
+        "code": "TVF"
+    },
+    {
+        "flight": "departure",
+        "country": "WatertownATY",
+        "code": "ATY"
+    }
+]

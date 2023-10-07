@@ -1,0 +1,192 @@
+[
+    {
+        "flight": "destination",
+        "country": "AustinAUS",
+        "code": "AUS"
+    },
+    {
+        "flight": "destination",
+        "country": "BurbankBUR",
+        "code": "BUR"
+    },
+    {
+        "flight": "destination",
+        "country": "ConcordCCR",
+        "code": "CCR"
+    },
+    {
+        "flight": "destination",
+        "country": "DallasDAL",
+        "code": "DAL"
+    },
+    {
+        "flight": "destination",
+        "country": "DenverBJC",
+        "code": "BJC"
+    },
+    {
+        "flight": "destination",
+        "country": "GunnisonGUC",
+        "code": "GUC"
+    },
+    {
+        "flight": "destination",
+        "country": "HoustonHOU",
+        "code": "HOU"
+    },
+    {
+        "flight": "destination",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "destination",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "destination",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    },
+    {
+        "flight": "destination",
+        "country": "NashvilleBNA",
+        "code": "BNA"
+    },
+    {
+        "flight": "destination",
+        "country": "Oakland, East BayOAK",
+        "code": "OAK"
+    },
+    {
+        "flight": "destination",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "destination",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "destination",
+        "country": "RenoRNO",
+        "code": "RNO"
+    },
+    {
+        "flight": "destination",
+        "country": "San DiegoSAN",
+        "code": "SAN"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa AnaSNA",
+        "code": "SNA"
+    },
+    {
+        "flight": "destination",
+        "country": "TaosTSM",
+        "code": "TSM"
+    },
+    {
+        "flight": "destination",
+        "country": "White PlainsHPN",
+        "code": "HPN"
+    },
+    {
+        "flight": "departure",
+        "country": "AustinAUS",
+        "code": "AUS"
+    },
+    {
+        "flight": "departure",
+        "country": "BurbankBUR",
+        "code": "BUR"
+    },
+    {
+        "flight": "departure",
+        "country": "ConcordCCR",
+        "code": "CCR"
+    },
+    {
+        "flight": "departure",
+        "country": "DallasDAL",
+        "code": "DAL"
+    },
+    {
+        "flight": "departure",
+        "country": "DenverBJC",
+        "code": "BJC"
+    },
+    {
+        "flight": "departure",
+        "country": "GunnisonGUC",
+        "code": "GUC"
+    },
+    {
+        "flight": "departure",
+        "country": "HoustonHOU",
+        "code": "HOU"
+    },
+    {
+        "flight": "departure",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "departure",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "departure",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    },
+    {
+        "flight": "departure",
+        "country": "NashvilleBNA",
+        "code": "BNA"
+    },
+    {
+        "flight": "departure",
+        "country": "Oakland, East BayOAK",
+        "code": "OAK"
+    },
+    {
+        "flight": "departure",
+        "country": "OrlandoMCO",
+        "code": "MCO"
+    },
+    {
+        "flight": "departure",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "departure",
+        "country": "RenoRNO",
+        "code": "RNO"
+    },
+    {
+        "flight": "departure",
+        "country": "San DiegoSAN",
+        "code": "SAN"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa AnaSNA",
+        "code": "SNA"
+    },
+    {
+        "flight": "departure",
+        "country": "TaosTSM",
+        "code": "TSM"
+    },
+    {
+        "flight": "departure",
+        "country": "White PlainsHPN",
+        "code": "HPN"
+    }
+]

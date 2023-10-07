@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "Saint CroixSSB",
+        "code": "SSB"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint ThomasSPB",
+        "code": "SPB"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint CroixSSB",
+        "code": "SSB"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint ThomasSPB",
+        "code": "SPB"
+    }
+]

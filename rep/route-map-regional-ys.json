@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "MombasaMBA",
+        "code": "MBA"
+    },
+    {
+        "flight": "destination",
+        "country": "ArushaARK",
+        "code": "ARK"
+    },
+    {
+        "flight": "destination",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "destination",
+        "country": "DodomaDOD",
+        "code": "DOD"
+    },
+    {
+        "flight": "destination",
+        "country": "Pemba IslandPMA",
+        "code": "PMA"
+    },
+    {
+        "flight": "destination",
+        "country": "SeroneraSEU",
+        "code": "SEU"
+    },
+    {
+        "flight": "destination",
+        "country": "ZanzibarZNZ",
+        "code": "ZNZ"
+    },
+    {
+        "flight": "departure",
+        "country": "MombasaMBA",
+        "code": "MBA"
+    },
+    {
+        "flight": "departure",
+        "country": "ArushaARK",
+        "code": "ARK"
+    },
+    {
+        "flight": "departure",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "departure",
+        "country": "DodomaDOD",
+        "code": "DOD"
+    },
+    {
+        "flight": "departure",
+        "country": "Pemba IslandPMA",
+        "code": "PMA"
+    },
+    {
+        "flight": "departure",
+        "country": "SeroneraSEU",
+        "code": "SEU"
+    },
+    {
+        "flight": "departure",
+        "country": "ZanzibarZNZ",
+        "code": "ZNZ"
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "flight": "destination",
+        "country": "AbadanABD",
+        "code": "ABD"
+    },
+    {
+        "flight": "destination",
+        "country": "AhwazAWZ",
+        "code": "AWZ"
+    },
+    {
+        "flight": "destination",
+        "country": "ArdabilADU",
+        "code": "ADU"
+    },
+    {
+        "flight": "destination",
+        "country": "AssaluyehPGU",
+        "code": "PGU"
+    },
+    {
+        "flight": "destination",
+        "country": "Bandar AbbasBND",
+        "code": "BND"
+    },
+    {
+        "flight": "destination",
+        "country": "BushehrBUZ",
+        "code": "BUZ"
+    },
+    {
+        "flight": "destination",
+        "country": "ChabaharZBR",
+        "code": "ZBR"
+    },
+    {
+        "flight": "destination",
+        "country": "GorganGBT",
+        "code": "GBT"
+    },
+    {
+        "flight": "destination",
+        "country": "IlamIIL",
+        "code": "IIL"
+    },
+    {
+        "flight": "destination",
+        "country": "IsfahanIFN",
+        "code": "IFN"
+    },
+    {
+        "flight": "destination",
+        "country": "KermanshahKSH",
+        "code": "KSH"
+    },
+    {
+        "flight": "destination",
+        "country": "MashhadMHD",
+        "code": "MHD"
+    },
+    {
+        "flight": "destination",
+        "country": "NoshahrNSH",
+        "code": "NSH"
+    },
+    {
+        "flight": "destination",
+        "country": "RamsarRZR",
+        "code": "RZR"
+    },
+    {
+        "flight": "destination",
+        "country": "RashtRAS",
+        "code": "RAS"
+    },
+    {
+        "flight": "destination",
+        "country": "SariSRY",
+        "code": "SRY"
+    },
+    {
+        "flight": "destination",
+        "country": "Shahre-KordCQD",
+        "code": "CQD"
+    },
+    {
+        "flight": "destination",
+        "country": "ShirazSYZ",
+        "code": "SYZ"
+    },
+    {
+        "flight": "destination",
+        "country": "SirjanSYJ",
+        "code": "SYJ"
+    },
+    {
+        "flight": "destination",
+        "country": "TabrizTBZ",
+        "code": "TBZ"
+    },
+    {
+        "flight": "destination",
+        "country": "TehranIKA",
+        "code": "IKA"
+    },
+    {
+        "flight": "destination",
+        "country": "TehranTHR",
+        "code": "THR"
+    },
+    {
+        "flight": "destination",
+        "country": "UrmiehOMH",
+        "code": "OMH"
+    },
+    {
+        "flight": "destination",
+        "country": "YazdAZD",
+        "code": "AZD"
+    },
+    {
+        "flight": "destination",
+        "country": "ZahedanZAH",
+        "code": "ZAH"
+    },
+    {
+        "flight": "destination",
+        "country": "Al NajafNJF",
+        "code": "NJF"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "destination",
+        "country": "IzmirADB",
+        "code": "ADB"
+    },
+    {
+        "flight": "departure",
+        "country": "AbadanABD",
+        "code": "ABD"
+    },
+    {
+        "flight": "departure",
+        "country": "AhwazAWZ",
+        "code": "AWZ"
+    },
+    {
+        "flight": "departure",
+        "country": "ArdabilADU",
+        "code": "ADU"
+    },
+    {
+        "flight": "departure",
+        "country": "AssaluyehPGU",
+        "code": "PGU"
+    },
+    {
+        "flight": "departure",
+        "country": "Bandar AbbasBND",
+        "code": "BND"
+    },
+    {
+        "flight": "departure",
+        "country": "BushehrBUZ",
+        "code": "BUZ"
+    },
+    {
+        "flight": "departure",
+        "country": "ChabaharZBR",
+        "code": "ZBR"
+    },
+    {
+        "flight": "departure",
+        "country": "GorganGBT",
+        "code": "GBT"
+    },
+    {
+        "flight": "departure",
+        "country": "IlamIIL",
+        "code": "IIL"
+    },
+    {
+        "flight": "departure",
+        "country": "IsfahanIFN",
+        "code": "IFN"
+    },
+    {
+        "flight": "departure",
+        "country": "KermanshahKSH",
+        "code": "KSH"
+    },
+    {
+        "flight": "departure",
+        "country": "MashhadMHD",
+        "code": "MHD"
+    },
+    {
+        "flight": "departure",
+        "country": "NoshahrNSH",
+        "code": "NSH"
+    },
+    {
+        "flight": "departure",
+        "country": "RamsarRZR",
+        "code": "RZR"
+    },
+    {
+        "flight": "departure",
+        "country": "RashtRAS",
+        "code": "RAS"
+    },
+    {
+        "flight": "departure",
+        "country": "SariSRY",
+        "code": "SRY"
+    },
+    {
+        "flight": "departure",
+        "country": "Shahre-KordCQD",
+        "code": "CQD"
+    },
+    {
+        "flight": "departure",
+        "country": "ShirazSYZ",
+        "code": "SYZ"
+    },
+    {
+        "flight": "departure",
+        "country": "SirjanSYJ",
+        "code": "SYJ"
+    },
+    {
+        "flight": "departure",
+        "country": "TabrizTBZ",
+        "code": "TBZ"
+    },
+    {
+        "flight": "departure",
+        "country": "TehranIKA",
+        "code": "IKA"
+    },
+    {
+        "flight": "departure",
+        "country": "TehranTHR",
+        "code": "THR"
+    },
+    {
+        "flight": "departure",
+        "country": "UrmiehOMH",
+        "code": "OMH"
+    },
+    {
+        "flight": "departure",
+        "country": "YazdAZD",
+        "code": "AZD"
+    },
+    {
+        "flight": "departure",
+        "country": "ZahedanZAH",
+        "code": "ZAH"
+    },
+    {
+        "flight": "departure",
+        "country": "Al NajafNJF",
+        "code": "NJF"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "IzmirADB",
+        "code": "ADB"
+    }
+]

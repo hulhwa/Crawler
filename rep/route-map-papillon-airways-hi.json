@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "Grand CanyonGCN",
+        "code": "GCN"
+    },
+    {
+        "flight": "destination",
+        "country": "PagePGA",
+        "code": "PGA"
+    },
+    {
+        "flight": "departure",
+        "country": "Grand CanyonGCN",
+        "code": "GCN"
+    },
+    {
+        "flight": "departure",
+        "country": "PagePGA",
+        "code": "PGA"
+    }
+]

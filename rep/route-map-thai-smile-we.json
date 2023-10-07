@@ -1,0 +1,192 @@
+[
+    {
+        "flight": "destination",
+        "country": "Siem ReapREP",
+        "code": "REP"
+    },
+    {
+        "flight": "destination",
+        "country": "GayaGAY",
+        "code": "GAY"
+    },
+    {
+        "flight": "destination",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "destination",
+        "country": "PenangPEN",
+        "code": "PEN"
+    },
+    {
+        "flight": "destination",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "destination",
+        "country": "KaohsiungKHH",
+        "code": "KHH"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "destination",
+        "country": "Chiang RaiCEI",
+        "code": "CEI"
+    },
+    {
+        "flight": "destination",
+        "country": "Hat YaiHDY",
+        "code": "HDY"
+    },
+    {
+        "flight": "destination",
+        "country": "Khon KaenKKC",
+        "code": "KKC"
+    },
+    {
+        "flight": "destination",
+        "country": "KrabiKBV",
+        "code": "KBV"
+    },
+    {
+        "flight": "destination",
+        "country": "NarathiwatNAW",
+        "code": "NAW"
+    },
+    {
+        "flight": "destination",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "destination",
+        "country": "Surat ThaniURT",
+        "code": "URT"
+    },
+    {
+        "flight": "destination",
+        "country": "Ubon RatchathaniUBP",
+        "code": "UBP"
+    },
+    {
+        "flight": "destination",
+        "country": "Udon ThaniUTH",
+        "code": "UTH"
+    },
+    {
+        "flight": "destination",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "destination",
+        "country": "Ho Chi Minh CitySGN",
+        "code": "SGN"
+    },
+    {
+        "flight": "departure",
+        "country": "Siem ReapREP",
+        "code": "REP"
+    },
+    {
+        "flight": "departure",
+        "country": "GayaGAY",
+        "code": "GAY"
+    },
+    {
+        "flight": "departure",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "departure",
+        "country": "PenangPEN",
+        "code": "PEN"
+    },
+    {
+        "flight": "departure",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "departure",
+        "country": "KaohsiungKHH",
+        "code": "KHH"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "Chiang MaiCNX",
+        "code": "CNX"
+    },
+    {
+        "flight": "departure",
+        "country": "Chiang RaiCEI",
+        "code": "CEI"
+    },
+    {
+        "flight": "departure",
+        "country": "Hat YaiHDY",
+        "code": "HDY"
+    },
+    {
+        "flight": "departure",
+        "country": "Khon KaenKKC",
+        "code": "KKC"
+    },
+    {
+        "flight": "departure",
+        "country": "KrabiKBV",
+        "code": "KBV"
+    },
+    {
+        "flight": "departure",
+        "country": "NarathiwatNAW",
+        "code": "NAW"
+    },
+    {
+        "flight": "departure",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "departure",
+        "country": "Surat ThaniURT",
+        "code": "URT"
+    },
+    {
+        "flight": "departure",
+        "country": "Ubon RatchathaniUBP",
+        "code": "UBP"
+    },
+    {
+        "flight": "departure",
+        "country": "Udon ThaniUTH",
+        "code": "UTH"
+    },
+    {
+        "flight": "departure",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "departure",
+        "country": "Ho Chi Minh CitySGN",
+        "code": "SGN"
+    }
+]

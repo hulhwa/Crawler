@@ -1,0 +1,392 @@
+[
+    {
+        "flight": "destination",
+        "country": "AdelaideADL",
+        "code": "ADL"
+    },
+    {
+        "flight": "destination",
+        "country": "Alice SpringsASP",
+        "code": "ASP"
+    },
+    {
+        "flight": "destination",
+        "country": "BallinaBNK",
+        "code": "BNK"
+    },
+    {
+        "flight": "destination",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "destination",
+        "country": "BroomeBME",
+        "code": "BME"
+    },
+    {
+        "flight": "destination",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "destination",
+        "country": "CanberraCBR",
+        "code": "CBR"
+    },
+    {
+        "flight": "destination",
+        "country": "Christmas IslandXCH",
+        "code": "XCH"
+    },
+    {
+        "flight": "destination",
+        "country": "DarwinDRW",
+        "code": "DRW"
+    },
+    {
+        "flight": "destination",
+        "country": "EmeraldEMD",
+        "code": "EMD"
+    },
+    {
+        "flight": "destination",
+        "country": "ExmouthLEA",
+        "code": "LEA"
+    },
+    {
+        "flight": "destination",
+        "country": "GladstoneGLT",
+        "code": "GLT"
+    },
+    {
+        "flight": "destination",
+        "country": "Gold CoastOOL",
+        "code": "OOL"
+    },
+    {
+        "flight": "destination",
+        "country": "Hamilton IslandHTI",
+        "code": "HTI"
+    },
+    {
+        "flight": "destination",
+        "country": "HobartHBA",
+        "code": "HBA"
+    },
+    {
+        "flight": "destination",
+        "country": "KalgoorlieKGI",
+        "code": "KGI"
+    },
+    {
+        "flight": "destination",
+        "country": "Karratha / DampierKTA",
+        "code": "KTA"
+    },
+    {
+        "flight": "destination",
+        "country": "KununurraKNX",
+        "code": "KNX"
+    },
+    {
+        "flight": "destination",
+        "country": "LauncestonLST",
+        "code": "LST"
+    },
+    {
+        "flight": "destination",
+        "country": "MackayMKY",
+        "code": "MKY"
+    },
+    {
+        "flight": "destination",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "destination",
+        "country": "Mount IsaISA",
+        "code": "ISA"
+    },
+    {
+        "flight": "destination",
+        "country": "NewcastleNTL",
+        "code": "NTL"
+    },
+    {
+        "flight": "destination",
+        "country": "NewmanZNE",
+        "code": "ZNE"
+    },
+    {
+        "flight": "destination",
+        "country": "OnslowONS",
+        "code": "ONS"
+    },
+    {
+        "flight": "destination",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "destination",
+        "country": "Port HedlandPHE",
+        "code": "PHE"
+    },
+    {
+        "flight": "destination",
+        "country": "ProserpinePPP",
+        "code": "PPP"
+    },
+    {
+        "flight": "destination",
+        "country": "RockhamptonROK",
+        "code": "ROK"
+    },
+    {
+        "flight": "destination",
+        "country": "Sunshine CoastMCY",
+        "code": "MCY"
+    },
+    {
+        "flight": "destination",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "destination",
+        "country": "TownsvilleTSV",
+        "code": "TSV"
+    },
+    {
+        "flight": "destination",
+        "country": "Cocos (Keeling) IslandsCCK",
+        "code": "CCK"
+    },
+    {
+        "flight": "destination",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "destination",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoHND",
+        "code": "HND"
+    },
+    {
+        "flight": "destination",
+        "country": "QueenstownZQN",
+        "code": "ZQN"
+    },
+    {
+        "flight": "destination",
+        "country": "ApiaAPW",
+        "code": "APW"
+    },
+    {
+        "flight": "destination",
+        "country": "Port VilaVLI",
+        "code": "VLI"
+    },
+    {
+        "flight": "departure",
+        "country": "AdelaideADL",
+        "code": "ADL"
+    },
+    {
+        "flight": "departure",
+        "country": "Alice SpringsASP",
+        "code": "ASP"
+    },
+    {
+        "flight": "departure",
+        "country": "BallinaBNK",
+        "code": "BNK"
+    },
+    {
+        "flight": "departure",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "departure",
+        "country": "BroomeBME",
+        "code": "BME"
+    },
+    {
+        "flight": "departure",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "departure",
+        "country": "CanberraCBR",
+        "code": "CBR"
+    },
+    {
+        "flight": "departure",
+        "country": "Christmas IslandXCH",
+        "code": "XCH"
+    },
+    {
+        "flight": "departure",
+        "country": "DarwinDRW",
+        "code": "DRW"
+    },
+    {
+        "flight": "departure",
+        "country": "EmeraldEMD",
+        "code": "EMD"
+    },
+    {
+        "flight": "departure",
+        "country": "ExmouthLEA",
+        "code": "LEA"
+    },
+    {
+        "flight": "departure",
+        "country": "GladstoneGLT",
+        "code": "GLT"
+    },
+    {
+        "flight": "departure",
+        "country": "Gold CoastOOL",
+        "code": "OOL"
+    },
+    {
+        "flight": "departure",
+        "country": "Hamilton IslandHTI",
+        "code": "HTI"
+    },
+    {
+        "flight": "departure",
+        "country": "HobartHBA",
+        "code": "HBA"
+    },
+    {
+        "flight": "departure",
+        "country": "KalgoorlieKGI",
+        "code": "KGI"
+    },
+    {
+        "flight": "departure",
+        "country": "Karratha / DampierKTA",
+        "code": "KTA"
+    },
+    {
+        "flight": "departure",
+        "country": "KununurraKNX",
+        "code": "KNX"
+    },
+    {
+        "flight": "departure",
+        "country": "LauncestonLST",
+        "code": "LST"
+    },
+    {
+        "flight": "departure",
+        "country": "MackayMKY",
+        "code": "MKY"
+    },
+    {
+        "flight": "departure",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "departure",
+        "country": "Mount IsaISA",
+        "code": "ISA"
+    },
+    {
+        "flight": "departure",
+        "country": "NewcastleNTL",
+        "code": "NTL"
+    },
+    {
+        "flight": "departure",
+        "country": "NewmanZNE",
+        "code": "ZNE"
+    },
+    {
+        "flight": "departure",
+        "country": "OnslowONS",
+        "code": "ONS"
+    },
+    {
+        "flight": "departure",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "departure",
+        "country": "Port HedlandPHE",
+        "code": "PHE"
+    },
+    {
+        "flight": "departure",
+        "country": "ProserpinePPP",
+        "code": "PPP"
+    },
+    {
+        "flight": "departure",
+        "country": "RockhamptonROK",
+        "code": "ROK"
+    },
+    {
+        "flight": "departure",
+        "country": "Sunshine CoastMCY",
+        "code": "MCY"
+    },
+    {
+        "flight": "departure",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "departure",
+        "country": "TownsvilleTSV",
+        "code": "TSV"
+    },
+    {
+        "flight": "departure",
+        "country": "Cocos (Keeling) IslandsCCK",
+        "code": "CCK"
+    },
+    {
+        "flight": "departure",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "departure",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoHND",
+        "code": "HND"
+    },
+    {
+        "flight": "departure",
+        "country": "QueenstownZQN",
+        "code": "ZQN"
+    },
+    {
+        "flight": "departure",
+        "country": "ApiaAPW",
+        "code": "APW"
+    },
+    {
+        "flight": "departure",
+        "country": "Port VilaVLI",
+        "code": "VLI"
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "flight": "destination",
+        "country": "Black TickleYBI",
+        "code": "YBI"
+    },
+    {
+        "flight": "destination",
+        "country": "Blanc-SablonYBX",
+        "code": "YBX"
+    },
+    {
+        "flight": "destination",
+        "country": "CartwrightYRF",
+        "code": "YRF"
+    },
+    {
+        "flight": "destination",
+        "country": "CharlottetownYHG",
+        "code": "YHG"
+    },
+    {
+        "flight": "destination",
+        "country": "Churchill FallsZUM",
+        "code": "ZUM"
+    },
+    {
+        "flight": "destination",
+        "country": "Deer LakeYDF",
+        "code": "YDF"
+    },
+    {
+        "flight": "destination",
+        "country": "GanderYQX",
+        "code": "YQX"
+    },
+    {
+        "flight": "destination",
+        "country": "GaspéYGP",
+        "code": "YGP"
+    },
+    {
+        "flight": "destination",
+        "country": "Happy Valley / Goose BayYYR",
+        "code": "YYR"
+    },
+    {
+        "flight": "destination",
+        "country": "HopedaleYHO",
+        "code": "YHO"
+    },
+    {
+        "flight": "destination",
+        "country": "Les Îles-de-la-MadeleineYGR",
+        "code": "YGR"
+    },
+    {
+        "flight": "destination",
+        "country": "MakkovikYMN",
+        "code": "YMN"
+    },
+    {
+        "flight": "destination",
+        "country": "Mary's HarbourYMH",
+        "code": "YMH"
+    },
+    {
+        "flight": "destination",
+        "country": "MonctonYQM",
+        "code": "YQM"
+    },
+    {
+        "flight": "destination",
+        "country": "Mont-JoliYYY",
+        "code": "YYY"
+    },
+    {
+        "flight": "destination",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "destination",
+        "country": "NainYDP",
+        "code": "YDP"
+    },
+    {
+        "flight": "destination",
+        "country": "NatuashishYNP",
+        "code": "YNP"
+    },
+    {
+        "flight": "destination",
+        "country": "OttawaYOW",
+        "code": "YOW"
+    },
+    {
+        "flight": "destination",
+        "country": "Port Hope SimpsonYHA",
+        "code": "YHA"
+    },
+    {
+        "flight": "destination",
+        "country": "PostvilleYSO",
+        "code": "YSO"
+    },
+    {
+        "flight": "destination",
+        "country": "Quebec CityYQB",
+        "code": "YQB"
+    },
+    {
+        "flight": "destination",
+        "country": "RigoletYRG",
+        "code": "YRG"
+    },
+    {
+        "flight": "destination",
+        "country": "Sept-ÎlesYZV",
+        "code": "YZV"
+    },
+    {
+        "flight": "destination",
+        "country": "St. AnthonyYAY",
+        "code": "YAY"
+    },
+    {
+        "flight": "destination",
+        "country": "St. John'sYYT",
+        "code": "YYT"
+    },
+    {
+        "flight": "destination",
+        "country": "St. LewisYFX",
+        "code": "YFX"
+    },
+    {
+        "flight": "destination",
+        "country": "Val-d'OrYVO",
+        "code": "YVO"
+    },
+    {
+        "flight": "destination",
+        "country": "WabushYWK",
+        "code": "YWK"
+    },
+    {
+        "flight": "departure",
+        "country": "Black TickleYBI",
+        "code": "YBI"
+    },
+    {
+        "flight": "departure",
+        "country": "Blanc-SablonYBX",
+        "code": "YBX"
+    },
+    {
+        "flight": "departure",
+        "country": "CartwrightYRF",
+        "code": "YRF"
+    },
+    {
+        "flight": "departure",
+        "country": "CharlottetownYHG",
+        "code": "YHG"
+    },
+    {
+        "flight": "departure",
+        "country": "Churchill FallsZUM",
+        "code": "ZUM"
+    },
+    {
+        "flight": "departure",
+        "country": "Deer LakeYDF",
+        "code": "YDF"
+    },
+    {
+        "flight": "departure",
+        "country": "GanderYQX",
+        "code": "YQX"
+    },
+    {
+        "flight": "departure",
+        "country": "GaspéYGP",
+        "code": "YGP"
+    },
+    {
+        "flight": "departure",
+        "country": "Happy Valley / Goose BayYYR",
+        "code": "YYR"
+    },
+    {
+        "flight": "departure",
+        "country": "HopedaleYHO",
+        "code": "YHO"
+    },
+    {
+        "flight": "departure",
+        "country": "Les Îles-de-la-MadeleineYGR",
+        "code": "YGR"
+    },
+    {
+        "flight": "departure",
+        "country": "MakkovikYMN",
+        "code": "YMN"
+    },
+    {
+        "flight": "departure",
+        "country": "Mary's HarbourYMH",
+        "code": "YMH"
+    },
+    {
+        "flight": "departure",
+        "country": "MonctonYQM",
+        "code": "YQM"
+    },
+    {
+        "flight": "departure",
+        "country": "Mont-JoliYYY",
+        "code": "YYY"
+    },
+    {
+        "flight": "departure",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "departure",
+        "country": "NainYDP",
+        "code": "YDP"
+    },
+    {
+        "flight": "departure",
+        "country": "NatuashishYNP",
+        "code": "YNP"
+    },
+    {
+        "flight": "departure",
+        "country": "OttawaYOW",
+        "code": "YOW"
+    },
+    {
+        "flight": "departure",
+        "country": "Port Hope SimpsonYHA",
+        "code": "YHA"
+    },
+    {
+        "flight": "departure",
+        "country": "PostvilleYSO",
+        "code": "YSO"
+    },
+    {
+        "flight": "departure",
+        "country": "Quebec CityYQB",
+        "code": "YQB"
+    },
+    {
+        "flight": "departure",
+        "country": "RigoletYRG",
+        "code": "YRG"
+    },
+    {
+        "flight": "departure",
+        "country": "Sept-ÎlesYZV",
+        "code": "YZV"
+    },
+    {
+        "flight": "departure",
+        "country": "St. AnthonyYAY",
+        "code": "YAY"
+    },
+    {
+        "flight": "departure",
+        "country": "St. John'sYYT",
+        "code": "YYT"
+    },
+    {
+        "flight": "departure",
+        "country": "St. LewisYFX",
+        "code": "YFX"
+    },
+    {
+        "flight": "departure",
+        "country": "Val-d'OrYVO",
+        "code": "YVO"
+    },
+    {
+        "flight": "departure",
+        "country": "WabushYWK",
+        "code": "YWK"
+    }
+]

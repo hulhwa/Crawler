@@ -1,0 +1,102 @@
+[
+    {
+        "flight": "destination",
+        "country": "MariehamnMHQ",
+        "code": "MHQ"
+    },
+    {
+        "flight": "destination",
+        "country": "TurkuTKU",
+        "code": "TKU"
+    },
+    {
+        "flight": "destination",
+        "country": "ArvidsjaurAJR",
+        "code": "AJR"
+    },
+    {
+        "flight": "destination",
+        "country": "GällivareGEV",
+        "code": "GEV"
+    },
+    {
+        "flight": "destination",
+        "country": "HemavanHMV",
+        "code": "HMV"
+    },
+    {
+        "flight": "destination",
+        "country": "Kramfors / SollefteåKRF",
+        "code": "KRF"
+    },
+    {
+        "flight": "destination",
+        "country": "LyckseleLYC",
+        "code": "LYC"
+    },
+    {
+        "flight": "destination",
+        "country": "OrnskoldsvikOER",
+        "code": "OER"
+    },
+    {
+        "flight": "destination",
+        "country": "Stockholm (Arlanda)ARN",
+        "code": "ARN"
+    },
+    {
+        "flight": "destination",
+        "country": "VilhelminaVHM",
+        "code": "VHM"
+    },
+    {
+        "flight": "departure",
+        "country": "MariehamnMHQ",
+        "code": "MHQ"
+    },
+    {
+        "flight": "departure",
+        "country": "TurkuTKU",
+        "code": "TKU"
+    },
+    {
+        "flight": "departure",
+        "country": "ArvidsjaurAJR",
+        "code": "AJR"
+    },
+    {
+        "flight": "departure",
+        "country": "GällivareGEV",
+        "code": "GEV"
+    },
+    {
+        "flight": "departure",
+        "country": "HemavanHMV",
+        "code": "HMV"
+    },
+    {
+        "flight": "departure",
+        "country": "Kramfors / SollefteåKRF",
+        "code": "KRF"
+    },
+    {
+        "flight": "departure",
+        "country": "LyckseleLYC",
+        "code": "LYC"
+    },
+    {
+        "flight": "departure",
+        "country": "OrnskoldsvikOER",
+        "code": "OER"
+    },
+    {
+        "flight": "departure",
+        "country": "Stockholm (Arlanda)ARN",
+        "code": "ARN"
+    },
+    {
+        "flight": "departure",
+        "country": "VilhelminaVHM",
+        "code": "VHM"
+    }
+]

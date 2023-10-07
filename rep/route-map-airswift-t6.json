@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "Angeles CityCRK",
+        "code": "CRK"
+    },
+    {
+        "flight": "destination",
+        "country": "Busuanga / CoronUSU",
+        "code": "USU"
+    },
+    {
+        "flight": "destination",
+        "country": "CaticlanMPH",
+        "code": "MPH"
+    },
+    {
+        "flight": "destination",
+        "country": "CebuCEB",
+        "code": "CEB"
+    },
+    {
+        "flight": "destination",
+        "country": "El NidoENI",
+        "code": "ENI"
+    },
+    {
+        "flight": "destination",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "destination",
+        "country": "SicogonICO",
+        "code": "ICO"
+    },
+    {
+        "flight": "destination",
+        "country": "TagbilaranTAG",
+        "code": "TAG"
+    },
+    {
+        "flight": "destination",
+        "country": "TarapacaTBH",
+        "code": "TBH"
+    },
+    {
+        "flight": "departure",
+        "country": "Angeles CityCRK",
+        "code": "CRK"
+    },
+    {
+        "flight": "departure",
+        "country": "Busuanga / CoronUSU",
+        "code": "USU"
+    },
+    {
+        "flight": "departure",
+        "country": "CaticlanMPH",
+        "code": "MPH"
+    },
+    {
+        "flight": "departure",
+        "country": "CebuCEB",
+        "code": "CEB"
+    },
+    {
+        "flight": "departure",
+        "country": "El NidoENI",
+        "code": "ENI"
+    },
+    {
+        "flight": "departure",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "departure",
+        "country": "SicogonICO",
+        "code": "ICO"
+    },
+    {
+        "flight": "departure",
+        "country": "TagbilaranTAG",
+        "code": "TAG"
+    },
+    {
+        "flight": "departure",
+        "country": "TarapacaTBH",
+        "code": "TBH"
+    }
+]

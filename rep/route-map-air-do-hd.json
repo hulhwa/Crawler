@@ -1,0 +1,112 @@
+[
+    {
+        "flight": "destination",
+        "country": "AsahikawaAKJ",
+        "code": "AKJ"
+    },
+    {
+        "flight": "destination",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "destination",
+        "country": "HakodateHKD",
+        "code": "HKD"
+    },
+    {
+        "flight": "destination",
+        "country": "KobeUKB",
+        "code": "UKB"
+    },
+    {
+        "flight": "destination",
+        "country": "KushiroKUH",
+        "code": "KUH"
+    },
+    {
+        "flight": "destination",
+        "country": "MemanbetsuMMB",
+        "code": "MMB"
+    },
+    {
+        "flight": "destination",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "destination",
+        "country": "ObihiroOBO",
+        "code": "OBO"
+    },
+    {
+        "flight": "destination",
+        "country": "SapporoCTS",
+        "code": "CTS"
+    },
+    {
+        "flight": "destination",
+        "country": "SendaiSDJ",
+        "code": "SDJ"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoHND",
+        "code": "HND"
+    },
+    {
+        "flight": "departure",
+        "country": "AsahikawaAKJ",
+        "code": "AKJ"
+    },
+    {
+        "flight": "departure",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "departure",
+        "country": "HakodateHKD",
+        "code": "HKD"
+    },
+    {
+        "flight": "departure",
+        "country": "KobeUKB",
+        "code": "UKB"
+    },
+    {
+        "flight": "departure",
+        "country": "KushiroKUH",
+        "code": "KUH"
+    },
+    {
+        "flight": "departure",
+        "country": "MemanbetsuMMB",
+        "code": "MMB"
+    },
+    {
+        "flight": "departure",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "departure",
+        "country": "ObihiroOBO",
+        "code": "OBO"
+    },
+    {
+        "flight": "departure",
+        "country": "SapporoCTS",
+        "code": "CTS"
+    },
+    {
+        "flight": "departure",
+        "country": "SendaiSDJ",
+        "code": "SDJ"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoHND",
+        "code": "HND"
+    }
+]

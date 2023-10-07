@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "ExeterEXT",
+        "code": "EXT"
+    },
+    {
+        "flight": "destination",
+        "country": "Land's EndLEQ",
+        "code": "LEQ"
+    },
+    {
+        "flight": "destination",
+        "country": "NewquayNQY",
+        "code": "NQY"
+    },
+    {
+        "flight": "destination",
+        "country": "St Mary'sISC",
+        "code": "ISC"
+    },
+    {
+        "flight": "departure",
+        "country": "ExeterEXT",
+        "code": "EXT"
+    },
+    {
+        "flight": "departure",
+        "country": "Land's EndLEQ",
+        "code": "LEQ"
+    },
+    {
+        "flight": "departure",
+        "country": "NewquayNQY",
+        "code": "NQY"
+    },
+    {
+        "flight": "departure",
+        "country": "St Mary'sISC",
+        "code": "ISC"
+    }
+]

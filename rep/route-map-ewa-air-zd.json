@@ -1,0 +1,82 @@
+[
+    {
+        "flight": "destination",
+        "country": "AnjouanAJN",
+        "code": "AJN"
+    },
+    {
+        "flight": "destination",
+        "country": "MoroniHAH",
+        "code": "HAH"
+    },
+    {
+        "flight": "destination",
+        "country": "AntsirananaDIE",
+        "code": "DIE"
+    },
+    {
+        "flight": "destination",
+        "country": "MahajangaMJN",
+        "code": "MJN"
+    },
+    {
+        "flight": "destination",
+        "country": "Nosy BeNOS",
+        "code": "NOS"
+    },
+    {
+        "flight": "destination",
+        "country": "DzaoudziDZA",
+        "code": "DZA"
+    },
+    {
+        "flight": "destination",
+        "country": "PembaPOL",
+        "code": "POL"
+    },
+    {
+        "flight": "destination",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "departure",
+        "country": "AnjouanAJN",
+        "code": "AJN"
+    },
+    {
+        "flight": "departure",
+        "country": "MoroniHAH",
+        "code": "HAH"
+    },
+    {
+        "flight": "departure",
+        "country": "AntsirananaDIE",
+        "code": "DIE"
+    },
+    {
+        "flight": "departure",
+        "country": "MahajangaMJN",
+        "code": "MJN"
+    },
+    {
+        "flight": "departure",
+        "country": "Nosy BeNOS",
+        "code": "NOS"
+    },
+    {
+        "flight": "departure",
+        "country": "DzaoudziDZA",
+        "code": "DZA"
+    },
+    {
+        "flight": "departure",
+        "country": "PembaPOL",
+        "code": "POL"
+    },
+    {
+        "flight": "departure",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    }
+]

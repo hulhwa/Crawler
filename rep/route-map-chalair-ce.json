@@ -1,0 +1,82 @@
+[
+    {
+        "flight": "destination",
+        "country": "AurillacAUR",
+        "code": "AUR"
+    },
+    {
+        "flight": "destination",
+        "country": "BordeauxBOD",
+        "code": "BOD"
+    },
+    {
+        "flight": "destination",
+        "country": "BrestBES",
+        "code": "BES"
+    },
+    {
+        "flight": "destination",
+        "country": "Castres / MazametDCM",
+        "code": "DCM"
+    },
+    {
+        "flight": "destination",
+        "country": "LimogesLIG",
+        "code": "LIG"
+    },
+    {
+        "flight": "destination",
+        "country": "LyonLYS",
+        "code": "LYS"
+    },
+    {
+        "flight": "destination",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "destination",
+        "country": "QuimperUIP",
+        "code": "UIP"
+    },
+    {
+        "flight": "departure",
+        "country": "AurillacAUR",
+        "code": "AUR"
+    },
+    {
+        "flight": "departure",
+        "country": "BordeauxBOD",
+        "code": "BOD"
+    },
+    {
+        "flight": "departure",
+        "country": "BrestBES",
+        "code": "BES"
+    },
+    {
+        "flight": "departure",
+        "country": "Castres / MazametDCM",
+        "code": "DCM"
+    },
+    {
+        "flight": "departure",
+        "country": "LimogesLIG",
+        "code": "LIG"
+    },
+    {
+        "flight": "departure",
+        "country": "LyonLYS",
+        "code": "LYS"
+    },
+    {
+        "flight": "departure",
+        "country": "Paris (Orly)ORY",
+        "code": "ORY"
+    },
+    {
+        "flight": "departure",
+        "country": "QuimperUIP",
+        "code": "UIP"
+    }
+]

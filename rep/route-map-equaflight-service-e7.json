@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "Port-GentilPOG",
+        "code": "POG"
+    },
+    {
+        "flight": "destination",
+        "country": "Pointe-NoirePNR",
+        "code": "PNR"
+    },
+    {
+        "flight": "departure",
+        "country": "Port-GentilPOG",
+        "code": "POG"
+    },
+    {
+        "flight": "departure",
+        "country": "Pointe-NoirePNR",
+        "code": "PNR"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "AruaRUA",
+        "code": "RUA"
+    },
+    {
+        "flight": "destination",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    },
+    {
+        "flight": "departure",
+        "country": "AruaRUA",
+        "code": "RUA"
+    },
+    {
+        "flight": "departure",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    }
+]

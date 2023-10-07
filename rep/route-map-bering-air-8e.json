@@ -1,0 +1,292 @@
+[
+    {
+        "flight": "destination",
+        "country": "AmblerABL",
+        "code": "ABL"
+    },
+    {
+        "flight": "destination",
+        "country": "Brevig MissionKTS",
+        "code": "KTS"
+    },
+    {
+        "flight": "destination",
+        "country": "BucklandBKC",
+        "code": "BKC"
+    },
+    {
+        "flight": "destination",
+        "country": "Cape LisburneLUR",
+        "code": "LUR"
+    },
+    {
+        "flight": "destination",
+        "country": "DeeringDRG",
+        "code": "DRG"
+    },
+    {
+        "flight": "destination",
+        "country": "ElimELI",
+        "code": "ELI"
+    },
+    {
+        "flight": "destination",
+        "country": "GambellGAM",
+        "code": "GAM"
+    },
+    {
+        "flight": "destination",
+        "country": "GolovinGLV",
+        "code": "GLV"
+    },
+    {
+        "flight": "destination",
+        "country": "KianaIAN",
+        "code": "IAN"
+    },
+    {
+        "flight": "destination",
+        "country": "KivalinaKVL",
+        "code": "KVL"
+    },
+    {
+        "flight": "destination",
+        "country": "KobukOBU",
+        "code": "OBU"
+    },
+    {
+        "flight": "destination",
+        "country": "KotzebueOTZ",
+        "code": "OTZ"
+    },
+    {
+        "flight": "destination",
+        "country": "KoyukKKA",
+        "code": "KKA"
+    },
+    {
+        "flight": "destination",
+        "country": "NoatakWTK",
+        "code": "WTK"
+    },
+    {
+        "flight": "destination",
+        "country": "NomeOME",
+        "code": "OME"
+    },
+    {
+        "flight": "destination",
+        "country": "NoorvikORV",
+        "code": "ORV"
+    },
+    {
+        "flight": "destination",
+        "country": "Point HopePHO",
+        "code": "PHO"
+    },
+    {
+        "flight": "destination",
+        "country": "SavoongaSVA",
+        "code": "SVA"
+    },
+    {
+        "flight": "destination",
+        "country": "SelawikWLK",
+        "code": "WLK"
+    },
+    {
+        "flight": "destination",
+        "country": "ShaktoolikSKK",
+        "code": "SKK"
+    },
+    {
+        "flight": "destination",
+        "country": "ShishmarefSHH",
+        "code": "SHH"
+    },
+    {
+        "flight": "destination",
+        "country": "ShungnakSHG",
+        "code": "SHG"
+    },
+    {
+        "flight": "destination",
+        "country": "St. MichaelSMK",
+        "code": "SMK"
+    },
+    {
+        "flight": "destination",
+        "country": "StebbinsWBB",
+        "code": "WBB"
+    },
+    {
+        "flight": "destination",
+        "country": "TellerTLA",
+        "code": "TLA"
+    },
+    {
+        "flight": "destination",
+        "country": "Tin CityTNC",
+        "code": "TNC"
+    },
+    {
+        "flight": "destination",
+        "country": "UnalakleetUNK",
+        "code": "UNK"
+    },
+    {
+        "flight": "destination",
+        "country": "WalesWAA",
+        "code": "WAA"
+    },
+    {
+        "flight": "destination",
+        "country": "White MountainWMO",
+        "code": "WMO"
+    },
+    {
+        "flight": "departure",
+        "country": "AmblerABL",
+        "code": "ABL"
+    },
+    {
+        "flight": "departure",
+        "country": "Brevig MissionKTS",
+        "code": "KTS"
+    },
+    {
+        "flight": "departure",
+        "country": "BucklandBKC",
+        "code": "BKC"
+    },
+    {
+        "flight": "departure",
+        "country": "Cape LisburneLUR",
+        "code": "LUR"
+    },
+    {
+        "flight": "departure",
+        "country": "DeeringDRG",
+        "code": "DRG"
+    },
+    {
+        "flight": "departure",
+        "country": "ElimELI",
+        "code": "ELI"
+    },
+    {
+        "flight": "departure",
+        "country": "GambellGAM",
+        "code": "GAM"
+    },
+    {
+        "flight": "departure",
+        "country": "GolovinGLV",
+        "code": "GLV"
+    },
+    {
+        "flight": "departure",
+        "country": "KianaIAN",
+        "code": "IAN"
+    },
+    {
+        "flight": "departure",
+        "country": "KivalinaKVL",
+        "code": "KVL"
+    },
+    {
+        "flight": "departure",
+        "country": "KobukOBU",
+        "code": "OBU"
+    },
+    {
+        "flight": "departure",
+        "country": "KotzebueOTZ",
+        "code": "OTZ"
+    },
+    {
+        "flight": "departure",
+        "country": "KoyukKKA",
+        "code": "KKA"
+    },
+    {
+        "flight": "departure",
+        "country": "NoatakWTK",
+        "code": "WTK"
+    },
+    {
+        "flight": "departure",
+        "country": "NomeOME",
+        "code": "OME"
+    },
+    {
+        "flight": "departure",
+        "country": "NoorvikORV",
+        "code": "ORV"
+    },
+    {
+        "flight": "departure",
+        "country": "Point HopePHO",
+        "code": "PHO"
+    },
+    {
+        "flight": "departure",
+        "country": "SavoongaSVA",
+        "code": "SVA"
+    },
+    {
+        "flight": "departure",
+        "country": "SelawikWLK",
+        "code": "WLK"
+    },
+    {
+        "flight": "departure",
+        "country": "ShaktoolikSKK",
+        "code": "SKK"
+    },
+    {
+        "flight": "departure",
+        "country": "ShishmarefSHH",
+        "code": "SHH"
+    },
+    {
+        "flight": "departure",
+        "country": "ShungnakSHG",
+        "code": "SHG"
+    },
+    {
+        "flight": "departure",
+        "country": "St. MichaelSMK",
+        "code": "SMK"
+    },
+    {
+        "flight": "departure",
+        "country": "StebbinsWBB",
+        "code": "WBB"
+    },
+    {
+        "flight": "departure",
+        "country": "TellerTLA",
+        "code": "TLA"
+    },
+    {
+        "flight": "departure",
+        "country": "Tin CityTNC",
+        "code": "TNC"
+    },
+    {
+        "flight": "departure",
+        "country": "UnalakleetUNK",
+        "code": "UNK"
+    },
+    {
+        "flight": "departure",
+        "country": "WalesWAA",
+        "code": "WAA"
+    },
+    {
+        "flight": "departure",
+        "country": "White MountainWMO",
+        "code": "WMO"
+    }
+]

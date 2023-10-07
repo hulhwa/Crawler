@@ -1,0 +1,342 @@
+[
+    {
+        "flight": "destination",
+        "country": "HarbinHRB",
+        "code": "HRB"
+    },
+    {
+        "flight": "destination",
+        "country": "AnadyrDYR",
+        "code": "DYR"
+    },
+    {
+        "flight": "destination",
+        "country": "BatagayBQJ",
+        "code": "BQJ"
+    },
+    {
+        "flight": "destination",
+        "country": "BlagoveshchenskBQS",
+        "code": "BQS"
+    },
+    {
+        "flight": "destination",
+        "country": "CherskyCYX",
+        "code": "CYX"
+    },
+    {
+        "flight": "destination",
+        "country": "ChitaHTA",
+        "code": "HTA"
+    },
+    {
+        "flight": "destination",
+        "country": "ChokurdakhCKH",
+        "code": "CKH"
+    },
+    {
+        "flight": "destination",
+        "country": "DeputatskyDPT",
+        "code": "DPT"
+    },
+    {
+        "flight": "destination",
+        "country": "IrkutskIKT",
+        "code": "IKT"
+    },
+    {
+        "flight": "destination",
+        "country": "KaliningradKGD",
+        "code": "KGD"
+    },
+    {
+        "flight": "destination",
+        "country": "KhabarovskKHV",
+        "code": "KHV"
+    },
+    {
+        "flight": "destination",
+        "country": "KrasnoyarskKJA",
+        "code": "KJA"
+    },
+    {
+        "flight": "destination",
+        "country": "MakhachkalaMCX",
+        "code": "MCX"
+    },
+    {
+        "flight": "destination",
+        "country": "Mineralnye VodyMRV",
+        "code": "MRV"
+    },
+    {
+        "flight": "destination",
+        "country": "MirnyMJZ",
+        "code": "MJZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "destination",
+        "country": "NeryungriNER",
+        "code": "NER"
+    },
+    {
+        "flight": "destination",
+        "country": "NizhnevartovskNJC",
+        "code": "NJC"
+    },
+    {
+        "flight": "destination",
+        "country": "NovosibirskOVB",
+        "code": "OVB"
+    },
+    {
+        "flight": "destination",
+        "country": "OlenyokONK",
+        "code": "ONK"
+    },
+    {
+        "flight": "destination",
+        "country": "OlyokminskOLZ",
+        "code": "OLZ"
+    },
+    {
+        "flight": "destination",
+        "country": "OmskOMS",
+        "code": "OMS"
+    },
+    {
+        "flight": "destination",
+        "country": "Petropavlovsk-KamchatskyPKC",
+        "code": "PKC"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint PetersburgLED",
+        "code": "LED"
+    },
+    {
+        "flight": "destination",
+        "country": "SochiAER",
+        "code": "AER"
+    },
+    {
+        "flight": "destination",
+        "country": "SrednekolymskSEK",
+        "code": "SEK"
+    },
+    {
+        "flight": "destination",
+        "country": "TiksiIKS",
+        "code": "IKS"
+    },
+    {
+        "flight": "destination",
+        "country": "UdachnyPYJ",
+        "code": "PYJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Ulan-UdeUUD",
+        "code": "UUD"
+    },
+    {
+        "flight": "destination",
+        "country": "Ust-NeraUSR",
+        "code": "USR"
+    },
+    {
+        "flight": "destination",
+        "country": "VladivostokVVO",
+        "code": "VVO"
+    },
+    {
+        "flight": "destination",
+        "country": "YakutskYKS",
+        "code": "YKS"
+    },
+    {
+        "flight": "destination",
+        "country": "YekaterinburgSVX",
+        "code": "SVX"
+    },
+    {
+        "flight": "destination",
+        "country": "Yuzhno-SakhalinskUUS",
+        "code": "UUS"
+    },
+    {
+        "flight": "departure",
+        "country": "HarbinHRB",
+        "code": "HRB"
+    },
+    {
+        "flight": "departure",
+        "country": "AnadyrDYR",
+        "code": "DYR"
+    },
+    {
+        "flight": "departure",
+        "country": "BatagayBQJ",
+        "code": "BQJ"
+    },
+    {
+        "flight": "departure",
+        "country": "BlagoveshchenskBQS",
+        "code": "BQS"
+    },
+    {
+        "flight": "departure",
+        "country": "CherskyCYX",
+        "code": "CYX"
+    },
+    {
+        "flight": "departure",
+        "country": "ChitaHTA",
+        "code": "HTA"
+    },
+    {
+        "flight": "departure",
+        "country": "ChokurdakhCKH",
+        "code": "CKH"
+    },
+    {
+        "flight": "departure",
+        "country": "DeputatskyDPT",
+        "code": "DPT"
+    },
+    {
+        "flight": "departure",
+        "country": "IrkutskIKT",
+        "code": "IKT"
+    },
+    {
+        "flight": "departure",
+        "country": "KaliningradKGD",
+        "code": "KGD"
+    },
+    {
+        "flight": "departure",
+        "country": "KhabarovskKHV",
+        "code": "KHV"
+    },
+    {
+        "flight": "departure",
+        "country": "KrasnoyarskKJA",
+        "code": "KJA"
+    },
+    {
+        "flight": "departure",
+        "country": "MakhachkalaMCX",
+        "code": "MCX"
+    },
+    {
+        "flight": "departure",
+        "country": "Mineralnye VodyMRV",
+        "code": "MRV"
+    },
+    {
+        "flight": "departure",
+        "country": "MirnyMJZ",
+        "code": "MJZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "departure",
+        "country": "NeryungriNER",
+        "code": "NER"
+    },
+    {
+        "flight": "departure",
+        "country": "NizhnevartovskNJC",
+        "code": "NJC"
+    },
+    {
+        "flight": "departure",
+        "country": "NovosibirskOVB",
+        "code": "OVB"
+    },
+    {
+        "flight": "departure",
+        "country": "OlenyokONK",
+        "code": "ONK"
+    },
+    {
+        "flight": "departure",
+        "country": "OlyokminskOLZ",
+        "code": "OLZ"
+    },
+    {
+        "flight": "departure",
+        "country": "OmskOMS",
+        "code": "OMS"
+    },
+    {
+        "flight": "departure",
+        "country": "Petropavlovsk-KamchatskyPKC",
+        "code": "PKC"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint PetersburgLED",
+        "code": "LED"
+    },
+    {
+        "flight": "departure",
+        "country": "SochiAER",
+        "code": "AER"
+    },
+    {
+        "flight": "departure",
+        "country": "SrednekolymskSEK",
+        "code": "SEK"
+    },
+    {
+        "flight": "departure",
+        "country": "TiksiIKS",
+        "code": "IKS"
+    },
+    {
+        "flight": "departure",
+        "country": "UdachnyPYJ",
+        "code": "PYJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Ulan-UdeUUD",
+        "code": "UUD"
+    },
+    {
+        "flight": "departure",
+        "country": "Ust-NeraUSR",
+        "code": "USR"
+    },
+    {
+        "flight": "departure",
+        "country": "VladivostokVVO",
+        "code": "VVO"
+    },
+    {
+        "flight": "departure",
+        "country": "YakutskYKS",
+        "code": "YKS"
+    },
+    {
+        "flight": "departure",
+        "country": "YekaterinburgSVX",
+        "code": "SVX"
+    },
+    {
+        "flight": "departure",
+        "country": "Yuzhno-SakhalinskUUS",
+        "code": "UUS"
+    }
+]

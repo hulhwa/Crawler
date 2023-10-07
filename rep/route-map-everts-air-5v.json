@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "FairbanksFAI",
+        "code": "FAI"
+    },
+    {
+        "flight": "destination",
+        "country": "GalenaGAL",
+        "code": "GAL"
+    },
+    {
+        "flight": "departure",
+        "country": "FairbanksFAI",
+        "code": "FAI"
+    },
+    {
+        "flight": "departure",
+        "country": "GalenaGAL",
+        "code": "GAL"
+    }
+]

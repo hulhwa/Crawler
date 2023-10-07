@@ -1,0 +1,172 @@
+[
+    {
+        "flight": "destination",
+        "country": "AhmedabadAMD",
+        "code": "AMD"
+    },
+    {
+        "flight": "destination",
+        "country": "BelgaumIXG",
+        "code": "IXG"
+    },
+    {
+        "flight": "destination",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "destination",
+        "country": "BhujBHJ",
+        "code": "BHJ"
+    },
+    {
+        "flight": "destination",
+        "country": "BidarIXX",
+        "code": "IXX"
+    },
+    {
+        "flight": "destination",
+        "country": "HyderabadHYD",
+        "code": "HYD"
+    },
+    {
+        "flight": "destination",
+        "country": "IndoreIDR",
+        "code": "IDR"
+    },
+    {
+        "flight": "destination",
+        "country": "JaipurJAI",
+        "code": "JAI"
+    },
+    {
+        "flight": "destination",
+        "country": "JamnagarJGA",
+        "code": "JGA"
+    },
+    {
+        "flight": "destination",
+        "country": "JodhpurJDH",
+        "code": "JDH"
+    },
+    {
+        "flight": "destination",
+        "country": "KalaburagiGBI",
+        "code": "GBI"
+    },
+    {
+        "flight": "destination",
+        "country": "Kishangarh / AjmerKQH",
+        "code": "KQH"
+    },
+    {
+        "flight": "destination",
+        "country": "KolhapurKLH",
+        "code": "KLH"
+    },
+    {
+        "flight": "destination",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "destination",
+        "country": "NagpurNAG",
+        "code": "NAG"
+    },
+    {
+        "flight": "destination",
+        "country": "SuratSTV",
+        "code": "STV"
+    },
+    {
+        "flight": "destination",
+        "country": "TirupatiTIR",
+        "code": "TIR"
+    },
+    {
+        "flight": "departure",
+        "country": "AhmedabadAMD",
+        "code": "AMD"
+    },
+    {
+        "flight": "departure",
+        "country": "BelgaumIXG",
+        "code": "IXG"
+    },
+    {
+        "flight": "departure",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "departure",
+        "country": "BhujBHJ",
+        "code": "BHJ"
+    },
+    {
+        "flight": "departure",
+        "country": "BidarIXX",
+        "code": "IXX"
+    },
+    {
+        "flight": "departure",
+        "country": "HyderabadHYD",
+        "code": "HYD"
+    },
+    {
+        "flight": "departure",
+        "country": "IndoreIDR",
+        "code": "IDR"
+    },
+    {
+        "flight": "departure",
+        "country": "JaipurJAI",
+        "code": "JAI"
+    },
+    {
+        "flight": "departure",
+        "country": "JamnagarJGA",
+        "code": "JGA"
+    },
+    {
+        "flight": "departure",
+        "country": "JodhpurJDH",
+        "code": "JDH"
+    },
+    {
+        "flight": "departure",
+        "country": "KalaburagiGBI",
+        "code": "GBI"
+    },
+    {
+        "flight": "departure",
+        "country": "Kishangarh / AjmerKQH",
+        "code": "KQH"
+    },
+    {
+        "flight": "departure",
+        "country": "KolhapurKLH",
+        "code": "KLH"
+    },
+    {
+        "flight": "departure",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "departure",
+        "country": "NagpurNAG",
+        "code": "NAG"
+    },
+    {
+        "flight": "departure",
+        "country": "SuratSTV",
+        "code": "STV"
+    },
+    {
+        "flight": "departure",
+        "country": "TirupatiTIR",
+        "code": "TIR"
+    }
+]

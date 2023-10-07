@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "TaldykorganTDK",
+        "code": "TDK"
+    },
+    {
+        "flight": "destination",
+        "country": "UsharalUSJ",
+        "code": "USJ"
+    },
+    {
+        "flight": "departure",
+        "country": "TaldykorganTDK",
+        "code": "TDK"
+    },
+    {
+        "flight": "departure",
+        "country": "UsharalUSJ",
+        "code": "USJ"
+    }
+]

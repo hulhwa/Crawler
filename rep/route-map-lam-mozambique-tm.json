@@ -1,0 +1,162 @@
+[
+    {
+        "flight": "destination",
+        "country": "BeiraBEW",
+        "code": "BEW"
+    },
+    {
+        "flight": "destination",
+        "country": "ChimoioVPY",
+        "code": "VPY"
+    },
+    {
+        "flight": "destination",
+        "country": "InhambaneINH",
+        "code": "INH"
+    },
+    {
+        "flight": "destination",
+        "country": "LichingaVXC",
+        "code": "VXC"
+    },
+    {
+        "flight": "destination",
+        "country": "MaputoMPM",
+        "code": "MPM"
+    },
+    {
+        "flight": "destination",
+        "country": "NacalaMNC",
+        "code": "MNC"
+    },
+    {
+        "flight": "destination",
+        "country": "NampulaAPL",
+        "code": "APL"
+    },
+    {
+        "flight": "destination",
+        "country": "PembaPOL",
+        "code": "POL"
+    },
+    {
+        "flight": "destination",
+        "country": "QuelimaneUEL",
+        "code": "UEL"
+    },
+    {
+        "flight": "destination",
+        "country": "TeteTET",
+        "code": "TET"
+    },
+    {
+        "flight": "destination",
+        "country": "VilankulosVNX",
+        "code": "VNX"
+    },
+    {
+        "flight": "destination",
+        "country": "Xai-XaiVJB",
+        "code": "VJB"
+    },
+    {
+        "flight": "destination",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "destination",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "destination",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "destination",
+        "country": "HarareHRE",
+        "code": "HRE"
+    },
+    {
+        "flight": "departure",
+        "country": "BeiraBEW",
+        "code": "BEW"
+    },
+    {
+        "flight": "departure",
+        "country": "ChimoioVPY",
+        "code": "VPY"
+    },
+    {
+        "flight": "departure",
+        "country": "InhambaneINH",
+        "code": "INH"
+    },
+    {
+        "flight": "departure",
+        "country": "LichingaVXC",
+        "code": "VXC"
+    },
+    {
+        "flight": "departure",
+        "country": "MaputoMPM",
+        "code": "MPM"
+    },
+    {
+        "flight": "departure",
+        "country": "NacalaMNC",
+        "code": "MNC"
+    },
+    {
+        "flight": "departure",
+        "country": "NampulaAPL",
+        "code": "APL"
+    },
+    {
+        "flight": "departure",
+        "country": "PembaPOL",
+        "code": "POL"
+    },
+    {
+        "flight": "departure",
+        "country": "QuelimaneUEL",
+        "code": "UEL"
+    },
+    {
+        "flight": "departure",
+        "country": "TeteTET",
+        "code": "TET"
+    },
+    {
+        "flight": "departure",
+        "country": "VilankulosVNX",
+        "code": "VNX"
+    },
+    {
+        "flight": "departure",
+        "country": "Xai-XaiVJB",
+        "code": "VJB"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "departure",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "departure",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "departure",
+        "country": "HarareHRE",
+        "code": "HRE"
+    }
+]

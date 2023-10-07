@@ -1,0 +1,432 @@
+[
+    {
+        "flight": "destination",
+        "country": "AtlantaATL",
+        "code": "ATL"
+    },
+    {
+        "flight": "destination",
+        "country": "Boston HarborBNH",
+        "code": "BNH"
+    },
+    {
+        "flight": "destination",
+        "country": "BradfordBFD",
+        "code": "BFD"
+    },
+    {
+        "flight": "destination",
+        "country": "BridgeportBDR",
+        "code": "BDR"
+    },
+    {
+        "flight": "destination",
+        "country": "BurlingtonBRL",
+        "code": "BRL"
+    },
+    {
+        "flight": "destination",
+        "country": "ChadronCDR",
+        "code": "CDR"
+    },
+    {
+        "flight": "destination",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "destination",
+        "country": "Dallas-Fort WorthDFW",
+        "code": "DFW"
+    },
+    {
+        "flight": "destination",
+        "country": "DenverDEN",
+        "code": "DEN"
+    },
+    {
+        "flight": "destination",
+        "country": "DuBoisDUJ",
+        "code": "DUJ"
+    },
+    {
+        "flight": "destination",
+        "country": "El DoradoELD",
+        "code": "ELD"
+    },
+    {
+        "flight": "destination",
+        "country": "HanaHNM",
+        "code": "HNM"
+    },
+    {
+        "flight": "destination",
+        "country": "HarrisonHRO",
+        "code": "HRO"
+    },
+    {
+        "flight": "destination",
+        "country": "HonoluluHNL",
+        "code": "HNL"
+    },
+    {
+        "flight": "destination",
+        "country": "Hoolehua / KaunakakaiMKK",
+        "code": "MKK"
+    },
+    {
+        "flight": "destination",
+        "country": "Hot SpringsHOT",
+        "code": "HOT"
+    },
+    {
+        "flight": "destination",
+        "country": "Imperial / El CentroIPL",
+        "code": "IPL"
+    },
+    {
+        "flight": "destination",
+        "country": "JacksonMKL",
+        "code": "MKL"
+    },
+    {
+        "flight": "destination",
+        "country": "JonesboroJBR",
+        "code": "JBR"
+    },
+    {
+        "flight": "destination",
+        "country": "KahuluiOGG",
+        "code": "OGG"
+    },
+    {
+        "flight": "destination",
+        "country": "Kailua-KonaKOA",
+        "code": "KOA"
+    },
+    {
+        "flight": "destination",
+        "country": "KalaupapaLUP",
+        "code": "LUP"
+    },
+    {
+        "flight": "destination",
+        "country": "KamuelaMUE",
+        "code": "MUE"
+    },
+    {
+        "flight": "destination",
+        "country": "KapaluaJHM",
+        "code": "JHM"
+    },
+    {
+        "flight": "destination",
+        "country": "Lanai CityLNY",
+        "code": "LNY"
+    },
+    {
+        "flight": "destination",
+        "country": "LancasterLNS",
+        "code": "LNS"
+    },
+    {
+        "flight": "destination",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "destination",
+        "country": "MemphisMEM",
+        "code": "MEM"
+    },
+    {
+        "flight": "destination",
+        "country": "MorgantownMGW",
+        "code": "MGW"
+    },
+    {
+        "flight": "destination",
+        "country": "MuskegonMKG",
+        "code": "MKG"
+    },
+    {
+        "flight": "destination",
+        "country": "NantucketACK",
+        "code": "ACK"
+    },
+    {
+        "flight": "destination",
+        "country": "NashvilleBNA",
+        "code": "BNA"
+    },
+    {
+        "flight": "destination",
+        "country": "New York Skyports Seaplane BaseNYS",
+        "code": "NYS"
+    },
+    {
+        "flight": "destination",
+        "country": "NewportNPT",
+        "code": "NPT"
+    },
+    {
+        "flight": "destination",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "destination",
+        "country": "PittsburghPIT",
+        "code": "PIT"
+    },
+    {
+        "flight": "destination",
+        "country": "PlymouthPYM",
+        "code": "PYM"
+    },
+    {
+        "flight": "destination",
+        "country": "ProvincetownPVC",
+        "code": "PVC"
+    },
+    {
+        "flight": "destination",
+        "country": "PuebloPUB",
+        "code": "PUB"
+    },
+    {
+        "flight": "destination",
+        "country": "QuincyUIN",
+        "code": "UIN"
+    },
+    {
+        "flight": "destination",
+        "country": "Show LowSOW",
+        "code": "SOW"
+    },
+    {
+        "flight": "destination",
+        "country": "St. LouisSTL",
+        "code": "STL"
+    },
+    {
+        "flight": "destination",
+        "country": "WashingtonIAD",
+        "code": "IAD"
+    },
+    {
+        "flight": "departure",
+        "country": "AtlantaATL",
+        "code": "ATL"
+    },
+    {
+        "flight": "departure",
+        "country": "Boston HarborBNH",
+        "code": "BNH"
+    },
+    {
+        "flight": "departure",
+        "country": "BradfordBFD",
+        "code": "BFD"
+    },
+    {
+        "flight": "departure",
+        "country": "BridgeportBDR",
+        "code": "BDR"
+    },
+    {
+        "flight": "departure",
+        "country": "BurlingtonBRL",
+        "code": "BRL"
+    },
+    {
+        "flight": "departure",
+        "country": "ChadronCDR",
+        "code": "CDR"
+    },
+    {
+        "flight": "departure",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "departure",
+        "country": "Dallas-Fort WorthDFW",
+        "code": "DFW"
+    },
+    {
+        "flight": "departure",
+        "country": "DenverDEN",
+        "code": "DEN"
+    },
+    {
+        "flight": "departure",
+        "country": "DuBoisDUJ",
+        "code": "DUJ"
+    },
+    {
+        "flight": "departure",
+        "country": "El DoradoELD",
+        "code": "ELD"
+    },
+    {
+        "flight": "departure",
+        "country": "HanaHNM",
+        "code": "HNM"
+    },
+    {
+        "flight": "departure",
+        "country": "HarrisonHRO",
+        "code": "HRO"
+    },
+    {
+        "flight": "departure",
+        "country": "HonoluluHNL",
+        "code": "HNL"
+    },
+    {
+        "flight": "departure",
+        "country": "Hoolehua / KaunakakaiMKK",
+        "code": "MKK"
+    },
+    {
+        "flight": "departure",
+        "country": "Hot SpringsHOT",
+        "code": "HOT"
+    },
+    {
+        "flight": "departure",
+        "country": "Imperial / El CentroIPL",
+        "code": "IPL"
+    },
+    {
+        "flight": "departure",
+        "country": "JacksonMKL",
+        "code": "MKL"
+    },
+    {
+        "flight": "departure",
+        "country": "JonesboroJBR",
+        "code": "JBR"
+    },
+    {
+        "flight": "departure",
+        "country": "KahuluiOGG",
+        "code": "OGG"
+    },
+    {
+        "flight": "departure",
+        "country": "Kailua-KonaKOA",
+        "code": "KOA"
+    },
+    {
+        "flight": "departure",
+        "country": "KalaupapaLUP",
+        "code": "LUP"
+    },
+    {
+        "flight": "departure",
+        "country": "KamuelaMUE",
+        "code": "MUE"
+    },
+    {
+        "flight": "departure",
+        "country": "KapaluaJHM",
+        "code": "JHM"
+    },
+    {
+        "flight": "departure",
+        "country": "Lanai CityLNY",
+        "code": "LNY"
+    },
+    {
+        "flight": "departure",
+        "country": "LancasterLNS",
+        "code": "LNS"
+    },
+    {
+        "flight": "departure",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "departure",
+        "country": "MemphisMEM",
+        "code": "MEM"
+    },
+    {
+        "flight": "departure",
+        "country": "MorgantownMGW",
+        "code": "MGW"
+    },
+    {
+        "flight": "departure",
+        "country": "MuskegonMKG",
+        "code": "MKG"
+    },
+    {
+        "flight": "departure",
+        "country": "NantucketACK",
+        "code": "ACK"
+    },
+    {
+        "flight": "departure",
+        "country": "NashvilleBNA",
+        "code": "BNA"
+    },
+    {
+        "flight": "departure",
+        "country": "New York Skyports Seaplane BaseNYS",
+        "code": "NYS"
+    },
+    {
+        "flight": "departure",
+        "country": "NewportNPT",
+        "code": "NPT"
+    },
+    {
+        "flight": "departure",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "departure",
+        "country": "PittsburghPIT",
+        "code": "PIT"
+    },
+    {
+        "flight": "departure",
+        "country": "PlymouthPYM",
+        "code": "PYM"
+    },
+    {
+        "flight": "departure",
+        "country": "ProvincetownPVC",
+        "code": "PVC"
+    },
+    {
+        "flight": "departure",
+        "country": "PuebloPUB",
+        "code": "PUB"
+    },
+    {
+        "flight": "departure",
+        "country": "QuincyUIN",
+        "code": "UIN"
+    },
+    {
+        "flight": "departure",
+        "country": "Show LowSOW",
+        "code": "SOW"
+    },
+    {
+        "flight": "departure",
+        "country": "St. LouisSTL",
+        "code": "STL"
+    },
+    {
+        "flight": "departure",
+        "country": "WashingtonIAD",
+        "code": "IAD"
+    }
+]

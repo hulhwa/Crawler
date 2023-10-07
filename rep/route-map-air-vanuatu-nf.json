@@ -1,0 +1,322 @@
+[
+    {
+        "flight": "destination",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "destination",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "destination",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "destination",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "destination",
+        "country": "NoumeaNOU",
+        "code": "NOU"
+    },
+    {
+        "flight": "destination",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "destination",
+        "country": "Anatom (Aneityum)AUY",
+        "code": "AUY"
+    },
+    {
+        "flight": "destination",
+        "country": "Aniwa IslandAWD",
+        "code": "AWD"
+    },
+    {
+        "flight": "destination",
+        "country": "Craig CoveCCV",
+        "code": "CCV"
+    },
+    {
+        "flight": "destination",
+        "country": "Dillons BayDLY",
+        "code": "DLY"
+    },
+    {
+        "flight": "destination",
+        "country": "Futuna IslandFTA",
+        "code": "FTA"
+    },
+    {
+        "flight": "destination",
+        "country": "GauaZGU",
+        "code": "ZGU"
+    },
+    {
+        "flight": "destination",
+        "country": "IpotaIPA",
+        "code": "IPA"
+    },
+    {
+        "flight": "destination",
+        "country": "LamapLPM",
+        "code": "LPM"
+    },
+    {
+        "flight": "destination",
+        "country": "Lamen BayLNB",
+        "code": "LNB"
+    },
+    {
+        "flight": "destination",
+        "country": "LonganaLOD",
+        "code": "LOD"
+    },
+    {
+        "flight": "destination",
+        "country": "LonororeLNE",
+        "code": "LNE"
+    },
+    {
+        "flight": "destination",
+        "country": "LuganvilleSON",
+        "code": "SON"
+    },
+    {
+        "flight": "destination",
+        "country": "MaewoMWF",
+        "code": "MWF"
+    },
+    {
+        "flight": "destination",
+        "country": "Mota LavaMTV",
+        "code": "MTV"
+    },
+    {
+        "flight": "destination",
+        "country": "NorsupNUS",
+        "code": "NUS"
+    },
+    {
+        "flight": "destination",
+        "country": "PaamaPBJ",
+        "code": "PBJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Port VilaVLI",
+        "code": "VLI"
+    },
+    {
+        "flight": "destination",
+        "country": "SaraSSR",
+        "code": "SSR"
+    },
+    {
+        "flight": "destination",
+        "country": "Siwo, Emae IslandEAE",
+        "code": "EAE"
+    },
+    {
+        "flight": "destination",
+        "country": "SolaSLH",
+        "code": "SLH"
+    },
+    {
+        "flight": "destination",
+        "country": "South West BaySWJ",
+        "code": "SWJ"
+    },
+    {
+        "flight": "destination",
+        "country": "TannaTAH",
+        "code": "TAH"
+    },
+    {
+        "flight": "destination",
+        "country": "Torres IslandsTOH",
+        "code": "TOH"
+    },
+    {
+        "flight": "destination",
+        "country": "UleiULB",
+        "code": "ULB"
+    },
+    {
+        "flight": "destination",
+        "country": "ValesdirVLS",
+        "code": "VLS"
+    },
+    {
+        "flight": "destination",
+        "country": "WalahaWLH",
+        "code": "WLH"
+    },
+    {
+        "flight": "departure",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "departure",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "departure",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "departure",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "departure",
+        "country": "NoumeaNOU",
+        "code": "NOU"
+    },
+    {
+        "flight": "departure",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "departure",
+        "country": "Anatom (Aneityum)AUY",
+        "code": "AUY"
+    },
+    {
+        "flight": "departure",
+        "country": "Aniwa IslandAWD",
+        "code": "AWD"
+    },
+    {
+        "flight": "departure",
+        "country": "Craig CoveCCV",
+        "code": "CCV"
+    },
+    {
+        "flight": "departure",
+        "country": "Dillons BayDLY",
+        "code": "DLY"
+    },
+    {
+        "flight": "departure",
+        "country": "Futuna IslandFTA",
+        "code": "FTA"
+    },
+    {
+        "flight": "departure",
+        "country": "GauaZGU",
+        "code": "ZGU"
+    },
+    {
+        "flight": "departure",
+        "country": "IpotaIPA",
+        "code": "IPA"
+    },
+    {
+        "flight": "departure",
+        "country": "LamapLPM",
+        "code": "LPM"
+    },
+    {
+        "flight": "departure",
+        "country": "Lamen BayLNB",
+        "code": "LNB"
+    },
+    {
+        "flight": "departure",
+        "country": "LonganaLOD",
+        "code": "LOD"
+    },
+    {
+        "flight": "departure",
+        "country": "LonororeLNE",
+        "code": "LNE"
+    },
+    {
+        "flight": "departure",
+        "country": "LuganvilleSON",
+        "code": "SON"
+    },
+    {
+        "flight": "departure",
+        "country": "MaewoMWF",
+        "code": "MWF"
+    },
+    {
+        "flight": "departure",
+        "country": "Mota LavaMTV",
+        "code": "MTV"
+    },
+    {
+        "flight": "departure",
+        "country": "NorsupNUS",
+        "code": "NUS"
+    },
+    {
+        "flight": "departure",
+        "country": "PaamaPBJ",
+        "code": "PBJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Port VilaVLI",
+        "code": "VLI"
+    },
+    {
+        "flight": "departure",
+        "country": "SaraSSR",
+        "code": "SSR"
+    },
+    {
+        "flight": "departure",
+        "country": "Siwo, Emae IslandEAE",
+        "code": "EAE"
+    },
+    {
+        "flight": "departure",
+        "country": "SolaSLH",
+        "code": "SLH"
+    },
+    {
+        "flight": "departure",
+        "country": "South West BaySWJ",
+        "code": "SWJ"
+    },
+    {
+        "flight": "departure",
+        "country": "TannaTAH",
+        "code": "TAH"
+    },
+    {
+        "flight": "departure",
+        "country": "Torres IslandsTOH",
+        "code": "TOH"
+    },
+    {
+        "flight": "departure",
+        "country": "UleiULB",
+        "code": "ULB"
+    },
+    {
+        "flight": "departure",
+        "country": "ValesdirVLS",
+        "code": "VLS"
+    },
+    {
+        "flight": "departure",
+        "country": "WalahaWLH",
+        "code": "WLH"
+    }
+]

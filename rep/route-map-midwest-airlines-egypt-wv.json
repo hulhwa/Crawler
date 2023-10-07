@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "LüderitzLUD",
+        "code": "LUD"
+    },
+    {
+        "flight": "destination",
+        "country": "OranjemundOMD",
+        "code": "OMD"
+    },
+    {
+        "flight": "destination",
+        "country": "RunduNDU",
+        "code": "NDU"
+    },
+    {
+        "flight": "destination",
+        "country": "Walvis BayWVB",
+        "code": "WVB"
+    },
+    {
+        "flight": "destination",
+        "country": "WindhoekERS",
+        "code": "ERS"
+    },
+    {
+        "flight": "departure",
+        "country": "LüderitzLUD",
+        "code": "LUD"
+    },
+    {
+        "flight": "departure",
+        "country": "OranjemundOMD",
+        "code": "OMD"
+    },
+    {
+        "flight": "departure",
+        "country": "RunduNDU",
+        "code": "NDU"
+    },
+    {
+        "flight": "departure",
+        "country": "Walvis BayWVB",
+        "code": "WVB"
+    },
+    {
+        "flight": "departure",
+        "country": "WindhoekERS",
+        "code": "ERS"
+    }
+]

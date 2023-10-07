@@ -1,0 +1,112 @@
+[
+    {
+        "flight": "destination",
+        "country": "YerevanEVN",
+        "code": "EVN"
+    },
+    {
+        "flight": "destination",
+        "country": "AstrakhanASF",
+        "code": "ASF"
+    },
+    {
+        "flight": "destination",
+        "country": "Moscow SheremetyevoSVO",
+        "code": "SVO"
+    },
+    {
+        "flight": "destination",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "destination",
+        "country": "NizhnekamskNBC",
+        "code": "NBC"
+    },
+    {
+        "flight": "destination",
+        "country": "Nizhny NovgorodGOJ",
+        "code": "GOJ"
+    },
+    {
+        "flight": "destination",
+        "country": "OrenburgREN",
+        "code": "REN"
+    },
+    {
+        "flight": "destination",
+        "country": "PermPEE",
+        "code": "PEE"
+    },
+    {
+        "flight": "destination",
+        "country": "SaratovRTW",
+        "code": "RTW"
+    },
+    {
+        "flight": "destination",
+        "country": "SochiAER",
+        "code": "AER"
+    },
+    {
+        "flight": "destination",
+        "country": "UfaUFA",
+        "code": "UFA"
+    },
+    {
+        "flight": "departure",
+        "country": "YerevanEVN",
+        "code": "EVN"
+    },
+    {
+        "flight": "departure",
+        "country": "AstrakhanASF",
+        "code": "ASF"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow SheremetyevoSVO",
+        "code": "SVO"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "departure",
+        "country": "NizhnekamskNBC",
+        "code": "NBC"
+    },
+    {
+        "flight": "departure",
+        "country": "Nizhny NovgorodGOJ",
+        "code": "GOJ"
+    },
+    {
+        "flight": "departure",
+        "country": "OrenburgREN",
+        "code": "REN"
+    },
+    {
+        "flight": "departure",
+        "country": "PermPEE",
+        "code": "PEE"
+    },
+    {
+        "flight": "departure",
+        "country": "SaratovRTW",
+        "code": "RTW"
+    },
+    {
+        "flight": "departure",
+        "country": "SochiAER",
+        "code": "AER"
+    },
+    {
+        "flight": "departure",
+        "country": "UfaUFA",
+        "code": "UFA"
+    }
+]

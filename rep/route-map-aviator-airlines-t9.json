@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "destination",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Panama CityPTY",
+        "code": "PTY"
+    },
+    {
+        "flight": "destination",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    },
+    {
+        "flight": "destination",
+        "country": "MaracaiboMAR",
+        "code": "MAR"
+    },
+    {
+        "flight": "destination",
+        "country": "PorlamarPMV",
+        "code": "PMV"
+    },
+    {
+        "flight": "destination",
+        "country": "Santo DomingoSTD",
+        "code": "STD"
+    },
+    {
+        "flight": "destination",
+        "country": "ValenciaVLN",
+        "code": "VLN"
+    },
+    {
+        "flight": "departure",
+        "country": "BogotáBOG",
+        "code": "BOG"
+    },
+    {
+        "flight": "departure",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Panama CityPTY",
+        "code": "PTY"
+    },
+    {
+        "flight": "departure",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    },
+    {
+        "flight": "departure",
+        "country": "MaracaiboMAR",
+        "code": "MAR"
+    },
+    {
+        "flight": "departure",
+        "country": "PorlamarPMV",
+        "code": "PMV"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo DomingoSTD",
+        "code": "STD"
+    },
+    {
+        "flight": "departure",
+        "country": "ValenciaVLN",
+        "code": "VLN"
+    }
+]

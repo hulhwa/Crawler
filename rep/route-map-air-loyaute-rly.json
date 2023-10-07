@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "Art Island, WaalaBMY",
+        "code": "BMY"
+    },
+    {
+        "flight": "destination",
+        "country": "KoumacKOC",
+        "code": "KOC"
+    },
+    {
+        "flight": "destination",
+        "country": "Lifou IslandLIF",
+        "code": "LIF"
+    },
+    {
+        "flight": "destination",
+        "country": "MareMEE",
+        "code": "MEE"
+    },
+    {
+        "flight": "destination",
+        "country": "NouméaGEA",
+        "code": "GEA"
+    },
+    {
+        "flight": "destination",
+        "country": "Ouvéa IslandUVE",
+        "code": "UVE"
+    },
+    {
+        "flight": "destination",
+        "country": "Tiga IslandTGJ",
+        "code": "TGJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Art Island, WaalaBMY",
+        "code": "BMY"
+    },
+    {
+        "flight": "departure",
+        "country": "KoumacKOC",
+        "code": "KOC"
+    },
+    {
+        "flight": "departure",
+        "country": "Lifou IslandLIF",
+        "code": "LIF"
+    },
+    {
+        "flight": "departure",
+        "country": "MareMEE",
+        "code": "MEE"
+    },
+    {
+        "flight": "departure",
+        "country": "NouméaGEA",
+        "code": "GEA"
+    },
+    {
+        "flight": "departure",
+        "country": "Ouvéa IslandUVE",
+        "code": "UVE"
+    },
+    {
+        "flight": "departure",
+        "country": "Tiga IslandTGJ",
+        "code": "TGJ"
+    }
+]

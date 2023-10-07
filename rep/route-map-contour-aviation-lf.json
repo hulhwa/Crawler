@@ -1,0 +1,282 @@
+[
+    {
+        "flight": "destination",
+        "country": "AltoonaAOO",
+        "code": "AOO"
+    },
+    {
+        "flight": "destination",
+        "country": "Baltimore-WashingtonBWI",
+        "code": "BWI"
+    },
+    {
+        "flight": "destination",
+        "country": "BeckleyBKW",
+        "code": "BKW"
+    },
+    {
+        "flight": "destination",
+        "country": "Cape GirardeauCGI",
+        "code": "CGI"
+    },
+    {
+        "flight": "destination",
+        "country": "CharlotteCLT",
+        "code": "CLT"
+    },
+    {
+        "flight": "destination",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "destination",
+        "country": "ClarksburgCKB",
+        "code": "CKB"
+    },
+    {
+        "flight": "destination",
+        "country": "Crescent CityCEC",
+        "code": "CEC"
+    },
+    {
+        "flight": "destination",
+        "country": "Dallas-Fort WorthDFW",
+        "code": "DFW"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort Leonard WoodTBN",
+        "code": "TBN"
+    },
+    {
+        "flight": "destination",
+        "country": "GreenvilleGLH",
+        "code": "GLH"
+    },
+    {
+        "flight": "destination",
+        "country": "KirksvilleIRK",
+        "code": "IRK"
+    },
+    {
+        "flight": "destination",
+        "country": "LewisburgLWB",
+        "code": "LWB"
+    },
+    {
+        "flight": "destination",
+        "country": "MaconMCN",
+        "code": "MCN"
+    },
+    {
+        "flight": "destination",
+        "country": "MarionMWA",
+        "code": "MWA"
+    },
+    {
+        "flight": "destination",
+        "country": "Muscle ShoalsMSL",
+        "code": "MSL"
+    },
+    {
+        "flight": "destination",
+        "country": "NashvilleBNA",
+        "code": "BNA"
+    },
+    {
+        "flight": "destination",
+        "country": "Oakland, East BayOAK",
+        "code": "OAK"
+    },
+    {
+        "flight": "destination",
+        "country": "OgdensburgOGS",
+        "code": "OGS"
+    },
+    {
+        "flight": "destination",
+        "country": "OwensboroOWB",
+        "code": "OWB"
+    },
+    {
+        "flight": "destination",
+        "country": "PaducahPAH",
+        "code": "PAH"
+    },
+    {
+        "flight": "destination",
+        "country": "PagePGA",
+        "code": "PGA"
+    },
+    {
+        "flight": "destination",
+        "country": "ParkersburgPKB",
+        "code": "PKB"
+    },
+    {
+        "flight": "destination",
+        "country": "PhiladelphiaPHL",
+        "code": "PHL"
+    },
+    {
+        "flight": "destination",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "destination",
+        "country": "PlattsburghPBG",
+        "code": "PBG"
+    },
+    {
+        "flight": "destination",
+        "country": "Staunton / WaynesboroSHD",
+        "code": "SHD"
+    },
+    {
+        "flight": "destination",
+        "country": "TupeloTUP",
+        "code": "TUP"
+    },
+    {
+        "flight": "departure",
+        "country": "AltoonaAOO",
+        "code": "AOO"
+    },
+    {
+        "flight": "departure",
+        "country": "Baltimore-WashingtonBWI",
+        "code": "BWI"
+    },
+    {
+        "flight": "departure",
+        "country": "BeckleyBKW",
+        "code": "BKW"
+    },
+    {
+        "flight": "departure",
+        "country": "Cape GirardeauCGI",
+        "code": "CGI"
+    },
+    {
+        "flight": "departure",
+        "country": "CharlotteCLT",
+        "code": "CLT"
+    },
+    {
+        "flight": "departure",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "departure",
+        "country": "ClarksburgCKB",
+        "code": "CKB"
+    },
+    {
+        "flight": "departure",
+        "country": "Crescent CityCEC",
+        "code": "CEC"
+    },
+    {
+        "flight": "departure",
+        "country": "Dallas-Fort WorthDFW",
+        "code": "DFW"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort Leonard WoodTBN",
+        "code": "TBN"
+    },
+    {
+        "flight": "departure",
+        "country": "GreenvilleGLH",
+        "code": "GLH"
+    },
+    {
+        "flight": "departure",
+        "country": "KirksvilleIRK",
+        "code": "IRK"
+    },
+    {
+        "flight": "departure",
+        "country": "LewisburgLWB",
+        "code": "LWB"
+    },
+    {
+        "flight": "departure",
+        "country": "MaconMCN",
+        "code": "MCN"
+    },
+    {
+        "flight": "departure",
+        "country": "MarionMWA",
+        "code": "MWA"
+    },
+    {
+        "flight": "departure",
+        "country": "Muscle ShoalsMSL",
+        "code": "MSL"
+    },
+    {
+        "flight": "departure",
+        "country": "NashvilleBNA",
+        "code": "BNA"
+    },
+    {
+        "flight": "departure",
+        "country": "Oakland, East BayOAK",
+        "code": "OAK"
+    },
+    {
+        "flight": "departure",
+        "country": "OgdensburgOGS",
+        "code": "OGS"
+    },
+    {
+        "flight": "departure",
+        "country": "OwensboroOWB",
+        "code": "OWB"
+    },
+    {
+        "flight": "departure",
+        "country": "PaducahPAH",
+        "code": "PAH"
+    },
+    {
+        "flight": "departure",
+        "country": "PagePGA",
+        "code": "PGA"
+    },
+    {
+        "flight": "departure",
+        "country": "ParkersburgPKB",
+        "code": "PKB"
+    },
+    {
+        "flight": "departure",
+        "country": "PhiladelphiaPHL",
+        "code": "PHL"
+    },
+    {
+        "flight": "departure",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "departure",
+        "country": "PlattsburghPBG",
+        "code": "PBG"
+    },
+    {
+        "flight": "departure",
+        "country": "Staunton / WaynesboroSHD",
+        "code": "SHD"
+    },
+    {
+        "flight": "departure",
+        "country": "TupeloTUP",
+        "code": "TUP"
+    }
+]

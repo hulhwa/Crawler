@@ -1,0 +1,292 @@
+[
+    {
+        "flight": "destination",
+        "country": "Arctic BayYAB",
+        "code": "YAB"
+    },
+    {
+        "flight": "destination",
+        "country": "Cambridge BayYCB",
+        "code": "YCB"
+    },
+    {
+        "flight": "destination",
+        "country": "Cape DorsetYTE",
+        "code": "YTE"
+    },
+    {
+        "flight": "destination",
+        "country": "Clyde RiverYCY",
+        "code": "YCY"
+    },
+    {
+        "flight": "destination",
+        "country": "EdmontonYEG",
+        "code": "YEG"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort SimpsonYFS",
+        "code": "YFS"
+    },
+    {
+        "flight": "destination",
+        "country": "Gjoa HavenYHK",
+        "code": "YHK"
+    },
+    {
+        "flight": "destination",
+        "country": "Grise FiordYGZ",
+        "code": "YGZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Hall BeachYUX",
+        "code": "YUX"
+    },
+    {
+        "flight": "destination",
+        "country": "Hay RiverYHY",
+        "code": "YHY"
+    },
+    {
+        "flight": "destination",
+        "country": "IgloolikYGT",
+        "code": "YGT"
+    },
+    {
+        "flight": "destination",
+        "country": "InuvikYEV",
+        "code": "YEV"
+    },
+    {
+        "flight": "destination",
+        "country": "IqaluitYFB",
+        "code": "YFB"
+    },
+    {
+        "flight": "destination",
+        "country": "KimmirutYLC",
+        "code": "YLC"
+    },
+    {
+        "flight": "destination",
+        "country": "KugaarukYBB",
+        "code": "YBB"
+    },
+    {
+        "flight": "destination",
+        "country": "KugluktukYCO",
+        "code": "YCO"
+    },
+    {
+        "flight": "destination",
+        "country": "KuujjuaqYVP",
+        "code": "YVP"
+    },
+    {
+        "flight": "destination",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "destination",
+        "country": "Norman WellsYVQ",
+        "code": "YVQ"
+    },
+    {
+        "flight": "destination",
+        "country": "OttawaYOW",
+        "code": "YOW"
+    },
+    {
+        "flight": "destination",
+        "country": "PangnirtungYXP",
+        "code": "YXP"
+    },
+    {
+        "flight": "destination",
+        "country": "Pond InletYIO",
+        "code": "YIO"
+    },
+    {
+        "flight": "destination",
+        "country": "QikiqtarjuaqYVM",
+        "code": "YVM"
+    },
+    {
+        "flight": "destination",
+        "country": "Rankin InletYRT",
+        "code": "YRT"
+    },
+    {
+        "flight": "destination",
+        "country": "ResoluteYRB",
+        "code": "YRB"
+    },
+    {
+        "flight": "destination",
+        "country": "TaloyoakYYH",
+        "code": "YYH"
+    },
+    {
+        "flight": "destination",
+        "country": "UlukhaktokYHI",
+        "code": "YHI"
+    },
+    {
+        "flight": "destination",
+        "country": "WinnipegYWG",
+        "code": "YWG"
+    },
+    {
+        "flight": "destination",
+        "country": "YellowknifeYZF",
+        "code": "YZF"
+    },
+    {
+        "flight": "departure",
+        "country": "Arctic BayYAB",
+        "code": "YAB"
+    },
+    {
+        "flight": "departure",
+        "country": "Cambridge BayYCB",
+        "code": "YCB"
+    },
+    {
+        "flight": "departure",
+        "country": "Cape DorsetYTE",
+        "code": "YTE"
+    },
+    {
+        "flight": "departure",
+        "country": "Clyde RiverYCY",
+        "code": "YCY"
+    },
+    {
+        "flight": "departure",
+        "country": "EdmontonYEG",
+        "code": "YEG"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort SimpsonYFS",
+        "code": "YFS"
+    },
+    {
+        "flight": "departure",
+        "country": "Gjoa HavenYHK",
+        "code": "YHK"
+    },
+    {
+        "flight": "departure",
+        "country": "Grise FiordYGZ",
+        "code": "YGZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Hall BeachYUX",
+        "code": "YUX"
+    },
+    {
+        "flight": "departure",
+        "country": "Hay RiverYHY",
+        "code": "YHY"
+    },
+    {
+        "flight": "departure",
+        "country": "IgloolikYGT",
+        "code": "YGT"
+    },
+    {
+        "flight": "departure",
+        "country": "InuvikYEV",
+        "code": "YEV"
+    },
+    {
+        "flight": "departure",
+        "country": "IqaluitYFB",
+        "code": "YFB"
+    },
+    {
+        "flight": "departure",
+        "country": "KimmirutYLC",
+        "code": "YLC"
+    },
+    {
+        "flight": "departure",
+        "country": "KugaarukYBB",
+        "code": "YBB"
+    },
+    {
+        "flight": "departure",
+        "country": "KugluktukYCO",
+        "code": "YCO"
+    },
+    {
+        "flight": "departure",
+        "country": "KuujjuaqYVP",
+        "code": "YVP"
+    },
+    {
+        "flight": "departure",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "departure",
+        "country": "Norman WellsYVQ",
+        "code": "YVQ"
+    },
+    {
+        "flight": "departure",
+        "country": "OttawaYOW",
+        "code": "YOW"
+    },
+    {
+        "flight": "departure",
+        "country": "PangnirtungYXP",
+        "code": "YXP"
+    },
+    {
+        "flight": "departure",
+        "country": "Pond InletYIO",
+        "code": "YIO"
+    },
+    {
+        "flight": "departure",
+        "country": "QikiqtarjuaqYVM",
+        "code": "YVM"
+    },
+    {
+        "flight": "departure",
+        "country": "Rankin InletYRT",
+        "code": "YRT"
+    },
+    {
+        "flight": "departure",
+        "country": "ResoluteYRB",
+        "code": "YRB"
+    },
+    {
+        "flight": "departure",
+        "country": "TaloyoakYYH",
+        "code": "YYH"
+    },
+    {
+        "flight": "departure",
+        "country": "UlukhaktokYHI",
+        "code": "YHI"
+    },
+    {
+        "flight": "departure",
+        "country": "WinnipegYWG",
+        "code": "YWG"
+    },
+    {
+        "flight": "departure",
+        "country": "YellowknifeYZF",
+        "code": "YZF"
+    }
+]

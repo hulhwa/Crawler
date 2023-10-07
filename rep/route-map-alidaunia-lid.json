@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "FoggiaFOG",
+        "code": "FOG"
+    },
+    {
+        "flight": "destination",
+        "country": "San Domino IslandTQR",
+        "code": "TQR"
+    },
+    {
+        "flight": "destination",
+        "country": "ViesteVIF",
+        "code": "VIF"
+    },
+    {
+        "flight": "departure",
+        "country": "FoggiaFOG",
+        "code": "FOG"
+    },
+    {
+        "flight": "departure",
+        "country": "San Domino IslandTQR",
+        "code": "TQR"
+    },
+    {
+        "flight": "departure",
+        "country": "ViesteVIF",
+        "code": "VIF"
+    }
+]

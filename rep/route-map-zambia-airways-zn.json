@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "destination",
+        "country": "LivingstoneLVI",
+        "code": "LVI"
+    },
+    {
+        "flight": "destination",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "destination",
+        "country": "NdolaNLA",
+        "code": "NLA"
+    },
+    {
+        "flight": "destination",
+        "country": "SolweziSLI",
+        "code": "SLI"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "departure",
+        "country": "LivingstoneLVI",
+        "code": "LVI"
+    },
+    {
+        "flight": "departure",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "departure",
+        "country": "NdolaNLA",
+        "code": "NLA"
+    },
+    {
+        "flight": "departure",
+        "country": "SolweziSLI",
+        "code": "SLI"
+    }
+]

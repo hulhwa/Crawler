@@ -1,0 +1,522 @@
+[
+    {
+        "flight": "destination",
+        "country": "YerevanEVN",
+        "code": "EVN"
+    },
+    {
+        "flight": "destination",
+        "country": "BakuGYD",
+        "code": "GYD"
+    },
+    {
+        "flight": "destination",
+        "country": "GanjaGNJ",
+        "code": "GNJ"
+    },
+    {
+        "flight": "destination",
+        "country": "NakhchivanNAJ",
+        "code": "NAJ"
+    },
+    {
+        "flight": "destination",
+        "country": "BishkekFRU",
+        "code": "FRU"
+    },
+    {
+        "flight": "destination",
+        "country": "BarnaulBAX",
+        "code": "BAX"
+    },
+    {
+        "flight": "destination",
+        "country": "BeloyarskyEYK",
+        "code": "EYK"
+    },
+    {
+        "flight": "destination",
+        "country": "BeryozovoEZV",
+        "code": "EZV"
+    },
+    {
+        "flight": "destination",
+        "country": "ChelyabinskCEK",
+        "code": "CEK"
+    },
+    {
+        "flight": "destination",
+        "country": "Gorno-AltayskRGK",
+        "code": "RGK"
+    },
+    {
+        "flight": "destination",
+        "country": "GroznyGRV",
+        "code": "GRV"
+    },
+    {
+        "flight": "destination",
+        "country": "IgrimIRM",
+        "code": "IRM"
+    },
+    {
+        "flight": "destination",
+        "country": "IrkutskIKT",
+        "code": "IKT"
+    },
+    {
+        "flight": "destination",
+        "country": "KazanKZN",
+        "code": "KZN"
+    },
+    {
+        "flight": "destination",
+        "country": "Khanty-MansiyskHMA",
+        "code": "HMA"
+    },
+    {
+        "flight": "destination",
+        "country": "KogalymKGP",
+        "code": "KGP"
+    },
+    {
+        "flight": "destination",
+        "country": "Krasnosel'KupKKQ",
+        "code": "KKQ"
+    },
+    {
+        "flight": "destination",
+        "country": "KrasnoyarskKJA",
+        "code": "KJA"
+    },
+    {
+        "flight": "destination",
+        "country": "KurganKRO",
+        "code": "KRO"
+    },
+    {
+        "flight": "destination",
+        "country": "Mineralnye VodyMRV",
+        "code": "MRV"
+    },
+    {
+        "flight": "destination",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "destination",
+        "country": "Naryan-MarNNM",
+        "code": "NNM"
+    },
+    {
+        "flight": "destination",
+        "country": "NizhnevartovskNJC",
+        "code": "NJC"
+    },
+    {
+        "flight": "destination",
+        "country": "NovosibirskOVB",
+        "code": "OVB"
+    },
+    {
+        "flight": "destination",
+        "country": "Novy UrengoyNUX",
+        "code": "NUX"
+    },
+    {
+        "flight": "destination",
+        "country": "NoyabrskNOJ",
+        "code": "NOJ"
+    },
+    {
+        "flight": "destination",
+        "country": "NyaganNYA",
+        "code": "NYA"
+    },
+    {
+        "flight": "destination",
+        "country": "OmskOMS",
+        "code": "OMS"
+    },
+    {
+        "flight": "destination",
+        "country": "PermPEE",
+        "code": "PEE"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint PetersburgLED",
+        "code": "LED"
+    },
+    {
+        "flight": "destination",
+        "country": "SamaraKUF",
+        "code": "KUF"
+    },
+    {
+        "flight": "destination",
+        "country": "SochiAER",
+        "code": "AER"
+    },
+    {
+        "flight": "destination",
+        "country": "SovetskyOVS",
+        "code": "OVS"
+    },
+    {
+        "flight": "destination",
+        "country": "SurgutSGC",
+        "code": "SGC"
+    },
+    {
+        "flight": "destination",
+        "country": "SyktyvkarSCW",
+        "code": "SCW"
+    },
+    {
+        "flight": "destination",
+        "country": "TomskTOF",
+        "code": "TOF"
+    },
+    {
+        "flight": "destination",
+        "country": "TyumenTJM",
+        "code": "TJM"
+    },
+    {
+        "flight": "destination",
+        "country": "UfaUFA",
+        "code": "UFA"
+    },
+    {
+        "flight": "destination",
+        "country": "Ukhta / SosnogorskUCT",
+        "code": "UCT"
+    },
+    {
+        "flight": "destination",
+        "country": "UrayURJ",
+        "code": "URJ"
+    },
+    {
+        "flight": "destination",
+        "country": "UsinskUSK",
+        "code": "USK"
+    },
+    {
+        "flight": "destination",
+        "country": "YekaterinburgSVX",
+        "code": "SVX"
+    },
+    {
+        "flight": "destination",
+        "country": "DushanbeDYU",
+        "code": "DYU"
+    },
+    {
+        "flight": "destination",
+        "country": "KhujandLBD",
+        "code": "LBD"
+    },
+    {
+        "flight": "destination",
+        "country": "AntalyaAYT",
+        "code": "AYT"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "destination",
+        "country": "Dubai (Jebel Ali)DWC",
+        "code": "DWC"
+    },
+    {
+        "flight": "destination",
+        "country": "BukharaBHK",
+        "code": "BHK"
+    },
+    {
+        "flight": "destination",
+        "country": "FerganaFEG",
+        "code": "FEG"
+    },
+    {
+        "flight": "destination",
+        "country": "SamarkandSKD",
+        "code": "SKD"
+    },
+    {
+        "flight": "destination",
+        "country": "TashkentTAS",
+        "code": "TAS"
+    },
+    {
+        "flight": "departure",
+        "country": "YerevanEVN",
+        "code": "EVN"
+    },
+    {
+        "flight": "departure",
+        "country": "BakuGYD",
+        "code": "GYD"
+    },
+    {
+        "flight": "departure",
+        "country": "GanjaGNJ",
+        "code": "GNJ"
+    },
+    {
+        "flight": "departure",
+        "country": "NakhchivanNAJ",
+        "code": "NAJ"
+    },
+    {
+        "flight": "departure",
+        "country": "BishkekFRU",
+        "code": "FRU"
+    },
+    {
+        "flight": "departure",
+        "country": "BarnaulBAX",
+        "code": "BAX"
+    },
+    {
+        "flight": "departure",
+        "country": "BeloyarskyEYK",
+        "code": "EYK"
+    },
+    {
+        "flight": "departure",
+        "country": "BeryozovoEZV",
+        "code": "EZV"
+    },
+    {
+        "flight": "departure",
+        "country": "ChelyabinskCEK",
+        "code": "CEK"
+    },
+    {
+        "flight": "departure",
+        "country": "Gorno-AltayskRGK",
+        "code": "RGK"
+    },
+    {
+        "flight": "departure",
+        "country": "GroznyGRV",
+        "code": "GRV"
+    },
+    {
+        "flight": "departure",
+        "country": "IgrimIRM",
+        "code": "IRM"
+    },
+    {
+        "flight": "departure",
+        "country": "IrkutskIKT",
+        "code": "IKT"
+    },
+    {
+        "flight": "departure",
+        "country": "KazanKZN",
+        "code": "KZN"
+    },
+    {
+        "flight": "departure",
+        "country": "Khanty-MansiyskHMA",
+        "code": "HMA"
+    },
+    {
+        "flight": "departure",
+        "country": "KogalymKGP",
+        "code": "KGP"
+    },
+    {
+        "flight": "departure",
+        "country": "Krasnosel'KupKKQ",
+        "code": "KKQ"
+    },
+    {
+        "flight": "departure",
+        "country": "KrasnoyarskKJA",
+        "code": "KJA"
+    },
+    {
+        "flight": "departure",
+        "country": "KurganKRO",
+        "code": "KRO"
+    },
+    {
+        "flight": "departure",
+        "country": "Mineralnye VodyMRV",
+        "code": "MRV"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "departure",
+        "country": "Naryan-MarNNM",
+        "code": "NNM"
+    },
+    {
+        "flight": "departure",
+        "country": "NizhnevartovskNJC",
+        "code": "NJC"
+    },
+    {
+        "flight": "departure",
+        "country": "NovosibirskOVB",
+        "code": "OVB"
+    },
+    {
+        "flight": "departure",
+        "country": "Novy UrengoyNUX",
+        "code": "NUX"
+    },
+    {
+        "flight": "departure",
+        "country": "NoyabrskNOJ",
+        "code": "NOJ"
+    },
+    {
+        "flight": "departure",
+        "country": "NyaganNYA",
+        "code": "NYA"
+    },
+    {
+        "flight": "departure",
+        "country": "OmskOMS",
+        "code": "OMS"
+    },
+    {
+        "flight": "departure",
+        "country": "PermPEE",
+        "code": "PEE"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint PetersburgLED",
+        "code": "LED"
+    },
+    {
+        "flight": "departure",
+        "country": "SamaraKUF",
+        "code": "KUF"
+    },
+    {
+        "flight": "departure",
+        "country": "SochiAER",
+        "code": "AER"
+    },
+    {
+        "flight": "departure",
+        "country": "SovetskyOVS",
+        "code": "OVS"
+    },
+    {
+        "flight": "departure",
+        "country": "SurgutSGC",
+        "code": "SGC"
+    },
+    {
+        "flight": "departure",
+        "country": "SyktyvkarSCW",
+        "code": "SCW"
+    },
+    {
+        "flight": "departure",
+        "country": "TomskTOF",
+        "code": "TOF"
+    },
+    {
+        "flight": "departure",
+        "country": "TyumenTJM",
+        "code": "TJM"
+    },
+    {
+        "flight": "departure",
+        "country": "UfaUFA",
+        "code": "UFA"
+    },
+    {
+        "flight": "departure",
+        "country": "Ukhta / SosnogorskUCT",
+        "code": "UCT"
+    },
+    {
+        "flight": "departure",
+        "country": "UrayURJ",
+        "code": "URJ"
+    },
+    {
+        "flight": "departure",
+        "country": "UsinskUSK",
+        "code": "USK"
+    },
+    {
+        "flight": "departure",
+        "country": "YekaterinburgSVX",
+        "code": "SVX"
+    },
+    {
+        "flight": "departure",
+        "country": "DushanbeDYU",
+        "code": "DYU"
+    },
+    {
+        "flight": "departure",
+        "country": "KhujandLBD",
+        "code": "LBD"
+    },
+    {
+        "flight": "departure",
+        "country": "AntalyaAYT",
+        "code": "AYT"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "Dubai (Jebel Ali)DWC",
+        "code": "DWC"
+    },
+    {
+        "flight": "departure",
+        "country": "BukharaBHK",
+        "code": "BHK"
+    },
+    {
+        "flight": "departure",
+        "country": "FerganaFEG",
+        "code": "FEG"
+    },
+    {
+        "flight": "departure",
+        "country": "SamarkandSKD",
+        "code": "SKD"
+    },
+    {
+        "flight": "departure",
+        "country": "TashkentTAS",
+        "code": "TAS"
+    }
+]

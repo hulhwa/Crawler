@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "AnjouanAJN",
+        "code": "AJN"
+    },
+    {
+        "flight": "destination",
+        "country": "MohéliNWA",
+        "code": "NWA"
+    },
+    {
+        "flight": "destination",
+        "country": "MoroniHAH",
+        "code": "HAH"
+    },
+    {
+        "flight": "departure",
+        "country": "AnjouanAJN",
+        "code": "AJN"
+    },
+    {
+        "flight": "departure",
+        "country": "MohéliNWA",
+        "code": "NWA"
+    },
+    {
+        "flight": "departure",
+        "country": "MoroniHAH",
+        "code": "HAH"
+    }
+]

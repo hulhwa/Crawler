@@ -1,0 +1,392 @@
+[
+    {
+        "flight": "destination",
+        "country": "AracatiARX",
+        "code": "ARX"
+    },
+    {
+        "flight": "destination",
+        "country": "AraguaínaAUX",
+        "code": "AUX"
+    },
+    {
+        "flight": "destination",
+        "country": "BarcelosBAZ",
+        "code": "BAZ"
+    },
+    {
+        "flight": "destination",
+        "country": "BarreirasBRA",
+        "code": "BRA"
+    },
+    {
+        "flight": "destination",
+        "country": "BrasíliaBSB",
+        "code": "BSB"
+    },
+    {
+        "flight": "destination",
+        "country": "CarauariCAF",
+        "code": "CAF"
+    },
+    {
+        "flight": "destination",
+        "country": "CoariCIZ",
+        "code": "CIZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Feira de SantanaFEC",
+        "code": "FEC"
+    },
+    {
+        "flight": "destination",
+        "country": "Fernando de NoronhaFEN",
+        "code": "FEN"
+    },
+    {
+        "flight": "destination",
+        "country": "FortalezaFOR",
+        "code": "FOR"
+    },
+    {
+        "flight": "destination",
+        "country": "GuanambiGNM",
+        "code": "GNM"
+    },
+    {
+        "flight": "destination",
+        "country": "IpatingaIPN",
+        "code": "IPN"
+    },
+    {
+        "flight": "destination",
+        "country": "JaguarunaJJG",
+        "code": "JJG"
+    },
+    {
+        "flight": "destination",
+        "country": "JoinvilleJOI",
+        "code": "JOI"
+    },
+    {
+        "flight": "destination",
+        "country": "Juazeiro do NorteJDO",
+        "code": "JDO"
+    },
+    {
+        "flight": "destination",
+        "country": "Juiz de ForaIZA",
+        "code": "IZA"
+    },
+    {
+        "flight": "destination",
+        "country": "LençóisLEC",
+        "code": "LEC"
+    },
+    {
+        "flight": "destination",
+        "country": "ManausMAO",
+        "code": "MAO"
+    },
+    {
+        "flight": "destination",
+        "country": "ManicoréMNX",
+        "code": "MNX"
+    },
+    {
+        "flight": "destination",
+        "country": "Montes ClarosMOC",
+        "code": "MOC"
+    },
+    {
+        "flight": "destination",
+        "country": "NatalNAT",
+        "code": "NAT"
+    },
+    {
+        "flight": "destination",
+        "country": "Paulo AfonsoPAV",
+        "code": "PAV"
+    },
+    {
+        "flight": "destination",
+        "country": "PelotasPET",
+        "code": "PET"
+    },
+    {
+        "flight": "destination",
+        "country": "Porto AlegrePOA",
+        "code": "POA"
+    },
+    {
+        "flight": "destination",
+        "country": "Presidente PrudentePPB",
+        "code": "PPB"
+    },
+    {
+        "flight": "destination",
+        "country": "RecifeREC",
+        "code": "REC"
+    },
+    {
+        "flight": "destination",
+        "country": "Ribeirão PretoRAO",
+        "code": "RAO"
+    },
+    {
+        "flight": "destination",
+        "country": "Rio de JaneiroSDU",
+        "code": "SDU"
+    },
+    {
+        "flight": "destination",
+        "country": "Salvador da BahiaSSA",
+        "code": "SSA"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa Isabel do Rio NegroIRZ",
+        "code": "IRZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa MariaRIA",
+        "code": "RIA"
+    },
+    {
+        "flight": "destination",
+        "country": "Santo ÂngeloGEL",
+        "code": "GEL"
+    },
+    {
+        "flight": "destination",
+        "country": "São José do Rio PretoSJP",
+        "code": "SJP"
+    },
+    {
+        "flight": "destination",
+        "country": "São PauloCGH",
+        "code": "CGH"
+    },
+    {
+        "flight": "destination",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "destination",
+        "country": "São Paulo de OlivençaOLC",
+        "code": "OLC"
+    },
+    {
+        "flight": "destination",
+        "country": "TeféTFF",
+        "code": "TFF"
+    },
+    {
+        "flight": "destination",
+        "country": "Teixeira de FreitasTXF",
+        "code": "TXF"
+    },
+    {
+        "flight": "destination",
+        "country": "UruguaianaURG",
+        "code": "URG"
+    },
+    {
+        "flight": "departure",
+        "country": "AracatiARX",
+        "code": "ARX"
+    },
+    {
+        "flight": "departure",
+        "country": "AraguaínaAUX",
+        "code": "AUX"
+    },
+    {
+        "flight": "departure",
+        "country": "BarcelosBAZ",
+        "code": "BAZ"
+    },
+    {
+        "flight": "departure",
+        "country": "BarreirasBRA",
+        "code": "BRA"
+    },
+    {
+        "flight": "departure",
+        "country": "BrasíliaBSB",
+        "code": "BSB"
+    },
+    {
+        "flight": "departure",
+        "country": "CarauariCAF",
+        "code": "CAF"
+    },
+    {
+        "flight": "departure",
+        "country": "CoariCIZ",
+        "code": "CIZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Feira de SantanaFEC",
+        "code": "FEC"
+    },
+    {
+        "flight": "departure",
+        "country": "Fernando de NoronhaFEN",
+        "code": "FEN"
+    },
+    {
+        "flight": "departure",
+        "country": "FortalezaFOR",
+        "code": "FOR"
+    },
+    {
+        "flight": "departure",
+        "country": "GuanambiGNM",
+        "code": "GNM"
+    },
+    {
+        "flight": "departure",
+        "country": "IpatingaIPN",
+        "code": "IPN"
+    },
+    {
+        "flight": "departure",
+        "country": "JaguarunaJJG",
+        "code": "JJG"
+    },
+    {
+        "flight": "departure",
+        "country": "JoinvilleJOI",
+        "code": "JOI"
+    },
+    {
+        "flight": "departure",
+        "country": "Juazeiro do NorteJDO",
+        "code": "JDO"
+    },
+    {
+        "flight": "departure",
+        "country": "Juiz de ForaIZA",
+        "code": "IZA"
+    },
+    {
+        "flight": "departure",
+        "country": "LençóisLEC",
+        "code": "LEC"
+    },
+    {
+        "flight": "departure",
+        "country": "ManausMAO",
+        "code": "MAO"
+    },
+    {
+        "flight": "departure",
+        "country": "ManicoréMNX",
+        "code": "MNX"
+    },
+    {
+        "flight": "departure",
+        "country": "Montes ClarosMOC",
+        "code": "MOC"
+    },
+    {
+        "flight": "departure",
+        "country": "NatalNAT",
+        "code": "NAT"
+    },
+    {
+        "flight": "departure",
+        "country": "Paulo AfonsoPAV",
+        "code": "PAV"
+    },
+    {
+        "flight": "departure",
+        "country": "PelotasPET",
+        "code": "PET"
+    },
+    {
+        "flight": "departure",
+        "country": "Porto AlegrePOA",
+        "code": "POA"
+    },
+    {
+        "flight": "departure",
+        "country": "Presidente PrudentePPB",
+        "code": "PPB"
+    },
+    {
+        "flight": "departure",
+        "country": "RecifeREC",
+        "code": "REC"
+    },
+    {
+        "flight": "departure",
+        "country": "Ribeirão PretoRAO",
+        "code": "RAO"
+    },
+    {
+        "flight": "departure",
+        "country": "Rio de JaneiroSDU",
+        "code": "SDU"
+    },
+    {
+        "flight": "departure",
+        "country": "Salvador da BahiaSSA",
+        "code": "SSA"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Isabel do Rio NegroIRZ",
+        "code": "IRZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa MariaRIA",
+        "code": "RIA"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo ÂngeloGEL",
+        "code": "GEL"
+    },
+    {
+        "flight": "departure",
+        "country": "São José do Rio PretoSJP",
+        "code": "SJP"
+    },
+    {
+        "flight": "departure",
+        "country": "São PauloCGH",
+        "code": "CGH"
+    },
+    {
+        "flight": "departure",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "departure",
+        "country": "São Paulo de OlivençaOLC",
+        "code": "OLC"
+    },
+    {
+        "flight": "departure",
+        "country": "TeféTFF",
+        "code": "TFF"
+    },
+    {
+        "flight": "departure",
+        "country": "Teixeira de FreitasTXF",
+        "code": "TXF"
+    },
+    {
+        "flight": "departure",
+        "country": "UruguaianaURG",
+        "code": "URG"
+    }
+]

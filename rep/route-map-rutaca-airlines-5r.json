@@ -1,0 +1,102 @@
+[
+    {
+        "flight": "destination",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "destination",
+        "country": "BarcelonaBLA",
+        "code": "BLA"
+    },
+    {
+        "flight": "destination",
+        "country": "BarquisimetoBRM",
+        "code": "BRM"
+    },
+    {
+        "flight": "destination",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    },
+    {
+        "flight": "destination",
+        "country": "Ciudad BolívarCBL",
+        "code": "CBL"
+    },
+    {
+        "flight": "destination",
+        "country": "MaracaiboMAR",
+        "code": "MAR"
+    },
+    {
+        "flight": "destination",
+        "country": "MaturínMUN",
+        "code": "MUN"
+    },
+    {
+        "flight": "destination",
+        "country": "PorlamarPMV",
+        "code": "PMV"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto Ordaz and San FelixPZO",
+        "code": "PZO"
+    },
+    {
+        "flight": "destination",
+        "country": "Santo DomingoSTD",
+        "code": "STD"
+    },
+    {
+        "flight": "departure",
+        "country": "Punta CanaPUJ",
+        "code": "PUJ"
+    },
+    {
+        "flight": "departure",
+        "country": "BarcelonaBLA",
+        "code": "BLA"
+    },
+    {
+        "flight": "departure",
+        "country": "BarquisimetoBRM",
+        "code": "BRM"
+    },
+    {
+        "flight": "departure",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    },
+    {
+        "flight": "departure",
+        "country": "Ciudad BolívarCBL",
+        "code": "CBL"
+    },
+    {
+        "flight": "departure",
+        "country": "MaracaiboMAR",
+        "code": "MAR"
+    },
+    {
+        "flight": "departure",
+        "country": "MaturínMUN",
+        "code": "MUN"
+    },
+    {
+        "flight": "departure",
+        "country": "PorlamarPMV",
+        "code": "PMV"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto Ordaz and San FelixPZO",
+        "code": "PZO"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo DomingoSTD",
+        "code": "STD"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "LæsøBYR",
+        "code": "BYR"
+    },
+    {
+        "flight": "destination",
+        "country": "RoskildeRKE",
+        "code": "RKE"
+    },
+    {
+        "flight": "departure",
+        "country": "LæsøBYR",
+        "code": "BYR"
+    },
+    {
+        "flight": "departure",
+        "country": "RoskildeRKE",
+        "code": "RKE"
+    }
+]

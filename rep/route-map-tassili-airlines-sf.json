@@ -1,0 +1,122 @@
+[
+    {
+        "flight": "destination",
+        "country": "AdrarAZR",
+        "code": "AZR"
+    },
+    {
+        "flight": "destination",
+        "country": "AlgiersALG",
+        "code": "ALG"
+    },
+    {
+        "flight": "destination",
+        "country": "AnnabaAAE",
+        "code": "AAE"
+    },
+    {
+        "flight": "destination",
+        "country": "BécharCBH",
+        "code": "CBH"
+    },
+    {
+        "flight": "destination",
+        "country": "ConstantineCZL",
+        "code": "CZL"
+    },
+    {
+        "flight": "destination",
+        "country": "El OuedELU",
+        "code": "ELU"
+    },
+    {
+        "flight": "destination",
+        "country": "Hassi MessaoudHME",
+        "code": "HME"
+    },
+    {
+        "flight": "destination",
+        "country": "In AmenasIAM",
+        "code": "IAM"
+    },
+    {
+        "flight": "destination",
+        "country": "OranORN",
+        "code": "ORN"
+    },
+    {
+        "flight": "destination",
+        "country": "NantesNTE",
+        "code": "NTE"
+    },
+    {
+        "flight": "destination",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "destination",
+        "country": "StrasbourgSXB",
+        "code": "SXB"
+    },
+    {
+        "flight": "departure",
+        "country": "AdrarAZR",
+        "code": "AZR"
+    },
+    {
+        "flight": "departure",
+        "country": "AlgiersALG",
+        "code": "ALG"
+    },
+    {
+        "flight": "departure",
+        "country": "AnnabaAAE",
+        "code": "AAE"
+    },
+    {
+        "flight": "departure",
+        "country": "BécharCBH",
+        "code": "CBH"
+    },
+    {
+        "flight": "departure",
+        "country": "ConstantineCZL",
+        "code": "CZL"
+    },
+    {
+        "flight": "departure",
+        "country": "El OuedELU",
+        "code": "ELU"
+    },
+    {
+        "flight": "departure",
+        "country": "Hassi MessaoudHME",
+        "code": "HME"
+    },
+    {
+        "flight": "departure",
+        "country": "In AmenasIAM",
+        "code": "IAM"
+    },
+    {
+        "flight": "departure",
+        "country": "OranORN",
+        "code": "ORN"
+    },
+    {
+        "flight": "departure",
+        "country": "NantesNTE",
+        "code": "NTE"
+    },
+    {
+        "flight": "departure",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "departure",
+        "country": "StrasbourgSXB",
+        "code": "SXB"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Pointe-à-PitrePTP",
+        "code": "PTP"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort-de-FranceFDF",
+        "code": "FDF"
+    },
+    {
+        "flight": "destination",
+        "country": "San JuanSJU",
+        "code": "SJU"
+    },
+    {
+        "flight": "destination",
+        "country": "Sint MaartenSXM",
+        "code": "SXM"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint BarthélemySBH",
+        "code": "SBH"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint MartinSFG",
+        "code": "SFG"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo DomingoSDQ",
+        "code": "SDQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Pointe-à-PitrePTP",
+        "code": "PTP"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort-de-FranceFDF",
+        "code": "FDF"
+    },
+    {
+        "flight": "departure",
+        "country": "San JuanSJU",
+        "code": "SJU"
+    },
+    {
+        "flight": "departure",
+        "country": "Sint MaartenSXM",
+        "code": "SXM"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint BarthélemySBH",
+        "code": "SBH"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint MartinSFG",
+        "code": "SFG"
+    }
+]

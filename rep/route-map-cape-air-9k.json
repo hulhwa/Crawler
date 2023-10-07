@@ -1,0 +1,312 @@
+[
+    {
+        "flight": "destination",
+        "country": "TortolaEIS",
+        "code": "EIS"
+    },
+    {
+        "flight": "destination",
+        "country": "Virgin GordaVIJ",
+        "code": "VIJ"
+    },
+    {
+        "flight": "destination",
+        "country": "CulebraCPX",
+        "code": "CPX"
+    },
+    {
+        "flight": "destination",
+        "country": "MayagüezMAZ",
+        "code": "MAZ"
+    },
+    {
+        "flight": "destination",
+        "country": "San JuanSJU",
+        "code": "SJU"
+    },
+    {
+        "flight": "destination",
+        "country": "NevisNEV",
+        "code": "NEV"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint CroixSTX",
+        "code": "STX"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint ThomasSTT",
+        "code": "STT"
+    },
+    {
+        "flight": "destination",
+        "country": "AugustaAUG",
+        "code": "AUG"
+    },
+    {
+        "flight": "destination",
+        "country": "Bar HarborBHB",
+        "code": "BHB"
+    },
+    {
+        "flight": "destination",
+        "country": "BillingsBIL",
+        "code": "BIL"
+    },
+    {
+        "flight": "destination",
+        "country": "BostonBOS",
+        "code": "BOS"
+    },
+    {
+        "flight": "destination",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "destination",
+        "country": "GlasgowGGW",
+        "code": "GGW"
+    },
+    {
+        "flight": "destination",
+        "country": "GlendiveGDV",
+        "code": "GDV"
+    },
+    {
+        "flight": "destination",
+        "country": "HavreHVR",
+        "code": "HVR"
+    },
+    {
+        "flight": "destination",
+        "country": "HyannisHYA",
+        "code": "HYA"
+    },
+    {
+        "flight": "destination",
+        "country": "LebanonLEB",
+        "code": "LEB"
+    },
+    {
+        "flight": "destination",
+        "country": "ManisteeMBL",
+        "code": "MBL"
+    },
+    {
+        "flight": "destination",
+        "country": "Martha's VineyardMVY",
+        "code": "MVY"
+    },
+    {
+        "flight": "destination",
+        "country": "NantucketACK",
+        "code": "ACK"
+    },
+    {
+        "flight": "destination",
+        "country": "New BedfordEWB",
+        "code": "EWB"
+    },
+    {
+        "flight": "destination",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "destination",
+        "country": "ProvincetownPVC",
+        "code": "PVC"
+    },
+    {
+        "flight": "destination",
+        "country": "RocklandRKD",
+        "code": "RKD"
+    },
+    {
+        "flight": "destination",
+        "country": "RutlandRUT",
+        "code": "RUT"
+    },
+    {
+        "flight": "destination",
+        "country": "Saranac LakeSLK",
+        "code": "SLK"
+    },
+    {
+        "flight": "destination",
+        "country": "SidneySDY",
+        "code": "SDY"
+    },
+    {
+        "flight": "destination",
+        "country": "ViequesVQS",
+        "code": "VQS"
+    },
+    {
+        "flight": "destination",
+        "country": "White PlainsHPN",
+        "code": "HPN"
+    },
+    {
+        "flight": "destination",
+        "country": "Wolf PointOLF",
+        "code": "OLF"
+    },
+    {
+        "flight": "departure",
+        "country": "TortolaEIS",
+        "code": "EIS"
+    },
+    {
+        "flight": "departure",
+        "country": "Virgin GordaVIJ",
+        "code": "VIJ"
+    },
+    {
+        "flight": "departure",
+        "country": "CulebraCPX",
+        "code": "CPX"
+    },
+    {
+        "flight": "departure",
+        "country": "MayagüezMAZ",
+        "code": "MAZ"
+    },
+    {
+        "flight": "departure",
+        "country": "San JuanSJU",
+        "code": "SJU"
+    },
+    {
+        "flight": "departure",
+        "country": "NevisNEV",
+        "code": "NEV"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint CroixSTX",
+        "code": "STX"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint ThomasSTT",
+        "code": "STT"
+    },
+    {
+        "flight": "departure",
+        "country": "AugustaAUG",
+        "code": "AUG"
+    },
+    {
+        "flight": "departure",
+        "country": "Bar HarborBHB",
+        "code": "BHB"
+    },
+    {
+        "flight": "departure",
+        "country": "BillingsBIL",
+        "code": "BIL"
+    },
+    {
+        "flight": "departure",
+        "country": "BostonBOS",
+        "code": "BOS"
+    },
+    {
+        "flight": "departure",
+        "country": "ChicagoORD",
+        "code": "ORD"
+    },
+    {
+        "flight": "departure",
+        "country": "GlasgowGGW",
+        "code": "GGW"
+    },
+    {
+        "flight": "departure",
+        "country": "GlendiveGDV",
+        "code": "GDV"
+    },
+    {
+        "flight": "departure",
+        "country": "HavreHVR",
+        "code": "HVR"
+    },
+    {
+        "flight": "departure",
+        "country": "HyannisHYA",
+        "code": "HYA"
+    },
+    {
+        "flight": "departure",
+        "country": "LebanonLEB",
+        "code": "LEB"
+    },
+    {
+        "flight": "departure",
+        "country": "ManisteeMBL",
+        "code": "MBL"
+    },
+    {
+        "flight": "departure",
+        "country": "Martha's VineyardMVY",
+        "code": "MVY"
+    },
+    {
+        "flight": "departure",
+        "country": "NantucketACK",
+        "code": "ACK"
+    },
+    {
+        "flight": "departure",
+        "country": "New BedfordEWB",
+        "code": "EWB"
+    },
+    {
+        "flight": "departure",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "departure",
+        "country": "ProvincetownPVC",
+        "code": "PVC"
+    },
+    {
+        "flight": "departure",
+        "country": "RocklandRKD",
+        "code": "RKD"
+    },
+    {
+        "flight": "departure",
+        "country": "RutlandRUT",
+        "code": "RUT"
+    },
+    {
+        "flight": "departure",
+        "country": "Saranac LakeSLK",
+        "code": "SLK"
+    },
+    {
+        "flight": "departure",
+        "country": "SidneySDY",
+        "code": "SDY"
+    },
+    {
+        "flight": "departure",
+        "country": "ViequesVQS",
+        "code": "VQS"
+    },
+    {
+        "flight": "departure",
+        "country": "White PlainsHPN",
+        "code": "HPN"
+    },
+    {
+        "flight": "departure",
+        "country": "Wolf PointOLF",
+        "code": "OLF"
+    }
+]

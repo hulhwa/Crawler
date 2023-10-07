@@ -1,0 +1,352 @@
+[
+    {
+        "flight": "destination",
+        "country": "EsbjergEBJ",
+        "code": "EBJ"
+    },
+    {
+        "flight": "destination",
+        "country": "DonegalCFN",
+        "code": "CFN"
+    },
+    {
+        "flight": "destination",
+        "country": "DublinDUB",
+        "code": "DUB"
+    },
+    {
+        "flight": "destination",
+        "country": "Isle of ManIOM",
+        "code": "IOM"
+    },
+    {
+        "flight": "destination",
+        "country": "BergenBGO",
+        "code": "BGO"
+    },
+    {
+        "flight": "destination",
+        "country": "OsloOSL",
+        "code": "OSL"
+    },
+    {
+        "flight": "destination",
+        "country": "StavangerSVG",
+        "code": "SVG"
+    },
+    {
+        "flight": "destination",
+        "country": "AberdeenABZ",
+        "code": "ABZ"
+    },
+    {
+        "flight": "destination",
+        "country": "BarraBRR",
+        "code": "BRR"
+    },
+    {
+        "flight": "destination",
+        "country": "Belfast CityBHD",
+        "code": "BHD"
+    },
+    {
+        "flight": "destination",
+        "country": "BenbeculaBEB",
+        "code": "BEB"
+    },
+    {
+        "flight": "destination",
+        "country": "BirminghamBHX",
+        "code": "BHX"
+    },
+    {
+        "flight": "destination",
+        "country": "BristolBRS",
+        "code": "BRS"
+    },
+    {
+        "flight": "destination",
+        "country": "CampbeltownCAL",
+        "code": "CAL"
+    },
+    {
+        "flight": "destination",
+        "country": "CardiffCWL",
+        "code": "CWL"
+    },
+    {
+        "flight": "destination",
+        "country": "DerryLDY",
+        "code": "LDY"
+    },
+    {
+        "flight": "destination",
+        "country": "DundeeDND",
+        "code": "DND"
+    },
+    {
+        "flight": "destination",
+        "country": "Durham (Tees Valley)MME",
+        "code": "MME"
+    },
+    {
+        "flight": "destination",
+        "country": "EdinburghEDI",
+        "code": "EDI"
+    },
+    {
+        "flight": "destination",
+        "country": "ExeterEXT",
+        "code": "EXT"
+    },
+    {
+        "flight": "destination",
+        "country": "GlasgowGLA",
+        "code": "GLA"
+    },
+    {
+        "flight": "destination",
+        "country": "InvernessINV",
+        "code": "INV"
+    },
+    {
+        "flight": "destination",
+        "country": "IslayILY",
+        "code": "ILY"
+    },
+    {
+        "flight": "destination",
+        "country": "KirkwallKOI",
+        "code": "KOI"
+    },
+    {
+        "flight": "destination",
+        "country": "LiverpoolLPL",
+        "code": "LPL"
+    },
+    {
+        "flight": "destination",
+        "country": "London CityLCY",
+        "code": "LCY"
+    },
+    {
+        "flight": "destination",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "destination",
+        "country": "ManchesterMAN",
+        "code": "MAN"
+    },
+    {
+        "flight": "destination",
+        "country": "NewcastleNCL",
+        "code": "NCL"
+    },
+    {
+        "flight": "destination",
+        "country": "NewquayNQY",
+        "code": "NQY"
+    },
+    {
+        "flight": "destination",
+        "country": "NorwichNWI",
+        "code": "NWI"
+    },
+    {
+        "flight": "destination",
+        "country": "Shetland IslandsLSI",
+        "code": "LSI"
+    },
+    {
+        "flight": "destination",
+        "country": "SouthamptonSOU",
+        "code": "SOU"
+    },
+    {
+        "flight": "destination",
+        "country": "StornowaySYY",
+        "code": "SYY"
+    },
+    {
+        "flight": "destination",
+        "country": "TireeTRE",
+        "code": "TRE"
+    },
+    {
+        "flight": "departure",
+        "country": "EsbjergEBJ",
+        "code": "EBJ"
+    },
+    {
+        "flight": "departure",
+        "country": "DonegalCFN",
+        "code": "CFN"
+    },
+    {
+        "flight": "departure",
+        "country": "DublinDUB",
+        "code": "DUB"
+    },
+    {
+        "flight": "departure",
+        "country": "Isle of ManIOM",
+        "code": "IOM"
+    },
+    {
+        "flight": "departure",
+        "country": "BergenBGO",
+        "code": "BGO"
+    },
+    {
+        "flight": "departure",
+        "country": "OsloOSL",
+        "code": "OSL"
+    },
+    {
+        "flight": "departure",
+        "country": "StavangerSVG",
+        "code": "SVG"
+    },
+    {
+        "flight": "departure",
+        "country": "AberdeenABZ",
+        "code": "ABZ"
+    },
+    {
+        "flight": "departure",
+        "country": "BarraBRR",
+        "code": "BRR"
+    },
+    {
+        "flight": "departure",
+        "country": "Belfast CityBHD",
+        "code": "BHD"
+    },
+    {
+        "flight": "departure",
+        "country": "BenbeculaBEB",
+        "code": "BEB"
+    },
+    {
+        "flight": "departure",
+        "country": "BirminghamBHX",
+        "code": "BHX"
+    },
+    {
+        "flight": "departure",
+        "country": "BristolBRS",
+        "code": "BRS"
+    },
+    {
+        "flight": "departure",
+        "country": "CampbeltownCAL",
+        "code": "CAL"
+    },
+    {
+        "flight": "departure",
+        "country": "CardiffCWL",
+        "code": "CWL"
+    },
+    {
+        "flight": "departure",
+        "country": "DerryLDY",
+        "code": "LDY"
+    },
+    {
+        "flight": "departure",
+        "country": "DundeeDND",
+        "code": "DND"
+    },
+    {
+        "flight": "departure",
+        "country": "Durham (Tees Valley)MME",
+        "code": "MME"
+    },
+    {
+        "flight": "departure",
+        "country": "EdinburghEDI",
+        "code": "EDI"
+    },
+    {
+        "flight": "departure",
+        "country": "ExeterEXT",
+        "code": "EXT"
+    },
+    {
+        "flight": "departure",
+        "country": "GlasgowGLA",
+        "code": "GLA"
+    },
+    {
+        "flight": "departure",
+        "country": "InvernessINV",
+        "code": "INV"
+    },
+    {
+        "flight": "departure",
+        "country": "IslayILY",
+        "code": "ILY"
+    },
+    {
+        "flight": "departure",
+        "country": "KirkwallKOI",
+        "code": "KOI"
+    },
+    {
+        "flight": "departure",
+        "country": "LiverpoolLPL",
+        "code": "LPL"
+    },
+    {
+        "flight": "departure",
+        "country": "London CityLCY",
+        "code": "LCY"
+    },
+    {
+        "flight": "departure",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "departure",
+        "country": "ManchesterMAN",
+        "code": "MAN"
+    },
+    {
+        "flight": "departure",
+        "country": "NewcastleNCL",
+        "code": "NCL"
+    },
+    {
+        "flight": "departure",
+        "country": "NewquayNQY",
+        "code": "NQY"
+    },
+    {
+        "flight": "departure",
+        "country": "NorwichNWI",
+        "code": "NWI"
+    },
+    {
+        "flight": "departure",
+        "country": "Shetland IslandsLSI",
+        "code": "LSI"
+    },
+    {
+        "flight": "departure",
+        "country": "SouthamptonSOU",
+        "code": "SOU"
+    },
+    {
+        "flight": "departure",
+        "country": "StornowaySYY",
+        "code": "SYY"
+    },
+    {
+        "flight": "departure",
+        "country": "TireeTRE",
+        "code": "TRE"
+    }
+]

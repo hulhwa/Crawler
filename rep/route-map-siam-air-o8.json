@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "AthensATH",
+        "code": "ATH"
+    },
+    {
+        "flight": "destination",
+        "country": "BenghaziBEN",
+        "code": "BEN"
+    },
+    {
+        "flight": "departure",
+        "country": "AthensATH",
+        "code": "ATH"
+    },
+    {
+        "flight": "departure",
+        "country": "BenghaziBEN",
+        "code": "BEN"
+    }
+]

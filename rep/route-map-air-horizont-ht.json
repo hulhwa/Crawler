@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "IbizaIBZ",
+        "code": "IBZ"
+    },
+    {
+        "flight": "destination",
+        "country": "ZaragozaZAZ",
+        "code": "ZAZ"
+    },
+    {
+        "flight": "departure",
+        "country": "IbizaIBZ",
+        "code": "IBZ"
+    },
+    {
+        "flight": "departure",
+        "country": "ZaragozaZAZ",
+        "code": "ZAZ"
+    }
+]

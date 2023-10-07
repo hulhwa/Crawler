@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "HalifaxYHZ",
+        "code": "YHZ"
+    },
+    {
+        "flight": "destination",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "destination",
+        "country": "St. John'sYYT",
+        "code": "YYT"
+    },
+    {
+        "flight": "destination",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint-PierreFSP",
+        "code": "FSP"
+    },
+    {
+        "flight": "departure",
+        "country": "HalifaxYHZ",
+        "code": "YHZ"
+    },
+    {
+        "flight": "departure",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "departure",
+        "country": "St. John'sYYT",
+        "code": "YYT"
+    },
+    {
+        "flight": "departure",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint-PierreFSP",
+        "code": "FSP"
+    }
+]

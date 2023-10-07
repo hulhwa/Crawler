@@ -1,0 +1,252 @@
+[
+    {
+        "flight": "destination",
+        "country": "CabindaCAB",
+        "code": "CAB"
+    },
+    {
+        "flight": "destination",
+        "country": "CatumbelaCBT",
+        "code": "CBT"
+    },
+    {
+        "flight": "destination",
+        "country": "DundoDUE",
+        "code": "DUE"
+    },
+    {
+        "flight": "destination",
+        "country": "HuamboNOV",
+        "code": "NOV"
+    },
+    {
+        "flight": "destination",
+        "country": "LuandaLAD",
+        "code": "LAD"
+    },
+    {
+        "flight": "destination",
+        "country": "LubangoSDD",
+        "code": "SDD"
+    },
+    {
+        "flight": "destination",
+        "country": "LuenaLUO",
+        "code": "LUO"
+    },
+    {
+        "flight": "destination",
+        "country": "MenongueSPP",
+        "code": "SPP"
+    },
+    {
+        "flight": "destination",
+        "country": "NamibeMSZ",
+        "code": "MSZ"
+    },
+    {
+        "flight": "destination",
+        "country": "OndjivaVPE",
+        "code": "VPE"
+    },
+    {
+        "flight": "destination",
+        "country": "SaurimoVHC",
+        "code": "VHC"
+    },
+    {
+        "flight": "destination",
+        "country": "SoyoSZA",
+        "code": "SZA"
+    },
+    {
+        "flight": "destination",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "destination",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "destination",
+        "country": "KinshasaFIH",
+        "code": "FIH"
+    },
+    {
+        "flight": "destination",
+        "country": "MaputoMPM",
+        "code": "MPM"
+    },
+    {
+        "flight": "destination",
+        "country": "WindhoekWDH",
+        "code": "WDH"
+    },
+    {
+        "flight": "destination",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "destination",
+        "country": "LisbonLIS",
+        "code": "LIS"
+    },
+    {
+        "flight": "destination",
+        "country": "PortoOPO",
+        "code": "OPO"
+    },
+    {
+        "flight": "destination",
+        "country": "Pointe-NoirePNR",
+        "code": "PNR"
+    },
+    {
+        "flight": "destination",
+        "country": "São ToméTMS",
+        "code": "TMS"
+    },
+    {
+        "flight": "destination",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "destination",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "destination",
+        "country": "MadridMAD",
+        "code": "MAD"
+    },
+    {
+        "flight": "departure",
+        "country": "CabindaCAB",
+        "code": "CAB"
+    },
+    {
+        "flight": "departure",
+        "country": "CatumbelaCBT",
+        "code": "CBT"
+    },
+    {
+        "flight": "departure",
+        "country": "DundoDUE",
+        "code": "DUE"
+    },
+    {
+        "flight": "departure",
+        "country": "HuamboNOV",
+        "code": "NOV"
+    },
+    {
+        "flight": "departure",
+        "country": "LuandaLAD",
+        "code": "LAD"
+    },
+    {
+        "flight": "departure",
+        "country": "LubangoSDD",
+        "code": "SDD"
+    },
+    {
+        "flight": "departure",
+        "country": "LuenaLUO",
+        "code": "LUO"
+    },
+    {
+        "flight": "departure",
+        "country": "MenongueSPP",
+        "code": "SPP"
+    },
+    {
+        "flight": "departure",
+        "country": "NamibeMSZ",
+        "code": "MSZ"
+    },
+    {
+        "flight": "departure",
+        "country": "OndjivaVPE",
+        "code": "VPE"
+    },
+    {
+        "flight": "departure",
+        "country": "SaurimoVHC",
+        "code": "VHC"
+    },
+    {
+        "flight": "departure",
+        "country": "SoyoSZA",
+        "code": "SZA"
+    },
+    {
+        "flight": "departure",
+        "country": "São PauloGRU",
+        "code": "GRU"
+    },
+    {
+        "flight": "departure",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "departure",
+        "country": "KinshasaFIH",
+        "code": "FIH"
+    },
+    {
+        "flight": "departure",
+        "country": "MaputoMPM",
+        "code": "MPM"
+    },
+    {
+        "flight": "departure",
+        "country": "WindhoekWDH",
+        "code": "WDH"
+    },
+    {
+        "flight": "departure",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "departure",
+        "country": "LisbonLIS",
+        "code": "LIS"
+    },
+    {
+        "flight": "departure",
+        "country": "PortoOPO",
+        "code": "OPO"
+    },
+    {
+        "flight": "departure",
+        "country": "Pointe-NoirePNR",
+        "code": "PNR"
+    },
+    {
+        "flight": "departure",
+        "country": "São ToméTMS",
+        "code": "TMS"
+    },
+    {
+        "flight": "departure",
+        "country": "Cape TownCPT",
+        "code": "CPT"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "departure",
+        "country": "MadridMAD",
+        "code": "MAD"
+    }
+]

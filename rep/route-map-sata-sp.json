@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "Flores IslandFLW",
+        "code": "FLW"
+    },
+    {
+        "flight": "destination",
+        "country": "Graciosa IslandGRW",
+        "code": "GRW"
+    },
+    {
+        "flight": "destination",
+        "country": "Horta, AzoresHOR",
+        "code": "HOR"
+    },
+    {
+        "flight": "destination",
+        "country": "Pico IslandPIX",
+        "code": "PIX"
+    },
+    {
+        "flight": "destination",
+        "country": "Ponta DelgadaPDL",
+        "code": "PDL"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa Maria IslandSMA",
+        "code": "SMA"
+    },
+    {
+        "flight": "destination",
+        "country": "São Jorge IslandSJZ",
+        "code": "SJZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Terceira IslandTER",
+        "code": "TER"
+    },
+    {
+        "flight": "destination",
+        "country": "Vila do Corvo, Corvo IslandCVU",
+        "code": "CVU"
+    },
+    {
+        "flight": "departure",
+        "country": "Flores IslandFLW",
+        "code": "FLW"
+    },
+    {
+        "flight": "departure",
+        "country": "Graciosa IslandGRW",
+        "code": "GRW"
+    },
+    {
+        "flight": "departure",
+        "country": "Horta, AzoresHOR",
+        "code": "HOR"
+    },
+    {
+        "flight": "departure",
+        "country": "Pico IslandPIX",
+        "code": "PIX"
+    },
+    {
+        "flight": "departure",
+        "country": "Ponta DelgadaPDL",
+        "code": "PDL"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Maria IslandSMA",
+        "code": "SMA"
+    },
+    {
+        "flight": "departure",
+        "country": "São Jorge IslandSJZ",
+        "code": "SJZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Terceira IslandTER",
+        "code": "TER"
+    },
+    {
+        "flight": "departure",
+        "country": "Vila do Corvo, Corvo IslandCVU",
+        "code": "CVU"
+    }
+]

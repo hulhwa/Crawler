@@ -1,0 +1,62 @@
+[
+    {
+        "flight": "destination",
+        "country": "Bhairawa, SiddharthanagarBWA",
+        "code": "BWA"
+    },
+    {
+        "flight": "destination",
+        "country": "BiratnagarBIR",
+        "code": "BIR"
+    },
+    {
+        "flight": "destination",
+        "country": "DhangadhiDHI",
+        "code": "DHI"
+    },
+    {
+        "flight": "destination",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "destination",
+        "country": "NepalgunjKEP",
+        "code": "KEP"
+    },
+    {
+        "flight": "destination",
+        "country": "PokharaPKR",
+        "code": "PKR"
+    },
+    {
+        "flight": "departure",
+        "country": "Bhairawa, SiddharthanagarBWA",
+        "code": "BWA"
+    },
+    {
+        "flight": "departure",
+        "country": "BiratnagarBIR",
+        "code": "BIR"
+    },
+    {
+        "flight": "departure",
+        "country": "DhangadhiDHI",
+        "code": "DHI"
+    },
+    {
+        "flight": "departure",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "departure",
+        "country": "NepalgunjKEP",
+        "code": "KEP"
+    },
+    {
+        "flight": "departure",
+        "country": "PokharaPKR",
+        "code": "PKR"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "LorientLRT",
+        "code": "LRT"
+    },
+    {
+        "flight": "destination",
+        "country": "ToulouseTLS",
+        "code": "TLS"
+    },
+    {
+        "flight": "departure",
+        "country": "LorientLRT",
+        "code": "LRT"
+    },
+    {
+        "flight": "departure",
+        "country": "ToulouseTLS",
+        "code": "TLS"
+    }
+]

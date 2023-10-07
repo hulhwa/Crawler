@@ -1,0 +1,302 @@
+[
+    {
+        "flight": "destination",
+        "country": "Santa Cruz de la SierraVVI",
+        "code": "VVI"
+    },
+    {
+        "flight": "destination",
+        "country": "ManausMAO",
+        "code": "MAO"
+    },
+    {
+        "flight": "destination",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "destination",
+        "country": "TehranIKA",
+        "code": "IKA"
+    },
+    {
+        "flight": "destination",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "destination",
+        "country": "Mexico City Santa LuciaNLU",
+        "code": "NLU"
+    },
+    {
+        "flight": "destination",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint VincentSVD",
+        "code": "SVD"
+    },
+    {
+        "flight": "destination",
+        "country": "DamascusDAM",
+        "code": "DAM"
+    },
+    {
+        "flight": "destination",
+        "country": "AcariguaAGV",
+        "code": "AGV"
+    },
+    {
+        "flight": "destination",
+        "country": "BarcelonaBLA",
+        "code": "BLA"
+    },
+    {
+        "flight": "destination",
+        "country": "BarinasBNS",
+        "code": "BNS"
+    },
+    {
+        "flight": "destination",
+        "country": "BarquisimetoBRM",
+        "code": "BRM"
+    },
+    {
+        "flight": "destination",
+        "country": "Canaima National ParkCAJ",
+        "code": "CAJ"
+    },
+    {
+        "flight": "destination",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    },
+    {
+        "flight": "destination",
+        "country": "CumanáCUM",
+        "code": "CUM"
+    },
+    {
+        "flight": "destination",
+        "country": "El VigíaVIG",
+        "code": "VIG"
+    },
+    {
+        "flight": "destination",
+        "country": "La FriaLFR",
+        "code": "LFR"
+    },
+    {
+        "flight": "destination",
+        "country": "Las PiedrasLSP",
+        "code": "LSP"
+    },
+    {
+        "flight": "destination",
+        "country": "Los Roques archipelagoLRV",
+        "code": "LRV"
+    },
+    {
+        "flight": "destination",
+        "country": "MaracaiboMAR",
+        "code": "MAR"
+    },
+    {
+        "flight": "destination",
+        "country": "MaturínMUN",
+        "code": "MUN"
+    },
+    {
+        "flight": "destination",
+        "country": "MéridaMRD",
+        "code": "MRD"
+    },
+    {
+        "flight": "destination",
+        "country": "PorlamarPMV",
+        "code": "PMV"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto AyacuchoPYH",
+        "code": "PYH"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto Ordaz and San FelixPZO",
+        "code": "PZO"
+    },
+    {
+        "flight": "destination",
+        "country": "San Antonio del TáchiraSVZ",
+        "code": "SVZ"
+    },
+    {
+        "flight": "destination",
+        "country": "San Fernando de ApureSFD",
+        "code": "SFD"
+    },
+    {
+        "flight": "destination",
+        "country": "Santo DomingoSTD",
+        "code": "STD"
+    },
+    {
+        "flight": "destination",
+        "country": "ValenciaVLN",
+        "code": "VLN"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Cruz de la SierraVVI",
+        "code": "VVI"
+    },
+    {
+        "flight": "departure",
+        "country": "ManausMAO",
+        "code": "MAO"
+    },
+    {
+        "flight": "departure",
+        "country": "HavanaHAV",
+        "code": "HAV"
+    },
+    {
+        "flight": "departure",
+        "country": "TehranIKA",
+        "code": "IKA"
+    },
+    {
+        "flight": "departure",
+        "country": "CancúnCUN",
+        "code": "CUN"
+    },
+    {
+        "flight": "departure",
+        "country": "Mexico City Santa LuciaNLU",
+        "code": "NLU"
+    },
+    {
+        "flight": "departure",
+        "country": "Moscow VnukovoVKO",
+        "code": "VKO"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint VincentSVD",
+        "code": "SVD"
+    },
+    {
+        "flight": "departure",
+        "country": "DamascusDAM",
+        "code": "DAM"
+    },
+    {
+        "flight": "departure",
+        "country": "AcariguaAGV",
+        "code": "AGV"
+    },
+    {
+        "flight": "departure",
+        "country": "BarcelonaBLA",
+        "code": "BLA"
+    },
+    {
+        "flight": "departure",
+        "country": "BarinasBNS",
+        "code": "BNS"
+    },
+    {
+        "flight": "departure",
+        "country": "BarquisimetoBRM",
+        "code": "BRM"
+    },
+    {
+        "flight": "departure",
+        "country": "Canaima National ParkCAJ",
+        "code": "CAJ"
+    },
+    {
+        "flight": "departure",
+        "country": "CaracasCCS",
+        "code": "CCS"
+    },
+    {
+        "flight": "departure",
+        "country": "CumanáCUM",
+        "code": "CUM"
+    },
+    {
+        "flight": "departure",
+        "country": "El VigíaVIG",
+        "code": "VIG"
+    },
+    {
+        "flight": "departure",
+        "country": "La FriaLFR",
+        "code": "LFR"
+    },
+    {
+        "flight": "departure",
+        "country": "Las PiedrasLSP",
+        "code": "LSP"
+    },
+    {
+        "flight": "departure",
+        "country": "Los Roques archipelagoLRV",
+        "code": "LRV"
+    },
+    {
+        "flight": "departure",
+        "country": "MaracaiboMAR",
+        "code": "MAR"
+    },
+    {
+        "flight": "departure",
+        "country": "MaturínMUN",
+        "code": "MUN"
+    },
+    {
+        "flight": "departure",
+        "country": "MéridaMRD",
+        "code": "MRD"
+    },
+    {
+        "flight": "departure",
+        "country": "PorlamarPMV",
+        "code": "PMV"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto AyacuchoPYH",
+        "code": "PYH"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto Ordaz and San FelixPZO",
+        "code": "PZO"
+    },
+    {
+        "flight": "departure",
+        "country": "San Antonio del TáchiraSVZ",
+        "code": "SVZ"
+    },
+    {
+        "flight": "departure",
+        "country": "San Fernando de ApureSFD",
+        "code": "SFD"
+    },
+    {
+        "flight": "departure",
+        "country": "Santo DomingoSTD",
+        "code": "STD"
+    },
+    {
+        "flight": "departure",
+        "country": "ValenciaVLN",
+        "code": "VLN"
+    }
+]

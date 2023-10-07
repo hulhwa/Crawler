@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "Coll IslandCOL",
+        "code": "COL"
+    },
+    {
+        "flight": "destination",
+        "country": "ColonsayCSA",
+        "code": "CSA"
+    },
+    {
+        "flight": "destination",
+        "country": "ObanOBN",
+        "code": "OBN"
+    },
+    {
+        "flight": "destination",
+        "country": "TireeTRE",
+        "code": "TRE"
+    },
+    {
+        "flight": "departure",
+        "country": "Coll IslandCOL",
+        "code": "COL"
+    },
+    {
+        "flight": "departure",
+        "country": "ColonsayCSA",
+        "code": "CSA"
+    },
+    {
+        "flight": "departure",
+        "country": "ObanOBN",
+        "code": "OBN"
+    },
+    {
+        "flight": "departure",
+        "country": "TireeTRE",
+        "code": "TRE"
+    }
+]

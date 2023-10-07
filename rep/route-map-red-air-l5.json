@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "La RomanaLRM",
+        "code": "LRM"
+    },
+    {
+        "flight": "destination",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    },
+    {
+        "flight": "departure",
+        "country": "La RomanaLRM",
+        "code": "LRM"
+    },
+    {
+        "flight": "departure",
+        "country": "MiamiMIA",
+        "code": "MIA"
+    }
+]

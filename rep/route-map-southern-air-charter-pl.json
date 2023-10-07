@@ -1,0 +1,62 @@
+[
+    {
+        "flight": "destination",
+        "country": "Deadman's Cay, Long IslandLGI",
+        "code": "LGI"
+    },
+    {
+        "flight": "destination",
+        "country": "Governor's HarbourGHB",
+        "code": "GHB"
+    },
+    {
+        "flight": "destination",
+        "country": "NassauNAS",
+        "code": "NAS"
+    },
+    {
+        "flight": "destination",
+        "country": "North EleutheraELH",
+        "code": "ELH"
+    },
+    {
+        "flight": "destination",
+        "country": "Rock SoundRSD",
+        "code": "RSD"
+    },
+    {
+        "flight": "destination",
+        "country": "Stella Maris, Long IslandSML",
+        "code": "SML"
+    },
+    {
+        "flight": "departure",
+        "country": "Deadman's Cay, Long IslandLGI",
+        "code": "LGI"
+    },
+    {
+        "flight": "departure",
+        "country": "Governor's HarbourGHB",
+        "code": "GHB"
+    },
+    {
+        "flight": "departure",
+        "country": "NassauNAS",
+        "code": "NAS"
+    },
+    {
+        "flight": "departure",
+        "country": "North EleutheraELH",
+        "code": "ELH"
+    },
+    {
+        "flight": "departure",
+        "country": "Rock SoundRSD",
+        "code": "RSD"
+    },
+    {
+        "flight": "departure",
+        "country": "Stella Maris, Long IslandSML",
+        "code": "SML"
+    }
+]

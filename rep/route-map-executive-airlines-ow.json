@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "EldoretEDL",
+        "code": "EDL"
+    },
+    {
+        "flight": "destination",
+        "country": "KakamegaGGM",
+        "code": "GGM"
+    },
+    {
+        "flight": "destination",
+        "country": "KitaleKTL",
+        "code": "KTL"
+    },
+    {
+        "flight": "destination",
+        "country": "LamuLAU",
+        "code": "LAU"
+    },
+    {
+        "flight": "destination",
+        "country": "LodwarLOK",
+        "code": "LOK"
+    },
+    {
+        "flight": "destination",
+        "country": "MalindiMYD",
+        "code": "MYD"
+    },
+    {
+        "flight": "destination",
+        "country": "MombasaMBA",
+        "code": "MBA"
+    },
+    {
+        "flight": "destination",
+        "country": "NairobiWIL",
+        "code": "WIL"
+    },
+    {
+        "flight": "destination",
+        "country": "UkundaUKA",
+        "code": "UKA"
+    },
+    {
+        "flight": "departure",
+        "country": "EldoretEDL",
+        "code": "EDL"
+    },
+    {
+        "flight": "departure",
+        "country": "KakamegaGGM",
+        "code": "GGM"
+    },
+    {
+        "flight": "departure",
+        "country": "KitaleKTL",
+        "code": "KTL"
+    },
+    {
+        "flight": "departure",
+        "country": "LamuLAU",
+        "code": "LAU"
+    },
+    {
+        "flight": "departure",
+        "country": "LodwarLOK",
+        "code": "LOK"
+    },
+    {
+        "flight": "departure",
+        "country": "MalindiMYD",
+        "code": "MYD"
+    },
+    {
+        "flight": "departure",
+        "country": "MombasaMBA",
+        "code": "MBA"
+    },
+    {
+        "flight": "departure",
+        "country": "NairobiWIL",
+        "code": "WIL"
+    },
+    {
+        "flight": "departure",
+        "country": "UkundaUKA",
+        "code": "UKA"
+    }
+]

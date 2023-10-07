@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "destination",
+        "country": "AsabaABB",
+        "code": "ABB"
+    },
+    {
+        "flight": "destination",
+        "country": "BeninBNI",
+        "code": "BNI"
+    },
+    {
+        "flight": "destination",
+        "country": "KanoKAN",
+        "code": "KAN"
+    },
+    {
+        "flight": "destination",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "destination",
+        "country": "Port HarcourtPHC",
+        "code": "PHC"
+    },
+    {
+        "flight": "destination",
+        "country": "SokotoSKO",
+        "code": "SKO"
+    },
+    {
+        "flight": "destination",
+        "country": "WarriQRW",
+        "code": "QRW"
+    },
+    {
+        "flight": "destination",
+        "country": "YolaYOL",
+        "code": "YOL"
+    },
+    {
+        "flight": "departure",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "departure",
+        "country": "AsabaABB",
+        "code": "ABB"
+    },
+    {
+        "flight": "departure",
+        "country": "BeninBNI",
+        "code": "BNI"
+    },
+    {
+        "flight": "departure",
+        "country": "KanoKAN",
+        "code": "KAN"
+    },
+    {
+        "flight": "departure",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "departure",
+        "country": "Port HarcourtPHC",
+        "code": "PHC"
+    },
+    {
+        "flight": "departure",
+        "country": "SokotoSKO",
+        "code": "SKO"
+    },
+    {
+        "flight": "departure",
+        "country": "WarriQRW",
+        "code": "QRW"
+    },
+    {
+        "flight": "departure",
+        "country": "YolaYOL",
+        "code": "YOL"
+    }
+]

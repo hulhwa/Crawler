@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "DhaaluDDD",
+        "code": "DDD"
+    },
+    {
+        "flight": "destination",
+        "country": "DharavandhooDRV",
+        "code": "DRV"
+    },
+    {
+        "flight": "destination",
+        "country": "MaléMLE",
+        "code": "MLE"
+    },
+    {
+        "flight": "departure",
+        "country": "DhaaluDDD",
+        "code": "DDD"
+    },
+    {
+        "flight": "departure",
+        "country": "DharavandhooDRV",
+        "code": "DRV"
+    },
+    {
+        "flight": "departure",
+        "country": "MaléMLE",
+        "code": "MLE"
+    }
+]

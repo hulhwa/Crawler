@@ -1,0 +1,312 @@
+[
+    {
+        "flight": "destination",
+        "country": "AsahikawaAKJ",
+        "code": "AKJ"
+    },
+    {
+        "flight": "destination",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "destination",
+        "country": "HakodateHKD",
+        "code": "HKD"
+    },
+    {
+        "flight": "destination",
+        "country": "HanamakiHNA",
+        "code": "HNA"
+    },
+    {
+        "flight": "destination",
+        "country": "IbarakiIBR",
+        "code": "IBR"
+    },
+    {
+        "flight": "destination",
+        "country": "KochiKCZ",
+        "code": "KCZ"
+    },
+    {
+        "flight": "destination",
+        "country": "KomatsuKMQ",
+        "code": "KMQ"
+    },
+    {
+        "flight": "destination",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "destination",
+        "country": "NiigataKIJ",
+        "code": "KIJ"
+    },
+    {
+        "flight": "destination",
+        "country": "OkayamaOKJ",
+        "code": "OKJ"
+    },
+    {
+        "flight": "destination",
+        "country": "OkinawaOKA",
+        "code": "OKA"
+    },
+    {
+        "flight": "destination",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "destination",
+        "country": "SagaHSG",
+        "code": "HSG"
+    },
+    {
+        "flight": "destination",
+        "country": "SapporoCTS",
+        "code": "CTS"
+    },
+    {
+        "flight": "destination",
+        "country": "SendaiSDJ",
+        "code": "SDJ"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoHND",
+        "code": "HND"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "MacauMFM",
+        "code": "MFM"
+    },
+    {
+        "flight": "destination",
+        "country": "KaliboKLO",
+        "code": "KLO"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto PrincesaPPS",
+        "code": "PPS"
+    },
+    {
+        "flight": "destination",
+        "country": "BusanPUS",
+        "code": "PUS"
+    },
+    {
+        "flight": "destination",
+        "country": "DaeguTAE",
+        "code": "TAE"
+    },
+    {
+        "flight": "destination",
+        "country": "Jeju CityCJU",
+        "code": "CJU"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulGMP",
+        "code": "GMP"
+    },
+    {
+        "flight": "destination",
+        "country": "KaohsiungKHH",
+        "code": "KHH"
+    },
+    {
+        "flight": "destination",
+        "country": "TaichungRMQ",
+        "code": "RMQ"
+    },
+    {
+        "flight": "destination",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "destination",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "destination",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "destination",
+        "country": "Da NangDAD",
+        "code": "DAD"
+    },
+    {
+        "flight": "departure",
+        "country": "AsahikawaAKJ",
+        "code": "AKJ"
+    },
+    {
+        "flight": "departure",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "departure",
+        "country": "HakodateHKD",
+        "code": "HKD"
+    },
+    {
+        "flight": "departure",
+        "country": "HanamakiHNA",
+        "code": "HNA"
+    },
+    {
+        "flight": "departure",
+        "country": "IbarakiIBR",
+        "code": "IBR"
+    },
+    {
+        "flight": "departure",
+        "country": "KochiKCZ",
+        "code": "KCZ"
+    },
+    {
+        "flight": "departure",
+        "country": "KomatsuKMQ",
+        "code": "KMQ"
+    },
+    {
+        "flight": "departure",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "departure",
+        "country": "NiigataKIJ",
+        "code": "KIJ"
+    },
+    {
+        "flight": "departure",
+        "country": "OkayamaOKJ",
+        "code": "OKJ"
+    },
+    {
+        "flight": "departure",
+        "country": "OkinawaOKA",
+        "code": "OKA"
+    },
+    {
+        "flight": "departure",
+        "country": "OsakaKIX",
+        "code": "KIX"
+    },
+    {
+        "flight": "departure",
+        "country": "SagaHSG",
+        "code": "HSG"
+    },
+    {
+        "flight": "departure",
+        "country": "SapporoCTS",
+        "code": "CTS"
+    },
+    {
+        "flight": "departure",
+        "country": "SendaiSDJ",
+        "code": "SDJ"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoHND",
+        "code": "HND"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "MacauMFM",
+        "code": "MFM"
+    },
+    {
+        "flight": "departure",
+        "country": "KaliboKLO",
+        "code": "KLO"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto PrincesaPPS",
+        "code": "PPS"
+    },
+    {
+        "flight": "departure",
+        "country": "BusanPUS",
+        "code": "PUS"
+    },
+    {
+        "flight": "departure",
+        "country": "DaeguTAE",
+        "code": "TAE"
+    },
+    {
+        "flight": "departure",
+        "country": "Jeju CityCJU",
+        "code": "CJU"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulGMP",
+        "code": "GMP"
+    },
+    {
+        "flight": "departure",
+        "country": "KaohsiungKHH",
+        "code": "KHH"
+    },
+    {
+        "flight": "departure",
+        "country": "TaichungRMQ",
+        "code": "RMQ"
+    },
+    {
+        "flight": "departure",
+        "country": "TaipeiTPE",
+        "code": "TPE"
+    },
+    {
+        "flight": "departure",
+        "country": "Bangkok (Don Muang)DMK",
+        "code": "DMK"
+    },
+    {
+        "flight": "departure",
+        "country": "PhuketHKT",
+        "code": "HKT"
+    },
+    {
+        "flight": "departure",
+        "country": "Da NangDAD",
+        "code": "DAD"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "PorvenirWPR",
+        "code": "WPR"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto WilliamsWPU",
+        "code": "WPU"
+    },
+    {
+        "flight": "destination",
+        "country": "Punta ArenasPUQ",
+        "code": "PUQ"
+    },
+    {
+        "flight": "departure",
+        "country": "PorvenirWPR",
+        "code": "WPR"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto WilliamsWPU",
+        "code": "WPU"
+    },
+    {
+        "flight": "departure",
+        "country": "Punta ArenasPUQ",
+        "code": "PUQ"
+    }
+]

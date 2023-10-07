@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "HamburgHAM",
+        "code": "HAM"
+    },
+    {
+        "flight": "destination",
+        "country": "Westerland / SyltGWT",
+        "code": "GWT"
+    },
+    {
+        "flight": "departure",
+        "country": "HamburgHAM",
+        "code": "HAM"
+    },
+    {
+        "flight": "departure",
+        "country": "Westerland / SyltGWT",
+        "code": "GWT"
+    }
+]

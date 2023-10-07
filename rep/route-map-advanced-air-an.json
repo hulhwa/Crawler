@@ -1,0 +1,112 @@
+[
+    {
+        "flight": "destination",
+        "country": "AlbuquerqueABQ",
+        "code": "ABQ"
+    },
+    {
+        "flight": "destination",
+        "country": "CarlsbadCNM",
+        "code": "CNM"
+    },
+    {
+        "flight": "destination",
+        "country": "Carlsbad, San DiegoCLD",
+        "code": "CLD"
+    },
+    {
+        "flight": "destination",
+        "country": "GallupGUP",
+        "code": "GUP"
+    },
+    {
+        "flight": "destination",
+        "country": "HawthorneHHR",
+        "code": "HHR"
+    },
+    {
+        "flight": "destination",
+        "country": "Las CrucesLRU",
+        "code": "LRU"
+    },
+    {
+        "flight": "destination",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "destination",
+        "country": "Mammoth LakesMMH",
+        "code": "MMH"
+    },
+    {
+        "flight": "destination",
+        "country": "MercedMCE",
+        "code": "MCE"
+    },
+    {
+        "flight": "destination",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "destination",
+        "country": "Silver CitySVC",
+        "code": "SVC"
+    },
+    {
+        "flight": "departure",
+        "country": "AlbuquerqueABQ",
+        "code": "ABQ"
+    },
+    {
+        "flight": "departure",
+        "country": "CarlsbadCNM",
+        "code": "CNM"
+    },
+    {
+        "flight": "departure",
+        "country": "Carlsbad, San DiegoCLD",
+        "code": "CLD"
+    },
+    {
+        "flight": "departure",
+        "country": "GallupGUP",
+        "code": "GUP"
+    },
+    {
+        "flight": "departure",
+        "country": "HawthorneHHR",
+        "code": "HHR"
+    },
+    {
+        "flight": "departure",
+        "country": "Las CrucesLRU",
+        "code": "LRU"
+    },
+    {
+        "flight": "departure",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "departure",
+        "country": "Mammoth LakesMMH",
+        "code": "MMH"
+    },
+    {
+        "flight": "departure",
+        "country": "MercedMCE",
+        "code": "MCE"
+    },
+    {
+        "flight": "departure",
+        "country": "PhoenixPHX",
+        "code": "PHX"
+    },
+    {
+        "flight": "departure",
+        "country": "Silver CitySVC",
+        "code": "SVC"
+    }
+]

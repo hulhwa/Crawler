@@ -1,0 +1,142 @@
+[
+    {
+        "flight": "destination",
+        "country": "KigaliKGL",
+        "code": "KGL"
+    },
+    {
+        "flight": "destination",
+        "country": "ArushaARK",
+        "code": "ARK"
+    },
+    {
+        "flight": "destination",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "destination",
+        "country": "GrumetiGTZ",
+        "code": "GTZ"
+    },
+    {
+        "flight": "destination",
+        "country": "IringaIRI",
+        "code": "IRI"
+    },
+    {
+        "flight": "destination",
+        "country": "KilimanjaroJRO",
+        "code": "JRO"
+    },
+    {
+        "flight": "destination",
+        "country": "Lake ManyaraLKY",
+        "code": "LKY"
+    },
+    {
+        "flight": "destination",
+        "country": "Mafia IslandMFA",
+        "code": "MFA"
+    },
+    {
+        "flight": "destination",
+        "country": "MwanzaMWZ",
+        "code": "MWZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Pemba IslandPMA",
+        "code": "PMA"
+    },
+    {
+        "flight": "destination",
+        "country": "SeroneraSEU",
+        "code": "SEU"
+    },
+    {
+        "flight": "destination",
+        "country": "TangaTGT",
+        "code": "TGT"
+    },
+    {
+        "flight": "destination",
+        "country": "ZanzibarZNZ",
+        "code": "ZNZ"
+    },
+    {
+        "flight": "destination",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    },
+    {
+        "flight": "departure",
+        "country": "KigaliKGL",
+        "code": "KGL"
+    },
+    {
+        "flight": "departure",
+        "country": "ArushaARK",
+        "code": "ARK"
+    },
+    {
+        "flight": "departure",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "departure",
+        "country": "GrumetiGTZ",
+        "code": "GTZ"
+    },
+    {
+        "flight": "departure",
+        "country": "IringaIRI",
+        "code": "IRI"
+    },
+    {
+        "flight": "departure",
+        "country": "KilimanjaroJRO",
+        "code": "JRO"
+    },
+    {
+        "flight": "departure",
+        "country": "Lake ManyaraLKY",
+        "code": "LKY"
+    },
+    {
+        "flight": "departure",
+        "country": "Mafia IslandMFA",
+        "code": "MFA"
+    },
+    {
+        "flight": "departure",
+        "country": "MwanzaMWZ",
+        "code": "MWZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Pemba IslandPMA",
+        "code": "PMA"
+    },
+    {
+        "flight": "departure",
+        "country": "SeroneraSEU",
+        "code": "SEU"
+    },
+    {
+        "flight": "departure",
+        "country": "TangaTGT",
+        "code": "TGT"
+    },
+    {
+        "flight": "departure",
+        "country": "ZanzibarZNZ",
+        "code": "ZNZ"
+    },
+    {
+        "flight": "departure",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    }
+]

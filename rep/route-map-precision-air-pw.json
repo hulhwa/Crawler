@@ -1,0 +1,142 @@
+[
+    {
+        "flight": "destination",
+        "country": "AnjouanAJN",
+        "code": "AJN"
+    },
+    {
+        "flight": "destination",
+        "country": "MoroniHAH",
+        "code": "HAH"
+    },
+    {
+        "flight": "destination",
+        "country": "NairobiNBO",
+        "code": "NBO"
+    },
+    {
+        "flight": "destination",
+        "country": "ArushaARK",
+        "code": "ARK"
+    },
+    {
+        "flight": "destination",
+        "country": "BukobaBKZ",
+        "code": "BKZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "destination",
+        "country": "DodomaDOD",
+        "code": "DOD"
+    },
+    {
+        "flight": "destination",
+        "country": "KahamaKBH",
+        "code": "KBH"
+    },
+    {
+        "flight": "destination",
+        "country": "KilimanjaroJRO",
+        "code": "JRO"
+    },
+    {
+        "flight": "destination",
+        "country": "MbeyaMBI",
+        "code": "MBI"
+    },
+    {
+        "flight": "destination",
+        "country": "MtwaraMYW",
+        "code": "MYW"
+    },
+    {
+        "flight": "destination",
+        "country": "MwanzaMWZ",
+        "code": "MWZ"
+    },
+    {
+        "flight": "destination",
+        "country": "SeroneraSEU",
+        "code": "SEU"
+    },
+    {
+        "flight": "destination",
+        "country": "ZanzibarZNZ",
+        "code": "ZNZ"
+    },
+    {
+        "flight": "departure",
+        "country": "AnjouanAJN",
+        "code": "AJN"
+    },
+    {
+        "flight": "departure",
+        "country": "MoroniHAH",
+        "code": "HAH"
+    },
+    {
+        "flight": "departure",
+        "country": "NairobiNBO",
+        "code": "NBO"
+    },
+    {
+        "flight": "departure",
+        "country": "ArushaARK",
+        "code": "ARK"
+    },
+    {
+        "flight": "departure",
+        "country": "BukobaBKZ",
+        "code": "BKZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "departure",
+        "country": "DodomaDOD",
+        "code": "DOD"
+    },
+    {
+        "flight": "departure",
+        "country": "KahamaKBH",
+        "code": "KBH"
+    },
+    {
+        "flight": "departure",
+        "country": "KilimanjaroJRO",
+        "code": "JRO"
+    },
+    {
+        "flight": "departure",
+        "country": "MbeyaMBI",
+        "code": "MBI"
+    },
+    {
+        "flight": "departure",
+        "country": "MtwaraMYW",
+        "code": "MYW"
+    },
+    {
+        "flight": "departure",
+        "country": "MwanzaMWZ",
+        "code": "MWZ"
+    },
+    {
+        "flight": "departure",
+        "country": "SeroneraSEU",
+        "code": "SEU"
+    },
+    {
+        "flight": "departure",
+        "country": "ZanzibarZNZ",
+        "code": "ZNZ"
+    }
+]

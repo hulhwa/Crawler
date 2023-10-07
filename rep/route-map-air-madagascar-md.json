@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "MoroniHAH",
+        "code": "HAH"
+    },
+    {
+        "flight": "destination",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint-DenisRUN",
+        "code": "RUN"
+    },
+    {
+        "flight": "destination",
+        "country": "AntananarivoTNR",
+        "code": "TNR"
+    },
+    {
+        "flight": "destination",
+        "country": "MahajangaMJN",
+        "code": "MJN"
+    },
+    {
+        "flight": "destination",
+        "country": "Sainte-MarieSMS",
+        "code": "SMS"
+    },
+    {
+        "flight": "destination",
+        "country": "ToamasinaTMM",
+        "code": "TMM"
+    },
+    {
+        "flight": "destination",
+        "country": "MauritiusMRU",
+        "code": "MRU"
+    },
+    {
+        "flight": "destination",
+        "country": "DzaoudziDZA",
+        "code": "DZA"
+    },
+    {
+        "flight": "departure",
+        "country": "MoroniHAH",
+        "code": "HAH"
+    },
+    {
+        "flight": "departure",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint-DenisRUN",
+        "code": "RUN"
+    },
+    {
+        "flight": "departure",
+        "country": "AntananarivoTNR",
+        "code": "TNR"
+    },
+    {
+        "flight": "departure",
+        "country": "MahajangaMJN",
+        "code": "MJN"
+    },
+    {
+        "flight": "departure",
+        "country": "Sainte-MarieSMS",
+        "code": "SMS"
+    },
+    {
+        "flight": "departure",
+        "country": "ToamasinaTMM",
+        "code": "TMM"
+    },
+    {
+        "flight": "departure",
+        "country": "MauritiusMRU",
+        "code": "MRU"
+    },
+    {
+        "flight": "departure",
+        "country": "DzaoudziDZA",
+        "code": "DZA"
+    }
+]

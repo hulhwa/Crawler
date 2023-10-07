@@ -1,0 +1,142 @@
+[
+    {
+        "flight": "destination",
+        "country": "ArviatYEK",
+        "code": "YEK"
+    },
+    {
+        "flight": "destination",
+        "country": "Baker LakeYBK",
+        "code": "YBK"
+    },
+    {
+        "flight": "destination",
+        "country": "Chesterfield InletYCS",
+        "code": "YCS"
+    },
+    {
+        "flight": "destination",
+        "country": "ChurchillYYQ",
+        "code": "YYQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Coral HarbourYZS",
+        "code": "YZS"
+    },
+    {
+        "flight": "destination",
+        "country": "Flin FlonYFO",
+        "code": "YFO"
+    },
+    {
+        "flight": "destination",
+        "country": "GillamYGX",
+        "code": "YGX"
+    },
+    {
+        "flight": "destination",
+        "country": "Rankin InletYRT",
+        "code": "YRT"
+    },
+    {
+        "flight": "destination",
+        "country": "Repulse BayYUT",
+        "code": "YUT"
+    },
+    {
+        "flight": "destination",
+        "country": "SanikiluaqYSK",
+        "code": "YSK"
+    },
+    {
+        "flight": "destination",
+        "country": "The PasYQD",
+        "code": "YQD"
+    },
+    {
+        "flight": "destination",
+        "country": "ThompsonYTH",
+        "code": "YTH"
+    },
+    {
+        "flight": "destination",
+        "country": "Whale CoveYXN",
+        "code": "YXN"
+    },
+    {
+        "flight": "destination",
+        "country": "WinnipegYWG",
+        "code": "YWG"
+    },
+    {
+        "flight": "departure",
+        "country": "ArviatYEK",
+        "code": "YEK"
+    },
+    {
+        "flight": "departure",
+        "country": "Baker LakeYBK",
+        "code": "YBK"
+    },
+    {
+        "flight": "departure",
+        "country": "Chesterfield InletYCS",
+        "code": "YCS"
+    },
+    {
+        "flight": "departure",
+        "country": "ChurchillYYQ",
+        "code": "YYQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Coral HarbourYZS",
+        "code": "YZS"
+    },
+    {
+        "flight": "departure",
+        "country": "Flin FlonYFO",
+        "code": "YFO"
+    },
+    {
+        "flight": "departure",
+        "country": "GillamYGX",
+        "code": "YGX"
+    },
+    {
+        "flight": "departure",
+        "country": "Rankin InletYRT",
+        "code": "YRT"
+    },
+    {
+        "flight": "departure",
+        "country": "Repulse BayYUT",
+        "code": "YUT"
+    },
+    {
+        "flight": "departure",
+        "country": "SanikiluaqYSK",
+        "code": "YSK"
+    },
+    {
+        "flight": "departure",
+        "country": "The PasYQD",
+        "code": "YQD"
+    },
+    {
+        "flight": "departure",
+        "country": "ThompsonYTH",
+        "code": "YTH"
+    },
+    {
+        "flight": "departure",
+        "country": "Whale CoveYXN",
+        "code": "YXN"
+    },
+    {
+        "flight": "departure",
+        "country": "WinnipegYWG",
+        "code": "YWG"
+    }
+]

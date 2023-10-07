@@ -1,0 +1,62 @@
+[
+    {
+        "flight": "destination",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "destination",
+        "country": "CalabarCBQ",
+        "code": "CBQ"
+    },
+    {
+        "flight": "destination",
+        "country": "EnuguENU",
+        "code": "ENU"
+    },
+    {
+        "flight": "destination",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "destination",
+        "country": "Port HarcourtPHC",
+        "code": "PHC"
+    },
+    {
+        "flight": "destination",
+        "country": "UyoQUO",
+        "code": "QUO"
+    },
+    {
+        "flight": "departure",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "departure",
+        "country": "CalabarCBQ",
+        "code": "CBQ"
+    },
+    {
+        "flight": "departure",
+        "country": "EnuguENU",
+        "code": "ENU"
+    },
+    {
+        "flight": "departure",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "departure",
+        "country": "Port HarcourtPHC",
+        "code": "PHC"
+    },
+    {
+        "flight": "departure",
+        "country": "UyoQUO",
+        "code": "QUO"
+    }
+]

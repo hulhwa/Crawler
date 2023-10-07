@@ -1,0 +1,102 @@
+[
+    {
+        "flight": "destination",
+        "country": "HohhotHET",
+        "code": "HET"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "DalanzadgadDLZ",
+        "code": "DLZ"
+    },
+    {
+        "flight": "destination",
+        "country": "KhovdHVD",
+        "code": "HVD"
+    },
+    {
+        "flight": "destination",
+        "country": "ÖlgiiULG",
+        "code": "ULG"
+    },
+    {
+        "flight": "destination",
+        "country": "UlaanbaatarUBN",
+        "code": "UBN"
+    },
+    {
+        "flight": "destination",
+        "country": "UliastaiULZ",
+        "code": "ULZ"
+    },
+    {
+        "flight": "destination",
+        "country": "IrkutskIKT",
+        "code": "IKT"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "destination",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    },
+    {
+        "flight": "departure",
+        "country": "HohhotHET",
+        "code": "HET"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "DalanzadgadDLZ",
+        "code": "DLZ"
+    },
+    {
+        "flight": "departure",
+        "country": "KhovdHVD",
+        "code": "HVD"
+    },
+    {
+        "flight": "departure",
+        "country": "ÖlgiiULG",
+        "code": "ULG"
+    },
+    {
+        "flight": "departure",
+        "country": "UlaanbaatarUBN",
+        "code": "UBN"
+    },
+    {
+        "flight": "departure",
+        "country": "UliastaiULZ",
+        "code": "ULZ"
+    },
+    {
+        "flight": "departure",
+        "country": "IrkutskIKT",
+        "code": "IKT"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "departure",
+        "country": "HanoiHAN",
+        "code": "HAN"
+    }
+]

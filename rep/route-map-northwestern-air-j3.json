@@ -1,0 +1,62 @@
+[
+    {
+        "flight": "destination",
+        "country": "EdmontonYEG",
+        "code": "YEG"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort ChipewyanYPY",
+        "code": "YPY"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort SmithYSM",
+        "code": "YSM"
+    },
+    {
+        "flight": "destination",
+        "country": "Hay RiverYHY",
+        "code": "YHY"
+    },
+    {
+        "flight": "destination",
+        "country": "High LevelYOJ",
+        "code": "YOJ"
+    },
+    {
+        "flight": "destination",
+        "country": "YellowknifeYZF",
+        "code": "YZF"
+    },
+    {
+        "flight": "departure",
+        "country": "EdmontonYEG",
+        "code": "YEG"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort ChipewyanYPY",
+        "code": "YPY"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort SmithYSM",
+        "code": "YSM"
+    },
+    {
+        "flight": "departure",
+        "country": "Hay RiverYHY",
+        "code": "YHY"
+    },
+    {
+        "flight": "departure",
+        "country": "High LevelYOJ",
+        "code": "YOJ"
+    },
+    {
+        "flight": "departure",
+        "country": "YellowknifeYZF",
+        "code": "YZF"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "EastsoundESD",
+        "code": "ESD"
+    },
+    {
+        "flight": "destination",
+        "country": "EverettPAE",
+        "code": "PAE"
+    },
+    {
+        "flight": "destination",
+        "country": "Friday HarborFRD",
+        "code": "FRD"
+    },
+    {
+        "flight": "destination",
+        "country": "SeattleBFI",
+        "code": "BFI"
+    },
+    {
+        "flight": "departure",
+        "country": "EastsoundESD",
+        "code": "ESD"
+    },
+    {
+        "flight": "departure",
+        "country": "EverettPAE",
+        "code": "PAE"
+    },
+    {
+        "flight": "departure",
+        "country": "Friday HarborFRD",
+        "code": "FRD"
+    },
+    {
+        "flight": "departure",
+        "country": "SeattleBFI",
+        "code": "BFI"
+    }
+]

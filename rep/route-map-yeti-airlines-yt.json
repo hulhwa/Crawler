@@ -1,0 +1,122 @@
+[
+    {
+        "flight": "destination",
+        "country": "Bhadrapur / ChandragadhiBDP",
+        "code": "BDP"
+    },
+    {
+        "flight": "destination",
+        "country": "Bhairawa, SiddharthanagarBWA",
+        "code": "BWA"
+    },
+    {
+        "flight": "destination",
+        "country": "BiratnagarBIR",
+        "code": "BIR"
+    },
+    {
+        "flight": "destination",
+        "country": "DolpaDOP",
+        "code": "DOP"
+    },
+    {
+        "flight": "destination",
+        "country": "JanakpurJKR",
+        "code": "JKR"
+    },
+    {
+        "flight": "destination",
+        "country": "JomsomJMO",
+        "code": "JMO"
+    },
+    {
+        "flight": "destination",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "destination",
+        "country": "LuklaLUA",
+        "code": "LUA"
+    },
+    {
+        "flight": "destination",
+        "country": "NepalgunjKEP",
+        "code": "KEP"
+    },
+    {
+        "flight": "destination",
+        "country": "PokharaPKR",
+        "code": "PKR"
+    },
+    {
+        "flight": "destination",
+        "country": "RamechhapRHP",
+        "code": "RHP"
+    },
+    {
+        "flight": "destination",
+        "country": "Simara, BaraSIF",
+        "code": "SIF"
+    },
+    {
+        "flight": "departure",
+        "country": "Bhadrapur / ChandragadhiBDP",
+        "code": "BDP"
+    },
+    {
+        "flight": "departure",
+        "country": "Bhairawa, SiddharthanagarBWA",
+        "code": "BWA"
+    },
+    {
+        "flight": "departure",
+        "country": "BiratnagarBIR",
+        "code": "BIR"
+    },
+    {
+        "flight": "departure",
+        "country": "DolpaDOP",
+        "code": "DOP"
+    },
+    {
+        "flight": "departure",
+        "country": "JanakpurJKR",
+        "code": "JKR"
+    },
+    {
+        "flight": "departure",
+        "country": "JomsomJMO",
+        "code": "JMO"
+    },
+    {
+        "flight": "departure",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "departure",
+        "country": "LuklaLUA",
+        "code": "LUA"
+    },
+    {
+        "flight": "departure",
+        "country": "NepalgunjKEP",
+        "code": "KEP"
+    },
+    {
+        "flight": "departure",
+        "country": "PokharaPKR",
+        "code": "PKR"
+    },
+    {
+        "flight": "departure",
+        "country": "RamechhapRHP",
+        "code": "RHP"
+    },
+    {
+        "flight": "departure",
+        "country": "Simara, BaraSIF",
+        "code": "SIF"
+    }
+]

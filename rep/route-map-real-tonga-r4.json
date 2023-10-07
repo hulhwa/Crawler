@@ -1,0 +1,52 @@
+[
+    {
+        "flight": "destination",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "destination",
+        "country": "KanoKAN",
+        "code": "KAN"
+    },
+    {
+        "flight": "destination",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "destination",
+        "country": "MaiduguriMIU",
+        "code": "MIU"
+    },
+    {
+        "flight": "destination",
+        "country": "SokotoSKO",
+        "code": "SKO"
+    },
+    {
+        "flight": "departure",
+        "country": "AbujaABV",
+        "code": "ABV"
+    },
+    {
+        "flight": "departure",
+        "country": "KanoKAN",
+        "code": "KAN"
+    },
+    {
+        "flight": "departure",
+        "country": "LagosLOS",
+        "code": "LOS"
+    },
+    {
+        "flight": "departure",
+        "country": "MaiduguriMIU",
+        "code": "MIU"
+    },
+    {
+        "flight": "departure",
+        "country": "SokotoSKO",
+        "code": "SKO"
+    }
+]

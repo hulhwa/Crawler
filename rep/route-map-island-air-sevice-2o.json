@@ -1,0 +1,182 @@
+[
+    {
+        "flight": "destination",
+        "country": "AkhiokAKK",
+        "code": "AKK"
+    },
+    {
+        "flight": "destination",
+        "country": "Amook BayAOS",
+        "code": "AOS"
+    },
+    {
+        "flight": "destination",
+        "country": "KarlukKYK",
+        "code": "KYK"
+    },
+    {
+        "flight": "destination",
+        "country": "Kitoi BayKKB",
+        "code": "KKB"
+    },
+    {
+        "flight": "destination",
+        "country": "KodiakADQ",
+        "code": "ADQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Larsen BayKLN",
+        "code": "KLN"
+    },
+    {
+        "flight": "destination",
+        "country": "Lazy BayALZ",
+        "code": "ALZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Moser BayKMY",
+        "code": "KMY"
+    },
+    {
+        "flight": "destination",
+        "country": "Old HarborOLH",
+        "code": "OLH"
+    },
+    {
+        "flight": "destination",
+        "country": "Olga BayKOY",
+        "code": "KOY"
+    },
+    {
+        "flight": "destination",
+        "country": "OuzinkieKOZ",
+        "code": "KOZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Port BaileyKPY",
+        "code": "KPY"
+    },
+    {
+        "flight": "destination",
+        "country": "Port LionsORI",
+        "code": "ORI"
+    },
+    {
+        "flight": "destination",
+        "country": "Port WilliamsKPR",
+        "code": "KPR"
+    },
+    {
+        "flight": "destination",
+        "country": "Seal BaySYB",
+        "code": "SYB"
+    },
+    {
+        "flight": "destination",
+        "country": "UganikUGI",
+        "code": "UGI"
+    },
+    {
+        "flight": "destination",
+        "country": "West PointKWP",
+        "code": "KWP"
+    },
+    {
+        "flight": "destination",
+        "country": "Zachar BayKZB",
+        "code": "KZB"
+    },
+    {
+        "flight": "departure",
+        "country": "AkhiokAKK",
+        "code": "AKK"
+    },
+    {
+        "flight": "departure",
+        "country": "Amook BayAOS",
+        "code": "AOS"
+    },
+    {
+        "flight": "departure",
+        "country": "KarlukKYK",
+        "code": "KYK"
+    },
+    {
+        "flight": "departure",
+        "country": "Kitoi BayKKB",
+        "code": "KKB"
+    },
+    {
+        "flight": "departure",
+        "country": "KodiakADQ",
+        "code": "ADQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Larsen BayKLN",
+        "code": "KLN"
+    },
+    {
+        "flight": "departure",
+        "country": "Lazy BayALZ",
+        "code": "ALZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Moser BayKMY",
+        "code": "KMY"
+    },
+    {
+        "flight": "departure",
+        "country": "Old HarborOLH",
+        "code": "OLH"
+    },
+    {
+        "flight": "departure",
+        "country": "Olga BayKOY",
+        "code": "KOY"
+    },
+    {
+        "flight": "departure",
+        "country": "OuzinkieKOZ",
+        "code": "KOZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Port BaileyKPY",
+        "code": "KPY"
+    },
+    {
+        "flight": "departure",
+        "country": "Port LionsORI",
+        "code": "ORI"
+    },
+    {
+        "flight": "departure",
+        "country": "Port WilliamsKPR",
+        "code": "KPR"
+    },
+    {
+        "flight": "departure",
+        "country": "Seal BaySYB",
+        "code": "SYB"
+    },
+    {
+        "flight": "departure",
+        "country": "UganikUGI",
+        "code": "UGI"
+    },
+    {
+        "flight": "departure",
+        "country": "West PointKWP",
+        "code": "KWP"
+    },
+    {
+        "flight": "departure",
+        "country": "Zachar BayKZB",
+        "code": "KZB"
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "flight": "destination",
+        "country": "FuzhouFOC",
+        "code": "FOC"
+    },
+    {
+        "flight": "destination",
+        "country": "HangzhouHGH",
+        "code": "HGH"
+    },
+    {
+        "flight": "destination",
+        "country": "NanjingNKG",
+        "code": "NKG"
+    },
+    {
+        "flight": "destination",
+        "country": "WenzhouWNZ",
+        "code": "WNZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Ambon, MalukuAMQ",
+        "code": "AMQ"
+    },
+    {
+        "flight": "destination",
+        "country": "BalikpapanBPN",
+        "code": "BPN"
+    },
+    {
+        "flight": "destination",
+        "country": "BiakBIK",
+        "code": "BIK"
+    },
+    {
+        "flight": "destination",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "destination",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "destination",
+        "country": "JayapuraDJJ",
+        "code": "DJJ"
+    },
+    {
+        "flight": "destination",
+        "country": "LanggurLUV",
+        "code": "LUV"
+    },
+    {
+        "flight": "destination",
+        "country": "LuwukLUW",
+        "code": "LUW"
+    },
+    {
+        "flight": "destination",
+        "country": "MakassarUPG",
+        "code": "UPG"
+    },
+    {
+        "flight": "destination",
+        "country": "ManokwariMKW",
+        "code": "MKW"
+    },
+    {
+        "flight": "destination",
+        "country": "PalembangPLM",
+        "code": "PLM"
+    },
+    {
+        "flight": "destination",
+        "country": "Pangkal PinangPGK",
+        "code": "PGK"
+    },
+    {
+        "flight": "destination",
+        "country": "PontianakPNK",
+        "code": "PNK"
+    },
+    {
+        "flight": "destination",
+        "country": "SemarangSRG",
+        "code": "SRG"
+    },
+    {
+        "flight": "destination",
+        "country": "SorongSOQ",
+        "code": "SOQ"
+    },
+    {
+        "flight": "destination",
+        "country": "SurabayaSUB",
+        "code": "SUB"
+    },
+    {
+        "flight": "destination",
+        "country": "Tanjung PandanTJQ",
+        "code": "TJQ"
+    },
+    {
+        "flight": "destination",
+        "country": "TernateTTE",
+        "code": "TTE"
+    },
+    {
+        "flight": "destination",
+        "country": "TimikaTIM",
+        "code": "TIM"
+    },
+    {
+        "flight": "destination",
+        "country": "YogyakartaYIA",
+        "code": "YIA"
+    },
+    {
+        "flight": "destination",
+        "country": "DiliDIL",
+        "code": "DIL"
+    },
+    {
+        "flight": "departure",
+        "country": "FuzhouFOC",
+        "code": "FOC"
+    },
+    {
+        "flight": "departure",
+        "country": "HangzhouHGH",
+        "code": "HGH"
+    },
+    {
+        "flight": "departure",
+        "country": "NanjingNKG",
+        "code": "NKG"
+    },
+    {
+        "flight": "departure",
+        "country": "WenzhouWNZ",
+        "code": "WNZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Ambon, MalukuAMQ",
+        "code": "AMQ"
+    },
+    {
+        "flight": "departure",
+        "country": "BalikpapanBPN",
+        "code": "BPN"
+    },
+    {
+        "flight": "departure",
+        "country": "BiakBIK",
+        "code": "BIK"
+    },
+    {
+        "flight": "departure",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "departure",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "departure",
+        "country": "JayapuraDJJ",
+        "code": "DJJ"
+    },
+    {
+        "flight": "departure",
+        "country": "LanggurLUV",
+        "code": "LUV"
+    },
+    {
+        "flight": "departure",
+        "country": "LuwukLUW",
+        "code": "LUW"
+    },
+    {
+        "flight": "departure",
+        "country": "MakassarUPG",
+        "code": "UPG"
+    },
+    {
+        "flight": "departure",
+        "country": "ManokwariMKW",
+        "code": "MKW"
+    },
+    {
+        "flight": "departure",
+        "country": "PalembangPLM",
+        "code": "PLM"
+    },
+    {
+        "flight": "departure",
+        "country": "Pangkal PinangPGK",
+        "code": "PGK"
+    },
+    {
+        "flight": "departure",
+        "country": "PontianakPNK",
+        "code": "PNK"
+    },
+    {
+        "flight": "departure",
+        "country": "SemarangSRG",
+        "code": "SRG"
+    },
+    {
+        "flight": "departure",
+        "country": "SorongSOQ",
+        "code": "SOQ"
+    },
+    {
+        "flight": "departure",
+        "country": "SurabayaSUB",
+        "code": "SUB"
+    },
+    {
+        "flight": "departure",
+        "country": "Tanjung PandanTJQ",
+        "code": "TJQ"
+    },
+    {
+        "flight": "departure",
+        "country": "TernateTTE",
+        "code": "TTE"
+    },
+    {
+        "flight": "departure",
+        "country": "TimikaTIM",
+        "code": "TIM"
+    },
+    {
+        "flight": "departure",
+        "country": "YogyakartaYIA",
+        "code": "YIA"
+    },
+    {
+        "flight": "departure",
+        "country": "DiliDIL",
+        "code": "DIL"
+    }
+]

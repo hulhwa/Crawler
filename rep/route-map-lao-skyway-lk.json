@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "Luang NamthaLXG",
+        "code": "LXG"
+    },
+    {
+        "flight": "destination",
+        "country": "Luang PrabangLPQ",
+        "code": "LPQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Muang XayODY",
+        "code": "ODY"
+    },
+    {
+        "flight": "destination",
+        "country": "PaksePKZ",
+        "code": "PKZ"
+    },
+    {
+        "flight": "destination",
+        "country": "PhongsaliPCQ",
+        "code": "PCQ"
+    },
+    {
+        "flight": "destination",
+        "country": "PhonsavanXKH",
+        "code": "XKH"
+    },
+    {
+        "flight": "destination",
+        "country": "Sam NeuaNEU",
+        "code": "NEU"
+    },
+    {
+        "flight": "destination",
+        "country": "SayabouryZBY",
+        "code": "ZBY"
+    },
+    {
+        "flight": "destination",
+        "country": "VientianeVTE",
+        "code": "VTE"
+    },
+    {
+        "flight": "departure",
+        "country": "Luang NamthaLXG",
+        "code": "LXG"
+    },
+    {
+        "flight": "departure",
+        "country": "Luang PrabangLPQ",
+        "code": "LPQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Muang XayODY",
+        "code": "ODY"
+    },
+    {
+        "flight": "departure",
+        "country": "PaksePKZ",
+        "code": "PKZ"
+    },
+    {
+        "flight": "departure",
+        "country": "PhongsaliPCQ",
+        "code": "PCQ"
+    },
+    {
+        "flight": "departure",
+        "country": "PhonsavanXKH",
+        "code": "XKH"
+    },
+    {
+        "flight": "departure",
+        "country": "Sam NeuaNEU",
+        "code": "NEU"
+    },
+    {
+        "flight": "departure",
+        "country": "SayabouryZBY",
+        "code": "ZBY"
+    },
+    {
+        "flight": "departure",
+        "country": "VientianeVTE",
+        "code": "VTE"
+    }
+]

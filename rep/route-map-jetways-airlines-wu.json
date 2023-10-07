@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "AndrosSAQ",
+        "code": "SAQ"
+    },
+    {
+        "flight": "destination",
+        "country": "BiminiBIM",
+        "code": "BIM"
+    },
+    {
+        "flight": "destination",
+        "country": "FreeportFPO",
+        "code": "FPO"
+    },
+    {
+        "flight": "destination",
+        "country": "Great ExumaGGT",
+        "code": "GGT"
+    },
+    {
+        "flight": "destination",
+        "country": "Marsh HarbourMHH",
+        "code": "MHH"
+    },
+    {
+        "flight": "destination",
+        "country": "NassauNAS",
+        "code": "NAS"
+    },
+    {
+        "flight": "destination",
+        "country": "New BightTBI",
+        "code": "TBI"
+    },
+    {
+        "flight": "destination",
+        "country": "South AndrosTZN",
+        "code": "TZN"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    },
+    {
+        "flight": "departure",
+        "country": "AndrosSAQ",
+        "code": "SAQ"
+    },
+    {
+        "flight": "departure",
+        "country": "BiminiBIM",
+        "code": "BIM"
+    },
+    {
+        "flight": "departure",
+        "country": "FreeportFPO",
+        "code": "FPO"
+    },
+    {
+        "flight": "departure",
+        "country": "Great ExumaGGT",
+        "code": "GGT"
+    },
+    {
+        "flight": "departure",
+        "country": "Marsh HarbourMHH",
+        "code": "MHH"
+    },
+    {
+        "flight": "departure",
+        "country": "NassauNAS",
+        "code": "NAS"
+    },
+    {
+        "flight": "departure",
+        "country": "New BightTBI",
+        "code": "TBI"
+    },
+    {
+        "flight": "departure",
+        "country": "South AndrosTZN",
+        "code": "TZN"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "flight": "destination",
+        "country": "Boston HarborBNH",
+        "code": "BNH"
+    },
+    {
+        "flight": "destination",
+        "country": "BridgeportBDR",
+        "code": "BDR"
+    },
+    {
+        "flight": "destination",
+        "country": "NantucketACK",
+        "code": "ACK"
+    },
+    {
+        "flight": "destination",
+        "country": "New York Skyports Seaplane BaseNYS",
+        "code": "NYS"
+    },
+    {
+        "flight": "destination",
+        "country": "PlymouthPYM",
+        "code": "PYM"
+    },
+    {
+        "flight": "destination",
+        "country": "WashingtonIAD",
+        "code": "IAD"
+    },
+    {
+        "flight": "departure",
+        "country": "Boston HarborBNH",
+        "code": "BNH"
+    },
+    {
+        "flight": "departure",
+        "country": "BridgeportBDR",
+        "code": "BDR"
+    },
+    {
+        "flight": "departure",
+        "country": "NantucketACK",
+        "code": "ACK"
+    },
+    {
+        "flight": "departure",
+        "country": "New York Skyports Seaplane BaseNYS",
+        "code": "NYS"
+    },
+    {
+        "flight": "departure",
+        "country": "PlymouthPYM",
+        "code": "PYM"
+    },
+    {
+        "flight": "departure",
+        "country": "WashingtonIAD",
+        "code": "IAD"
+    }
+]

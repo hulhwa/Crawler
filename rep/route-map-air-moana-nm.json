@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "AtuonaAUQ",
+        "code": "AUQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Bora BoraBOB",
+        "code": "BOB"
+    },
+    {
+        "flight": "destination",
+        "country": "MooreaMOZ",
+        "code": "MOZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Nuku HivaNHV",
+        "code": "NHV"
+    },
+    {
+        "flight": "destination",
+        "country": "RaiateaRFP",
+        "code": "RFP"
+    },
+    {
+        "flight": "destination",
+        "country": "RangiroaRGI",
+        "code": "RGI"
+    },
+    {
+        "flight": "destination",
+        "country": "TahitiPPT",
+        "code": "PPT"
+    },
+    {
+        "flight": "departure",
+        "country": "AtuonaAUQ",
+        "code": "AUQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Bora BoraBOB",
+        "code": "BOB"
+    },
+    {
+        "flight": "departure",
+        "country": "MooreaMOZ",
+        "code": "MOZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Nuku HivaNHV",
+        "code": "NHV"
+    },
+    {
+        "flight": "departure",
+        "country": "RaiateaRFP",
+        "code": "RFP"
+    },
+    {
+        "flight": "departure",
+        "country": "RangiroaRGI",
+        "code": "RGI"
+    },
+    {
+        "flight": "departure",
+        "country": "TahitiPPT",
+        "code": "PPT"
+    }
+]

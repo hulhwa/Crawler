@@ -1,0 +1,162 @@
+[
+    {
+        "flight": "destination",
+        "country": "Amboseli National ParkASV",
+        "code": "ASV"
+    },
+    {
+        "flight": "destination",
+        "country": "Maasai MaraMDR",
+        "code": "MDR"
+    },
+    {
+        "flight": "destination",
+        "country": "Maasai Mara (Angama)ANA",
+        "code": "ANA"
+    },
+    {
+        "flight": "destination",
+        "country": "Maasai Mara (Keekorok)KEU",
+        "code": "KEU"
+    },
+    {
+        "flight": "destination",
+        "country": "Maasai Mara (Kichwa Tembo)KTJ",
+        "code": "KTJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Maasai Mara (Mara North)HKR",
+        "code": "HKR"
+    },
+    {
+        "flight": "destination",
+        "country": "Maasai Mara (Mara Serena)MRE",
+        "code": "MRE"
+    },
+    {
+        "flight": "destination",
+        "country": "Maasai Mara (Olkiombo)OLX",
+        "code": "OLX"
+    },
+    {
+        "flight": "destination",
+        "country": "MalindiMYD",
+        "code": "MYD"
+    },
+    {
+        "flight": "destination",
+        "country": "MombasaMBA",
+        "code": "MBA"
+    },
+    {
+        "flight": "destination",
+        "country": "NairobiWIL",
+        "code": "WIL"
+    },
+    {
+        "flight": "destination",
+        "country": "Ol SekiOSJ",
+        "code": "OSJ"
+    },
+    {
+        "flight": "destination",
+        "country": "OlareOLG",
+        "code": "OLG"
+    },
+    {
+        "flight": "destination",
+        "country": "UkundaUKA",
+        "code": "UKA"
+    },
+    {
+        "flight": "destination",
+        "country": "VipingoVPG",
+        "code": "VPG"
+    },
+    {
+        "flight": "destination",
+        "country": "WajirWJR",
+        "code": "WJR"
+    },
+    {
+        "flight": "departure",
+        "country": "Amboseli National ParkASV",
+        "code": "ASV"
+    },
+    {
+        "flight": "departure",
+        "country": "Maasai MaraMDR",
+        "code": "MDR"
+    },
+    {
+        "flight": "departure",
+        "country": "Maasai Mara (Angama)ANA",
+        "code": "ANA"
+    },
+    {
+        "flight": "departure",
+        "country": "Maasai Mara (Keekorok)KEU",
+        "code": "KEU"
+    },
+    {
+        "flight": "departure",
+        "country": "Maasai Mara (Kichwa Tembo)KTJ",
+        "code": "KTJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Maasai Mara (Mara North)HKR",
+        "code": "HKR"
+    },
+    {
+        "flight": "departure",
+        "country": "Maasai Mara (Mara Serena)MRE",
+        "code": "MRE"
+    },
+    {
+        "flight": "departure",
+        "country": "Maasai Mara (Olkiombo)OLX",
+        "code": "OLX"
+    },
+    {
+        "flight": "departure",
+        "country": "MalindiMYD",
+        "code": "MYD"
+    },
+    {
+        "flight": "departure",
+        "country": "MombasaMBA",
+        "code": "MBA"
+    },
+    {
+        "flight": "departure",
+        "country": "NairobiWIL",
+        "code": "WIL"
+    },
+    {
+        "flight": "departure",
+        "country": "Ol SekiOSJ",
+        "code": "OSJ"
+    },
+    {
+        "flight": "departure",
+        "country": "OlareOLG",
+        "code": "OLG"
+    },
+    {
+        "flight": "departure",
+        "country": "UkundaUKA",
+        "code": "UKA"
+    },
+    {
+        "flight": "departure",
+        "country": "VipingoVPG",
+        "code": "VPG"
+    },
+    {
+        "flight": "departure",
+        "country": "WajirWJR",
+        "code": "WJR"
+    }
+]

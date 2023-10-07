@@ -1,0 +1,132 @@
+[
+    {
+        "flight": "destination",
+        "country": "Amboseli National ParkASV",
+        "code": "ASV"
+    },
+    {
+        "flight": "destination",
+        "country": "KisumuKIS",
+        "code": "KIS"
+    },
+    {
+        "flight": "destination",
+        "country": "Maasai MaraMDR",
+        "code": "MDR"
+    },
+    {
+        "flight": "destination",
+        "country": "Maasai Mara (Keekorok)KEU",
+        "code": "KEU"
+    },
+    {
+        "flight": "destination",
+        "country": "Maasai Mara (Kichwa Tembo)KTJ",
+        "code": "KTJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Maasai Mara (Mara North)HKR",
+        "code": "HKR"
+    },
+    {
+        "flight": "destination",
+        "country": "Maasai Mara (Mara Serena)MRE",
+        "code": "MRE"
+    },
+    {
+        "flight": "destination",
+        "country": "Maasai Mara (Olkiombo)OLX",
+        "code": "OLX"
+    },
+    {
+        "flight": "destination",
+        "country": "NairobiWIL",
+        "code": "WIL"
+    },
+    {
+        "flight": "destination",
+        "country": "NanyukiNYK",
+        "code": "NYK"
+    },
+    {
+        "flight": "destination",
+        "country": "SamburuUAS",
+        "code": "UAS"
+    },
+    {
+        "flight": "destination",
+        "country": "KilimanjaroJRO",
+        "code": "JRO"
+    },
+    {
+        "flight": "destination",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    },
+    {
+        "flight": "departure",
+        "country": "Amboseli National ParkASV",
+        "code": "ASV"
+    },
+    {
+        "flight": "departure",
+        "country": "KisumuKIS",
+        "code": "KIS"
+    },
+    {
+        "flight": "departure",
+        "country": "Maasai MaraMDR",
+        "code": "MDR"
+    },
+    {
+        "flight": "departure",
+        "country": "Maasai Mara (Keekorok)KEU",
+        "code": "KEU"
+    },
+    {
+        "flight": "departure",
+        "country": "Maasai Mara (Kichwa Tembo)KTJ",
+        "code": "KTJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Maasai Mara (Mara North)HKR",
+        "code": "HKR"
+    },
+    {
+        "flight": "departure",
+        "country": "Maasai Mara (Mara Serena)MRE",
+        "code": "MRE"
+    },
+    {
+        "flight": "departure",
+        "country": "Maasai Mara (Olkiombo)OLX",
+        "code": "OLX"
+    },
+    {
+        "flight": "departure",
+        "country": "NairobiWIL",
+        "code": "WIL"
+    },
+    {
+        "flight": "departure",
+        "country": "NanyukiNYK",
+        "code": "NYK"
+    },
+    {
+        "flight": "departure",
+        "country": "SamburuUAS",
+        "code": "UAS"
+    },
+    {
+        "flight": "departure",
+        "country": "KilimanjaroJRO",
+        "code": "JRO"
+    },
+    {
+        "flight": "departure",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    }
+]

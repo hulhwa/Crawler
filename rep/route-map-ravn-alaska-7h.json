@@ -1,0 +1,142 @@
+[
+    {
+        "flight": "destination",
+        "country": "AnchorageANC",
+        "code": "ANC"
+    },
+    {
+        "flight": "destination",
+        "country": "AniakANI",
+        "code": "ANI"
+    },
+    {
+        "flight": "destination",
+        "country": "Cold BayCDB",
+        "code": "CDB"
+    },
+    {
+        "flight": "destination",
+        "country": "HomerHOM",
+        "code": "HOM"
+    },
+    {
+        "flight": "destination",
+        "country": "KenaiENA",
+        "code": "ENA"
+    },
+    {
+        "flight": "destination",
+        "country": "King SalmonAKN",
+        "code": "AKN"
+    },
+    {
+        "flight": "destination",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "destination",
+        "country": "OntarioONT",
+        "code": "ONT"
+    },
+    {
+        "flight": "destination",
+        "country": "Sand PointSDP",
+        "code": "SDP"
+    },
+    {
+        "flight": "destination",
+        "country": "St. Mary'sKSM",
+        "code": "KSM"
+    },
+    {
+        "flight": "destination",
+        "country": "St. Paul IslandSNP",
+        "code": "SNP"
+    },
+    {
+        "flight": "destination",
+        "country": "UnalakleetUNK",
+        "code": "UNK"
+    },
+    {
+        "flight": "destination",
+        "country": "UnalaskaDUT",
+        "code": "DUT"
+    },
+    {
+        "flight": "destination",
+        "country": "ValdezVDZ",
+        "code": "VDZ"
+    },
+    {
+        "flight": "departure",
+        "country": "AnchorageANC",
+        "code": "ANC"
+    },
+    {
+        "flight": "departure",
+        "country": "AniakANI",
+        "code": "ANI"
+    },
+    {
+        "flight": "departure",
+        "country": "Cold BayCDB",
+        "code": "CDB"
+    },
+    {
+        "flight": "departure",
+        "country": "HomerHOM",
+        "code": "HOM"
+    },
+    {
+        "flight": "departure",
+        "country": "KenaiENA",
+        "code": "ENA"
+    },
+    {
+        "flight": "departure",
+        "country": "King SalmonAKN",
+        "code": "AKN"
+    },
+    {
+        "flight": "departure",
+        "country": "Las VegasLAS",
+        "code": "LAS"
+    },
+    {
+        "flight": "departure",
+        "country": "OntarioONT",
+        "code": "ONT"
+    },
+    {
+        "flight": "departure",
+        "country": "Sand PointSDP",
+        "code": "SDP"
+    },
+    {
+        "flight": "departure",
+        "country": "St. Mary'sKSM",
+        "code": "KSM"
+    },
+    {
+        "flight": "departure",
+        "country": "St. Paul IslandSNP",
+        "code": "SNP"
+    },
+    {
+        "flight": "departure",
+        "country": "UnalakleetUNK",
+        "code": "UNK"
+    },
+    {
+        "flight": "departure",
+        "country": "UnalaskaDUT",
+        "code": "DUT"
+    },
+    {
+        "flight": "departure",
+        "country": "ValdezVDZ",
+        "code": "VDZ"
+    }
+]

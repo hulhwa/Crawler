@@ -1,0 +1,232 @@
+[
+    {
+        "flight": "destination",
+        "country": "BujumburaBJM",
+        "code": "BJM"
+    },
+    {
+        "flight": "destination",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "destination",
+        "country": "MoroniHAH",
+        "code": "HAH"
+    },
+    {
+        "flight": "destination",
+        "country": "LubumbashiFBM",
+        "code": "FBM"
+    },
+    {
+        "flight": "destination",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "destination",
+        "country": "NairobiNBO",
+        "code": "NBO"
+    },
+    {
+        "flight": "destination",
+        "country": "ArushaARK",
+        "code": "ARK"
+    },
+    {
+        "flight": "destination",
+        "country": "BukobaBKZ",
+        "code": "BKZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "destination",
+        "country": "DodomaDOD",
+        "code": "DOD"
+    },
+    {
+        "flight": "destination",
+        "country": "GeitaGIT",
+        "code": "GIT"
+    },
+    {
+        "flight": "destination",
+        "country": "KigomaTKQ",
+        "code": "TKQ"
+    },
+    {
+        "flight": "destination",
+        "country": "KilimanjaroJRO",
+        "code": "JRO"
+    },
+    {
+        "flight": "destination",
+        "country": "MbeyaMBI",
+        "code": "MBI"
+    },
+    {
+        "flight": "destination",
+        "country": "MpandaNPY",
+        "code": "NPY"
+    },
+    {
+        "flight": "destination",
+        "country": "MwanzaMWZ",
+        "code": "MWZ"
+    },
+    {
+        "flight": "destination",
+        "country": "SongeaSGX",
+        "code": "SGX"
+    },
+    {
+        "flight": "destination",
+        "country": "TaboraTBO",
+        "code": "TBO"
+    },
+    {
+        "flight": "destination",
+        "country": "ZanzibarZNZ",
+        "code": "ZNZ"
+    },
+    {
+        "flight": "destination",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    },
+    {
+        "flight": "destination",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "destination",
+        "country": "NdolaNLA",
+        "code": "NLA"
+    },
+    {
+        "flight": "destination",
+        "country": "HarareHRE",
+        "code": "HRE"
+    },
+    {
+        "flight": "departure",
+        "country": "BujumburaBJM",
+        "code": "BJM"
+    },
+    {
+        "flight": "departure",
+        "country": "GuangzhouCAN",
+        "code": "CAN"
+    },
+    {
+        "flight": "departure",
+        "country": "MoroniHAH",
+        "code": "HAH"
+    },
+    {
+        "flight": "departure",
+        "country": "LubumbashiFBM",
+        "code": "FBM"
+    },
+    {
+        "flight": "departure",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "departure",
+        "country": "NairobiNBO",
+        "code": "NBO"
+    },
+    {
+        "flight": "departure",
+        "country": "ArushaARK",
+        "code": "ARK"
+    },
+    {
+        "flight": "departure",
+        "country": "BukobaBKZ",
+        "code": "BKZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Dar es SalaamDAR",
+        "code": "DAR"
+    },
+    {
+        "flight": "departure",
+        "country": "DodomaDOD",
+        "code": "DOD"
+    },
+    {
+        "flight": "departure",
+        "country": "GeitaGIT",
+        "code": "GIT"
+    },
+    {
+        "flight": "departure",
+        "country": "KigomaTKQ",
+        "code": "TKQ"
+    },
+    {
+        "flight": "departure",
+        "country": "KilimanjaroJRO",
+        "code": "JRO"
+    },
+    {
+        "flight": "departure",
+        "country": "MbeyaMBI",
+        "code": "MBI"
+    },
+    {
+        "flight": "departure",
+        "country": "MpandaNPY",
+        "code": "NPY"
+    },
+    {
+        "flight": "departure",
+        "country": "MwanzaMWZ",
+        "code": "MWZ"
+    },
+    {
+        "flight": "departure",
+        "country": "SongeaSGX",
+        "code": "SGX"
+    },
+    {
+        "flight": "departure",
+        "country": "TaboraTBO",
+        "code": "TBO"
+    },
+    {
+        "flight": "departure",
+        "country": "ZanzibarZNZ",
+        "code": "ZNZ"
+    },
+    {
+        "flight": "departure",
+        "country": "EntebbeEBB",
+        "code": "EBB"
+    },
+    {
+        "flight": "departure",
+        "country": "LusakaLUN",
+        "code": "LUN"
+    },
+    {
+        "flight": "departure",
+        "country": "NdolaNLA",
+        "code": "NLA"
+    },
+    {
+        "flight": "departure",
+        "country": "HarareHRE",
+        "code": "HRE"
+    }
+]

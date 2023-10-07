@@ -1,0 +1,182 @@
+[
+    {
+        "flight": "destination",
+        "country": "MoroniHAH",
+        "code": "HAH"
+    },
+    {
+        "flight": "destination",
+        "country": "Lourdes / TarbesLDE",
+        "code": "LDE"
+    },
+    {
+        "flight": "destination",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint-DenisRUN",
+        "code": "RUN"
+    },
+    {
+        "flight": "destination",
+        "country": "NairobiNBO",
+        "code": "NBO"
+    },
+    {
+        "flight": "destination",
+        "country": "AntananarivoTNR",
+        "code": "TNR"
+    },
+    {
+        "flight": "destination",
+        "country": "AntsirananaDIE",
+        "code": "DIE"
+    },
+    {
+        "flight": "destination",
+        "country": "Nosy BeNOS",
+        "code": "NOS"
+    },
+    {
+        "flight": "destination",
+        "country": "ToamasinaTMM",
+        "code": "TMM"
+    },
+    {
+        "flight": "destination",
+        "country": "TôlanaroFTU",
+        "code": "FTU"
+    },
+    {
+        "flight": "destination",
+        "country": "ToliaraTLE",
+        "code": "TLE"
+    },
+    {
+        "flight": "destination",
+        "country": "MauritiusMRU",
+        "code": "MRU"
+    },
+    {
+        "flight": "destination",
+        "country": "Rodrigues IslandRRG",
+        "code": "RRG"
+    },
+    {
+        "flight": "destination",
+        "country": "DzaoudziDZA",
+        "code": "DZA"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint-PierreZSE",
+        "code": "ZSE"
+    },
+    {
+        "flight": "destination",
+        "country": "MahéSEZ",
+        "code": "SEZ"
+    },
+    {
+        "flight": "destination",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "MoroniHAH",
+        "code": "HAH"
+    },
+    {
+        "flight": "departure",
+        "country": "Lourdes / TarbesLDE",
+        "code": "LDE"
+    },
+    {
+        "flight": "departure",
+        "country": "ParisCDG",
+        "code": "CDG"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint-DenisRUN",
+        "code": "RUN"
+    },
+    {
+        "flight": "departure",
+        "country": "NairobiNBO",
+        "code": "NBO"
+    },
+    {
+        "flight": "departure",
+        "country": "AntananarivoTNR",
+        "code": "TNR"
+    },
+    {
+        "flight": "departure",
+        "country": "AntsirananaDIE",
+        "code": "DIE"
+    },
+    {
+        "flight": "departure",
+        "country": "Nosy BeNOS",
+        "code": "NOS"
+    },
+    {
+        "flight": "departure",
+        "country": "ToamasinaTMM",
+        "code": "TMM"
+    },
+    {
+        "flight": "departure",
+        "country": "TôlanaroFTU",
+        "code": "FTU"
+    },
+    {
+        "flight": "departure",
+        "country": "ToliaraTLE",
+        "code": "TLE"
+    },
+    {
+        "flight": "departure",
+        "country": "MauritiusMRU",
+        "code": "MRU"
+    },
+    {
+        "flight": "departure",
+        "country": "Rodrigues IslandRRG",
+        "code": "RRG"
+    },
+    {
+        "flight": "departure",
+        "country": "DzaoudziDZA",
+        "code": "DZA"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint-PierreZSE",
+        "code": "ZSE"
+    },
+    {
+        "flight": "departure",
+        "country": "MahéSEZ",
+        "code": "SEZ"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    }
+]

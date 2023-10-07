@@ -1,0 +1,152 @@
+[
+    {
+        "flight": "destination",
+        "country": "Deer LakeYVZ",
+        "code": "YVZ"
+    },
+    {
+        "flight": "destination",
+        "country": "DrydenYHD",
+        "code": "YHD"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort FrancesYAG",
+        "code": "YAG"
+    },
+    {
+        "flight": "destination",
+        "country": "KenoraYQK",
+        "code": "YQK"
+    },
+    {
+        "flight": "destination",
+        "country": "North BayYYB",
+        "code": "YYB"
+    },
+    {
+        "flight": "destination",
+        "country": "North Spirit LakeYNO",
+        "code": "YNO"
+    },
+    {
+        "flight": "destination",
+        "country": "PikangikumYPM",
+        "code": "YPM"
+    },
+    {
+        "flight": "destination",
+        "country": "Red LakeYRL",
+        "code": "YRL"
+    },
+    {
+        "flight": "destination",
+        "country": "Sachigo LakeZPB",
+        "code": "ZPB"
+    },
+    {
+        "flight": "destination",
+        "country": "Sandy LakeZSJ",
+        "code": "ZSJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Sault Ste. MarieYAM",
+        "code": "YAM"
+    },
+    {
+        "flight": "destination",
+        "country": "Sioux LookoutYXL",
+        "code": "YXL"
+    },
+    {
+        "flight": "destination",
+        "country": "SudburyYSB",
+        "code": "YSB"
+    },
+    {
+        "flight": "destination",
+        "country": "Thunder BayYQT",
+        "code": "YQT"
+    },
+    {
+        "flight": "destination",
+        "country": "WinnipegYWG",
+        "code": "YWG"
+    },
+    {
+        "flight": "departure",
+        "country": "Deer LakeYVZ",
+        "code": "YVZ"
+    },
+    {
+        "flight": "departure",
+        "country": "DrydenYHD",
+        "code": "YHD"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort FrancesYAG",
+        "code": "YAG"
+    },
+    {
+        "flight": "departure",
+        "country": "KenoraYQK",
+        "code": "YQK"
+    },
+    {
+        "flight": "departure",
+        "country": "North BayYYB",
+        "code": "YYB"
+    },
+    {
+        "flight": "departure",
+        "country": "North Spirit LakeYNO",
+        "code": "YNO"
+    },
+    {
+        "flight": "departure",
+        "country": "PikangikumYPM",
+        "code": "YPM"
+    },
+    {
+        "flight": "departure",
+        "country": "Red LakeYRL",
+        "code": "YRL"
+    },
+    {
+        "flight": "departure",
+        "country": "Sachigo LakeZPB",
+        "code": "ZPB"
+    },
+    {
+        "flight": "departure",
+        "country": "Sandy LakeZSJ",
+        "code": "ZSJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Sault Ste. MarieYAM",
+        "code": "YAM"
+    },
+    {
+        "flight": "departure",
+        "country": "Sioux LookoutYXL",
+        "code": "YXL"
+    },
+    {
+        "flight": "departure",
+        "country": "SudburyYSB",
+        "code": "YSB"
+    },
+    {
+        "flight": "departure",
+        "country": "Thunder BayYQT",
+        "code": "YQT"
+    },
+    {
+        "flight": "departure",
+        "country": "WinnipegYWG",
+        "code": "YWG"
+    }
+]

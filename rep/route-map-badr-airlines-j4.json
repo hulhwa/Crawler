@@ -1,0 +1,202 @@
+[
+    {
+        "flight": "destination",
+        "country": "N'DjamenaNDJ",
+        "code": "NDJ"
+    },
+    {
+        "flight": "destination",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "destination",
+        "country": "Addis AbabaADD",
+        "code": "ADD"
+    },
+    {
+        "flight": "destination",
+        "country": "AmmanAMM",
+        "code": "AMM"
+    },
+    {
+        "flight": "destination",
+        "country": "KanoKAN",
+        "code": "KAN"
+    },
+    {
+        "flight": "destination",
+        "country": "DohaDOH",
+        "code": "DOH"
+    },
+    {
+        "flight": "destination",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "destination",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "destination",
+        "country": "JubaJUB",
+        "code": "JUB"
+    },
+    {
+        "flight": "destination",
+        "country": "El Fasher (Al-Fashir)ELF",
+        "code": "ELF"
+    },
+    {
+        "flight": "destination",
+        "country": "GeneinaEGN",
+        "code": "EGN"
+    },
+    {
+        "flight": "destination",
+        "country": "KassalaKSL",
+        "code": "KSL"
+    },
+    {
+        "flight": "destination",
+        "country": "KhartoumKRT",
+        "code": "KRT"
+    },
+    {
+        "flight": "destination",
+        "country": "NyalaUYL",
+        "code": "UYL"
+    },
+    {
+        "flight": "destination",
+        "country": "Port SudanPZU",
+        "code": "PZU"
+    },
+    {
+        "flight": "destination",
+        "country": "WauWUU",
+        "code": "WUU"
+    },
+    {
+        "flight": "destination",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "destination",
+        "country": "Abu DhabiAUH",
+        "code": "AUH"
+    },
+    {
+        "flight": "destination",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "destination",
+        "country": "London GatwickLGW",
+        "code": "LGW"
+    },
+    {
+        "flight": "departure",
+        "country": "N'DjamenaNDJ",
+        "code": "NDJ"
+    },
+    {
+        "flight": "departure",
+        "country": "CairoCAI",
+        "code": "CAI"
+    },
+    {
+        "flight": "departure",
+        "country": "Addis AbabaADD",
+        "code": "ADD"
+    },
+    {
+        "flight": "departure",
+        "country": "AmmanAMM",
+        "code": "AMM"
+    },
+    {
+        "flight": "departure",
+        "country": "KanoKAN",
+        "code": "KAN"
+    },
+    {
+        "flight": "departure",
+        "country": "DohaDOH",
+        "code": "DOH"
+    },
+    {
+        "flight": "departure",
+        "country": "JeddahJED",
+        "code": "JED"
+    },
+    {
+        "flight": "departure",
+        "country": "RiyadhRUH",
+        "code": "RUH"
+    },
+    {
+        "flight": "departure",
+        "country": "JubaJUB",
+        "code": "JUB"
+    },
+    {
+        "flight": "departure",
+        "country": "El Fasher (Al-Fashir)ELF",
+        "code": "ELF"
+    },
+    {
+        "flight": "departure",
+        "country": "GeneinaEGN",
+        "code": "EGN"
+    },
+    {
+        "flight": "departure",
+        "country": "KassalaKSL",
+        "code": "KSL"
+    },
+    {
+        "flight": "departure",
+        "country": "KhartoumKRT",
+        "code": "KRT"
+    },
+    {
+        "flight": "departure",
+        "country": "NyalaUYL",
+        "code": "UYL"
+    },
+    {
+        "flight": "departure",
+        "country": "Port SudanPZU",
+        "code": "PZU"
+    },
+    {
+        "flight": "departure",
+        "country": "WauWUU",
+        "code": "WUU"
+    },
+    {
+        "flight": "departure",
+        "country": "IstanbulIST",
+        "code": "IST"
+    },
+    {
+        "flight": "departure",
+        "country": "Abu DhabiAUH",
+        "code": "AUH"
+    },
+    {
+        "flight": "departure",
+        "country": "DubaiDXB",
+        "code": "DXB"
+    },
+    {
+        "flight": "departure",
+        "country": "London GatwickLGW",
+        "code": "LGW"
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "flight": "destination",
+        "country": "AomoriAOJ",
+        "code": "AOJ"
+    },
+    {
+        "flight": "destination",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "destination",
+        "country": "HanamakiHNA",
+        "code": "HNA"
+    },
+    {
+        "flight": "destination",
+        "country": "IzumoIZO",
+        "code": "IZO"
+    },
+    {
+        "flight": "destination",
+        "country": "KagoshimaKOJ",
+        "code": "KOJ"
+    },
+    {
+        "flight": "destination",
+        "country": "KobeUKB",
+        "code": "UKB"
+    },
+    {
+        "flight": "destination",
+        "country": "KochiKCZ",
+        "code": "KCZ"
+    },
+    {
+        "flight": "destination",
+        "country": "KumamotoKMJ",
+        "code": "KMJ"
+    },
+    {
+        "flight": "destination",
+        "country": "MatsumotoMMJ",
+        "code": "MMJ"
+    },
+    {
+        "flight": "destination",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "destination",
+        "country": "NagoyaNKM",
+        "code": "NKM"
+    },
+    {
+        "flight": "destination",
+        "country": "NiigataKIJ",
+        "code": "KIJ"
+    },
+    {
+        "flight": "destination",
+        "country": "SapporoCTS",
+        "code": "CTS"
+    },
+    {
+        "flight": "destination",
+        "country": "SapporoOKD",
+        "code": "OKD"
+    },
+    {
+        "flight": "destination",
+        "country": "SendaiSDJ",
+        "code": "SDJ"
+    },
+    {
+        "flight": "destination",
+        "country": "ShizuokaFSZ",
+        "code": "FSZ"
+    },
+    {
+        "flight": "destination",
+        "country": "YamagataGAJ",
+        "code": "GAJ"
+    },
+    {
+        "flight": "departure",
+        "country": "AomoriAOJ",
+        "code": "AOJ"
+    },
+    {
+        "flight": "departure",
+        "country": "FukuokaFUK",
+        "code": "FUK"
+    },
+    {
+        "flight": "departure",
+        "country": "HanamakiHNA",
+        "code": "HNA"
+    },
+    {
+        "flight": "departure",
+        "country": "IzumoIZO",
+        "code": "IZO"
+    },
+    {
+        "flight": "departure",
+        "country": "KagoshimaKOJ",
+        "code": "KOJ"
+    },
+    {
+        "flight": "departure",
+        "country": "KobeUKB",
+        "code": "UKB"
+    },
+    {
+        "flight": "departure",
+        "country": "KochiKCZ",
+        "code": "KCZ"
+    },
+    {
+        "flight": "departure",
+        "country": "KumamotoKMJ",
+        "code": "KMJ"
+    },
+    {
+        "flight": "departure",
+        "country": "MatsumotoMMJ",
+        "code": "MMJ"
+    },
+    {
+        "flight": "departure",
+        "country": "NagoyaNGO",
+        "code": "NGO"
+    },
+    {
+        "flight": "departure",
+        "country": "NagoyaNKM",
+        "code": "NKM"
+    },
+    {
+        "flight": "departure",
+        "country": "NiigataKIJ",
+        "code": "KIJ"
+    },
+    {
+        "flight": "departure",
+        "country": "SapporoCTS",
+        "code": "CTS"
+    },
+    {
+        "flight": "departure",
+        "country": "SapporoOKD",
+        "code": "OKD"
+    },
+    {
+        "flight": "departure",
+        "country": "SendaiSDJ",
+        "code": "SDJ"
+    },
+    {
+        "flight": "departure",
+        "country": "ShizuokaFSZ",
+        "code": "FSZ"
+    },
+    {
+        "flight": "departure",
+        "country": "YamagataGAJ",
+        "code": "GAJ"
+    }
+]

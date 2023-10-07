@@ -1,0 +1,112 @@
+[
+    {
+        "flight": "destination",
+        "country": "BalgoBQW",
+        "code": "BQW"
+    },
+    {
+        "flight": "destination",
+        "country": "BroomeBME",
+        "code": "BME"
+    },
+    {
+        "flight": "destination",
+        "country": "DarwinDRW",
+        "code": "DRW"
+    },
+    {
+        "flight": "destination",
+        "country": "DerbyDRB",
+        "code": "DRB"
+    },
+    {
+        "flight": "destination",
+        "country": "GeraldtonGET",
+        "code": "GET"
+    },
+    {
+        "flight": "destination",
+        "country": "Halls CreekHCQ",
+        "code": "HCQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Karratha / DampierKTA",
+        "code": "KTA"
+    },
+    {
+        "flight": "destination",
+        "country": "KununurraKNX",
+        "code": "KNX"
+    },
+    {
+        "flight": "destination",
+        "country": "NewmanZNE",
+        "code": "ZNE"
+    },
+    {
+        "flight": "destination",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "destination",
+        "country": "Port HedlandPHE",
+        "code": "PHE"
+    },
+    {
+        "flight": "departure",
+        "country": "BalgoBQW",
+        "code": "BQW"
+    },
+    {
+        "flight": "departure",
+        "country": "BroomeBME",
+        "code": "BME"
+    },
+    {
+        "flight": "departure",
+        "country": "DarwinDRW",
+        "code": "DRW"
+    },
+    {
+        "flight": "departure",
+        "country": "DerbyDRB",
+        "code": "DRB"
+    },
+    {
+        "flight": "departure",
+        "country": "GeraldtonGET",
+        "code": "GET"
+    },
+    {
+        "flight": "departure",
+        "country": "Halls CreekHCQ",
+        "code": "HCQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Karratha / DampierKTA",
+        "code": "KTA"
+    },
+    {
+        "flight": "departure",
+        "country": "KununurraKNX",
+        "code": "KNX"
+    },
+    {
+        "flight": "departure",
+        "country": "NewmanZNE",
+        "code": "ZNE"
+    },
+    {
+        "flight": "departure",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "departure",
+        "country": "Port HedlandPHE",
+        "code": "PHE"
+    }
+]

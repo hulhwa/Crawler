@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "BiminiNSB",
+        "code": "NSB"
+    },
+    {
+        "flight": "destination",
+        "country": "Great Harbour CayGHC",
+        "code": "GHC"
+    },
+    {
+        "flight": "destination",
+        "country": "NassauNAS",
+        "code": "NAS"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    },
+    {
+        "flight": "departure",
+        "country": "BiminiNSB",
+        "code": "NSB"
+    },
+    {
+        "flight": "departure",
+        "country": "Great Harbour CayGHC",
+        "code": "GHC"
+    },
+    {
+        "flight": "departure",
+        "country": "NassauNAS",
+        "code": "NAS"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    }
+]

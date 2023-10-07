@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "ArvidsjaurAJR",
+        "code": "AJR"
+    },
+    {
+        "flight": "destination",
+        "country": "GällivareGEV",
+        "code": "GEV"
+    },
+    {
+        "flight": "destination",
+        "country": "Stockholm (Arlanda)ARN",
+        "code": "ARN"
+    },
+    {
+        "flight": "departure",
+        "country": "ArvidsjaurAJR",
+        "code": "AJR"
+    },
+    {
+        "flight": "departure",
+        "country": "GällivareGEV",
+        "code": "GEV"
+    },
+    {
+        "flight": "departure",
+        "country": "Stockholm (Arlanda)ARN",
+        "code": "ARN"
+    }
+]

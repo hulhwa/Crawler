@@ -1,0 +1,152 @@
+[
+    {
+        "flight": "destination",
+        "country": "Drake BayDRK",
+        "code": "DRK"
+    },
+    {
+        "flight": "destination",
+        "country": "GolfitoGLF",
+        "code": "GLF"
+    },
+    {
+        "flight": "destination",
+        "country": "La Fortuna, San CarlosFON",
+        "code": "FON"
+    },
+    {
+        "flight": "destination",
+        "country": "LiberiaLIR",
+        "code": "LIR"
+    },
+    {
+        "flight": "destination",
+        "country": "NosaraNOB",
+        "code": "NOB"
+    },
+    {
+        "flight": "destination",
+        "country": "Palmar SurPMZ",
+        "code": "PMZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto JimenezPJM",
+        "code": "PJM"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto LimónLIO",
+        "code": "LIO"
+    },
+    {
+        "flight": "destination",
+        "country": "QueposXQP",
+        "code": "XQP"
+    },
+    {
+        "flight": "destination",
+        "country": "San JoséSJO",
+        "code": "SJO"
+    },
+    {
+        "flight": "destination",
+        "country": "TamarindoTNO",
+        "code": "TNO"
+    },
+    {
+        "flight": "destination",
+        "country": "TamborTMU",
+        "code": "TMU"
+    },
+    {
+        "flight": "destination",
+        "country": "TortugueroTTQ",
+        "code": "TTQ"
+    },
+    {
+        "flight": "destination",
+        "country": "ManaguaMGA",
+        "code": "MGA"
+    },
+    {
+        "flight": "destination",
+        "country": "Bocas del ToroBOC",
+        "code": "BOC"
+    },
+    {
+        "flight": "departure",
+        "country": "Drake BayDRK",
+        "code": "DRK"
+    },
+    {
+        "flight": "departure",
+        "country": "GolfitoGLF",
+        "code": "GLF"
+    },
+    {
+        "flight": "departure",
+        "country": "La Fortuna, San CarlosFON",
+        "code": "FON"
+    },
+    {
+        "flight": "departure",
+        "country": "LiberiaLIR",
+        "code": "LIR"
+    },
+    {
+        "flight": "departure",
+        "country": "NosaraNOB",
+        "code": "NOB"
+    },
+    {
+        "flight": "departure",
+        "country": "Palmar SurPMZ",
+        "code": "PMZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto JimenezPJM",
+        "code": "PJM"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto LimónLIO",
+        "code": "LIO"
+    },
+    {
+        "flight": "departure",
+        "country": "QueposXQP",
+        "code": "XQP"
+    },
+    {
+        "flight": "departure",
+        "country": "San JoséSJO",
+        "code": "SJO"
+    },
+    {
+        "flight": "departure",
+        "country": "TamarindoTNO",
+        "code": "TNO"
+    },
+    {
+        "flight": "departure",
+        "country": "TamborTMU",
+        "code": "TMU"
+    },
+    {
+        "flight": "departure",
+        "country": "TortugueroTTQ",
+        "code": "TTQ"
+    },
+    {
+        "flight": "departure",
+        "country": "ManaguaMGA",
+        "code": "MGA"
+    },
+    {
+        "flight": "departure",
+        "country": "Bocas del ToroBOC",
+        "code": "BOC"
+    }
+]

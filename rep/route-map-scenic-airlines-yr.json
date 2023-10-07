@@ -1,0 +1,32 @@
+[
+    {
+        "flight": "destination",
+        "country": "Boulder City, Las VegasBLD",
+        "code": "BLD"
+    },
+    {
+        "flight": "destination",
+        "country": "Grand CanyonGCN",
+        "code": "GCN"
+    },
+    {
+        "flight": "destination",
+        "country": "Grand Canyon WestGCW",
+        "code": "GCW"
+    },
+    {
+        "flight": "departure",
+        "country": "Boulder City, Las VegasBLD",
+        "code": "BLD"
+    },
+    {
+        "flight": "departure",
+        "country": "Grand CanyonGCN",
+        "code": "GCN"
+    },
+    {
+        "flight": "departure",
+        "country": "Grand Canyon WestGCW",
+        "code": "GCW"
+    }
+]

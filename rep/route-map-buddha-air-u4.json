@@ -1,0 +1,142 @@
+[
+    {
+        "flight": "destination",
+        "country": "VaranasiVNS",
+        "code": "VNS"
+    },
+    {
+        "flight": "destination",
+        "country": "Bhadrapur / ChandragadhiBDP",
+        "code": "BDP"
+    },
+    {
+        "flight": "destination",
+        "country": "Bhairawa, SiddharthanagarBWA",
+        "code": "BWA"
+    },
+    {
+        "flight": "destination",
+        "country": "BharatpurBHR",
+        "code": "BHR"
+    },
+    {
+        "flight": "destination",
+        "country": "BiratnagarBIR",
+        "code": "BIR"
+    },
+    {
+        "flight": "destination",
+        "country": "DhangadhiDHI",
+        "code": "DHI"
+    },
+    {
+        "flight": "destination",
+        "country": "JanakpurJKR",
+        "code": "JKR"
+    },
+    {
+        "flight": "destination",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "destination",
+        "country": "NepalgunjKEP",
+        "code": "KEP"
+    },
+    {
+        "flight": "destination",
+        "country": "PokharaPKR",
+        "code": "PKR"
+    },
+    {
+        "flight": "destination",
+        "country": "RajbirajRJB",
+        "code": "RJB"
+    },
+    {
+        "flight": "destination",
+        "country": "Simara, BaraSIF",
+        "code": "SIF"
+    },
+    {
+        "flight": "destination",
+        "country": "SurkhetSKH",
+        "code": "SKH"
+    },
+    {
+        "flight": "destination",
+        "country": "TumlingtarTMI",
+        "code": "TMI"
+    },
+    {
+        "flight": "departure",
+        "country": "VaranasiVNS",
+        "code": "VNS"
+    },
+    {
+        "flight": "departure",
+        "country": "Bhadrapur / ChandragadhiBDP",
+        "code": "BDP"
+    },
+    {
+        "flight": "departure",
+        "country": "Bhairawa, SiddharthanagarBWA",
+        "code": "BWA"
+    },
+    {
+        "flight": "departure",
+        "country": "BharatpurBHR",
+        "code": "BHR"
+    },
+    {
+        "flight": "departure",
+        "country": "BiratnagarBIR",
+        "code": "BIR"
+    },
+    {
+        "flight": "departure",
+        "country": "DhangadhiDHI",
+        "code": "DHI"
+    },
+    {
+        "flight": "departure",
+        "country": "JanakpurJKR",
+        "code": "JKR"
+    },
+    {
+        "flight": "departure",
+        "country": "KathmanduKTM",
+        "code": "KTM"
+    },
+    {
+        "flight": "departure",
+        "country": "NepalgunjKEP",
+        "code": "KEP"
+    },
+    {
+        "flight": "departure",
+        "country": "PokharaPKR",
+        "code": "PKR"
+    },
+    {
+        "flight": "departure",
+        "country": "RajbirajRJB",
+        "code": "RJB"
+    },
+    {
+        "flight": "departure",
+        "country": "Simara, BaraSIF",
+        "code": "SIF"
+    },
+    {
+        "flight": "departure",
+        "country": "SurkhetSKH",
+        "code": "SKH"
+    },
+    {
+        "flight": "departure",
+        "country": "TumlingtarTMI",
+        "code": "TMI"
+    }
+]

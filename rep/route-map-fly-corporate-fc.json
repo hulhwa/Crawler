@@ -1,0 +1,162 @@
+[
+    {
+        "flight": "destination",
+        "country": "ArmidaleARM",
+        "code": "ARM"
+    },
+    {
+        "flight": "destination",
+        "country": "BiloelaZBL",
+        "code": "ZBL"
+    },
+    {
+        "flight": "destination",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "destination",
+        "country": "BundabergBDB",
+        "code": "BDB"
+    },
+    {
+        "flight": "destination",
+        "country": "CanberraCBR",
+        "code": "CBR"
+    },
+    {
+        "flight": "destination",
+        "country": "Coffs HarbourCFS",
+        "code": "CFS"
+    },
+    {
+        "flight": "destination",
+        "country": "DubboDBO",
+        "code": "DBO"
+    },
+    {
+        "flight": "destination",
+        "country": "HobartHBA",
+        "code": "HBA"
+    },
+    {
+        "flight": "destination",
+        "country": "InverellIVR",
+        "code": "IVR"
+    },
+    {
+        "flight": "destination",
+        "country": "MelbourneMEB",
+        "code": "MEB"
+    },
+    {
+        "flight": "destination",
+        "country": "NarrabriNAA",
+        "code": "NAA"
+    },
+    {
+        "flight": "destination",
+        "country": "NewcastleNTL",
+        "code": "NTL"
+    },
+    {
+        "flight": "destination",
+        "country": "OrangeOAG",
+        "code": "OAG"
+    },
+    {
+        "flight": "destination",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "destination",
+        "country": "TamworthTMW",
+        "code": "TMW"
+    },
+    {
+        "flight": "destination",
+        "country": "WollongongWOL",
+        "code": "WOL"
+    },
+    {
+        "flight": "departure",
+        "country": "ArmidaleARM",
+        "code": "ARM"
+    },
+    {
+        "flight": "departure",
+        "country": "BiloelaZBL",
+        "code": "ZBL"
+    },
+    {
+        "flight": "departure",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "departure",
+        "country": "BundabergBDB",
+        "code": "BDB"
+    },
+    {
+        "flight": "departure",
+        "country": "CanberraCBR",
+        "code": "CBR"
+    },
+    {
+        "flight": "departure",
+        "country": "Coffs HarbourCFS",
+        "code": "CFS"
+    },
+    {
+        "flight": "departure",
+        "country": "DubboDBO",
+        "code": "DBO"
+    },
+    {
+        "flight": "departure",
+        "country": "HobartHBA",
+        "code": "HBA"
+    },
+    {
+        "flight": "departure",
+        "country": "InverellIVR",
+        "code": "IVR"
+    },
+    {
+        "flight": "departure",
+        "country": "MelbourneMEB",
+        "code": "MEB"
+    },
+    {
+        "flight": "departure",
+        "country": "NarrabriNAA",
+        "code": "NAA"
+    },
+    {
+        "flight": "departure",
+        "country": "NewcastleNTL",
+        "code": "NTL"
+    },
+    {
+        "flight": "departure",
+        "country": "OrangeOAG",
+        "code": "OAG"
+    },
+    {
+        "flight": "departure",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "departure",
+        "country": "TamworthTMW",
+        "code": "TMW"
+    },
+    {
+        "flight": "departure",
+        "country": "WollongongWOL",
+        "code": "WOL"
+    }
+]

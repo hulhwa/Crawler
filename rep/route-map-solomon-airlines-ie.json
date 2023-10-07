@@ -1,0 +1,232 @@
+[
+    {
+        "flight": "destination",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "destination",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "destination",
+        "country": "Long LamaLLM",
+        "code": "LLM"
+    },
+    {
+        "flight": "destination",
+        "country": "AronaRNA",
+        "code": "RNA"
+    },
+    {
+        "flight": "destination",
+        "country": "AtoifiATD",
+        "code": "ATD"
+    },
+    {
+        "flight": "destination",
+        "country": "AukiAKS",
+        "code": "AKS"
+    },
+    {
+        "flight": "destination",
+        "country": "Balalae IslandBAS",
+        "code": "BAS"
+    },
+    {
+        "flight": "destination",
+        "country": "Bellona Island, AnuaBNY",
+        "code": "BNY"
+    },
+    {
+        "flight": "destination",
+        "country": "Choiseul BayCHY",
+        "code": "CHY"
+    },
+    {
+        "flight": "destination",
+        "country": "Fera IslandFRE",
+        "code": "FRE"
+    },
+    {
+        "flight": "destination",
+        "country": "Gizo / NusatupeGZO",
+        "code": "GZO"
+    },
+    {
+        "flight": "destination",
+        "country": "HoniaraHIR",
+        "code": "HIR"
+    },
+    {
+        "flight": "destination",
+        "country": "Kaghau IslandKGE",
+        "code": "KGE"
+    },
+    {
+        "flight": "destination",
+        "country": "KirakiraIRA",
+        "code": "IRA"
+    },
+    {
+        "flight": "destination",
+        "country": "MundaMUA",
+        "code": "MUA"
+    },
+    {
+        "flight": "destination",
+        "country": "ParasiPRS",
+        "code": "PRS"
+    },
+    {
+        "flight": "destination",
+        "country": "Ramata IslandRBV",
+        "code": "RBV"
+    },
+    {
+        "flight": "destination",
+        "country": "Rennell IslandRNL",
+        "code": "RNL"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa Ana IslandNNB",
+        "code": "NNB"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa Cruz IslandSCZ",
+        "code": "SCZ"
+    },
+    {
+        "flight": "destination",
+        "country": "SegheEGM",
+        "code": "EGM"
+    },
+    {
+        "flight": "destination",
+        "country": "SuavanaoVAO",
+        "code": "VAO"
+    },
+    {
+        "flight": "destination",
+        "country": "Port VilaVLI",
+        "code": "VLI"
+    },
+    {
+        "flight": "departure",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "departure",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "departure",
+        "country": "Long LamaLLM",
+        "code": "LLM"
+    },
+    {
+        "flight": "departure",
+        "country": "AronaRNA",
+        "code": "RNA"
+    },
+    {
+        "flight": "departure",
+        "country": "AtoifiATD",
+        "code": "ATD"
+    },
+    {
+        "flight": "departure",
+        "country": "AukiAKS",
+        "code": "AKS"
+    },
+    {
+        "flight": "departure",
+        "country": "Balalae IslandBAS",
+        "code": "BAS"
+    },
+    {
+        "flight": "departure",
+        "country": "Bellona Island, AnuaBNY",
+        "code": "BNY"
+    },
+    {
+        "flight": "departure",
+        "country": "Choiseul BayCHY",
+        "code": "CHY"
+    },
+    {
+        "flight": "departure",
+        "country": "Fera IslandFRE",
+        "code": "FRE"
+    },
+    {
+        "flight": "departure",
+        "country": "Gizo / NusatupeGZO",
+        "code": "GZO"
+    },
+    {
+        "flight": "departure",
+        "country": "HoniaraHIR",
+        "code": "HIR"
+    },
+    {
+        "flight": "departure",
+        "country": "Kaghau IslandKGE",
+        "code": "KGE"
+    },
+    {
+        "flight": "departure",
+        "country": "KirakiraIRA",
+        "code": "IRA"
+    },
+    {
+        "flight": "departure",
+        "country": "MundaMUA",
+        "code": "MUA"
+    },
+    {
+        "flight": "departure",
+        "country": "ParasiPRS",
+        "code": "PRS"
+    },
+    {
+        "flight": "departure",
+        "country": "Ramata IslandRBV",
+        "code": "RBV"
+    },
+    {
+        "flight": "departure",
+        "country": "Rennell IslandRNL",
+        "code": "RNL"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Ana IslandNNB",
+        "code": "NNB"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Cruz IslandSCZ",
+        "code": "SCZ"
+    },
+    {
+        "flight": "departure",
+        "country": "SegheEGM",
+        "code": "EGM"
+    },
+    {
+        "flight": "departure",
+        "country": "SuavanaoVAO",
+        "code": "VAO"
+    },
+    {
+        "flight": "departure",
+        "country": "Port VilaVLI",
+        "code": "VLI"
+    }
+]

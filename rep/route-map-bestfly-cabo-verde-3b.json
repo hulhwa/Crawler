@@ -1,0 +1,72 @@
+[
+    {
+        "flight": "destination",
+        "country": "Boa VistaBVC",
+        "code": "BVC"
+    },
+    {
+        "flight": "destination",
+        "country": "MaioMMO",
+        "code": "MMO"
+    },
+    {
+        "flight": "destination",
+        "country": "PraiaRAI",
+        "code": "RAI"
+    },
+    {
+        "flight": "destination",
+        "country": "Sal, Cape VerdeSID",
+        "code": "SID"
+    },
+    {
+        "flight": "destination",
+        "country": "São FilipeSFL",
+        "code": "SFL"
+    },
+    {
+        "flight": "destination",
+        "country": "São NicolauSNE",
+        "code": "SNE"
+    },
+    {
+        "flight": "destination",
+        "country": "São VicenteVXE",
+        "code": "VXE"
+    },
+    {
+        "flight": "departure",
+        "country": "Boa VistaBVC",
+        "code": "BVC"
+    },
+    {
+        "flight": "departure",
+        "country": "MaioMMO",
+        "code": "MMO"
+    },
+    {
+        "flight": "departure",
+        "country": "PraiaRAI",
+        "code": "RAI"
+    },
+    {
+        "flight": "departure",
+        "country": "Sal, Cape VerdeSID",
+        "code": "SID"
+    },
+    {
+        "flight": "departure",
+        "country": "São FilipeSFL",
+        "code": "SFL"
+    },
+    {
+        "flight": "departure",
+        "country": "São NicolauSNE",
+        "code": "SNE"
+    },
+    {
+        "flight": "departure",
+        "country": "São VicenteVXE",
+        "code": "VXE"
+    }
+]

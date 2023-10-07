@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "CeutaJCU",
+        "code": "JCU"
+    },
+    {
+        "flight": "destination",
+        "country": "MálagaAGP",
+        "code": "AGP"
+    },
+    {
+        "flight": "departure",
+        "country": "CeutaJCU",
+        "code": "JCU"
+    },
+    {
+        "flight": "departure",
+        "country": "MálagaAGP",
+        "code": "AGP"
+    }
+]

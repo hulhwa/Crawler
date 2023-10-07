@@ -1,0 +1,592 @@
+[
+    {
+        "flight": "destination",
+        "country": "Agatti IslandAGX",
+        "code": "AGX"
+    },
+    {
+        "flight": "destination",
+        "country": "AhmedabadAMD",
+        "code": "AMD"
+    },
+    {
+        "flight": "destination",
+        "country": "AizawlAJL",
+        "code": "AJL"
+    },
+    {
+        "flight": "destination",
+        "country": "AllahabadIXD",
+        "code": "IXD"
+    },
+    {
+        "flight": "destination",
+        "country": "Amritsar, PunjabATQ",
+        "code": "ATQ"
+    },
+    {
+        "flight": "destination",
+        "country": "BareillyBEK",
+        "code": "BEK"
+    },
+    {
+        "flight": "destination",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "destination",
+        "country": "BhubaneswarBBI",
+        "code": "BBI"
+    },
+    {
+        "flight": "destination",
+        "country": "BhujBHJ",
+        "code": "BHJ"
+    },
+    {
+        "flight": "destination",
+        "country": "BilaspurPAB",
+        "code": "PAB"
+    },
+    {
+        "flight": "destination",
+        "country": "ChandigarhIXC",
+        "code": "IXC"
+    },
+    {
+        "flight": "destination",
+        "country": "ChennaiMAA",
+        "code": "MAA"
+    },
+    {
+        "flight": "destination",
+        "country": "DehradunDED",
+        "code": "DED"
+    },
+    {
+        "flight": "destination",
+        "country": "DibrugarhDIB",
+        "code": "DIB"
+    },
+    {
+        "flight": "destination",
+        "country": "DimapurDMU",
+        "code": "DMU"
+    },
+    {
+        "flight": "destination",
+        "country": "DiuDIU",
+        "code": "DIU"
+    },
+    {
+        "flight": "destination",
+        "country": "GoaGOI",
+        "code": "GOI"
+    },
+    {
+        "flight": "destination",
+        "country": "GorakhpurGOP",
+        "code": "GOP"
+    },
+    {
+        "flight": "destination",
+        "country": "GuwahatiGAU",
+        "code": "GAU"
+    },
+    {
+        "flight": "destination",
+        "country": "GwaliorGWL",
+        "code": "GWL"
+    },
+    {
+        "flight": "destination",
+        "country": "HyderabadHYD",
+        "code": "HYD"
+    },
+    {
+        "flight": "destination",
+        "country": "ImphalIMF",
+        "code": "IMF"
+    },
+    {
+        "flight": "destination",
+        "country": "IndoreIDR",
+        "code": "IDR"
+    },
+    {
+        "flight": "destination",
+        "country": "ItanagarHGI",
+        "code": "HGI"
+    },
+    {
+        "flight": "destination",
+        "country": "JabalpurJLR",
+        "code": "JLR"
+    },
+    {
+        "flight": "destination",
+        "country": "JagdalpurJGB",
+        "code": "JGB"
+    },
+    {
+        "flight": "destination",
+        "country": "JaipurJAI",
+        "code": "JAI"
+    },
+    {
+        "flight": "destination",
+        "country": "JaisalmerJSA",
+        "code": "JSA"
+    },
+    {
+        "flight": "destination",
+        "country": "JammuIXJ",
+        "code": "IXJ"
+    },
+    {
+        "flight": "destination",
+        "country": "JharsugudaJRG",
+        "code": "JRG"
+    },
+    {
+        "flight": "destination",
+        "country": "JodhpurJDH",
+        "code": "JDH"
+    },
+    {
+        "flight": "destination",
+        "country": "Junagadh / VeravalIXK",
+        "code": "IXK"
+    },
+    {
+        "flight": "destination",
+        "country": "KalaburagiGBI",
+        "code": "GBI"
+    },
+    {
+        "flight": "destination",
+        "country": "Kangra, DharamshalaDHM",
+        "code": "DHM"
+    },
+    {
+        "flight": "destination",
+        "country": "KochiCOK",
+        "code": "COK"
+    },
+    {
+        "flight": "destination",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "destination",
+        "country": "KulluKUU",
+        "code": "KUU"
+    },
+    {
+        "flight": "destination",
+        "country": "Lakhimpur, AssamIXI",
+        "code": "IXI"
+    },
+    {
+        "flight": "destination",
+        "country": "LucknowLKO",
+        "code": "LKO"
+    },
+    {
+        "flight": "destination",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "destination",
+        "country": "MysoreMYQ",
+        "code": "MYQ"
+    },
+    {
+        "flight": "destination",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "destination",
+        "country": "PasighatIXT",
+        "code": "IXT"
+    },
+    {
+        "flight": "destination",
+        "country": "PunePNQ",
+        "code": "PNQ"
+    },
+    {
+        "flight": "destination",
+        "country": "RaipurRPR",
+        "code": "RPR"
+    },
+    {
+        "flight": "destination",
+        "country": "RanchiIXR",
+        "code": "IXR"
+    },
+    {
+        "flight": "destination",
+        "country": "RourkelaRRK",
+        "code": "RRK"
+    },
+    {
+        "flight": "destination",
+        "country": "ShillongSHL",
+        "code": "SHL"
+    },
+    {
+        "flight": "destination",
+        "country": "ShimlaSLV",
+        "code": "SLV"
+    },
+    {
+        "flight": "destination",
+        "country": "SilcharIXS",
+        "code": "IXS"
+    },
+    {
+        "flight": "destination",
+        "country": "SindhudurgSDW",
+        "code": "SDW"
+    },
+    {
+        "flight": "destination",
+        "country": "TezpurTEZ",
+        "code": "TEZ"
+    },
+    {
+        "flight": "destination",
+        "country": "TezuTEI",
+        "code": "TEI"
+    },
+    {
+        "flight": "destination",
+        "country": "TirupatiTIR",
+        "code": "TIR"
+    },
+    {
+        "flight": "destination",
+        "country": "ToranagalluVDY",
+        "code": "VDY"
+    },
+    {
+        "flight": "destination",
+        "country": "UdaipurUDR",
+        "code": "UDR"
+    },
+    {
+        "flight": "destination",
+        "country": "VijayawadaVGA",
+        "code": "VGA"
+    },
+    {
+        "flight": "destination",
+        "country": "ZiroZER",
+        "code": "ZER"
+    },
+    {
+        "flight": "destination",
+        "country": "JaffnaJAF",
+        "code": "JAF"
+    },
+    {
+        "flight": "departure",
+        "country": "Agatti IslandAGX",
+        "code": "AGX"
+    },
+    {
+        "flight": "departure",
+        "country": "AhmedabadAMD",
+        "code": "AMD"
+    },
+    {
+        "flight": "departure",
+        "country": "AizawlAJL",
+        "code": "AJL"
+    },
+    {
+        "flight": "departure",
+        "country": "AllahabadIXD",
+        "code": "IXD"
+    },
+    {
+        "flight": "departure",
+        "country": "Amritsar, PunjabATQ",
+        "code": "ATQ"
+    },
+    {
+        "flight": "departure",
+        "country": "BareillyBEK",
+        "code": "BEK"
+    },
+    {
+        "flight": "departure",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "departure",
+        "country": "BhubaneswarBBI",
+        "code": "BBI"
+    },
+    {
+        "flight": "departure",
+        "country": "BhujBHJ",
+        "code": "BHJ"
+    },
+    {
+        "flight": "departure",
+        "country": "BilaspurPAB",
+        "code": "PAB"
+    },
+    {
+        "flight": "departure",
+        "country": "ChandigarhIXC",
+        "code": "IXC"
+    },
+    {
+        "flight": "departure",
+        "country": "ChennaiMAA",
+        "code": "MAA"
+    },
+    {
+        "flight": "departure",
+        "country": "DehradunDED",
+        "code": "DED"
+    },
+    {
+        "flight": "departure",
+        "country": "DibrugarhDIB",
+        "code": "DIB"
+    },
+    {
+        "flight": "departure",
+        "country": "DimapurDMU",
+        "code": "DMU"
+    },
+    {
+        "flight": "departure",
+        "country": "DiuDIU",
+        "code": "DIU"
+    },
+    {
+        "flight": "departure",
+        "country": "GoaGOI",
+        "code": "GOI"
+    },
+    {
+        "flight": "departure",
+        "country": "GorakhpurGOP",
+        "code": "GOP"
+    },
+    {
+        "flight": "departure",
+        "country": "GuwahatiGAU",
+        "code": "GAU"
+    },
+    {
+        "flight": "departure",
+        "country": "GwaliorGWL",
+        "code": "GWL"
+    },
+    {
+        "flight": "departure",
+        "country": "HyderabadHYD",
+        "code": "HYD"
+    },
+    {
+        "flight": "departure",
+        "country": "ImphalIMF",
+        "code": "IMF"
+    },
+    {
+        "flight": "departure",
+        "country": "IndoreIDR",
+        "code": "IDR"
+    },
+    {
+        "flight": "departure",
+        "country": "ItanagarHGI",
+        "code": "HGI"
+    },
+    {
+        "flight": "departure",
+        "country": "JabalpurJLR",
+        "code": "JLR"
+    },
+    {
+        "flight": "departure",
+        "country": "JagdalpurJGB",
+        "code": "JGB"
+    },
+    {
+        "flight": "departure",
+        "country": "JaipurJAI",
+        "code": "JAI"
+    },
+    {
+        "flight": "departure",
+        "country": "JaisalmerJSA",
+        "code": "JSA"
+    },
+    {
+        "flight": "departure",
+        "country": "JammuIXJ",
+        "code": "IXJ"
+    },
+    {
+        "flight": "departure",
+        "country": "JharsugudaJRG",
+        "code": "JRG"
+    },
+    {
+        "flight": "departure",
+        "country": "JodhpurJDH",
+        "code": "JDH"
+    },
+    {
+        "flight": "departure",
+        "country": "Junagadh / VeravalIXK",
+        "code": "IXK"
+    },
+    {
+        "flight": "departure",
+        "country": "KalaburagiGBI",
+        "code": "GBI"
+    },
+    {
+        "flight": "departure",
+        "country": "Kangra, DharamshalaDHM",
+        "code": "DHM"
+    },
+    {
+        "flight": "departure",
+        "country": "KochiCOK",
+        "code": "COK"
+    },
+    {
+        "flight": "departure",
+        "country": "KolkataCCU",
+        "code": "CCU"
+    },
+    {
+        "flight": "departure",
+        "country": "KulluKUU",
+        "code": "KUU"
+    },
+    {
+        "flight": "departure",
+        "country": "Lakhimpur, AssamIXI",
+        "code": "IXI"
+    },
+    {
+        "flight": "departure",
+        "country": "LucknowLKO",
+        "code": "LKO"
+    },
+    {
+        "flight": "departure",
+        "country": "MumbaiBOM",
+        "code": "BOM"
+    },
+    {
+        "flight": "departure",
+        "country": "MysoreMYQ",
+        "code": "MYQ"
+    },
+    {
+        "flight": "departure",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "departure",
+        "country": "PasighatIXT",
+        "code": "IXT"
+    },
+    {
+        "flight": "departure",
+        "country": "PunePNQ",
+        "code": "PNQ"
+    },
+    {
+        "flight": "departure",
+        "country": "RaipurRPR",
+        "code": "RPR"
+    },
+    {
+        "flight": "departure",
+        "country": "RanchiIXR",
+        "code": "IXR"
+    },
+    {
+        "flight": "departure",
+        "country": "RourkelaRRK",
+        "code": "RRK"
+    },
+    {
+        "flight": "departure",
+        "country": "ShillongSHL",
+        "code": "SHL"
+    },
+    {
+        "flight": "departure",
+        "country": "ShimlaSLV",
+        "code": "SLV"
+    },
+    {
+        "flight": "departure",
+        "country": "SilcharIXS",
+        "code": "IXS"
+    },
+    {
+        "flight": "departure",
+        "country": "SindhudurgSDW",
+        "code": "SDW"
+    },
+    {
+        "flight": "departure",
+        "country": "TezpurTEZ",
+        "code": "TEZ"
+    },
+    {
+        "flight": "departure",
+        "country": "TezuTEI",
+        "code": "TEI"
+    },
+    {
+        "flight": "departure",
+        "country": "TirupatiTIR",
+        "code": "TIR"
+    },
+    {
+        "flight": "departure",
+        "country": "ToranagalluVDY",
+        "code": "VDY"
+    },
+    {
+        "flight": "departure",
+        "country": "UdaipurUDR",
+        "code": "UDR"
+    },
+    {
+        "flight": "departure",
+        "country": "VijayawadaVGA",
+        "code": "VGA"
+    },
+    {
+        "flight": "departure",
+        "country": "ZiroZER",
+        "code": "ZER"
+    },
+    {
+        "flight": "departure",
+        "country": "JaffnaJAF",
+        "code": "JAF"
+    }
+]

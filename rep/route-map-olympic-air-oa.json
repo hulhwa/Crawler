@@ -1,0 +1,282 @@
+[
+    {
+        "flight": "destination",
+        "country": "AthensATH",
+        "code": "ATH"
+    },
+    {
+        "flight": "destination",
+        "country": "Chania (Crete)CHQ",
+        "code": "CHQ"
+    },
+    {
+        "flight": "destination",
+        "country": "ChiosJKH",
+        "code": "JKH"
+    },
+    {
+        "flight": "destination",
+        "country": "Heraklion (Crete)HER",
+        "code": "HER"
+    },
+    {
+        "flight": "destination",
+        "country": "Ikria Island (Icaria)JIK",
+        "code": "JIK"
+    },
+    {
+        "flight": "destination",
+        "country": "IoanninaIOA",
+        "code": "IOA"
+    },
+    {
+        "flight": "destination",
+        "country": "KarpathosAOK",
+        "code": "AOK"
+    },
+    {
+        "flight": "destination",
+        "country": "Kasos IslandKSJ",
+        "code": "KSJ"
+    },
+    {
+        "flight": "destination",
+        "country": "KavalaKVA",
+        "code": "KVA"
+    },
+    {
+        "flight": "destination",
+        "country": "KefaloniaEFL",
+        "code": "EFL"
+    },
+    {
+        "flight": "destination",
+        "country": "KosKGS",
+        "code": "KGS"
+    },
+    {
+        "flight": "destination",
+        "country": "KythiraKIT",
+        "code": "KIT"
+    },
+    {
+        "flight": "destination",
+        "country": "LerosLRS",
+        "code": "LRS"
+    },
+    {
+        "flight": "destination",
+        "country": "LimnosLXS",
+        "code": "LXS"
+    },
+    {
+        "flight": "destination",
+        "country": "MegistiKZS",
+        "code": "KZS"
+    },
+    {
+        "flight": "destination",
+        "country": "MilosMLO",
+        "code": "MLO"
+    },
+    {
+        "flight": "destination",
+        "country": "MykonosJMK",
+        "code": "JMK"
+    },
+    {
+        "flight": "destination",
+        "country": "Mytilene (Lesbos)MJT",
+        "code": "MJT"
+    },
+    {
+        "flight": "destination",
+        "country": "NaxosJNX",
+        "code": "JNX"
+    },
+    {
+        "flight": "destination",
+        "country": "ParosPAS",
+        "code": "PAS"
+    },
+    {
+        "flight": "destination",
+        "country": "RhodesRHO",
+        "code": "RHO"
+    },
+    {
+        "flight": "destination",
+        "country": "SamosSMI",
+        "code": "SMI"
+    },
+    {
+        "flight": "destination",
+        "country": "SantoriniJTR",
+        "code": "JTR"
+    },
+    {
+        "flight": "destination",
+        "country": "SitiaJSH",
+        "code": "JSH"
+    },
+    {
+        "flight": "destination",
+        "country": "SkiathosJSI",
+        "code": "JSI"
+    },
+    {
+        "flight": "destination",
+        "country": "SkyrosSKU",
+        "code": "SKU"
+    },
+    {
+        "flight": "destination",
+        "country": "ThessalonikiSKG",
+        "code": "SKG"
+    },
+    {
+        "flight": "destination",
+        "country": "Zakynthos IslandZTH",
+        "code": "ZTH"
+    },
+    {
+        "flight": "departure",
+        "country": "AthensATH",
+        "code": "ATH"
+    },
+    {
+        "flight": "departure",
+        "country": "Chania (Crete)CHQ",
+        "code": "CHQ"
+    },
+    {
+        "flight": "departure",
+        "country": "ChiosJKH",
+        "code": "JKH"
+    },
+    {
+        "flight": "departure",
+        "country": "Heraklion (Crete)HER",
+        "code": "HER"
+    },
+    {
+        "flight": "departure",
+        "country": "Ikria Island (Icaria)JIK",
+        "code": "JIK"
+    },
+    {
+        "flight": "departure",
+        "country": "IoanninaIOA",
+        "code": "IOA"
+    },
+    {
+        "flight": "departure",
+        "country": "KarpathosAOK",
+        "code": "AOK"
+    },
+    {
+        "flight": "departure",
+        "country": "Kasos IslandKSJ",
+        "code": "KSJ"
+    },
+    {
+        "flight": "departure",
+        "country": "KavalaKVA",
+        "code": "KVA"
+    },
+    {
+        "flight": "departure",
+        "country": "KefaloniaEFL",
+        "code": "EFL"
+    },
+    {
+        "flight": "departure",
+        "country": "KosKGS",
+        "code": "KGS"
+    },
+    {
+        "flight": "departure",
+        "country": "KythiraKIT",
+        "code": "KIT"
+    },
+    {
+        "flight": "departure",
+        "country": "LerosLRS",
+        "code": "LRS"
+    },
+    {
+        "flight": "departure",
+        "country": "LimnosLXS",
+        "code": "LXS"
+    },
+    {
+        "flight": "departure",
+        "country": "MegistiKZS",
+        "code": "KZS"
+    },
+    {
+        "flight": "departure",
+        "country": "MilosMLO",
+        "code": "MLO"
+    },
+    {
+        "flight": "departure",
+        "country": "MykonosJMK",
+        "code": "JMK"
+    },
+    {
+        "flight": "departure",
+        "country": "Mytilene (Lesbos)MJT",
+        "code": "MJT"
+    },
+    {
+        "flight": "departure",
+        "country": "NaxosJNX",
+        "code": "JNX"
+    },
+    {
+        "flight": "departure",
+        "country": "ParosPAS",
+        "code": "PAS"
+    },
+    {
+        "flight": "departure",
+        "country": "RhodesRHO",
+        "code": "RHO"
+    },
+    {
+        "flight": "departure",
+        "country": "SamosSMI",
+        "code": "SMI"
+    },
+    {
+        "flight": "departure",
+        "country": "SantoriniJTR",
+        "code": "JTR"
+    },
+    {
+        "flight": "departure",
+        "country": "SitiaJSH",
+        "code": "JSH"
+    },
+    {
+        "flight": "departure",
+        "country": "SkiathosJSI",
+        "code": "JSI"
+    },
+    {
+        "flight": "departure",
+        "country": "SkyrosSKU",
+        "code": "SKU"
+    },
+    {
+        "flight": "departure",
+        "country": "ThessalonikiSKG",
+        "code": "SKG"
+    },
+    {
+        "flight": "departure",
+        "country": "Zakynthos IslandZTH",
+        "code": "ZTH"
+    }
+]

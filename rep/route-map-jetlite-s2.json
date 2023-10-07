@@ -1,0 +1,42 @@
+[
+    {
+        "flight": "destination",
+        "country": "GuamGUM",
+        "code": "GUM"
+    },
+    {
+        "flight": "destination",
+        "country": "Rota IslandROP",
+        "code": "ROP"
+    },
+    {
+        "flight": "destination",
+        "country": "Saipan IslandSPN",
+        "code": "SPN"
+    },
+    {
+        "flight": "destination",
+        "country": "Tinian IslandTIQ",
+        "code": "TIQ"
+    },
+    {
+        "flight": "departure",
+        "country": "GuamGUM",
+        "code": "GUM"
+    },
+    {
+        "flight": "departure",
+        "country": "Rota IslandROP",
+        "code": "ROP"
+    },
+    {
+        "flight": "departure",
+        "country": "Saipan IslandSPN",
+        "code": "SPN"
+    },
+    {
+        "flight": "departure",
+        "country": "Tinian IslandTIQ",
+        "code": "TIQ"
+    }
+]

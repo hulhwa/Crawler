@@ -1,0 +1,92 @@
+[
+    {
+        "flight": "destination",
+        "country": "BalikpapanBPN",
+        "code": "BPN"
+    },
+    {
+        "flight": "destination",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "destination",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "destination",
+        "country": "PadangPDG",
+        "code": "PDG"
+    },
+    {
+        "flight": "destination",
+        "country": "PalembangPLM",
+        "code": "PLM"
+    },
+    {
+        "flight": "destination",
+        "country": "PekanbaruPKU",
+        "code": "PKU"
+    },
+    {
+        "flight": "destination",
+        "country": "PontianakPNK",
+        "code": "PNK"
+    },
+    {
+        "flight": "destination",
+        "country": "SurabayaSUB",
+        "code": "SUB"
+    },
+    {
+        "flight": "destination",
+        "country": "YogyakartaYIA",
+        "code": "YIA"
+    },
+    {
+        "flight": "departure",
+        "country": "BalikpapanBPN",
+        "code": "BPN"
+    },
+    {
+        "flight": "departure",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "departure",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "departure",
+        "country": "PadangPDG",
+        "code": "PDG"
+    },
+    {
+        "flight": "departure",
+        "country": "PalembangPLM",
+        "code": "PLM"
+    },
+    {
+        "flight": "departure",
+        "country": "PekanbaruPKU",
+        "code": "PKU"
+    },
+    {
+        "flight": "departure",
+        "country": "PontianakPNK",
+        "code": "PNK"
+    },
+    {
+        "flight": "departure",
+        "country": "SurabayaSUB",
+        "code": "SUB"
+    },
+    {
+        "flight": "departure",
+        "country": "YogyakartaYIA",
+        "code": "YIA"
+    }
+]

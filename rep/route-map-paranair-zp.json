@@ -1,0 +1,82 @@
+[
+    {
+        "flight": "destination",
+        "country": "Buenos AiresAEP",
+        "code": "AEP"
+    },
+    {
+        "flight": "destination",
+        "country": "Santa Cruz de la SierraVVI",
+        "code": "VVI"
+    },
+    {
+        "flight": "destination",
+        "country": "FlorianópolisFLN",
+        "code": "FLN"
+    },
+    {
+        "flight": "destination",
+        "country": "Rio de JaneiroGIG",
+        "code": "GIG"
+    },
+    {
+        "flight": "destination",
+        "country": "AsunciónASU",
+        "code": "ASU"
+    },
+    {
+        "flight": "destination",
+        "country": "Ciudad del EsteAGT",
+        "code": "AGT"
+    },
+    {
+        "flight": "destination",
+        "country": "MontevideoMVD",
+        "code": "MVD"
+    },
+    {
+        "flight": "destination",
+        "country": "Punta del EstePDP",
+        "code": "PDP"
+    },
+    {
+        "flight": "departure",
+        "country": "Buenos AiresAEP",
+        "code": "AEP"
+    },
+    {
+        "flight": "departure",
+        "country": "Santa Cruz de la SierraVVI",
+        "code": "VVI"
+    },
+    {
+        "flight": "departure",
+        "country": "FlorianópolisFLN",
+        "code": "FLN"
+    },
+    {
+        "flight": "departure",
+        "country": "Rio de JaneiroGIG",
+        "code": "GIG"
+    },
+    {
+        "flight": "departure",
+        "country": "AsunciónASU",
+        "code": "ASU"
+    },
+    {
+        "flight": "departure",
+        "country": "Ciudad del EsteAGT",
+        "code": "AGT"
+    },
+    {
+        "flight": "departure",
+        "country": "MontevideoMVD",
+        "code": "MVD"
+    },
+    {
+        "flight": "departure",
+        "country": "Punta del EstePDP",
+        "code": "PDP"
+    }
+]

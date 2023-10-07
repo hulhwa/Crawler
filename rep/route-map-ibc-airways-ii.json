@@ -1,0 +1,22 @@
+[
+    {
+        "flight": "destination",
+        "country": "Cap-HaïtienCAP",
+        "code": "CAP"
+    },
+    {
+        "flight": "destination",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    },
+    {
+        "flight": "departure",
+        "country": "Cap-HaïtienCAP",
+        "code": "CAP"
+    },
+    {
+        "flight": "departure",
+        "country": "Fort LauderdaleFLL",
+        "code": "FLL"
+    }
+]

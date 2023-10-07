@@ -1,0 +1,982 @@
+[
+    {
+        "flight": "destination",
+        "country": "AdelaideADL",
+        "code": "ADL"
+    },
+    {
+        "flight": "destination",
+        "country": "AlburyABX",
+        "code": "ABX"
+    },
+    {
+        "flight": "destination",
+        "country": "Alice SpringsASP",
+        "code": "ASP"
+    },
+    {
+        "flight": "destination",
+        "country": "ArmidaleARM",
+        "code": "ARM"
+    },
+    {
+        "flight": "destination",
+        "country": "BallinaBNK",
+        "code": "BNK"
+    },
+    {
+        "flight": "destination",
+        "country": "BarcaldineBCI",
+        "code": "BCI"
+    },
+    {
+        "flight": "destination",
+        "country": "BendigoBXG",
+        "code": "BXG"
+    },
+    {
+        "flight": "destination",
+        "country": "BlackallBKQ",
+        "code": "BKQ"
+    },
+    {
+        "flight": "destination",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "destination",
+        "country": "Broken HillBHQ",
+        "code": "BHQ"
+    },
+    {
+        "flight": "destination",
+        "country": "BroomeBME",
+        "code": "BME"
+    },
+    {
+        "flight": "destination",
+        "country": "BundabergBDB",
+        "code": "BDB"
+    },
+    {
+        "flight": "destination",
+        "country": "BurnieBWT",
+        "code": "BWT"
+    },
+    {
+        "flight": "destination",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "destination",
+        "country": "CanberraCBR",
+        "code": "CBR"
+    },
+    {
+        "flight": "destination",
+        "country": "CloncurryCNJ",
+        "code": "CNJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Coffs HarbourCFS",
+        "code": "CFS"
+    },
+    {
+        "flight": "destination",
+        "country": "DarwinDRW",
+        "code": "DRW"
+    },
+    {
+        "flight": "destination",
+        "country": "DevonportDPO",
+        "code": "DPO"
+    },
+    {
+        "flight": "destination",
+        "country": "DubboDBO",
+        "code": "DBO"
+    },
+    {
+        "flight": "destination",
+        "country": "EmeraldEMD",
+        "code": "EMD"
+    },
+    {
+        "flight": "destination",
+        "country": "ExmouthLEA",
+        "code": "LEA"
+    },
+    {
+        "flight": "destination",
+        "country": "GeraldtonGET",
+        "code": "GET"
+    },
+    {
+        "flight": "destination",
+        "country": "GladstoneGLT",
+        "code": "GLT"
+    },
+    {
+        "flight": "destination",
+        "country": "Gold CoastOOL",
+        "code": "OOL"
+    },
+    {
+        "flight": "destination",
+        "country": "GriffithGFF",
+        "code": "GFF"
+    },
+    {
+        "flight": "destination",
+        "country": "Hamilton IslandHTI",
+        "code": "HTI"
+    },
+    {
+        "flight": "destination",
+        "country": "Hervey BayHVB",
+        "code": "HVB"
+    },
+    {
+        "flight": "destination",
+        "country": "HobartHBA",
+        "code": "HBA"
+    },
+    {
+        "flight": "destination",
+        "country": "Horn IslandHID",
+        "code": "HID"
+    },
+    {
+        "flight": "destination",
+        "country": "KalgoorlieKGI",
+        "code": "KGI"
+    },
+    {
+        "flight": "destination",
+        "country": "Karratha / DampierKTA",
+        "code": "KTA"
+    },
+    {
+        "flight": "destination",
+        "country": "KingscoteKGC",
+        "code": "KGC"
+    },
+    {
+        "flight": "destination",
+        "country": "LauncestonLST",
+        "code": "LST"
+    },
+    {
+        "flight": "destination",
+        "country": "LongreachLRE",
+        "code": "LRE"
+    },
+    {
+        "flight": "destination",
+        "country": "Lord Howe IslandLDH",
+        "code": "LDH"
+    },
+    {
+        "flight": "destination",
+        "country": "MackayMKY",
+        "code": "MKY"
+    },
+    {
+        "flight": "destination",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "destination",
+        "country": "MerimbulaMIM",
+        "code": "MIM"
+    },
+    {
+        "flight": "destination",
+        "country": "MilduraMQL",
+        "code": "MQL"
+    },
+    {
+        "flight": "destination",
+        "country": "MilesWLE",
+        "code": "WLE"
+    },
+    {
+        "flight": "destination",
+        "country": "MoranbahMOV",
+        "code": "MOV"
+    },
+    {
+        "flight": "destination",
+        "country": "MoreeMRZ",
+        "code": "MRZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Mount GambierMGB",
+        "code": "MGB"
+    },
+    {
+        "flight": "destination",
+        "country": "Mount IsaISA",
+        "code": "ISA"
+    },
+    {
+        "flight": "destination",
+        "country": "NewcastleNTL",
+        "code": "NTL"
+    },
+    {
+        "flight": "destination",
+        "country": "NewmanZNE",
+        "code": "ZNE"
+    },
+    {
+        "flight": "destination",
+        "country": "OrangeOAG",
+        "code": "OAG"
+    },
+    {
+        "flight": "destination",
+        "country": "ParaburdooPBO",
+        "code": "PBO"
+    },
+    {
+        "flight": "destination",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "destination",
+        "country": "Port HedlandPHE",
+        "code": "PHE"
+    },
+    {
+        "flight": "destination",
+        "country": "Port LincolnPLO",
+        "code": "PLO"
+    },
+    {
+        "flight": "destination",
+        "country": "Port MacquariePQQ",
+        "code": "PQQ"
+    },
+    {
+        "flight": "destination",
+        "country": "ProserpinePPP",
+        "code": "PPP"
+    },
+    {
+        "flight": "destination",
+        "country": "RockhamptonROK",
+        "code": "ROK"
+    },
+    {
+        "flight": "destination",
+        "country": "Sunshine CoastMCY",
+        "code": "MCY"
+    },
+    {
+        "flight": "destination",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "destination",
+        "country": "TamworthTMW",
+        "code": "TMW"
+    },
+    {
+        "flight": "destination",
+        "country": "ToowoombaWTB",
+        "code": "WTB"
+    },
+    {
+        "flight": "destination",
+        "country": "TownsvilleTSV",
+        "code": "TSV"
+    },
+    {
+        "flight": "destination",
+        "country": "Wagga WaggaWGA",
+        "code": "WGA"
+    },
+    {
+        "flight": "destination",
+        "country": "WeipaWEI",
+        "code": "WEI"
+    },
+    {
+        "flight": "destination",
+        "country": "WhyallaWYA",
+        "code": "WYA"
+    },
+    {
+        "flight": "destination",
+        "country": "YularaAYQ",
+        "code": "AYQ"
+    },
+    {
+        "flight": "destination",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "destination",
+        "country": "Santiago de ChileSCL",
+        "code": "SCL"
+    },
+    {
+        "flight": "destination",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "destination",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "destination",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "destination",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "destination",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "destination",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "destination",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "destination",
+        "country": "Rome (Fiumicino)FCO",
+        "code": "FCO"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoHND",
+        "code": "HND"
+    },
+    {
+        "flight": "destination",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "destination",
+        "country": "NoumeaNOU",
+        "code": "NOU"
+    },
+    {
+        "flight": "destination",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "destination",
+        "country": "ChristchurchCHC",
+        "code": "CHC"
+    },
+    {
+        "flight": "destination",
+        "country": "QueenstownZQN",
+        "code": "ZQN"
+    },
+    {
+        "flight": "destination",
+        "country": "WellingtonWLG",
+        "code": "WLG"
+    },
+    {
+        "flight": "destination",
+        "country": "Norfolk IslandNLK",
+        "code": "NLK"
+    },
+    {
+        "flight": "destination",
+        "country": "Port MoresbyPOM",
+        "code": "POM"
+    },
+    {
+        "flight": "destination",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "destination",
+        "country": "ApiaAPW",
+        "code": "APW"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "HoniaraHIR",
+        "code": "HIR"
+    },
+    {
+        "flight": "destination",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "destination",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "destination",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "destination",
+        "country": "DiliDIL",
+        "code": "DIL"
+    },
+    {
+        "flight": "destination",
+        "country": "NukuʻalofaTBU",
+        "code": "TBU"
+    },
+    {
+        "flight": "destination",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "destination",
+        "country": "Dallas-Fort WorthDFW",
+        "code": "DFW"
+    },
+    {
+        "flight": "destination",
+        "country": "HonoluluHNL",
+        "code": "HNL"
+    },
+    {
+        "flight": "destination",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "destination",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "destination",
+        "country": "San FranciscoSFO",
+        "code": "SFO"
+    },
+    {
+        "flight": "departure",
+        "country": "AdelaideADL",
+        "code": "ADL"
+    },
+    {
+        "flight": "departure",
+        "country": "AlburyABX",
+        "code": "ABX"
+    },
+    {
+        "flight": "departure",
+        "country": "Alice SpringsASP",
+        "code": "ASP"
+    },
+    {
+        "flight": "departure",
+        "country": "ArmidaleARM",
+        "code": "ARM"
+    },
+    {
+        "flight": "departure",
+        "country": "BallinaBNK",
+        "code": "BNK"
+    },
+    {
+        "flight": "departure",
+        "country": "BarcaldineBCI",
+        "code": "BCI"
+    },
+    {
+        "flight": "departure",
+        "country": "BendigoBXG",
+        "code": "BXG"
+    },
+    {
+        "flight": "departure",
+        "country": "BlackallBKQ",
+        "code": "BKQ"
+    },
+    {
+        "flight": "departure",
+        "country": "BrisbaneBNE",
+        "code": "BNE"
+    },
+    {
+        "flight": "departure",
+        "country": "Broken HillBHQ",
+        "code": "BHQ"
+    },
+    {
+        "flight": "departure",
+        "country": "BroomeBME",
+        "code": "BME"
+    },
+    {
+        "flight": "departure",
+        "country": "BundabergBDB",
+        "code": "BDB"
+    },
+    {
+        "flight": "departure",
+        "country": "BurnieBWT",
+        "code": "BWT"
+    },
+    {
+        "flight": "departure",
+        "country": "CairnsCNS",
+        "code": "CNS"
+    },
+    {
+        "flight": "departure",
+        "country": "CanberraCBR",
+        "code": "CBR"
+    },
+    {
+        "flight": "departure",
+        "country": "CloncurryCNJ",
+        "code": "CNJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Coffs HarbourCFS",
+        "code": "CFS"
+    },
+    {
+        "flight": "departure",
+        "country": "DarwinDRW",
+        "code": "DRW"
+    },
+    {
+        "flight": "departure",
+        "country": "DevonportDPO",
+        "code": "DPO"
+    },
+    {
+        "flight": "departure",
+        "country": "DubboDBO",
+        "code": "DBO"
+    },
+    {
+        "flight": "departure",
+        "country": "EmeraldEMD",
+        "code": "EMD"
+    },
+    {
+        "flight": "departure",
+        "country": "ExmouthLEA",
+        "code": "LEA"
+    },
+    {
+        "flight": "departure",
+        "country": "GeraldtonGET",
+        "code": "GET"
+    },
+    {
+        "flight": "departure",
+        "country": "GladstoneGLT",
+        "code": "GLT"
+    },
+    {
+        "flight": "departure",
+        "country": "Gold CoastOOL",
+        "code": "OOL"
+    },
+    {
+        "flight": "departure",
+        "country": "GriffithGFF",
+        "code": "GFF"
+    },
+    {
+        "flight": "departure",
+        "country": "Hamilton IslandHTI",
+        "code": "HTI"
+    },
+    {
+        "flight": "departure",
+        "country": "Hervey BayHVB",
+        "code": "HVB"
+    },
+    {
+        "flight": "departure",
+        "country": "HobartHBA",
+        "code": "HBA"
+    },
+    {
+        "flight": "departure",
+        "country": "Horn IslandHID",
+        "code": "HID"
+    },
+    {
+        "flight": "departure",
+        "country": "KalgoorlieKGI",
+        "code": "KGI"
+    },
+    {
+        "flight": "departure",
+        "country": "Karratha / DampierKTA",
+        "code": "KTA"
+    },
+    {
+        "flight": "departure",
+        "country": "KingscoteKGC",
+        "code": "KGC"
+    },
+    {
+        "flight": "departure",
+        "country": "LauncestonLST",
+        "code": "LST"
+    },
+    {
+        "flight": "departure",
+        "country": "LongreachLRE",
+        "code": "LRE"
+    },
+    {
+        "flight": "departure",
+        "country": "Lord Howe IslandLDH",
+        "code": "LDH"
+    },
+    {
+        "flight": "departure",
+        "country": "MackayMKY",
+        "code": "MKY"
+    },
+    {
+        "flight": "departure",
+        "country": "MelbourneMEL",
+        "code": "MEL"
+    },
+    {
+        "flight": "departure",
+        "country": "MerimbulaMIM",
+        "code": "MIM"
+    },
+    {
+        "flight": "departure",
+        "country": "MilduraMQL",
+        "code": "MQL"
+    },
+    {
+        "flight": "departure",
+        "country": "MilesWLE",
+        "code": "WLE"
+    },
+    {
+        "flight": "departure",
+        "country": "MoranbahMOV",
+        "code": "MOV"
+    },
+    {
+        "flight": "departure",
+        "country": "MoreeMRZ",
+        "code": "MRZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Mount GambierMGB",
+        "code": "MGB"
+    },
+    {
+        "flight": "departure",
+        "country": "Mount IsaISA",
+        "code": "ISA"
+    },
+    {
+        "flight": "departure",
+        "country": "NewcastleNTL",
+        "code": "NTL"
+    },
+    {
+        "flight": "departure",
+        "country": "NewmanZNE",
+        "code": "ZNE"
+    },
+    {
+        "flight": "departure",
+        "country": "OrangeOAG",
+        "code": "OAG"
+    },
+    {
+        "flight": "departure",
+        "country": "ParaburdooPBO",
+        "code": "PBO"
+    },
+    {
+        "flight": "departure",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "departure",
+        "country": "Port HedlandPHE",
+        "code": "PHE"
+    },
+    {
+        "flight": "departure",
+        "country": "Port LincolnPLO",
+        "code": "PLO"
+    },
+    {
+        "flight": "departure",
+        "country": "Port MacquariePQQ",
+        "code": "PQQ"
+    },
+    {
+        "flight": "departure",
+        "country": "ProserpinePPP",
+        "code": "PPP"
+    },
+    {
+        "flight": "departure",
+        "country": "RockhamptonROK",
+        "code": "ROK"
+    },
+    {
+        "flight": "departure",
+        "country": "Sunshine CoastMCY",
+        "code": "MCY"
+    },
+    {
+        "flight": "departure",
+        "country": "SydneySYD",
+        "code": "SYD"
+    },
+    {
+        "flight": "departure",
+        "country": "TamworthTMW",
+        "code": "TMW"
+    },
+    {
+        "flight": "departure",
+        "country": "ToowoombaWTB",
+        "code": "WTB"
+    },
+    {
+        "flight": "departure",
+        "country": "TownsvilleTSV",
+        "code": "TSV"
+    },
+    {
+        "flight": "departure",
+        "country": "Wagga WaggaWGA",
+        "code": "WGA"
+    },
+    {
+        "flight": "departure",
+        "country": "WeipaWEI",
+        "code": "WEI"
+    },
+    {
+        "flight": "departure",
+        "country": "WhyallaWYA",
+        "code": "WYA"
+    },
+    {
+        "flight": "departure",
+        "country": "YularaAYQ",
+        "code": "AYQ"
+    },
+    {
+        "flight": "departure",
+        "country": "VancouverYVR",
+        "code": "YVR"
+    },
+    {
+        "flight": "departure",
+        "country": "Santiago de ChileSCL",
+        "code": "SCL"
+    },
+    {
+        "flight": "departure",
+        "country": "ShanghaiPVG",
+        "code": "PVG"
+    },
+    {
+        "flight": "departure",
+        "country": "NadiNAN",
+        "code": "NAN"
+    },
+    {
+        "flight": "departure",
+        "country": "Hong KongHKG",
+        "code": "HKG"
+    },
+    {
+        "flight": "departure",
+        "country": "BengaluruBLR",
+        "code": "BLR"
+    },
+    {
+        "flight": "departure",
+        "country": "New DelhiDEL",
+        "code": "DEL"
+    },
+    {
+        "flight": "departure",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "departure",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "departure",
+        "country": "Rome (Fiumicino)FCO",
+        "code": "FCO"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoHND",
+        "code": "HND"
+    },
+    {
+        "flight": "departure",
+        "country": "TokyoNRT",
+        "code": "NRT"
+    },
+    {
+        "flight": "departure",
+        "country": "NoumeaNOU",
+        "code": "NOU"
+    },
+    {
+        "flight": "departure",
+        "country": "AucklandAKL",
+        "code": "AKL"
+    },
+    {
+        "flight": "departure",
+        "country": "ChristchurchCHC",
+        "code": "CHC"
+    },
+    {
+        "flight": "departure",
+        "country": "QueenstownZQN",
+        "code": "ZQN"
+    },
+    {
+        "flight": "departure",
+        "country": "WellingtonWLG",
+        "code": "WLG"
+    },
+    {
+        "flight": "departure",
+        "country": "Norfolk IslandNLK",
+        "code": "NLK"
+    },
+    {
+        "flight": "departure",
+        "country": "Port MoresbyPOM",
+        "code": "POM"
+    },
+    {
+        "flight": "departure",
+        "country": "ManilaMNL",
+        "code": "MNL"
+    },
+    {
+        "flight": "departure",
+        "country": "ApiaAPW",
+        "code": "APW"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "HoniaraHIR",
+        "code": "HIR"
+    },
+    {
+        "flight": "departure",
+        "country": "JohannesburgJNB",
+        "code": "JNB"
+    },
+    {
+        "flight": "departure",
+        "country": "SeoulICN",
+        "code": "ICN"
+    },
+    {
+        "flight": "departure",
+        "country": "BangkokBKK",
+        "code": "BKK"
+    },
+    {
+        "flight": "departure",
+        "country": "DiliDIL",
+        "code": "DIL"
+    },
+    {
+        "flight": "departure",
+        "country": "NukuʻalofaTBU",
+        "code": "TBU"
+    },
+    {
+        "flight": "departure",
+        "country": "London HeathrowLHR",
+        "code": "LHR"
+    },
+    {
+        "flight": "departure",
+        "country": "Dallas-Fort WorthDFW",
+        "code": "DFW"
+    },
+    {
+        "flight": "departure",
+        "country": "HonoluluHNL",
+        "code": "HNL"
+    },
+    {
+        "flight": "departure",
+        "country": "Los AngelesLAX",
+        "code": "LAX"
+    },
+    {
+        "flight": "departure",
+        "country": "New York CityJFK",
+        "code": "JFK"
+    },
+    {
+        "flight": "departure",
+        "country": "San FranciscoSFO",
+        "code": "SFO"
+    }
+]

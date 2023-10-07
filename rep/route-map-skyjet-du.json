@@ -1,0 +1,152 @@
+[
+    {
+        "flight": "destination",
+        "country": "Baie-ComeauYBC",
+        "code": "YBC"
+    },
+    {
+        "flight": "destination",
+        "country": "Blanc-SablonYBX",
+        "code": "YBX"
+    },
+    {
+        "flight": "destination",
+        "country": "CheveryYHR",
+        "code": "YHR"
+    },
+    {
+        "flight": "destination",
+        "country": "Havre-Saint-PierreYGV",
+        "code": "YGV"
+    },
+    {
+        "flight": "destination",
+        "country": "La RomaineZGS",
+        "code": "ZGS"
+    },
+    {
+        "flight": "destination",
+        "country": "La TabatièreZLT",
+        "code": "ZLT"
+    },
+    {
+        "flight": "destination",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "destination",
+        "country": "NatashquanYNA",
+        "code": "YNA"
+    },
+    {
+        "flight": "destination",
+        "country": "Port-MenierYPN",
+        "code": "YPN"
+    },
+    {
+        "flight": "destination",
+        "country": "Quebec CityYQB",
+        "code": "YQB"
+    },
+    {
+        "flight": "destination",
+        "country": "Rouyn-NorandaYUY",
+        "code": "YUY"
+    },
+    {
+        "flight": "destination",
+        "country": "Saint-Augustin / PakuashipiYIF",
+        "code": "YIF"
+    },
+    {
+        "flight": "destination",
+        "country": "Sept-ÎlesYZV",
+        "code": "YZV"
+    },
+    {
+        "flight": "destination",
+        "country": "Tête-à-la-BaleineZTB",
+        "code": "ZTB"
+    },
+    {
+        "flight": "destination",
+        "country": "Val-d'OrYVO",
+        "code": "YVO"
+    },
+    {
+        "flight": "departure",
+        "country": "Baie-ComeauYBC",
+        "code": "YBC"
+    },
+    {
+        "flight": "departure",
+        "country": "Blanc-SablonYBX",
+        "code": "YBX"
+    },
+    {
+        "flight": "departure",
+        "country": "CheveryYHR",
+        "code": "YHR"
+    },
+    {
+        "flight": "departure",
+        "country": "Havre-Saint-PierreYGV",
+        "code": "YGV"
+    },
+    {
+        "flight": "departure",
+        "country": "La RomaineZGS",
+        "code": "ZGS"
+    },
+    {
+        "flight": "departure",
+        "country": "La TabatièreZLT",
+        "code": "ZLT"
+    },
+    {
+        "flight": "departure",
+        "country": "MontrealYUL",
+        "code": "YUL"
+    },
+    {
+        "flight": "departure",
+        "country": "NatashquanYNA",
+        "code": "YNA"
+    },
+    {
+        "flight": "departure",
+        "country": "Port-MenierYPN",
+        "code": "YPN"
+    },
+    {
+        "flight": "departure",
+        "country": "Quebec CityYQB",
+        "code": "YQB"
+    },
+    {
+        "flight": "departure",
+        "country": "Rouyn-NorandaYUY",
+        "code": "YUY"
+    },
+    {
+        "flight": "departure",
+        "country": "Saint-Augustin / PakuashipiYIF",
+        "code": "YIF"
+    },
+    {
+        "flight": "departure",
+        "country": "Sept-ÎlesYZV",
+        "code": "YZV"
+    },
+    {
+        "flight": "departure",
+        "country": "Tête-à-la-BaleineZTB",
+        "code": "ZTB"
+    },
+    {
+        "flight": "departure",
+        "country": "Val-d'OrYVO",
+        "code": "YVO"
+    }
+]

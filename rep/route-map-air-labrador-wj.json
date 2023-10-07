@@ -1,0 +1,212 @@
+[
+    {
+        "flight": "destination",
+        "country": "Buenos AiresAEP",
+        "code": "AEP"
+    },
+    {
+        "flight": "destination",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "destination",
+        "country": "Comodoro RivadaviaCRD",
+        "code": "CRD"
+    },
+    {
+        "flight": "destination",
+        "country": "CórdobaCOR",
+        "code": "COR"
+    },
+    {
+        "flight": "destination",
+        "country": "CorrientesCNQ",
+        "code": "CNQ"
+    },
+    {
+        "flight": "destination",
+        "country": "El CalafateFTE",
+        "code": "FTE"
+    },
+    {
+        "flight": "destination",
+        "country": "MendozaMDZ",
+        "code": "MDZ"
+    },
+    {
+        "flight": "destination",
+        "country": "NeuquénNQN",
+        "code": "NQN"
+    },
+    {
+        "flight": "destination",
+        "country": "PosadasPSS",
+        "code": "PSS"
+    },
+    {
+        "flight": "destination",
+        "country": "Puerto IguazúIGR",
+        "code": "IGR"
+    },
+    {
+        "flight": "destination",
+        "country": "SaltaSLA",
+        "code": "SLA"
+    },
+    {
+        "flight": "destination",
+        "country": "San Carlos de BarilocheBRC",
+        "code": "BRC"
+    },
+    {
+        "flight": "destination",
+        "country": "San Martín de los AndesCPC",
+        "code": "CPC"
+    },
+    {
+        "flight": "destination",
+        "country": "San Salvador de JujuyJUJ",
+        "code": "JUJ"
+    },
+    {
+        "flight": "destination",
+        "country": "TucumánTUC",
+        "code": "TUC"
+    },
+    {
+        "flight": "destination",
+        "country": "UshuaiaUSH",
+        "code": "USH"
+    },
+    {
+        "flight": "destination",
+        "country": "FlorianópolisFLN",
+        "code": "FLN"
+    },
+    {
+        "flight": "destination",
+        "country": "Rio de JaneiroGIG",
+        "code": "GIG"
+    },
+    {
+        "flight": "destination",
+        "country": "Santiago de ChileSCL",
+        "code": "SCL"
+    },
+    {
+        "flight": "destination",
+        "country": "AsunciónASU",
+        "code": "ASU"
+    },
+    {
+        "flight": "destination",
+        "country": "LimaLIM",
+        "code": "LIM"
+    },
+    {
+        "flight": "departure",
+        "country": "Buenos AiresAEP",
+        "code": "AEP"
+    },
+    {
+        "flight": "departure",
+        "country": "Buenos AiresEZE",
+        "code": "EZE"
+    },
+    {
+        "flight": "departure",
+        "country": "Comodoro RivadaviaCRD",
+        "code": "CRD"
+    },
+    {
+        "flight": "departure",
+        "country": "CórdobaCOR",
+        "code": "COR"
+    },
+    {
+        "flight": "departure",
+        "country": "CorrientesCNQ",
+        "code": "CNQ"
+    },
+    {
+        "flight": "departure",
+        "country": "El CalafateFTE",
+        "code": "FTE"
+    },
+    {
+        "flight": "departure",
+        "country": "MendozaMDZ",
+        "code": "MDZ"
+    },
+    {
+        "flight": "departure",
+        "country": "NeuquénNQN",
+        "code": "NQN"
+    },
+    {
+        "flight": "departure",
+        "country": "PosadasPSS",
+        "code": "PSS"
+    },
+    {
+        "flight": "departure",
+        "country": "Puerto IguazúIGR",
+        "code": "IGR"
+    },
+    {
+        "flight": "departure",
+        "country": "SaltaSLA",
+        "code": "SLA"
+    },
+    {
+        "flight": "departure",
+        "country": "San Carlos de BarilocheBRC",
+        "code": "BRC"
+    },
+    {
+        "flight": "departure",
+        "country": "San Martín de los AndesCPC",
+        "code": "CPC"
+    },
+    {
+        "flight": "departure",
+        "country": "San Salvador de JujuyJUJ",
+        "code": "JUJ"
+    },
+    {
+        "flight": "departure",
+        "country": "TucumánTUC",
+        "code": "TUC"
+    },
+    {
+        "flight": "departure",
+        "country": "UshuaiaUSH",
+        "code": "USH"
+    },
+    {
+        "flight": "departure",
+        "country": "FlorianópolisFLN",
+        "code": "FLN"
+    },
+    {
+        "flight": "departure",
+        "country": "Rio de JaneiroGIG",
+        "code": "GIG"
+    },
+    {
+        "flight": "departure",
+        "country": "Santiago de ChileSCL",
+        "code": "SCL"
+    },
+    {
+        "flight": "departure",
+        "country": "AsunciónASU",
+        "code": "ASU"
+    },
+    {
+        "flight": "departure",
+        "country": "LimaLIM",
+        "code": "LIM"
+    }
+]

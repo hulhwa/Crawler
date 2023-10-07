@@ -1,0 +1,492 @@
+[
+    {
+        "flight": "destination",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "destination",
+        "country": "Ambon, MalukuAMQ",
+        "code": "AMQ"
+    },
+    {
+        "flight": "destination",
+        "country": "BalikpapanBPN",
+        "code": "BPN"
+    },
+    {
+        "flight": "destination",
+        "country": "Banda AcehBTJ",
+        "code": "BTJ"
+    },
+    {
+        "flight": "destination",
+        "country": "BandungBDO",
+        "code": "BDO"
+    },
+    {
+        "flight": "destination",
+        "country": "BanjarmasinBDJ",
+        "code": "BDJ"
+    },
+    {
+        "flight": "destination",
+        "country": "BanyuwangiBWX",
+        "code": "BWX"
+    },
+    {
+        "flight": "destination",
+        "country": "BatamBTH",
+        "code": "BTH"
+    },
+    {
+        "flight": "destination",
+        "country": "BengkuluBKS",
+        "code": "BKS"
+    },
+    {
+        "flight": "destination",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "destination",
+        "country": "GunungsitoliGNS",
+        "code": "GNS"
+    },
+    {
+        "flight": "destination",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "destination",
+        "country": "JakartaHLP",
+        "code": "HLP"
+    },
+    {
+        "flight": "destination",
+        "country": "Jambi CityDJB",
+        "code": "DJB"
+    },
+    {
+        "flight": "destination",
+        "country": "JayapuraDJJ",
+        "code": "DJJ"
+    },
+    {
+        "flight": "destination",
+        "country": "KendariKDI",
+        "code": "KDI"
+    },
+    {
+        "flight": "destination",
+        "country": "KupangKOE",
+        "code": "KOE"
+    },
+    {
+        "flight": "destination",
+        "country": "Labuan BajoLBJ",
+        "code": "LBJ"
+    },
+    {
+        "flight": "destination",
+        "country": "MakassarUPG",
+        "code": "UPG"
+    },
+    {
+        "flight": "destination",
+        "country": "MalangMLG",
+        "code": "MLG"
+    },
+    {
+        "flight": "destination",
+        "country": "ManadoMDC",
+        "code": "MDC"
+    },
+    {
+        "flight": "destination",
+        "country": "MedanKNO",
+        "code": "KNO"
+    },
+    {
+        "flight": "destination",
+        "country": "PadangPDG",
+        "code": "PDG"
+    },
+    {
+        "flight": "destination",
+        "country": "PalangkarayaPKY",
+        "code": "PKY"
+    },
+    {
+        "flight": "destination",
+        "country": "PalembangPLM",
+        "code": "PLM"
+    },
+    {
+        "flight": "destination",
+        "country": "PaluPLW",
+        "code": "PLW"
+    },
+    {
+        "flight": "destination",
+        "country": "Pangkal PinangPGK",
+        "code": "PGK"
+    },
+    {
+        "flight": "destination",
+        "country": "PekanbaruPKU",
+        "code": "PKU"
+    },
+    {
+        "flight": "destination",
+        "country": "PontianakPNK",
+        "code": "PNK"
+    },
+    {
+        "flight": "destination",
+        "country": "Praya, LombokLOP",
+        "code": "LOP"
+    },
+    {
+        "flight": "destination",
+        "country": "SamarindaAAP",
+        "code": "AAP"
+    },
+    {
+        "flight": "destination",
+        "country": "SemarangSRG",
+        "code": "SRG"
+    },
+    {
+        "flight": "destination",
+        "country": "SibolgaFLZ",
+        "code": "FLZ"
+    },
+    {
+        "flight": "destination",
+        "country": "Siborong-BorongDTB",
+        "code": "DTB"
+    },
+    {
+        "flight": "destination",
+        "country": "SurabayaSUB",
+        "code": "SUB"
+    },
+    {
+        "flight": "destination",
+        "country": "Surakarta (Solo)SOC",
+        "code": "SOC"
+    },
+    {
+        "flight": "destination",
+        "country": "TambolakaTMC",
+        "code": "TMC"
+    },
+    {
+        "flight": "destination",
+        "country": "Tana TorajaTRT",
+        "code": "TRT"
+    },
+    {
+        "flight": "destination",
+        "country": "Tanjung PandanTJQ",
+        "code": "TJQ"
+    },
+    {
+        "flight": "destination",
+        "country": "Tanjung PinangTNJ",
+        "code": "TNJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Tanjung RedebBEJ",
+        "code": "BEJ"
+    },
+    {
+        "flight": "destination",
+        "country": "TarakanTRK",
+        "code": "TRK"
+    },
+    {
+        "flight": "destination",
+        "country": "YogyakartaJOG",
+        "code": "JOG"
+    },
+    {
+        "flight": "destination",
+        "country": "YogyakartaYIA",
+        "code": "YIA"
+    },
+    {
+        "flight": "destination",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "destination",
+        "country": "PenangPEN",
+        "code": "PEN"
+    },
+    {
+        "flight": "destination",
+        "country": "Port MoresbyPOM",
+        "code": "POM"
+    },
+    {
+        "flight": "destination",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "destination",
+        "country": "DiliDIL",
+        "code": "DIL"
+    },
+    {
+        "flight": "departure",
+        "country": "PerthPER",
+        "code": "PER"
+    },
+    {
+        "flight": "departure",
+        "country": "Ambon, MalukuAMQ",
+        "code": "AMQ"
+    },
+    {
+        "flight": "departure",
+        "country": "BalikpapanBPN",
+        "code": "BPN"
+    },
+    {
+        "flight": "departure",
+        "country": "Banda AcehBTJ",
+        "code": "BTJ"
+    },
+    {
+        "flight": "departure",
+        "country": "BandungBDO",
+        "code": "BDO"
+    },
+    {
+        "flight": "departure",
+        "country": "BanjarmasinBDJ",
+        "code": "BDJ"
+    },
+    {
+        "flight": "departure",
+        "country": "BanyuwangiBWX",
+        "code": "BWX"
+    },
+    {
+        "flight": "departure",
+        "country": "BatamBTH",
+        "code": "BTH"
+    },
+    {
+        "flight": "departure",
+        "country": "BengkuluBKS",
+        "code": "BKS"
+    },
+    {
+        "flight": "departure",
+        "country": "DenpasarDPS",
+        "code": "DPS"
+    },
+    {
+        "flight": "departure",
+        "country": "GunungsitoliGNS",
+        "code": "GNS"
+    },
+    {
+        "flight": "departure",
+        "country": "JakartaCGK",
+        "code": "CGK"
+    },
+    {
+        "flight": "departure",
+        "country": "JakartaHLP",
+        "code": "HLP"
+    },
+    {
+        "flight": "departure",
+        "country": "Jambi CityDJB",
+        "code": "DJB"
+    },
+    {
+        "flight": "departure",
+        "country": "JayapuraDJJ",
+        "code": "DJJ"
+    },
+    {
+        "flight": "departure",
+        "country": "KendariKDI",
+        "code": "KDI"
+    },
+    {
+        "flight": "departure",
+        "country": "KupangKOE",
+        "code": "KOE"
+    },
+    {
+        "flight": "departure",
+        "country": "Labuan BajoLBJ",
+        "code": "LBJ"
+    },
+    {
+        "flight": "departure",
+        "country": "MakassarUPG",
+        "code": "UPG"
+    },
+    {
+        "flight": "departure",
+        "country": "MalangMLG",
+        "code": "MLG"
+    },
+    {
+        "flight": "departure",
+        "country": "ManadoMDC",
+        "code": "MDC"
+    },
+    {
+        "flight": "departure",
+        "country": "MedanKNO",
+        "code": "KNO"
+    },
+    {
+        "flight": "departure",
+        "country": "PadangPDG",
+        "code": "PDG"
+    },
+    {
+        "flight": "departure",
+        "country": "PalangkarayaPKY",
+        "code": "PKY"
+    },
+    {
+        "flight": "departure",
+        "country": "PalembangPLM",
+        "code": "PLM"
+    },
+    {
+        "flight": "departure",
+        "country": "PaluPLW",
+        "code": "PLW"
+    },
+    {
+        "flight": "departure",
+        "country": "Pangkal PinangPGK",
+        "code": "PGK"
+    },
+    {
+        "flight": "departure",
+        "country": "PekanbaruPKU",
+        "code": "PKU"
+    },
+    {
+        "flight": "departure",
+        "country": "PontianakPNK",
+        "code": "PNK"
+    },
+    {
+        "flight": "departure",
+        "country": "Praya, LombokLOP",
+        "code": "LOP"
+    },
+    {
+        "flight": "departure",
+        "country": "SamarindaAAP",
+        "code": "AAP"
+    },
+    {
+        "flight": "departure",
+        "country": "SemarangSRG",
+        "code": "SRG"
+    },
+    {
+        "flight": "departure",
+        "country": "SibolgaFLZ",
+        "code": "FLZ"
+    },
+    {
+        "flight": "departure",
+        "country": "Siborong-BorongDTB",
+        "code": "DTB"
+    },
+    {
+        "flight": "departure",
+        "country": "SurabayaSUB",
+        "code": "SUB"
+    },
+    {
+        "flight": "departure",
+        "country": "Surakarta (Solo)SOC",
+        "code": "SOC"
+    },
+    {
+        "flight": "departure",
+        "country": "TambolakaTMC",
+        "code": "TMC"
+    },
+    {
+        "flight": "departure",
+        "country": "Tana TorajaTRT",
+        "code": "TRT"
+    },
+    {
+        "flight": "departure",
+        "country": "Tanjung PandanTJQ",
+        "code": "TJQ"
+    },
+    {
+        "flight": "departure",
+        "country": "Tanjung PinangTNJ",
+        "code": "TNJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Tanjung RedebBEJ",
+        "code": "BEJ"
+    },
+    {
+        "flight": "departure",
+        "country": "TarakanTRK",
+        "code": "TRK"
+    },
+    {
+        "flight": "departure",
+        "country": "YogyakartaJOG",
+        "code": "JOG"
+    },
+    {
+        "flight": "departure",
+        "country": "YogyakartaYIA",
+        "code": "YIA"
+    },
+    {
+        "flight": "departure",
+        "country": "Kuala LumpurKUL",
+        "code": "KUL"
+    },
+    {
+        "flight": "departure",
+        "country": "PenangPEN",
+        "code": "PEN"
+    },
+    {
+        "flight": "departure",
+        "country": "Port MoresbyPOM",
+        "code": "POM"
+    },
+    {
+        "flight": "departure",
+        "country": "SingaporeSIN",
+        "code": "SIN"
+    },
+    {
+        "flight": "departure",
+        "country": "DiliDIL",
+        "code": "DIL"
+    }
+]

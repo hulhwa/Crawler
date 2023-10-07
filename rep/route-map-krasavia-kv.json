@@ -1,0 +1,232 @@
+[
+    {
+        "flight": "destination",
+        "country": "UlaanbaatarUBN",
+        "code": "UBN"
+    },
+    {
+        "flight": "destination",
+        "country": "AbakanABA",
+        "code": "ABA"
+    },
+    {
+        "flight": "destination",
+        "country": "BarnaulBAX",
+        "code": "BAX"
+    },
+    {
+        "flight": "destination",
+        "country": "BorTGP",
+        "code": "TGP"
+    },
+    {
+        "flight": "destination",
+        "country": "DiksonDKS",
+        "code": "DKS"
+    },
+    {
+        "flight": "destination",
+        "country": "Gorno-AltayskRGK",
+        "code": "RGK"
+    },
+    {
+        "flight": "destination",
+        "country": "IgarkaIAA",
+        "code": "IAA"
+    },
+    {
+        "flight": "destination",
+        "country": "KemerovoKEJ",
+        "code": "KEJ"
+    },
+    {
+        "flight": "destination",
+        "country": "KhatangaHTG",
+        "code": "HTG"
+    },
+    {
+        "flight": "destination",
+        "country": "KrasnoyarskKJA",
+        "code": "KJA"
+    },
+    {
+        "flight": "destination",
+        "country": "KyzylKYZ",
+        "code": "KYZ"
+    },
+    {
+        "flight": "destination",
+        "country": "LenskULK",
+        "code": "ULK"
+    },
+    {
+        "flight": "destination",
+        "country": "NorilskNSK",
+        "code": "NSK"
+    },
+    {
+        "flight": "destination",
+        "country": "NovokuznetskNOZ",
+        "code": "NOZ"
+    },
+    {
+        "flight": "destination",
+        "country": "NovosibirskOVB",
+        "code": "OVB"
+    },
+    {
+        "flight": "destination",
+        "country": "OmskOMS",
+        "code": "OMS"
+    },
+    {
+        "flight": "destination",
+        "country": "StrezhevoySWT",
+        "code": "SWT"
+    },
+    {
+        "flight": "destination",
+        "country": "TalakanTLK",
+        "code": "TLK"
+    },
+    {
+        "flight": "destination",
+        "country": "TomskTOF",
+        "code": "TOF"
+    },
+    {
+        "flight": "destination",
+        "country": "TurukhanskTHX",
+        "code": "THX"
+    },
+    {
+        "flight": "destination",
+        "country": "UdachnyPYJ",
+        "code": "PYJ"
+    },
+    {
+        "flight": "destination",
+        "country": "Ulan-UdeUUD",
+        "code": "UUD"
+    },
+    {
+        "flight": "destination",
+        "country": "YakutskYKS",
+        "code": "YKS"
+    },
+    {
+        "flight": "departure",
+        "country": "UlaanbaatarUBN",
+        "code": "UBN"
+    },
+    {
+        "flight": "departure",
+        "country": "AbakanABA",
+        "code": "ABA"
+    },
+    {
+        "flight": "departure",
+        "country": "BarnaulBAX",
+        "code": "BAX"
+    },
+    {
+        "flight": "departure",
+        "country": "BorTGP",
+        "code": "TGP"
+    },
+    {
+        "flight": "departure",
+        "country": "DiksonDKS",
+        "code": "DKS"
+    },
+    {
+        "flight": "departure",
+        "country": "Gorno-AltayskRGK",
+        "code": "RGK"
+    },
+    {
+        "flight": "departure",
+        "country": "IgarkaIAA",
+        "code": "IAA"
+    },
+    {
+        "flight": "departure",
+        "country": "KemerovoKEJ",
+        "code": "KEJ"
+    },
+    {
+        "flight": "departure",
+        "country": "KhatangaHTG",
+        "code": "HTG"
+    },
+    {
+        "flight": "departure",
+        "country": "KrasnoyarskKJA",
+        "code": "KJA"
+    },
+    {
+        "flight": "departure",
+        "country": "KyzylKYZ",
+        "code": "KYZ"
+    },
+    {
+        "flight": "departure",
+        "country": "LenskULK",
+        "code": "ULK"
+    },
+    {
+        "flight": "departure",
+        "country": "NorilskNSK",
+        "code": "NSK"
+    },
+    {
+        "flight": "departure",
+        "country": "NovokuznetskNOZ",
+        "code": "NOZ"
+    },
+    {
+        "flight": "departure",
+        "country": "NovosibirskOVB",
+        "code": "OVB"
+    },
+    {
+        "flight": "departure",
+        "country": "OmskOMS",
+        "code": "OMS"
+    },
+    {
+        "flight": "departure",
+        "country": "StrezhevoySWT",
+        "code": "SWT"
+    },
+    {
+        "flight": "departure",
+        "country": "TalakanTLK",
+        "code": "TLK"
+    },
+    {
+        "flight": "departure",
+        "country": "TomskTOF",
+        "code": "TOF"
+    },
+    {
+        "flight": "departure",
+        "country": "TurukhanskTHX",
+        "code": "THX"
+    },
+    {
+        "flight": "departure",
+        "country": "UdachnyPYJ",
+        "code": "PYJ"
+    },
+    {
+        "flight": "departure",
+        "country": "Ulan-UdeUUD",
+        "code": "UUD"
+    },
+    {
+        "flight": "departure",
+        "country": "YakutskYKS",
+        "code": "YKS"
+    }
+]
